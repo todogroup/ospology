@@ -5,7 +5,7 @@ repository:
   name: ospology
 
   # A short description of the repository that will show up on GitHub
-  description: 📖 OSPOlogy: The Study of OSPOs
+  description: 📖 OSPOlogy - The Study of OSPOs
 
   # A URL with more information about the repository
   homepage: https://todogroup.org
@@ -21,3 +21,7 @@ collaborators:
 
   - username: anajsana
     permission: admin
+
+  - username: amye
+    permission: admin
+    
