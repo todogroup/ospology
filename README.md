@@ -8,9 +8,13 @@ Everyone is welcome to attend the monthly TODO Group OSPOlogy meeting: https://c
 
 ## Newsletter (monthly)
 
-The TODO Group puts together a monthly newsletter on OSPO news with community input:
+The TODO Group puts together a monthly newsletter on OSPO news, sign up here: https://www.getrevue.co/profile/osponews
 
-* OSPOLOGY-0001.md
+You can contribute to the newsletter via GitHub:
+
+https://github.com/todogroup/ospology/tree/main/newsletter
+
+The newsletter ships once a month on the last Tuesday of the month.
 
 ## OSPO Discussions
 
