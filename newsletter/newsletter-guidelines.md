@@ -47,4 +47,4 @@ OSPO-focused topics, including:
 
 ### Images & Videos
 
-Images shared will meet the requirements of “free for commercial use” and “no attribution required.
+Images shared will meet the requirements of open source content that is freely shareable.
