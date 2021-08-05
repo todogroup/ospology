@@ -5,7 +5,7 @@
 OSPOlogy are public monthly meetings of the TODO Group and wider OSPO community, everyone is welcome to attend:
 https://community.linuxfoundation.org/todo-group/
 
-* [August 4th 2021 - OSPOlogy: How to start an OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-how-to-start-an-ospo-program/)
+* [August 4th 2021 - OSPOlogy: How to start an OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-how-to-start-an-ospo-program/) - [Meeting Slides](https://docs.google.com/presentation/d/1avhKMhFi9PJS9ktGJ6HdF5SOk972KBZr51x30kVxzsc/edit?usp=sharing)
 
 ## Planning
 
