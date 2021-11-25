@@ -2,6 +2,8 @@
 
 The [TODO Group](https://todogroup.org) hosts a monthly meeting and newsletter to study and discuss the status of OSPOs.
 
+OSPOlogy is open to all, from folks just starting their OSPO journey to students to even seasoned OPSOers!
+
 ## Community Meeting (monthly)
 
 Everyone is welcome to attend the monthly TODO Group OSPOlogy meeting: https://community.linuxfoundation.org/todo-group/
