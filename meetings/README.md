@@ -20,6 +20,6 @@ The planning document for meetings is here: https://docs.google.com/document/d/1
 Scheduled topics can be found on the [Schedule sessions sheet](https://docs.google.com/spreadsheets/d/1Ke-GONN9IL8x1jww93HMXmDmC69JzlSGoUJIQdfrOgg/edit?usp=sharing)
 
 
-**Topic pool list (feel free to add your ideas)**
+**OSPOlogy CFP**
 
 If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose)
