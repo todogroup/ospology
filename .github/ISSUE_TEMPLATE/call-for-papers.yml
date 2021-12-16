@@ -10,7 +10,6 @@ body:
   - type: textarea
     id: session-title
     attributes:
-      label: 
       description: Please provide the desired title for your proposal
       value: "Please provide more details about your proposal"
     validations:
