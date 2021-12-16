@@ -1,0 +1,80 @@
+name: CFP
+description: Call for Papers Sumbission for OSPOlogy sessions
+title: "[CFP]: "
+labels: "CFP"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you have a story to share, please add your topic to the following form. Thanks for taking the time to fill out this CFP!        
+  - type: textarea
+    id: Session Title
+    attributes:
+      label: 
+      description: Please provide the desired title for your proposal
+      value: "Please provide more details about your proposal"
+    validations:
+      required: true
+  - type: textarea
+    id: Session Descripton
+    attributes:
+      label: 
+      description: Please provide a detailed description on what this session will cover, written in the third person. This is what will be used in the schedule, if accepted
+      value: "Please provide more details about your proposal"
+    validations:
+      required: true
+  - type: textarea
+    id: Benefits to the Ecosystem
+    attributes:
+      label: 
+      description: Tell us how the content of your presentation will help the OSPO ecosystem
+      value: "Please provide more details about your proposal"
+    validations:
+      required: true
+  - type: dropdown
+    id: Topic
+    attributes:
+      label: Help us narrow down the focus a bit more. Please choose the one OSPO related topic that best describes your proposal.
+      multiple: true
+      options:
+        - Adoption and Discovery
+        - Compliance, Legal Developer Education, and Inventory
+        - Evangelizing OSS Use and Ecosystem Participation
+        - Hosting OSS Projects and Growing Communities
+        - Becoming Strategic Decision-Making Partner
+     validations:
+      required: true
+  - type: dropdown
+    id: Level of Expertise
+    attributes:
+      label: What level of experience should the audience have to best understand your presentation?
+      multiple: false
+      options:
+        - OSPO 101 (Beginner)
+        - Advanced OSPO (Advanced)
+  - type: textarea
+    id: Speaker Name
+    attributes:
+      label: 
+      description: Speaker Name
+      value: "Please provide a Speaker Name"
+    validations:
+      required: true
+  - type: textarea
+    id: Speaker Bio
+    attributes:
+      label: 
+      description: Speaker Bio
+      value: "Please a Speaker Bio"
+    validations:
+      required: true
+  - type: dropdown
+    id: Pronouns
+    attributes:
+      label: Speaker preferred pronouns
+      multiple: true
+      options:
+        - They / Them
+        - She / Her
+        - He / Him
+        - None
