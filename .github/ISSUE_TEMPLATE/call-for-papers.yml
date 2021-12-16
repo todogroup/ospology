@@ -68,12 +68,9 @@ body:
       value: "Please a Speaker Bio"
     validations:
       required: true
-  - type: dropdown
+  - type: textarea
     id: pronouns
     attributes:
       label: Speaker preferred pronouns
-      multiple: true
-      options:
-        - They / Them
-        - She / Her
-        - He / Him
+      description: Speaker preferred pronouns
+      value: "Please add your preferred pronouns, if any (e.g She/ Her, They/ Them)"
