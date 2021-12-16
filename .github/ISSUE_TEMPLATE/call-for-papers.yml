@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you have a story to share to teh OSPO Community, please add your topic to the following form. Thanks for taking the time to fill out this CFP!        
+        If you have a story to share to the OSPO Community, please add your topic to the following form. Thanks for taking the time to fill out this CFP!        
   - type: textarea
     id: session-title
     attributes:
