@@ -22,4 +22,4 @@ Scheduled topics can be found on the [Schedule sessions sheet](https://docs.goog
 
 **Topic pool list (feel free to add your ideas)**
 
-If you have a story to share, please add your topic to the following [pool list](https://docs.google.com/spreadsheets/d/1Ke-GONN9IL8x1jww93HMXmDmC69JzlSGoUJIQdfrOgg/edit?usp=sharing)
+If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose)
