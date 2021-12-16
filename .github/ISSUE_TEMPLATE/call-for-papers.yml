@@ -42,7 +42,7 @@ body:
         - Evangelizing OSS Use and Ecosystem Participation
         - Hosting OSS Projects and Growing Communities
         - Becoming Strategic Decision-Making Partner
-     validations:
+    validations:
       required: true
   - type: dropdown
     id: Level of Expertise
