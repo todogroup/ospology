@@ -1,7 +1,7 @@
 # OSPOlogy Monthly Meetings
 
 1. [What are OSPOlogy Monthly Meetings?](#what-are-ospology-monthly-meetings)
-2. [Event Page and past meetings](#event-page-and-past-meetings)
+2. [Event Page and past sessions](#event-page-and-past-sessions)
 3. [OSPOlogy Planning](#ospology-planning)
 
 
