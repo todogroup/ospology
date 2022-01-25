@@ -18,3 +18,5 @@ Some examples of contributions to the newsletter are:
 * Add OSPO Discussions from the OSPO Forum at 🙋 OSPO Discussions
 
 After that, one of the ospology maintainers will review and merge the content.
+
+Learn more at [OSPO newsletter guidelines](https://github.com/todogroup/ospology/blob/main/newsletter/newsletter-guidelines.md)
