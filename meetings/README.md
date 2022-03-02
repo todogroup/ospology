@@ -48,8 +48,6 @@ https://community.linuxfoundation.org/todo-group/
 
 ## OSPOlogy Planning
 
-The planning document for meetings is here: https://docs.google.com/document/d/1_J2N2mi3vP1vdOtlvcBNEUh1M1Hawl8mu403HU3wEqQ/edit#heading=h.oqjgzg5a7to2
-
 **OSPOlogy CFP**
 
 If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose)
