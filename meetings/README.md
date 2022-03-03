@@ -36,12 +36,15 @@ To see existing proposals, take a look to ['ospology cfp' label](https://github.
 OSPOlogy meetings are published via LFQH Community Platform where everyone is welcome to attend:
 https://community.linuxfoundation.org/todo-group/
 
+**🌅 Season 1**
+
 * [August 4 2021 - OSPOlogy: How to start an OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-how-to-start-an-ospo-program/) - [Meeting Slides](https://docs.google.com/presentation/d/1avhKMhFi9PJS9ktGJ6HdF5SOk972KBZr51x30kVxzsc/edit?usp=sharing)
 * [September 1 2021 - OSPOlogy: Mentoring and Talent Management within OS Ecosystems](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-mentoring-talent-management-within-open-source-ecosystems/) - [Meeting Slides](https://docs.google.com/presentation/d/1l8_4bqvLKe8xEd8NxtXvtaca44dz2Uwg8pBcNdBvH-g/edit?usp=sharing)
 * [October 13 2021 - OSPOlogy: The State of OSPOs in 2021](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-the-state-of-ospos-2021/) - [Meeting Slides](https://docs.google.com/presentation/d/1AoP0WxyGdTQxvJ2bmlmqNV_yfs0mQ6rT90NbH7wYi9k/edit?usp=sharing)
 *  [November 17 2021 - OSPOlogy: Academic OSPOs](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-academic-ospos-fostering-open-source-culture-at-universities/) - [Meeting Slides](https://docs.google.com/presentation/d/1cf8ltMP8d6Ie6jZ0mz-rVw_lj1Ys3kZzS_L8U3iChG8/edit?usp=sharing)
 *  [December 1 2021 - OSPOlogy: Governance in the Context of Compliance and Security](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-ospology-governance-in-the-context-of-compliance-and-security/) - [Meeting Slides](https://docs.google.com/presentation/d/1oMumdl4yMSeZ2wkHU9-MQaf9jYV0dHeYhzilA5oPsmY/edit?usp=sharing)
 
+**🌌 Season 2**
 
 *  [February 2 2022 - OSPOlogy: Measuring the Business Impact of Open Source & OSPOs](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-measuring-the-business-impact-of-open-source-ospos/) - [Meeting Slides](https://docs.google.com/presentation/d/1KVC1zsRZWkDaNjIM_5Gp4FAp4CRXReflWYquVif2D_8/edit?usp=sharing) - [Discussion](https://github.com/todogroup/ospology/discussions/50)
 * [March 2 2022 - OSPOlogy: Building an OSPO in the Energy Sector](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-building-an-ospo-in-the-energy-sector-the-alliander-experiences/) - [Meeting Slides](https://docs.google.com/presentation/d/14r1E2y8MUeVXnWBAQZKlrp5CeAK9e7OpjBn-wOYadGI/edit?usp=sharing) - [Discussion & Alliander presentation](https://github.com/todogroup/ospology/discussions/63)
