@@ -44,6 +44,7 @@ https://community.linuxfoundation.org/todo-group/
 
 
 *  [February 2 2022 - OSPOlogy: Measuring the Business Impact of Open Source & OSPOs](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-measuring-the-business-impact-of-open-source-ospos/) - [Meeting Slides](https://docs.google.com/presentation/d/1KVC1zsRZWkDaNjIM_5Gp4FAp4CRXReflWYquVif2D_8/edit?usp=sharing) - [Discussion](https://github.com/todogroup/ospology/discussions/50)
+* [March 2 2022 - OSPOlogy: Building an OSPO in the Energy Sector](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-building-an-ospo-in-the-energy-sector-the-alliander-experiences/) - [Meeting Slides](https://docs.google.com/presentation/d/14r1E2y8MUeVXnWBAQZKlrp5CeAK9e7OpjBn-wOYadGI/edit?usp=sharing) - [Discussion & Alliander presentation](https://github.com/todogroup/ospology/discussions/63)
 
 
 ## OSPOlogy Planning
