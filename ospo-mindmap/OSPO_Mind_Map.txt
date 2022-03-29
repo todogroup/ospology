@@ -1,0 +1,124 @@
+SIZE
+	FTE large team
+
+	FTE small team
+
+	Virtual team (not FTE)
+
+	Single FTE Managing multiple teams
+
+
+BEHAVIOR
+	Industry Collaborative
+	===
+	OS as a way for a specific industry to become more efficient through sharing costs and innovation for industry-specific needs 
+
+	- **EXAMPLE: EU Automotive companies**
+	===
+	Cross-Industry Collaborative
+	===
+	Work on foundational technology problems that cross industries 
+
+	- **EXAMPLE: Bloomberg
+worked with Microsoft to make contributions to TypeScript**
+	===
+	Big Project Facilitators
+	===
+	Form or facilitate the formation of large, complex open source projects inside an organization and launch OS as publicly available projects
+
+	**EXAMPLE: Comcast incubated the Apache Traffic Control Project**
+	===
+	Open Source First
+	===
+	Help the org to prioritize OSS consumption and make OS the first choice
+
+	- **EXAMPLE: OSPOs that work closely with CTOs and company strategists to map open source projects and capabilities**
+	===
+
+	Technology Strategy Experts
+	===
+	Evaluate viable open source technologies and help senior IT managers to lay out a technology roadmap
+
+	-**EXAMPLE: OSPOs that act as internal OS consultants to help developers and teams**
+	===
+
+	Software Company
+	===
+	More likely to incubate or participate in big projects and more likely to have dedicated developers working exclusively on OS
+
+	-**EXAMPLE: The software companies that dominate the core development team of the Linux Project**
+	===
+
+RESPONSIBILITIES
+	OS Legal Education
+		Manage Legal Risks and Licenses
+			Security Standards
+			License Compliance Policies
+			Tooling
+			===
+			- Built in-house
+			- Adopt Existing Tools
+			===
+			Design OSS infrastructure
+		Educate Developers
+			Create education programs
+			===
+			- Use of CLAs
+			- Risks of noncompliant OSS consumption
+			- Approval processes for introducing OSS projects
+			- Nuances of different license types
+			- Guidance on how to judge OSS Health
+			===
+			Build CLA Policies and documentation
+		Taking Software Inventory
+			Set up software inventory processes
+			===
+			Build software bill of materials (SBOM)
+			===
+	OS Community Education
+		Create Internal OS Ambassadors
+		===
+		### 1) Drive event sponsorships
+		### 2) Train speakers for coding forums
+		===
+		Create educational programs
+		===
+		### 1) Good OSS hygiene
+
+		### 2) Technical programs
+			
+			- Basics in OS tech stack
+			- How to request features
+			- How to file bug reports
+			- How to contribute basic code
+		===
+		Optimize outbound OS contributions
+
+	OS Community Engagement
+		Incubate and launch OS projects into the public sphere 
+		===
+		### 1) Develop internal resources for project incubation and post-launch
+		### 2) Develop processes for project incubation and post launch
+		### 3) Develop playbooks, checklists and tooling
+		- Vet, organize and operate OS projects
+		- Train and coach OS Leaders
+		===
+	OS Leadership
+		Provide open source consultancy and become a strategic partner
+		===
+		### 1) Evaluate the behavior and performance of the project
+		### 2) Advise on which open source technologies to adopt or remove
+		### 3) Provide insights into OSS trends
+		### 4) Help to understand and navigate project politics
+		- Help maintain a neutral posture on techno-nationalism
+		- Cultivate personal and working relationships
+		===
+
+
+ROLES
+	Governance
+	Project Management
+	Licensing
+	Security
+	Community engagement
+	Developer Education
