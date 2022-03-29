@@ -26,7 +26,7 @@ This folder contains four main resources:
 * Raster image: includesthe mind map as a `png`file
 * Additional info: includes initial discussion of this mind map creation as well as a link where the initial Mind Map was shared.
 
-## 🙋 Contirbuting to the project
+## 🙋 Contributing to the project
 
 ### Content
 
