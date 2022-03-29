@@ -2,11 +2,11 @@
 
 The OSPO Mind Map schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.
 
-This folder has been created to make this mind map open and available for everyone that would like to provide feedback and help to improve its content.
+This folder contains the resulting mind map, and is open and available to everyone that would like to provide feedback and help to improve its content.
 
 ## 📚 About OSPO Mind Map Project
 
-The Mind map is sctructured into four main areas:
+The Mind map is structured into four main areas:
 
 * Responsibilities
 * Roles
@@ -14,8 +14,7 @@ The Mind map is sctructured into four main areas:
 * Team Size
 
 The initial [mind map](https://github.com/todogroup/ospology/discussions/75#discussion-3962305) was created using MindMup2. 
-However, in order to ease community contirbutions and be managed as txt and exported to svg, a second version of this mind 
-map has beend created using [Text 2 Mind map](https://text2mm.com).
+However, in order to ease community contributions and be managed as text and exported to SVG, a second version of this mind map was created using [Text 2 Mind map](https://text2mm.com). See Mind Map Syntax below for notes on how to use it.
 
 ## 🧩 Project Structure
 
@@ -35,12 +34,11 @@ This folder contains four main resources:
 
 ### Content
 
-Please [open a PR](https://github.com/todogroup/ospology/pulls) making your changes and suggestions to the `txt` file
+Please [open a PR](https://github.com/todogroup/ospology/pulls) making your changes and suggestions to the `txt` file.
 
 **Mind Map Syntax**
 
 The `text2mm.com` is a Mind Map creation from tab indented text application.
-
 
 * You can edit text on left side.
 
@@ -51,11 +49,11 @@ Notes
 
 * You can add a note for each branch.
 
-* Place your note after branch, between two ===. The first === starts note, second ends note.
+* Place your note after the branch, between two `===`. The first `===` starts the note, second one ends the note.
 
-* The content between === can be Markdown formatted text.
+* The content between `===` can be Markdown formatted text.
 
-* Notes are visible when mouse over the corresponding branch.
+* Notes are visible on mouse over of the corresponding branch.
 
 ### Visualization and gaphic view generation
 
@@ -66,7 +64,8 @@ Notes
 * You will see saved text next time you visit text2mm.com.
 
 * Text is saved only in this particular browser and will be available until text2mm.com localstorage is cleared.
-Configuration
+
+### Configuration
 
 * Mind Map appearance can be adjusted using sliders in the configuration section.
 
