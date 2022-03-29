@@ -28,6 +28,10 @@ The newsletter ships once a month on the last Tuesday of the month.
 
 If you're interested in OSPO related discussions, you can post questions on the TODO Group Slack and also https://github.com/todogroup/ospology/discussions
 
+## OSPO Mind Map
+
+The [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.
+
 ## License
 
 All documentation will be contributed to and made available to TODO under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/)
