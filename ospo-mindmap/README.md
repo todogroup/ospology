@@ -21,10 +21,15 @@ map has beend created using [Text 2 Mind map](https://text2mm.com).
 
 This folder contains four main resources:
 
-* Content: includes the mind map as a `txt`file
-* Vector image: includes the mind map as a `svg`file
-* Raster image: includesthe mind map as a `png`file
-* Additional info: includes initial discussion of this mind map creation as well as a link where the initial Mind Map was shared.
+**Content** folder
+* Includes the mind map as a `txt` file
+
+**Img** folder
+* Vector image: includes the mind map as a `svg` file
+* Raster image: includes the mind map as a `png `file
+
+**Additional info** folder
+* Includes initial discussion of this mind map creation as well as a link where the initial Mind Map was shared.
 
 ## 🙋 Contributing to the project
 
