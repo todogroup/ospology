@@ -1,4 +1,4 @@
-# ✨ OSPOlogy hosts the study and open community communication of industry open source program offices.
+# ✨ OSPOlogy is the study of OSPO
 
 ## 🚀 Our Mission
 
@@ -18,7 +18,7 @@ We created this chapter to improve OSPO adoption and education within Europe and
 
 ## 🕵️ Artifacts
 
-###📭 Newsletters
+### 📭 Newsletters
 
 The OSPO newsletter ships once a month on the final Tuesday of the month. Consider subscribing to the newsletter.
 Contribute to the monthly newsletter by reviewing the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews/) and submitting a [pull request](https://github.com/todogroup/ospology/compare/).
