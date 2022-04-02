@@ -1,6 +1,6 @@
 # 📖 OSPOlogy: The Study of OSPOs
 
-✨ **`OSPOlogy` hosts the study and open community communication of industry open source program offices.
+✨ **`OSPOlogy` hosts the study and open community communication of industry open source program offices.**
 
 ## 🚀 Our Mission
 
