@@ -1,37 +1,44 @@
 # 📖 OSPOlogy: The Study of OSPOs
 
-The [TODO Group](https://todogroup.org) hosts a monthly meeting and newsletter to study and discuss the status of OSPOs.
+✨ **`OSPOlogy` hosts the study and open community communication of industry open source program offices.
 
-OSPOlogy is open to all, from folks just starting their OSPO journey to students to even seasoned OPSOers!
+## 🚀 Our Mission
 
-## Community Meeting (monthly)
+The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community) and [General Members](https://todogroup.org/members).
 
-Everyone is welcome to attend the monthly TODO Group OSPOlogy meeting: https://community.linuxfoundation.org/todo-group/
+## 🦺 Community
 
-## TODO EU Chapter Sync Meetings (monthly)
+To paritipate in OSPO related discussions please [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://slack.todogroup.org).
 
-The TODO EU chapter was formed by TODO Members based in Europe. This chapter was created with the aim of working together to improve OSPO adoption and education within Europe and discuss with the broader community the challenges European organizations face when implementing an open source program.
+### 🌎 North America Community Meeting
 
-EMEA-friendly time meetings are scheduled every last Thursday of the month at 3PM (CET): https://community.linuxfoundation.org/todo-group-europe/
+Everyone is welcome to attend the monthly TODO Group [OSPOlogy community meeting](https://community.linuxfoundation.org/todo-group/) hosted by the [Linux Foundation](https://linuxfoundation.org).
 
-## Newsletter (monthly)
+### 🌍 TODO Europe Community Meeting
 
-The TODO Group puts together a monthly newsletter on OSPO news, sign up here: https://www.getrevue.co/profile/osponews
+The TODO Europe chapter was formed by TODO Members based in Europe. This chapter was created with the aim of working together to improve OSPO adoption and education within Europe and discuss with the broader community the challenges European organizations face when implementing an open source program.
 
-You can contribute to the newsletter via GitHub:
+EMEA-friendly time meetings are [scheduled](https://community.linuxfoundation.org/todo-group-europe/) every last Thursday of the month at 3PM (CET).
 
-https://github.com/todogroup/ospology/tree/main/newsletter
+## 🕵️ Artifacts
 
-The newsletter ships once a month on the last Tuesday of the month.
+### 📭 Newsletters
 
-## OSPO Discussions
+The OSPO newsletter ships once a month on the last Tuesday of the month. Please consider [subscribing to the newsletter](https://www.getrevue.co/profile/osponews).
 
-If you're interested in OSPO related discussions, you can post questions on the TODO Group Slack and also https://github.com/todogroup/ospology/discussions
+Contribute to the monthly newsletter by submitting a (pull request)[https://github.com/todogroup/ospology/compare]. Please review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).
 
-## OSPO Mind Map
+### 🗺 OSPO Mind Map
 
-The [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.
+The [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) provides a schema that represents
+a general perspective of open source program office's responsibilites, roles, behavior, and team size with the ecosystem.
 
-## License
+## 💫 Show your support
 
-All documentation will be contributed to and made available to TODO under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/)
+We don't accept donations. Please give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright [TODO Group](https://todogroup.org).
+
+This [repository](https://github.com/todogroup/ospology) is licensed and made available by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
