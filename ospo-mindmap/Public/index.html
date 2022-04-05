@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.2.0/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.7"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.2.0/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, data) => {
+        const {
+          Markmap
+        } = getMarkmap();
+        window.mm = Markmap.create('svg#mindmap', getOptions == null ? void 0 : getOptions(), data);
+      })(() => window.markmap,null,{"t":"heading","d":1,"p":{"lines":[0,1]},"v":"🧭 OSPO Mindmap","c":[{"t":"heading","d":2,"p":{"lines":[2,3]},"v":"🙋 Roles","c":[{"t":"list_item","d":4,"p":{"lines":[3,4]},"v":"Governance"},{"t":"list_item","d":4,"p":{"lines":[4,5]},"v":"Project Management"},{"t":"list_item","d":4,"p":{"lines":[5,6]},"v":"Licensing"},{"t":"list_item","d":4,"p":{"lines":[6,7]},"v":"Security"},{"t":"list_item","d":4,"p":{"lines":[7,8]},"v":"Community Engagement"},{"t":"list_item","d":4,"p":{"lines":[8,9]},"v":"Developer Education"}]},{"t":"heading","d":2,"p":{"lines":[11,12]},"v":"🚀 Behavior","c":[{"t":"heading","d":3,"p":{"lines":[13,14]},"v":"Industry Collaborative","c":[{"t":"list_item","d":5,"p":{"lines":[14,16]},"v":"<code>Definition</code> OS as a way for a specific industry to become more<br>\nefficient through sharing costs and innovation for industry-specific needs"},{"t":"list_item","d":5,"p":{"lines":[16,17]},"v":"<code>Example</code> EU Automotive companies"}]},{"t":"heading","d":3,"p":{"lines":[18,19]},"v":"Cross-Industry Collaborative","c":[{"t":"list_item","d":5,"p":{"lines":[19,20]},"v":"<code>Definition</code> Work on foundational technology problems that cross industries"},{"t":"list_item","d":5,"p":{"lines":[21,22]},"v":"<code>Example:</code> Bloomberg worked with Microsoft to make contributions to TypeScript"}]},{"t":"heading","d":3,"p":{"lines":[23,24]},"v":"Big Project Facilitators","c":[{"t":"list_item","d":5,"p":{"lines":[25,28]},"v":"<code>Definition</code> Form or facilitate the formation of large, complex<br>\nopen source projects inside an organization and/or Launch OS<br>\nas publicly available projects"},{"t":"list_item","d":5,"p":{"lines":[29,30]},"v":"<code>Example</code> Comcast incubated the Apache Traffic Control Project"}]},{"t":"heading","d":3,"p":{"lines":[31,32]},"v":"Open Source First","c":[{"t":"list_item","d":5,"p":{"lines":[33,34]},"v":"<code>Definition</code> Help the org to prioritize OSS consumption and make OS the first choice"},{"t":"list_item","d":5,"p":{"lines":[34,36]},"v":"<code>Example</code> OSPOs that work closely with CTOs and company strategists to map open<br>\nsource projects and capabilities"}]},{"t":"heading","d":3,"p":{"lines":[37,38]},"v":"Technology Strategy Experts","c":[{"t":"list_item","d":5,"p":{"lines":[39,41]},"v":"<code>Definition</code> Evaluate viable open source technologies and help senior IT managers<br>\nto lay out a technology roadmap"},{"t":"list_item","d":5,"p":{"lines":[42,43]},"v":"<code>Example</code> OSPOs that act as internal OS consultants to help developers and team"}]},{"t":"heading","d":3,"p":{"lines":[44,45]},"v":"Software Company","c":[{"t":"list_item","d":5,"p":{"lines":[46,48]},"v":"<code>Definition</code> More likely to incubate or participate in big projects and more likely<br>\nto have dedicated developers working exclusively on OS"},{"t":"list_item","d":5,"p":{"lines":[49,51]},"v":"<code>Example</code> The software companies that dominate the core<br>\ndevelopment team of the Linux Projec"}]}]},{"t":"heading","d":2,"p":{"lines":[52,53]},"v":"🌱  Size","c":[{"t":"list_item","d":4,"p":{"lines":[53,54]},"v":"FTE Large Team"},{"t":"list_item","d":4,"p":{"lines":[54,55]},"v":"FTE Small Team"},{"t":"list_item","d":4,"p":{"lines":[55,56]},"v":"Virtual team (not FTE)"},{"t":"list_item","d":4,"p":{"lines":[56,57]},"v":"Single FTE Managing multiple teams"}]},{"t":"heading","d":2,"p":{"lines":[58,59]},"v":"🧩 Responsibilities","c":[{"t":"heading","d":3,"p":{"lines":[60,61]},"v":"OS Legal Education","c":[{"t":"heading","d":4,"p":{"lines":[61,62]},"v":"Manage Legal Risks and Licenses"},{"t":"heading","d":4,"p":{"lines":[63,64]},"v":"Educate Developers"},{"t":"heading","d":4,"p":{"lines":[64,65]},"v":"Taking Software Inventory","c":[{"t":"list_item","d":6,"p":{"lines":[65,66]},"v":"Security Standards"},{"t":"list_item","d":6,"p":{"lines":[66,67]},"v":"License Compliance Policies"},{"t":"list_item","d":6,"p":{"lines":[67,68]},"v":"Tooling","c":[{"t":"list_item","d":8,"p":{"lines":[68,69]},"v":"Build in-house"},{"t":"list_item","d":8,"p":{"lines":[69,70]},"v":"Adopt existing tools"}]},{"t":"list_item","d":6,"p":{"lines":[70,71]},"v":"Design OSS infrastructure"}]}]},{"t":"heading","d":3,"p":{"lines":[71,72]},"v":"OS Community Education","c":[{"t":"heading","d":4,"p":{"lines":[72,73]},"v":"Create Internal OS Ambassadors","c":[{"t":"list_item","d":6,"p":{"lines":[73,74]},"v":"Drive event sponsorship"},{"t":"list_item","d":6,"p":{"lines":[74,75]},"v":"Train speakers for coding forums"}]},{"t":"heading","d":4,"p":{"lines":[75,76]},"v":"Create educational programs","c":[{"t":"list_item","d":6,"p":{"lines":[76,77]},"v":"Good OSS hygiene"},{"t":"list_item","d":6,"p":{"lines":[77,78]},"v":"Technical programs","c":[{"t":"list_item","d":8,"p":{"lines":[78,79]},"v":"Basics in OS tech stack"},{"t":"list_item","d":8,"p":{"lines":[79,80]},"v":"How to request features"},{"t":"list_item","d":8,"p":{"lines":[80,81]},"v":"How to file bug reports"},{"t":"list_item","d":8,"p":{"lines":[81,82]},"v":"How to contribute basic code"}]}]},{"t":"heading","d":4,"p":{"lines":[82,83]},"v":"Optimize open outbound source contributions"}]},{"t":"heading","d":3,"p":{"lines":[84,85]},"v":"OS Community Engagement","c":[{"t":"heading","d":4,"p":{"lines":[85,86]},"v":"Incubate and launch OS projects into the public sphere","c":[{"t":"list_item","d":6,"p":{"lines":[86,88]},"v":"Develop internal resources for<br>\nproject incubation and post launch"},{"t":"list_item","d":6,"p":{"lines":[89,91]},"v":"Develop processes for project<br>\nincubation and post launch"},{"t":"list_item","d":6,"p":{"lines":[92,93]},"v":"Develop playbooks, checklists and tooling","c":[{"t":"list_item","d":8,"p":{"lines":[93,94]},"v":"Vet, organize and operate OS projects"},{"t":"list_item","d":8,"p":{"lines":[94,95]},"v":"Train and coach OS Leaders"}]}]}]},{"t":"heading","d":3,"p":{"lines":[96,97]},"v":"OS Leadership","c":[{"t":"heading","d":4,"p":{"lines":[97,98]},"v":"Provides open source consultancy and become a strategic partner","c":[{"t":"list_item","d":6,"p":{"lines":[99,101]},"v":"Evaluate the behavior<br>\nand performance of the project"},{"t":"list_item","d":6,"p":{"lines":[102,104]},"v":"Advise on which open source technologies<br>\nto adopt or remove"},{"t":"list_item","d":6,"p":{"lines":[105,106]},"v":"Provide insights into OSS trends"},{"t":"list_item","d":6,"p":{"lines":[107,108]},"v":"Help to understand and navigate project politics","c":[{"t":"list_item","d":8,"p":{"lines":[109,111]},"v":"Help maintain a neutral posture on<br>\ntechnonationalism"},{"t":"list_item","d":8,"p":{"lines":[111,112]},"v":"Cultivate personal and working relationship"}]}]}]}]}]})</script>
+</body>
+</html>
