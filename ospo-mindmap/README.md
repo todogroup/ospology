@@ -1,6 +1,6 @@
 # Welcome to the OSPO Mind Map 🧭
 
-The OSPO Mind Map schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.
+The OSPO Mind Map schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem. An interactive OSPO Mind Map version can be found at: https://ospomindmap.todogroup.org/
 
 This folder contains the resulting mind map, and is open and available to everyone that would like to provide feedback and help to improve its content.
 
@@ -14,18 +14,18 @@ The Mind map is structured into four main areas:
 * Team Size
 
 The initial [mind map](https://github.com/todogroup/ospology/discussions/75#discussion-3962305) was created using MindMup2. 
-However, in order to ease community contributions and be managed as text and exported to SVG, a second version of this mind map was created using [Text 2 Mind map](https://text2mm.com). See Mind Map Syntax below for notes on how to use it.
+However, in order to ease community contributions, a second version of this mind map was created using [Markmap](https://markmap.js.org/) that is managed as markdown that renders an interactive mind map. See Mind Map Syntax below for notes on how to use it.
 
 ## 🧩 Project Structure
 
 This folder contains four main resources:
 
 **Content** folder
-* Includes the mind map as a `txt` file
+* Includes the mind map as a `md` file
 
 **Img** folder
 * Vector image: includes the mind map as a `svg` file
-* Raster image: includes the mind map as a `png `file
+* Interactive mindmap: includes the mind map as a `html` file
 
 **Additional info** folder
 * Includes initial discussion of this mind map creation as well as a link where the initial Mind Map was shared.
@@ -34,45 +34,36 @@ This folder contains four main resources:
 
 ### Content
 
-Please [open a PR](https://github.com/todogroup/ospology/pulls) making your changes and suggestions to the `txt` file.
+Please [open a PR](https://github.com/todogroup/ospology/pulls) making your changes and suggestions to the `md` file.
 
-**Mind Map Syntax**
+**Markmap Syntax**
 
-The `text2mm.com` is a Mind Map creation from tab indented text application.
+Markmap is a tool (under [MIT licence](https://github.com/gera2ld/markmap/blob/master/LICENSE)) designed by @gera2ld that parses markdown content and extract its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap. Please see [markmap documentation](https://markmap.js.org/docs/) for further details.
 
-* You can edit text on left side.
+### Visualization and html generation
 
-* The first line is the name of the Mind Map root element.
 
-* Following lines represents branches. You can change branch level by indenting lines using tabs.
-Notes
+to visualize your mindmap localy you can use:
 
-* You can add a note for each branch.
+**VSCode integration**
+[Download](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)
 
-* Place your note after the branch, between two `===`. The first `===` starts the note, second one ends the note.
+**Markmap-cli**
 
-* The content between `===` can be Markdown formatted text.
+Use markmap command-line in a local terminal.
 
-* Notes are visible on mouse over of the corresponding branch.
-
-### Visualization and gaphic view generation
-
-@anajsana will review the `txt`file on a monthly basis to update both, the vector and raster image from this project via `text2mm.com`
-
-* You can save Mind Map text in the browser's memory, by pressing Ctrl+s while editing Mind Map name or branches.
-
-* You will see saved text next time you visit text2mm.com.
-
-* Text is saved only in this particular browser and will be available until text2mm.com localstorage is cleared.
-
-### Configuration
-
-* Mind Map appearance can be adjusted using sliders in the configuration section.
-
-* You can change Mind Map size, text size, margin size and color scheme.
-Download
-
-* Mindmap text and Mind Map image in SVG format available for download. The SVG is without notes.
+```
+$ npx markmap-cli markmap.md
+```
+You can also install it globally:
+```
+$ yarn global add markmap-cli
+$ markmap markmap.md
+```
+There is a watch mode so that you could edit the Markdown file and get updates on the fly:
+```
+$ markmap -w markmap.md
+```
 
 ### Feedback and Suggestions
 
