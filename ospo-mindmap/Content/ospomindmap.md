@@ -71,6 +71,8 @@ development team of the Linux Project
 - Tooling
   - Build in-house
   - Adopt existing tools
+    - Commercial tools
+    - Open Source tools
 - Design OSS infrastructure
 
 ### OS Community Education
