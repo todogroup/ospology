@@ -1,5 +1,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-![markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
+[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
+[![ospology](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA)
 
 # 📖 OSPOlogy: The Study of OSPOs
 
