@@ -1,3 +1,6 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
 # 📖 OSPOlogy: The Study of OSPOs
 
 The [TODO Group](https://todogroup.org) hosts a monthly meeting and newsletter to study and discuss the status of OSPOs.
