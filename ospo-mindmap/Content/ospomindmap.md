@@ -72,6 +72,8 @@ development team of the Linux Project
 - Tooling
   - Build in-house
   - Adopt existing tools
+      - Commercial tools
+      - [Open Source tools](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/)
 - Design OSS infrastructure
 
 ### OS Community Education
