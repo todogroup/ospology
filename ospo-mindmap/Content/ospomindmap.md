@@ -59,6 +59,7 @@ development team of the Linux Project
 ## 🧩 Responsibilities
 
 ### OS Legal Education
+- [Introduction to Open Source License Compliance Management (LFC193)](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/)
 
 #### Manage Legal Risks and Licenses
 
