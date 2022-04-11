@@ -71,31 +71,8 @@ development team of the Linux Project
 - Tooling
   - Build in-house
   - Adopt existing tools
-    - Code Reviews
-           - Commercial tools
-           - Open Source tools
-    - Continuous Integration / Continuous Delivery
-           - Commercial tools
-           - Open Source tools
-    - Contributor License Agreements / Developer Certificate of Origins
-           - Commercial tools
-           - Open Source tools
-    - Project Quality
-           - Commercial tools
-           - Open Source tools
-    - Supply Chain Trust
-           - Commercial tools
-           - Open Source tools
-    - Licensing
-           - Commercial tools
-           - Open Source tools 
-    - Security
-           - Commercial tools
-           - Open Source tools 
-    - Content License 
-           - Commercial tools
-           - Open Source tools
-
+      - Commercial tools
+      - [Open Source tools](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/)
 - Design OSS infrastructure
 
 ### OS Community Education
