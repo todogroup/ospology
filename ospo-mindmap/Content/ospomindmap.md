@@ -59,11 +59,12 @@ development team of the Linux Project
 ## 🧩 Responsibilities
 
 ### OS Legal Education
-- [Introduction to Open Source License Compliance Management (LFC193)](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/)
 
 #### Manage Legal Risks and Licenses
 
 #### Educate Developers
+- Training & Certification
+  - [Introduction to Open Source License Compliance Management (LFC193)](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/)
 
 #### Taking Software Inventory
 
@@ -118,8 +119,8 @@ and performance of the project
 to adopt or remove
 - Provide insights into OSS trends
 - Help to understand and navigate project politics
-  - Help maintain a neutral posture on
-  technonationalism
+  - Help maintain a neutral posture on the
+  open source technology ecosystem
   - Cultivate personal and working relationship
 
 ### Upstream OS Contribution
