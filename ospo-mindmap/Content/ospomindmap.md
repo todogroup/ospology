@@ -75,6 +75,7 @@ development team of the Linux Project
   - Adopt existing tools
       - Commercial tools
       - [Open Source tools](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/)
+      - [Linux Foundation's Automate Compliance Tooling](https://automatecompliance.org/)
 - Design OSS infrastructure
 
 ### OS Community Education
