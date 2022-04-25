@@ -8,7 +8,7 @@ APAC-friendly time meetings are scheduled every last Monday of the month: https:
 
 ## 📝 Meeting notes
 
-- TBD: Mon, April 25
+- [TBD: Mon, April 25](https://docs.google.com/document/d/1vj4lWrmUw3thW0NdfvaUwYwkvtGQnCO2NTmEkELSQfs/edit?usp=sharing)
 
 ## 🧩 TODO APAC Sync Structure
 
