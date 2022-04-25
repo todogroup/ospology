@@ -10,15 +10,21 @@ The [TODO Group](https://todogroup.org) hosts a monthly meeting and newsletter t
 
 OSPOlogy is open to all, from folks just starting their OSPO journey to students to even seasoned OPSOers!
 
-## Community Meeting (monthly)
+## Global Community Meeting (monthly)
 
 Everyone is welcome to attend the monthly TODO Group OSPOlogy meeting: https://community.linuxfoundation.org/todo-group/
 
-## TODO EU Chapter Sync Meetings (monthly)
+## TODO EU Chapter Sync Meetings (Monthly)
 
 The TODO EU chapter was formed by TODO Members based in Europe. This chapter was created with the aim of working together to improve OSPO adoption and education within Europe and discuss with the broader community the challenges European organizations face when implementing an open source program.
 
 EMEA-friendly time meetings are scheduled every last Thursday of the month at 3PM (CET): https://community.linuxfoundation.org/todo-group-europe/
+
+## TODO APAC Chapter Sync Meetings (Monthly)
+
+TODO APAC Sync meetings were created with the aim of working together to improve OSPO adoption and education within the different APAC regions and discuss with the broader community the challenges these organizations face when implementing an open source program or a similar initiative, following the Chatham House Rules
+
+APAC-friendly time meetings are scheduled every last Monday of the month: https://todogroup.org/community/ & APAC meeting notes can be found at: https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chapters
 
 ## Newsletter (monthly)
 
