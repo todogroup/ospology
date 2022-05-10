@@ -89,7 +89,7 @@ Through developer education, senior management often acknowledges the value and 
 
 Sometimes the organization introduces a formal CLA policy at this stage. It may also provide guidance on judging the health of OSS projects as part of its criteria for deciding which OSS to use in the organization’s technology stack or infrastructure. 
 
-### Taking Software Inventory
+### Taking Software Inventory
 
 Developers may deploy OSS ad hoc without cataloging their efforts systematically. The legal team and technology leadership tend to push for an inventory 
 of all OSS in use in an organization. Such an inventory itemizes OSS in organization’s code repositories (e.g., GitHub, GitLab) and systems. 
@@ -186,7 +186,7 @@ resource intensive but cedes control of a project to a broader community.
 
 > Do you want to list other OS communities? please open a PR
 
-### Stage 4: Becoming a Strategic Decision-Making Partner
+### 4️⃣ Stage 4: Becoming a Strategic Decision-Making Partner
 
 At this maturity stage, the OSPO becomes a strategic partner for technology decisions, helping to guide choices and shape long-term commitments to 
 projects. At Stage 4, the CTO and other technology leaders consult the OSPO and its leadership on which open source technologies to rely on 
