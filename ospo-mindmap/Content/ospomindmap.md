@@ -58,9 +58,23 @@ development team of the Linux Project
 
 ## 🧩 Responsibilities
 
-### OS Legal Education
+### 📘 Develop and Execute Open Source Strategy
 
-#### Manage Legal Risks and Licenses
+- Open Source community, contributions and leadership
+- Compliance
+- InnerSource
+- Managing inquiries
+- Risk tolerance
+- M&A, corporate development
+- Software procurement
+- Marketing
+
+### 🔍 Oversee Open Source Compliance
+
+- Comply with open source license obligations
+- Faciliate effective use of open source in proprietary products or services
+- Comply with third-party software supplier or customer contractural obligations
+- Protect company's intellectual property and product differentiation
 
 #### Educate Developers
 - Training & Certification
@@ -70,21 +84,76 @@ development team of the Linux Project
 
 - Security Standards
 - License Compliance Policies
-- Tooling
-  - Build in-house
-  - Adopt existing tools
-      - Commercial tools
-      - [Open Source tools](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/)
-- Design OSS infrastructure
 
-### OS Community Education
 
-#### Create Internal OS Ambassadors
+### 📝 Establish and Improve Open Source Policies and Processess
 
-- Drive event sponsorship
-- Train speakers for coding forums
-  
-#### Create educational programs
+##### Policies
+
+- Using and compliance policy
+  - Forking an open source project
+  - Copying open source licensed files/snippets into organization's codebase
+  - Mixing code (owned and third-party OSS/proprietary) and distributing as products or services
+  - Using standalone open source tools (e.g. Firefox, MySQL, CentOS)
+- Policy on open source licenses
+- Policy on releasing code as open source
+  - Contributing back to third party OSS project
+  - Publishing a new open source project
+  - Contributing in personal time
+  - Signing contribution agreements (e.g. CLA or DCOs)
+- Policy on making open source business decisions
+  - Risk assessment and acceptance  
+  - Business alignment
+
+#### Processes
+
+- Creating Open Source
+  - Contributing to third-party OSS projects during work time
+    - Which copyright statement to use for contributions on behalf of the organization
+  - Contributing to third-party OSS projects during personal time
+  - Publishing a new open source project
+  - Sponsoring open source
+    - Sponsoring third-party projects
+    - Sponsoring organization projects or individual members
+    - Sponsoring events
+  - Signing contribution related agreements
+    - Contributor license agreement
+    - Developer certificate of origin
+  - Shutting down a new open source project
+- Using Open Source
+  - Using an open source project as a standalone tool
+  - Including open source snippets or files
+  - Including open source packages
+  - Forking an open source project
+  - Inventorying open source usage incl. packages, licensing and communities
+- Deciding on Open Source
+  - Drive Open Source Review Board with senior leaders from relevant stakeholder to make decisions on open source
+  - Drive Open Source Working Group with representatives / interested stakeholders throughout the organization with the aim of improving open source at the organization
+- Marketing and/or communicating Open Source
+  - Internal messaging
+    - Maintaining internal wiki outlining policy, processes, tooling and best practices
+  - External messaging
+    - Organization's open-source principles
+    - Simplified/redacted version of open source wiki
+    - Organization GitHub ReadMe
+    - Open Source landing page / portal
+    - Obligation fulfillment
+    - Organizing community events
+- Educating people
+  - Open source awareness which includes details on open source policy, processes, tools and the basics of open source licensing, community and contributions
+  - Guidelines and best practices for using of, contributing to, complying with open source
+  - Training on open source project management
+  - New employee orientation
+  - Checklist for product teams
+  - Checklist for developers
+  - Checklist for SW procurement
+  - Executing a mentorship for open source leaders and/or organization leaders
+  - Organizing events such as brown bag seminars (with invited speakers)
+  - Assist speakers for coding forums / conferences
+
+### 📈 Prioritize and Drive Open Source Upstream Development
+
+#### Create Educational Programs
 
 - Good OSS hygiene
 - Technical programs
@@ -93,11 +162,18 @@ development team of the Linux Project
   - How to file bug reports
   - How to contribute basic code
 
-#### Optimize open outbound source contributions
+#### Create Internal Open Source Ambassadors
 
-### OS Community Engagement
+- Drive event sponsorship
+- Train speakers for coding forums
 
-#### Incubate and launch OS projects into the public sphere
+#### Contributes to Third-Party OSS Projects
+
+- Ensure maintainability of OSS projects
+- Develop new features upstream
+- Fix bugs upstream
+
+#### Incubate and Launch Open Source Projects
 
 - Develop internal resources for
 project incubation and post launch
@@ -109,24 +185,87 @@ incubation and post launch
   - Vet, organize and operate OS projects
   - Train and coach OS Leaders
 
-### OS Leadership
+#### Optimize Open Outbound Source Contributions
 
-#### Provides open source consultancy and become a strategic partner
 
-- Evaluate the behavior
-and performance of the project
-- Advise on which open source technologies
-to adopt or remove
-- Provide insights into OSS trends
+### 🤝 Collaborate with Open Source Organizations
+
+##### 📖 Open Standards
+
+- OpenChain
+- SPDX
+
+##### 🏠 Foundations
+
+- Apache Foundation
+- Free Software Foundation Europe
+  - Legal Network
+- Eclipse Foundation
+- Linux Foundation
+  - FINOS
+  - OpenSSF
+  - OpenChain
+  - SPDX
+  - TODO Group
+- Open Source Initiative
+- OW2
+  - Good Governance Initiative
+
+
+### ⏱️ Track Performance Metrics
+
+- Ability to assess health of open source projects
+- Measure community engagement
+- Development of open source leaders
+
+### 🤝 Implement InnerSource Practices
+
+- Increase productivity, quality, code re-use, transparency and trust
+- Establish communication channels across the organization
+- Improve collaboration across the organization
+- Remove organizational silos and identify talent across the organization
+
+
+### 🫶 Grow and Retain Open Source Talent Inside the Organization
+
+- Train new and coach existing open source leaders
+- Drive an internal open source ambassadors program
+- Recognize contributions of organization's members
+
+
+### 🧑‍💼 Open Source Adviser
+
+- Advise on which open source technologies to adopt, hold or avoid
+- Provide guidance to open source project leaders/project maintaines with their issues
+- Evaluate OSS projects whether technical, health or compliance assessment
 - Help to understand and navigate project politics
-  - Help maintain a neutral posture on the
-  open source technology ecosystem
+  - Help maintain a neutral posture on the open source technology ecosystem
   - Cultivate personal and working relationship
+- Bring the outside inside the organization
+  - Provide insights into open source trends
+  - Promote import of community best practices
+  - Warn in case of major community incident or changes
 
-### Upstream OS Contribution
 
-#### Contributes to 3rd party OSS projects
+### 🖥️  Manage Open Source IT Infrastructure
 
-- Ensure maintainability of OSS projects
-- Develop new features upstream
-- Fix bugs upstream
+- Compliance and contribution tooling
+  - Build in-house
+  - Adopt existing tools
+      - Commercial tools
+      - [Open Source tools](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-License-Compliance-Tools/)
+- Design OSS infrastructure
+- Metrics acquisition and dashboard
+- GitHub management
+
+
+### 🧭 Eliminate Friction from Using and Contributing to Open Source
+
+- Continuously improve processes and tools to reduce learning curve and manual effort required
+- Help navigate internal politics or policies
+- Maintain relationships with communities of strategic importance to your organization
+
+### 📒 Support Corporate Development Activities
+
+- Help an organization understand the open source technical stack, compliance and opportunities of the target company and related risk as part of the due diligence process
+- Ensure contractors (outsourced developement) follow the organization's open source policies and processes
