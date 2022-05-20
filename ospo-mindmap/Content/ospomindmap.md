@@ -216,7 +216,7 @@ incubation and post launch
   - Horizontal Technologies / Skills
     - Security
       - OpenSSF
-    - Compliance & Standarts
+    - Compliance & Standards
       - OpenChain
       - SPDX
     - Cloud
