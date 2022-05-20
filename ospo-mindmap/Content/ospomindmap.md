@@ -202,11 +202,39 @@ incubation and post launch
   - Legal Network
 - Eclipse Foundation
 - Linux Foundation
-  - FINOS
-  - OpenSSF
-  - OpenChain
-  - SPDX
-  - TODO Group
+  - Open Source Initiatives Adoption, Guidance & Education
+    -  TODO Group
+  - Industry Verticals
+    - Financial
+      - FINOS
+    - Energy
+      - LF Energy
+    - Film
+      -  ASWF
+    - Automotive
+      - Automotive Grade Linux
+  - Horizontal Technologies / Skills
+    - Security
+      - OpenSSF
+    - Compliance & Standarts
+      - OpenChain
+      - SPDX
+    - Cloud
+      - Cloud Native Computing Foundation (CNCF)
+      - FinOps
+    - Blockchain
+      - Hyperledger
+    - IoT
+      -  LFEDGE
+      -  Zephyr
+    -  Hardware
+        -  RISC-V
+        -  OpenPower
+        -  Chips Alliance
+    -  CI / CD
+        - CD Foundation
+
+- InnerSource Commons Foundation
 - Open Source Initiative
 - OW2
   - Good Governance Initiative
