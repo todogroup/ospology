@@ -10,6 +10,7 @@
 * [OSPO Newsletter 8](https://www.getrevue.co/profile/osponews/issues/ospo-news-from-the-todo-group-issue-8-1006062)
 * [OSPO Newsletter 9](https://www.getrevue.co/profile/osponews/issues/ospo-news-from-the-todo-group-issue-9-1052380)
 * [OSPO Newsletter 10](https://www.getrevue.co/profile/osponews/issues/ospo-news-from-the-todo-group-issue-10-1097933)
+* [OSPO Newsletter 11](https://www.getrevue.co/profile/osponews/issues/ospo-news-from-the-todo-group-issue-11-1152400)
 
 ## How to Contribute to OSPONews
 
