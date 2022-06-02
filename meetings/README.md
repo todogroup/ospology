@@ -55,7 +55,11 @@ https://community.linuxfoundation.org/todo-group/
 
 **OSPOlogy CFP**
 
-If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose)
+If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose).
+
+OSPOlogy happens monthly (except in August and December). Usually, OSPOlogy sessions are scheduled the **first Wednesday of the month** at 15:00pm UTC. The OSPOlogy guest might request a different Wednesday during the month if necessary.
+
+> 🕐 Need help with UTC timezone conversions? Check out [worldtimebuddy.com](https://www.worldtimebuddy.com/)
 
 **Governance Guidelines**
 
