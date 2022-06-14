@@ -106,7 +106,9 @@ development team of the Linux Project
 
 #### Educate Developers
 - Training & Certification
+  - [Open Source Licensing Basics for Software Developers (LFC191)](https://training.linuxfoundation.org/training/open-source-licensing-basics-for-software-developers/)
   - [Introduction to Open Source License Compliance Management (LFC193)](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/)
+  - [Implementing Open Source License Compliance Management (LFC194)](https://training.linuxfoundation.org/training/implementing-open-source-license-compliance-management-lfc194/)
 
 #### Taking Software Inventory
 
