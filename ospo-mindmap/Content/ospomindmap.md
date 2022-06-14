@@ -79,6 +79,7 @@ development team of the Linux Project
 
 ### 🔍 Oversee Open Source Compliance
 
+#### Compliance Considerations
 - Comply with open source license obligations
   - Mixing code
     - Providing attribution
