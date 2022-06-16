@@ -17,7 +17,7 @@ However, in order to ease community contributions, a second version of this mind
 
 ## 🧩 Project Structure
 
-This folder contains three main resources:
+This folder contains four main resources:
 
 | Folder | Extension | Content |
 | --- | --- | --- |
