@@ -59,8 +59,8 @@ Contributors are welcome to add improvements to the mindmap future versions on i
 
 We don't accept donations. Please give a ⭐️ if this project helped you!
 
-## 📝 License
+If your organization would like to help TODO Group and its mission, please consider supporting TODO as [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md)
 
-Copyright [TODO Group](https://todogroup.org).
+## 📝 License
 
 This [repository](https://github.com/todogroup/ospology) is licensed and made available by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
