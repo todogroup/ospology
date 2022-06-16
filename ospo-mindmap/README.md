@@ -21,9 +21,10 @@ This folder contains three main resources:
 
 | Folder | Extension | Content |
 | --- | --- | --- |
-| Content | `.md` | Contains the source used to generate the mindmap |
-| Img | `.svg` | Contains a rendered mindmap suitable for printing |
-| Img | `.html` | Contains a rendered interactive mindmap |
+| Content | `.md` | Source markmap format used to generate the mindmap |
+| Img | `.svg` | Rendered mindmap suitable for printing |
+| Img | `.html` | Rendered interactive mindmap |
+| additional-info | `*` | Initial announcement and information for the mindmap project |
 
 ## 🙋 Contributing to the project
 
