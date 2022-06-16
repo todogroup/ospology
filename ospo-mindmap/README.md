@@ -12,23 +12,18 @@ The Mind map is structured into four main areas:
 * Roles
 * Behavior
 * Team Size
-
-The initial [mind map](https://github.com/todogroup/ospology/discussions/75#discussion-3962305) was created using MindMup2. 
+The initial [mind map](https://github.com/todogroup/ospology/discussions/75#discussion-3962305) was created using MindMup2.
 However, in order to ease community contributions, a second version of this mind map was created using [Markmap](https://markmap.js.org/) that is managed as markdown that renders an interactive mind map. See Mind Map Syntax below for notes on how to use it.
 
 ## 🧩 Project Structure
 
-This folder contains four main resources:
+This folder contains three main resources:
 
-**Content** folder
-* Includes the mind map as a `md` file
-
-**Img** folder
-* Vector image: includes the mind map as a `svg` file
-* Interactive mindmap: includes the mind map as a `html` file
-
-**Additional info** folder
-* Includes initial discussion of this mind map creation as well as a link where the initial Mind Map was shared.
+| Folder | Extension | Content |
+| --- | --- | --- |
+| Content | `.md` | Contains the source used to generate the mindmap |
+| Img | `.svg` | Contains a rendered mindmap suitable for printing |
+| Img | `.html` | Contains a rendered interactive mindmap |
 
 ## 🙋 Contributing to the project
 
