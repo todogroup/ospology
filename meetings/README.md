@@ -48,13 +48,19 @@ https://community.linuxfoundation.org/todo-group/
 
 *  [February 2 2022 - OSPOlogy: Measuring the Business Impact of Open Source & OSPOs](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-measuring-the-business-impact-of-open-source-ospos/) - [Meeting Slides](https://docs.google.com/presentation/d/1KVC1zsRZWkDaNjIM_5Gp4FAp4CRXReflWYquVif2D_8/edit?usp=sharing) - [Discussion](https://github.com/todogroup/ospology/discussions/50)
 * [March 2 2022 - OSPOlogy: Building an OSPO in the Energy Sector](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-building-an-ospo-in-the-energy-sector-the-alliander-experiences/) - [Meeting Slides](https://docs.google.com/presentation/d/14r1E2y8MUeVXnWBAQZKlrp5CeAK9e7OpjBn-wOYadGI/edit?usp=sharing) - [Discussion & Alliander presentation](https://github.com/todogroup/ospology/discussions/63)
-
+* [April 6 2022 - OSPOlogy: How Academic OSPOs Are Amplifying Research Impact](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-how-academic-ospos-are-amplifying-research-impact/) - [Meeting Slides](https://docs.google.com/presentation/d/1rXMmCFElVzcEeqNUA8Jf_2X_Dl8Kpb_11lcjGHXGXRk/edit?usp=sharing) - [Discussion & UC Santa Cruz presentation](https://github.com/todogroup/ospology/discussions/79)
+*  [May 11 2022 - OSPOlogy: 3rd Party Outbound OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-3rd-party-outbound-ospo-an-extrospective-approach-to-oss/) - [Meeting Slides](https://docs.google.com/presentation/d/1VvVcnVrZ3fXK05wl7SnU6vDe_YqDOx4zzWTRlryDvNc/edit?usp=sharing) - [Discussion & Aiven presentation](https://github.com/todogroup/ospology/discussions/96)
+* [June 1 2022 - OSPOlogy: The Strategies and Ideas Behind Spotify FOSS Fund](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-the-strategy-and-ideas-behind-the-spotify-foss-fund/) - [Slides & Discussion](https://github.com/todogroup/ospology/discussions/116)
 
 ## OSPOlogy Planning
 
 **OSPOlogy CFP**
 
-If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose)
+If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose).
+
+OSPOlogy happens monthly (except in August and December). Usually, OSPOlogy sessions are scheduled the **first Wednesday of the month** at 15:00pm UTC. The OSPOlogy guest might request a different Wednesday during the month if necessary.
+
+> 🕐 Need help with UTC timezone conversions? Check out [worldtimebuddy.com](https://www.worldtimebuddy.com/)
 
 **Governance Guidelines**
 
