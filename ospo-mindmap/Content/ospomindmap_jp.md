@@ -1,3 +1,9 @@
+---
+markmap:
+  maxWidth: 300
+  initialExpandLevel: 2
+---
+
 # 🧭 OSPOマインドマップ (原文は[こちら](https://github.com/todogroup/ospology/blob/main/ospo-mindmap/Content/ospomindmap.md))
 
 ## 役割
