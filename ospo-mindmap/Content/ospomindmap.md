@@ -1,4 +1,10 @@
-# 🧭 OSPO Mindmap
+---
+markmap:
+  initialExpandLevel: 2
+  maxWidth: 400
+---
+
+# 🧭 OSPO Mindmap - [Available in multiple languages](https://github.com/todogroup/ospology/tree/main/ospo-mindmap/Content)
 
 ## 🙋 Roles
 
