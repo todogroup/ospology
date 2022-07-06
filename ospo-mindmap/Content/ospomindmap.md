@@ -30,6 +30,11 @@ efficient through sharing costs and innovation for industry-specific needs
 - `Definition` Work on foundational technology problems that cross industries
 - `Example:` Bloomberg worked with Microsoft to make contributions to TypeScript
 
+### Standards Collaborative
+
+- `Definition` Support relevant standards in open source projects and provide feedback to corresponding standards organizations
+- `Example:` OpenDaylight community collaborates with IETF standards community on NETCONF, RESTCONF, YANG, and YANG models
+
 ### Big Project Facilitators
 
 - `Definition` Form or facilitate the formation of large, complex 
