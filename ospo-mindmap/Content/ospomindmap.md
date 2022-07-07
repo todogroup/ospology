@@ -33,7 +33,7 @@ efficient through sharing costs and innovation for industry-specific needs
 ### Standards Collaborative
 
 - `Definition` Support relevant standards in open source projects and provide feedback to corresponding standards organizations
-- `Example:` OpenDaylight community collaborates with IETF standards community on NETCONF, RESTCONF, YANG, and YANG models
+- `Example:` Let's Encrypt community collaborates with IETF standards community on ACME, TLS, and other work related to X.509 certificates
 
 ### Big Project Facilitators
 
