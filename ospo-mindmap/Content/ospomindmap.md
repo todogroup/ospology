@@ -34,6 +34,7 @@ efficient through sharing costs and innovation for industry-specific needs
 
 - `Definition` Support relevant standards in open source projects and provide feedback to corresponding standards organizations
 - `Example:` Let's Encrypt community collaborates with IETF standards community on ACME, TLS, and other work related to X.509 certificates
+- `Example:` OSPOs work with IEEE on standards for governance of open source projects
 
 ### Big Project Facilitators
 
