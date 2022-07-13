@@ -66,6 +66,7 @@ development team of the Linux Project
 - FTE Large Team
 - FTE Small Team
 - Virtual team (not FTE)
+- FTE team with virtual members from other teams
 - Single FTE Managing multiple teams
 
 ## 🧩 Responsibilities
