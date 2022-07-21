@@ -3,9 +3,9 @@
 
 1. [About OSPOlogy](#about-ospology)
 2. [Problem statement](#problem-statement)
-3. [Introducing Local OSPO Meet-ups](#introducing-local-ospo-meet-ups)
-4. [The Meet-up framework](#the.meet-up-framework)
-5. [Interested?](#interested?)
+3. [Introducing Local OSPO Meet-ups powered by TODO Group](#introducing-local-ospo-meet-ups-powered-by-todo-group)
+   + [The Framework](#the-framework)
+5. [Interested?](#interested)
 
 
 
@@ -19,11 +19,11 @@ Introducing OSPOlogy Meetups, powered by TODO Group.
 
 We are introducing a new framework for in-person local meetups. OSPO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
-## Introducing OSPOlogy Meetups, powered by TODO Group
+## Introducing OSPOlogy Meetups powered by TODO Group
 
 We are introducing a new framework for in-person local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
-### The OSPO local Meetup framework
+### The Framework
 
 In a nutshell, the framework defines the following local meetup requirements:
 
