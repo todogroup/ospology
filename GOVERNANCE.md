@@ -5,11 +5,11 @@ This document defines the governance process for the OSPOlogy repo. This doc out
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | OSPOlogy Contributor | Active contributor in the community | One successful merge of significant pull requests within the OSPOlogy repo | [OSPOlogy contirbutors](https://github.com/orgs/todogroup/teams/ospology-contributors) GH team|
-| OSPOlogy Maintainer | See "Expectations from Maintainers" bellow| 10+ successful merges of significant pull requests within the OSPOlogy repo AND fulfill the "Expectations from Maintainers" | [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18)|
+| OSPOlogy Maintainer | See "Expectations from Maintainers" bellow| 10+ successful merges of significant pull requests in two or more initiatives within the repo AND fulfill the "Expectations from Maintainers" | [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18)|
 
 ## Changes in Maintainership
 
-10+ successful merges of significant pull requests within the OSPOlogy repo, any current maintainer can reach to the author behind the pull requests and ask them if they are willing to become a mainatiner. They can also send a PR to [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18) and request the existing maintainers to vote them in.
+10+ successful merges of significant pull requests in two or more initiatives within the repo within the OSPOlogy repo, any current maintainer can reach to the author behind the pull requests and ask them if they are willing to become a mainatiner. They can also send a PR to [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18) and request the existing maintainers to vote them in.
 
 If a maintainer feels they can not fulfill the "Expectations from Maintainers", they are free to step down.
 
