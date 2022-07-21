@@ -19,8 +19,11 @@ Introducing OSPOlogy Meetups, powered by TODO Group.
 
 We are introducing a new framework for in-person local meetups. OSPO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
+## Introducing OSPOlogy Meetups, powered by TODO Group
 
-## The OSPO local Meetup framework
+We are introducing a new framework for in-person local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
+
+### The OSPO local Meetup framework
 
 In a nutshell, the framework defines the following local meetup requirements:
 
@@ -45,7 +48,7 @@ An individual may be qualified to become a local TODO organizer if:
 
 * You are a TODO Member
 OR
-* You are an OSPOlogy Maintainer
+* You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md)
 AND
 * Your organization does not derive a significant portion of its revenue as a solution provider to other OSPOs 
 
