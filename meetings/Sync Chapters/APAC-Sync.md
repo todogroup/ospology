@@ -4,7 +4,8 @@ TODO APAC Sync meetings were created with the aim of working together to improve
 and discuss with the broader community the challenges these organizations face when implementing an open source program or a similar initiative, 
 following the Chatham House Rules
 
-APAC-friendly time meetings are scheduled every last Monday of the month: https://todogroup.org/community/
+APAC-friendly time meetings are scheduled every last Monday of the month: https://todogroup.org/community/ at 8am (UTC) via [Zoom](https://docs.google.com/document/d/1vj4lWrmUw3thW0NdfvaUwYwkvtGQnCO2NTmEkELSQfs/edit?usp=sharing)
+
 
 ## 📝 Meeting notes
 
