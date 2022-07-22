@@ -46,11 +46,14 @@ If you are interested in organizing a TODO Local Meetups in your region feel fre
 
 An individual may be qualified to become a local TODO organizer if:
 
+**OPTION 1:** 
 * You are a TODO Member
-OR
+
+**OPTION 2**
+
 * You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md)
 AND
-* Your organization does not derive a significant portion of its revenue as a solution provider to other OSPOs 
+* Your organization does not derive a significant portion of its revenue (more than 50%) as a solution provider to other OSPOs 
 
 Local TODO Organizer shall be responsible for:
 
