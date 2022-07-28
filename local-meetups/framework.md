@@ -1,10 +1,12 @@
-# Framework for OSPO Local Meetups: Sharing OSPOs experiences powered by TODO Group
+# Framework For OSPO Local Meetups: Sharing OSPOs Experiences Powered By TODO Group
 
 
 1. [About OSPOlogy](#about-ospology)
 2. [Problem statement](#problem-statement)
-3. [Introducing Local OSPO Meet-ups powered by TODO Group](#introducing-local-ospo-meet-ups-powered-by-todo-group)
+3. [Introducing Local OSPO Meetups powered by TODO Group](#introducing-local-ospo-meetups-powered-by-todo-group)
    + [The Framework](#the-framework)
+   + [Meetup expectations](#meetup-expectations)
+   + [Local Organizer Requirements and Responsibilities](#local-organizer-requirements-and-responsibilities)
 5. [Interested?](#interested)
 
 
@@ -19,7 +21,7 @@ Introducing OSPOlogy Meetups, powered by TODO Group.
 
 We are introducing a new framework for in-person local meetups. OSPO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
-## Introducing OSPOlogy Meetups powered by TODO Group
+## Introducing Local OSPO Meetups powered by TODO Group
 
 We are introducing a new framework for in-person local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
@@ -33,16 +35,18 @@ In a nutshell, the framework defines the following local meetup requirements:
   * Recordings are not allowed
   * The information received can be shared as meet-up notes, but does not reveal the identity of who said it
 * Provides a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management
+* Encourages vendor-neutraly
 * Encourages diversity of attendees and regions to participate including hosting meetups in local languages
 * TODO community participants can propose a new local TODO meetup
 * Needs to have a Local TODO Organizer
 * Is under Linux Foundation [policies](https://www.linuxfoundation.org/policies/) and [code of conduct](https://events.linuxfoundation.org/about/code-of-conduct/)
 * Participants must register for TODO Local meet-ups via [Linux Foundation’s community platform](https://community.linuxfoundation.org/todo-group-europe/).
 
+### Meetup Expectations
 
-## Interested?
+OSPO Local meetups powered by the TODO Group is committed to vendor neutrality and aims to become a forum for like-minded professionals to share knowledge and experiences on OSPOs. Even though we understand that during a conversation, OSPO tooling and/or services examples might arise, **vendor pitches must not be part of the meetup core discussions**.
 
-If you are interested in organizing a TODO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meet-up can benefit the OSPO Community. The [TODO Steering Committee](https://github.com/todogroup/governance#-about-todo-steering-committee-tsc) will review this proposal and has the final word to approve/decline.
+### Local Organizer Requirements and Responsibilities
 
 An individual may be qualified to become a local TODO organizer if:
 
@@ -61,3 +65,8 @@ Local TODO Organizer shall be responsible for:
 * Providing meet-up location and logistics
 * Reporting to TODO Program Manager and Steering Committee each quarter to track meetup evolution and new topics
 * Posting a recap to [OSPO Forum](https://github.com/todogroup/ospology/discussions/categories/announcements) in English language.
+
+
+## Interested?
+
+If you are interested in organizing a TODO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meet-up can benefit the OSPO Community. The [TODO Steering Committee](https://github.com/todogroup/governance#-about-todo-steering-committee-tsc) will review this proposal and has the final word to approve/decline.
