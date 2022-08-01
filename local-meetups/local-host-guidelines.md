@@ -14,7 +14,7 @@ This document serves as a guide for a TODO Local Host when setting up an OSPO Me
 * You can also promote on TODO Slack / Community mailing list
 
 
-## TODO Local Host Commitment
+## Commitment
 
 Being promoted as TODO Local host means:
 
@@ -23,9 +23,9 @@ Being promoted as TODO Local host means:
 * You meet TODO Local Host's [requirements](#local-host-requirements-and-responsibilities)
 * You take care of TODO Local Host's [responsibilities](#local-host-requirements-and-responsibilities)
 
-## Local Host Requirements and Responsibilities
+## Requirements and Responsibilities
 
-An individual may be qualified to become a local TODO organizer if:
+An individual may be qualified to become a TODO Local Host if:
 
 OPTION 1:
 * You are a TODO Member
@@ -33,7 +33,7 @@ OPTION 2
 * You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md) AND
 * Your organization does not derive a significant portion of its revenue (more than 50%) as a solution provider to other OSPOs
 
-Local TODO Organizer shall be responsible for:
+TODO Local Host shall be responsible for:
 * Managing registration and meetup description via [Linux Foundation’s online community platform](https://community.linuxfoundation.org/todo-group-europe/).
 * Providing meetup location and logistics
 * Make sure the meetup follows LF’s code of conduct
