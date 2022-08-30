@@ -33,3 +33,5 @@ Maintainers should:
 * (2) Be ready to moderate OSPOlogy meetings and/or regional TODO calls, if necessary.
 * (3) Review / approve / decline contributions from other contributors 
 
+
+> The OSPOlogy repo governance also falls under the overall TODO Group governance.
