@@ -9,11 +9,11 @@ This document defines the governance process for the OSPOlogy repo. This doc out
 
 ## Changes in Maintainership
 
-5-10 successful merges of significant pull requests in two or more initiatives within the repo within the OSPOlogy repo, any current maintainer can reach the author behind the pull requests and ask them if they are willing to become a maintainer. They can also send a PR to [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18) and request the existing maintainers to vote them in. 2/3 majority thumbs up on the PR within settings.yml from existing maintainers will be required for a person to become an OSPOlogy maintainer.
+5-10 successful merges of significant pull requests in two or more initiatives within the repo within the OSPOlogy repo, any current maintainer can reach the author behind the pull requests and ask them if they are willing to become a maintainer. They can also send a PR to [settings.yml file](https://github.com/todogroup/ospology/blob/main/.github/settings.yml#L18) and request the existing maintainers to vote them in. Majority thumbs up on the PR within settings.yml from existing maintainers will be required for a person to become an OSPOlogy maintainer.
 
 If a maintainer feels they can not fulfill the "Expectations from Maintainers", they are free to step down.
 
-Existing maintainers can remove maintainers who become inactive or disruptive on a 2/3 majority vote from existing maintainers. If people step down or are removed, they will be added to the OSPOlogy **emeritus list (TBD)**
+Existing maintainers can remove maintainers who become inactive or are not acting in the best interests of the TODO Group on a 2/3 majority vote from existing maintainers. If people step down or are removed, they will be added to the OSPOlogy **emeritus list (TBD)**
 
 ## Voting process
 
