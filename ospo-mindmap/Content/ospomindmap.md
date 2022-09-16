@@ -129,9 +129,7 @@ development team of the Linux Project
 - License Compliance Policies
 
 
-### 📝 Establish and Improve Open Source Policies and Processes
-
-##### Policies
+### 📝 Establish and Improve Open Source Policies
 
 - Using open source and open source compliance policy
   - Forking an open source project
@@ -151,7 +149,7 @@ development team of the Linux Project
   - Risk assessment and acceptance  
   - Business alignment
 
-#### Processes
+### 💪 Establish and Improve Open Source Processes
 
 - Creating Open Source
   - Contributing to third-party OSS projects during work time
@@ -175,11 +173,6 @@ development team of the Linux Project
       - Review licenses of dependencies used by contributed code
     - Provide guidance to contributors on open source community ways of working
     - Publishing of project's release artifacts to public repositories such as Maven Central, npm, etc.
-  - Sponsoring Open Source
-    - Sponsoring third-party projects or individuals
-    - Sponsoring open source organizations
-    - Sponsoring own organization's open source projects or individual members
-    - Sponsoring events
   - Signing contribution related agreements
     - Contributor license agreement (individual / corporate)
     - Developer certificate of origin
@@ -219,6 +212,11 @@ development team of the Linux Project
   - Assist speakers for coding forums / conferences
 - Measuring Open Source
   - Develop, execute and improve measuring the impact of your organization's open source activities
+- Sponsoring Open Source
+  - Sponsoring third-party projects or individuals
+  - Sponsoring open source organizations
+  - Sponsoring own organization's open source projects or individual members
+  - Sponsoring events
 
 ### 📈 Prioritize and Drive Open Source Upstream Development
 
