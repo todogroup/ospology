@@ -29,7 +29,7 @@ Every maintainer is listed in the [settings.yml file](https://github.com/todogro
 Making community work requires input and effort from everyone.
 
 Maintainers should:
-* (1) Actively participate in PR reviews and respond in a timely fahsion 
+* (1) Actively participate in PR reviews and respond in a timely fashion 
 * (2) Be ready to moderate OSPOlogy meetings and/or regional TODO calls, if necessary.
 * (3) Review / approve / decline contributions from other contributors 
 
