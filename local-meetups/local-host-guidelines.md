@@ -6,7 +6,6 @@ This document serves as a guide for a TODO Local Host when setting up an OSPO Me
 
 ## Planning the OSPO Meetup
 
-
 * Check if there's already an OSPO Meetup in your area
 * Open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community
 * Wait for TODO Program Manager to (1) open the new OSPO Local Meetup via LF Online Community Platform and (2) give you organizer permissions
@@ -28,12 +27,16 @@ Being promoted as TODO Local host means:
 An individual may be qualified to become a TODO Local Host if:
 
 OPTION 1:
+
 * You are a TODO Member
-OPTION 2
+
+OPTION 2:
+
 * You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md) AND
 * Your organization does not derive a significant portion of its revenue (more than 50%) as a solution provider to other OSPOs
 
 TODO Local Host shall be responsible for:
+
 * Managing registration and meetup description via [Linux Foundation’s online community platform](https://community.linuxfoundation.org/todo-group-europe/).
 * Providing meetup location and logistics
 * Make sure the meetup follows LF’s code of conduct
