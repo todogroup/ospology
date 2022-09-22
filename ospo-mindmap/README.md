@@ -42,7 +42,7 @@ Follow these steps to create a new version of the Mind map:
 
 **Markmap Syntax**
 
-Markmap is a tool (under [MIT licence](https://github.com/gera2ld/markmap/blob/master/LICENSE)) designed by @gera2ld that parses markdown content and extract its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap. Please see [markmap documentation](https://markmap.js.org/docs/) for further details.
+Markmap is a tool (under [MIT licence](https://github.com/gera2ld/markmap/blob/master/LICENSE)) designed by @gera2ld that parses markdown content and extract its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap. Please see [markmap documentation](https://markmap.js.org/docs) for further details.
 
 ### Visualization and html generation
 
