@@ -266,7 +266,6 @@ incubation and post launch
 
 #### Optimize Open Outbound Source Contributions
 
-
 ### 🤝 Collaborate with Open Source Organizations
 
 ##### 📖 Open Standards
@@ -307,8 +306,9 @@ incubation and post launch
 - Increase productivity, quality, code re-use, transparency and trust
 - Establish communication channels across the organization
 - Improve collaboration across the organization
+  - Help navigate internal politics or policies
 - Remove organizational silos and identify talent across the organization
-
+- Maintain relationships with communities of strategic importance to your organization
 
 ### 🫶 Grow and Retain Open Source Talent Inside the Organization
 
@@ -344,13 +344,6 @@ incubation and post launch
 - Design OSS infrastructure
 - Metrics acquisition and dashboard
 - Third-party development tool management such as GitHub, GitLab, etc.
-
-
-### 🧭 Eliminate Friction from Using and Contributing to Open Source
-
-- Continuously improve processes and tools to reduce learning curve and manual effort required
-- Help navigate internal politics or policies
-- Maintain relationships with communities of strategic importance to your organization
 
 ### 📒 Support Corporate Development Activities
 
