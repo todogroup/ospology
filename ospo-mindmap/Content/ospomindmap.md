@@ -88,6 +88,7 @@ development team of the Linux Project
 - Marketing
 - Communications
 - Growing and retaining open source talent
+- Maintain relationships with communities of strategic importance to your organization
 
 ### 🔍 Oversee Open Source Compliance
 
@@ -148,6 +149,7 @@ development team of the Linux Project
 - Policy on making open source business decisions
   - Risk assessment and acceptance  
   - Business alignment
+- Help navigate internal politics or policies
 
 ### 💪 Establish and Improve Open Source Processes
 
@@ -266,6 +268,7 @@ incubation and post launch
 
 #### Optimize Open Outbound Source Contributions
 
+
 ### 🤝 Collaborate with Open Source Organizations
 
 ##### 📖 Open Standards
@@ -306,9 +309,8 @@ incubation and post launch
 - Increase productivity, quality, code re-use, transparency and trust
 - Establish communication channels across the organization
 - Improve collaboration across the organization
-  - Help navigate internal politics or policies
 - Remove organizational silos and identify talent across the organization
-- Maintain relationships with communities of strategic importance to your organization
+
 
 ### 🫶 Grow and Retain Open Source Talent Inside the Organization
 
