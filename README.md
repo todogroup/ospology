@@ -14,30 +14,30 @@ The [TODO Group](https://todogroup.org) is an open community of practitioners wh
 
 ## 🦺 Community
 
-TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community/. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://slack.todogroup.org). 
+TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://slack.todogroup.org). 
 
 ### 🔭 Global Community Meetings: OSPOlogy
 
-The global and public monthly TODO Group and wider OSPO community's meetings. These meetings have featured OSPO-related topics with special guests and community discussions. All these meetings are recorded, edited, and recorder on Youtube OSPOlogy Channel, so everyone across the globe can have access to it via: https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions
+The global and public monthly TODO Group and wider OSPO community's meetings. These meetings have featured OSPO-related topics with special guests and community discussions. All these meetings are recorded, edited, and recorder on [Youtube OSPOlogy Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA), so everyone across the globe can have access to it via: https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions.
 
 Everyone is welcome to attend the monthly TODO Group [OSPOlogy community meeting](https://community.linuxfoundation.org/todo-group/) hosted by the [Linux Foundation](https://linuxfoundation.org).
 
 
 ### 🗺 Regional Sync Call
 
-Location-based meetings with a slightly different structure than OSPOlogy meetings. The community adds topics of matter into an agenda and we have discussions the entire hour. We currently have Europe Sync and APAC Sync calls. Both are available in the community page calendar: https://todogroup.org/community/
+Location-based meetings with a slightly different structure than OSPOlogy meetings. The community adds topics of matter into an agenda and we have discussions the entire hour. We currently have Europe Sync and APAC Sync calls. Both are available in the community page calendar: https://todogroup.org/community.
 
 **TODO Europe Sync Call**
 
 The TODO Europe chapter was formed by TODO Members based in Europe. This chapter was created with the aim of working together to improve OSPO adoption and education within Europe and discuss with the broader community the challenges European organizations face when implementing an open source program under Chatham House Rules.
 
-EMEA-friendly time meetings are [scheduled](https://community.linuxfoundation.org/todo-group-europe/) every last Thursday of the month at 1PM (UTC).
+EMEA-friendly time meetings are [scheduled](https://community.linuxfoundation.org/todo-group-europe/) every last Thursday of the month at 1 PM (UTC).
 
 **TODO APAC Sync Call**
 
 TODO APAC Sync meetings were created with the aim of working together to improve OSPO adoption and education within the different APAC regions and discuss with the broader community the challenges these organizations face when implementing an open source program or a similar initiative, under Chatham House Rules.
 
-APAC-friendly time meetings are [scheduled](ttps://todogroup.org/community/) every last Monday of the month at 8AM (UTC). People can join TODO slack channel `#chapter-apac` and check past meeting notes [here](https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chapters/APAC-notes)
+APAC-friendly time meetings are [scheduled](ttps://todogroup.org/community/) every last Monday of the month at 8 AM (UTC). People can join TODO slack channel `#chapter-apac` and check past meeting notes [here](https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chapters/APAC-notes).
 
 
 ## 🕵️ Artifacts
@@ -51,15 +51,15 @@ Contribute to the monthly newsletter by submitting a [pull request](https://gith
 ### 🧭 OSPO Mind Map
 
 The [OSPO Mind Map](https://ospomindmap.todogroup.org/) provides a schema that represents
-a general perspective of open source program office's responsibilites, roles, behavior, and team size with the ecosystem.
+a general perspective of open source program office's responsibilities, roles, behavior, and team size with the ecosystem.
 
-Contributors are welcome to add improvements to the mindmap future versions on its dedicated [repo](https://github.com/todogroup/ospology/tree/main/ospo-mindmap)
+Contributors are welcome to add improvements to the mindmap future versions on its dedicated [repository](https://github.com/todogroup/ospology/tree/main/ospo-mindmap).
 
 ## 💫 Show your support
 
 We don't accept donations. Please give a ⭐️ if this project helped you!
 
-If your organization would like to help TODO Group and its mission, please consider supporting TODO as [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md)
+If your organization would like to help TODO Group and its mission, please consider supporting TODO as [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md).
 
 ## 📝 License
 
