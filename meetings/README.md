@@ -52,6 +52,12 @@ https://community.linuxfoundation.org/todo-group/
 *  [May 11 2022 - OSPOlogy: 3rd Party Outbound OSPO](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-3rd-party-outbound-ospo-an-extrospective-approach-to-oss/) - [Meeting Slides](https://docs.google.com/presentation/d/1VvVcnVrZ3fXK05wl7SnU6vDe_YqDOx4zzWTRlryDvNc/edit?usp=sharing) - [Discussion & Aiven presentation](https://github.com/todogroup/ospology/discussions/96)
 * [June 1 2022 - OSPOlogy: The Strategies and Ideas Behind Spotify FOSS Fund](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-the-strategy-and-ideas-behind-the-spotify-foss-fund/) - [Slides & Discussion](https://github.com/todogroup/ospology/discussions/116)
 * [July 26 2022 - OSPOlogy: Growing an Open Source Culture Inside Sony](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-growing-an-open-source-culture-inside-sony/) - [Meeting Slides](https://docs.google.com/presentation/d/1FjcrDfwk60aGvujAADKV2Kh6FiPdeLo8CpI9d0IVBO8/edit?usp=sharing)- [Discussion & Sony presentation](https://github.com/todogroup/ospology/discussions/160)
+* [October 5 2022 - OSPOlogy: Ways to Define a Metrics Strategy in your Open Source Program Office](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-ways-to-define-a-metrics-strategy-in-your-ospo/) - [Meeting Slides](https://docs.google.com/presentation/d/1hr74s9MpOGUbulvQplGQZifzfwsjQjxZrqx8vOncsCs/edit?usp=sharing)- [Discussion](https://github.com/todogroup/ospology/discussions/194)
+* [NEXT: November 15 2022 - OSPOlogy - How to automate your FOSS policy and processes](https://community.linuxfoundation.org/todo-group-ospology/)
+
+**🌄 Season 3**
+
+COMING in 2021
 
 ## OSPOlogy Planning
 
