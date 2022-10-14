@@ -1,87 +1,87 @@
 # OSPO Newsletter X
 
 
-## ✨ Monthly Announcements 
+## ✨ Annunci del mese 
 
-* [Monthly Announcement 1]
-* [Monthly Announcement 2]
-
-
-## 📺 Next OSPOlogy Community Call
-
-A place to share experiences and connect with OSPO mentors across the different sectors!
-
-* [Community call details]
-
-> [Subscribe to OSPOlogy Chapter](https://community.linuxfoundation.org/todo-group/) and don't miss any OSPOlogy meeting!
-
-## 📚 OSPO Jobs
-
-A list of OSPO related jobs published during this month!
-
-* [OSPO Job 1]
-* [OSPO Job 2]
-
-> Do you want to add additional OSPO jobs in this section? Please submit a [Pull Request](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews) in our OSPOlogy repo
-
-## 📌 ICYMI Industry News and Articles
-
-Here’s what you missed! A summary of the most recent OSPO related resources:
-
-* [News or Article 1]
-* [News or Article 2]
+* [Annuncio del mese]
+* [Annuncio del mese]
 
 
-## 🙋 OSPO Discussions
+## 📺 Prossima chiamata comunitaria OSPology
 
-* [Discussion 1]
-* [Discussion 2]
+Un luogo per condividere esperienze e connettersi con i mentori OSPO nei diversi settori!
+
+* [Dettagli chiamata communitaria]
+
+> [Iscriviti al capitolo OSPology](https://community.linuxfoundation.org/todo-group/) e non perdere nessun incontro di OSPology!
+
+## 📚 Offerte di lavoro in OSPO
+
+Un elenco di lavori relativi a OSPO pubblicati durante questo mese!
+
+* [Offerta di lavoro OSPO 1]
+* [Offerta di lavoro OSPO 2]
+
+> Vuoi aggiungere ulteriori lavori OSPO in questa sezione? Crea un [Pull Request](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews) nel nostro repository OSPology
+
+## 📌 Nel caso in cui te lo fossi perso - Notizie e articoli del settore
+
+Ecco cosa ti sei perso! Una sintesi delle più recenti risorse relative all'OSPO:
+
+* [News or Articolo 1]
+* [News or Articolo 2]
 
 
-## 📩 OSPO Landscape News
+## 🙋 Discussioni OSPO 
 
-* [Please add new entries from ospo landscape repo]
+* [Discussione 1]
+* [Discussione 2]
 
 
-## 📎 Upcoming Conferences and Call for Papers
+## 📩 Novità del mondo dell'OSPO
+
+* [Aggiungi nuovo oggetto dal repository del mondo dell'OSPO]
+
+
+## 📎 Prossime conferenze e Call for Papers
 
 * [CFP 1]
 * [CFP 2]
 
 
-## 🔭 Cross-community e-learning
+## 🔭 E-learning intercomunitario
 
-Webinars, community calls and similar network spaces from sister communities to expand your knowledge about OSPO fields/specializations and/or open source industry-specific topics, including: open source compliance and legal, open source education and culture, open source community building, open source technology, or open source health and sustainability. 
+Webinar, chiamate comunitarie e spazi di network simili da comunità sorelle per ampliare le tue conoscenze sui campi/specializzazioni OSPO e/o argomenti specifici del settore open source, tra cui: conformità open source e legale, istruzione e cultura open source, costruzione di comunità open source, open source tecnologia di origine o salute e sostenibilità open source. 
 
-**Specializations**
+**Specializzazioni**
 
-* [Add Specilizations resources list here]
+* [Aggiungi lista di risorse di Specilizzazione qui]
 
-**Technologies**
+**Tecnologie**
 
-* [Add Technologies resources list here]
+* [Aggiungi lista di tecnologie qui]
 
-**Industry-specific topics**
+**Argomenti specifici del settore**
 
-* [Add Industry-specific resources list here]
+* [Aggiungi lista di risorse di Argomenti specifici del settore]
 
 
-**📝 TODO Work Day Updates**
+**📝 Aggiornamenti dal TODO Work Day**
 
-Everyone month the TODO Group hosts Work Days! These are opportunities to connect with members of TODO and improve the our public content and resources. 
+Ogni mese il Gruppo TODO ospita Work Days! Queste sono opportunità per entrare in contatto con i membri di TODO e migliorare i nostri contenuti e risorse pubbliche. 
 
-Updates from the latest [AMER TODO Group working day](https://github.com/todogroup/work-day-activities) on Date X. Thank you to Person X for hosting!
+Aggiornamenti dall'ultimo [AMER TODO Group working day](https://github.com/todogroup/work-day-activities) del giorno X. Grazie a Persona X per l'hosting!
 
-* [Update 1]
-* [Update 2]
+* [Aggiornamento 1]
+* [Aggiornamento 2]
 
-Updates from the latest [WDA EMEA & APAC working day](https://github.com/todogroup/work-day-activities) on Date X. Thank you to Person X for hosting!
+Aggiornamenti dall'ultimo [WDA EMEA & APAC working day](https://github.com/todogroup/work-day-activities) del giorno X. Grazie a Persona X per l'hosting!
 
-* [Update 1]
-* [Update 2]
+* [Aggiornamento 1]
+* [Aggiornamento 2]
 
-> If you are interested to join TODO work days, please find the one that better fit with your timezone in the todogroup.org/community calendar
-✨ Find more OSPO insights within the TODO’s Guides and additional OSPO resources.
-🧐 Do you have ideas on how to improve this newsletter? File an issue: https://github.com/todogroup/ospology/issues.
-🫂 If you are new to TODO Group Community, make sure to visit TODO community page where we provide helpful onboarding resources.
-💚 Our General Members fuel TODO. Without their help and expertise, we would not be able to do the work we do. If your organization isinterested in supporting the TODO Group, see more info here.
+> Se sei interessato a partecipare ai TODO Work Days, trova quello che meglio si adatta al tuo fuso orario nel calendario di todogroup.org/community
+✨ Trova più approfondimenti OSPO nelle guide TODO e risorse OSPO aggiuntive.
+🧐 Hai idee su come migliorare questa newsletter? Segnala un problema: https://github.com/todogroup/ospology/issues.
+🫂 Se non conosci la community del gruppo TODO, assicurati di visitare la pagina della TODO community dove forniamo utili risorse per l'onboarding.
+💚 I nostri Soci Generali alimentano TODO. Senza il loro aiuto e la loro esperienza, non saremmo in grado di fare il lavoro che facciamo. Se la tua organizzazione è interessata a supportare il gruppo TODO, vedi maggiori informazioni qui.
