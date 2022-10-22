@@ -14,7 +14,7 @@ The [TODO Group](https://todogroup.org) is an open community of practitioners wh
 
 ## 🦺 Community
 
-TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://slack.todogroup.org). 
+TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew). 
 
 ### 🔭 Global Community Meetings: OSPOlogy
 
