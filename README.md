@@ -10,35 +10,42 @@
 
 ## 🚀 Our Mission
 
-The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community) and [General Members](https://todogroup.org/members).
+The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community), [General Members](https://todogroup.org/members) and OSPO Associates.
+
+Community calls are done under OSPOlogy branding and content is stored in this repo.
+
+> Note: If you are supporting TODO as General Member, please visit the [General Member Onboarding guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding) to also join General Member Touchpoint calls.
 
 ## 🦺 Community
 
 TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew). 
 
-### 🔭 Global Community Meetings: OSPOlogy
+### 🔭 OSPOlogy Webinars and Group Dsicussions
 
 The global and public monthly TODO Group and wider OSPO community's meetings. These meetings have featured OSPO-related topics with special guests and community discussions. All these meetings are recorded, edited, and recorder on [Youtube OSPOlogy Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA), so everyone across the globe can have access to it via: https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions.
 
 Everyone is welcome to attend the monthly TODO Group [OSPOlogy community meeting](https://community.linuxfoundation.org/todo-group/) hosted by the [Linux Foundation](https://linuxfoundation.org).
 
 
-### 🗺 Regional Sync Call
+### 🗺 Regional OSPOlogy Sync Call
 
-Location-based meetings with a slightly different structure than OSPOlogy meetings. The community adds topics of matter into an agenda and we have discussions the entire hour. We currently have Europe Sync and APAC Sync calls. Both are available in the community page calendar: https://todogroup.org/community.
+Location-based meetings with a slightly different structure than Global OSPOlogy Webinars. The community adds topics of matter into an agenda and we have discussions the entire hour. We currently have Europe Sync and APAC Sync calls. Both are available in the community page calendar: https://todogroup.org/community.
 
-**TODO Europe Sync Call**
+**OSPOlogy Europe Sync Call**
 
 The TODO Europe chapter was formed by TODO Members based in Europe. This chapter was created with the aim of working together to improve OSPO adoption and education within Europe and discuss with the broader community the challenges European organizations face when implementing an open source program under Chatham House Rules.
 
-EMEA-friendly time meetings are [scheduled](https://community.linuxfoundation.org/todo-group-europe/) every last Thursday of the month at 1 PM (UTC).
+The European chapter runs public and EMEA-friendly time meetings. These are [scheduled](https://community.linuxfoundation.org/todo-group-europe/) every last Thursday of the month at 1 PM (UTC).
 
-**TODO APAC Sync Call**
+**OSPOlogy APAC Sync Call**
 
-TODO APAC Sync meetings were created with the aim of working together to improve OSPO adoption and education within the different APAC regions and discuss with the broader community the challenges these organizations face when implementing an open source program or a similar initiative, under Chatham House Rules.
+OSPOlogy APAC Sync meetings were created with the aim of working together to improve OSPO adoption and education within the different APAC regions and discuss with the broader community the challenges these organizations face when implementing an open source program or a similar initiative, under Chatham House Rules.
 
 APAC-friendly time meetings are [scheduled](ttps://todogroup.org/community/) every last Monday of the month at 8 AM (UTC). People can join TODO slack channel `#chapter-apac` and check past meeting notes [here](https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chapters/APAC-notes).
 
+### ⚙️ Contirbute to the project: Work Day Days
+
+Work Days are for everyone in the community willing contribute on guides and projects hosted in TODO GH Organization. More info [here](https://github.com/todogroup/work-day-activities).
 
 ## 🕵️ Artifacts
 
