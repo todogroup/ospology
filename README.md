@@ -8,13 +8,27 @@
 
 ✨ **`OSPOlogy` hosts the study and open community communication to discuss the status of open source program offices across regions.**
 
-## 🚀 Our Mission
+- 💚 [Our Mission](#our-mission)
+- 🦺 [Community](#community)
+    - OSPOlogy Webinars
+    - OSPOlogy Sync Calls
+      - Europe
+      - APAC
+    - OSPOlogy Working Hours
+    - OSPOlogy Live Europe
+    - OSPO Local Communities & Meetups
+- 🕵️‍♀️ [Artifacts](#artifacts)
+  - Newsletter
+  - Mind Map
+  
 
-The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community), [General Members](https://todogroup.org/members) and OSPO Associates. Please note that community calls are done under OSPOlogy branding and content is stored in this repo.
+## Our Mission
+
+OSPOlogy is an initiative initiated by [TODO Group](https://todogroup.org/). The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community), [General Members](https://todogroup.org/members) and OSPO Associates. Please note that community calls are done under OSPOlogy branding and content is stored in this repo.
 
 > Note: If you are supporting TODO as General Member, please visit the [General Member Onboarding guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding) to also join General Member Touchpoint calls.
 
-## 🦺 Community
+## Community
 
 TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew). 
 
@@ -40,9 +54,9 @@ OSPOlogy APAC Sync meetings were created with the aim of working together to imp
 
 APAC-friendly time meetings are [scheduled](ttps://todogroup.org/community/) every last Monday of the month at 8 AM (UTC). People can join TODO slack channel `#chapter-apac` and check past meeting notes [here](https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chapters/APAC-notes).
 
-### ⚙️ Contribute to the project: Work Day Days
+### ⚙️ Contribute to the project: Working Days
 
-Work Days are for everyone in the community willing contribute on guides and projects hosted in TODO GH Organization. More info [here](https://github.com/todogroup/work-day-activities).
+Work Days are for everyone in the community willing contribute on guides and projects hosted in TODO GH Organization. More info [here](https://github.com/todogroup/working-days).
 
 ### ⭐️ OSPOlogy Live: Share & Learn
 
@@ -56,9 +70,23 @@ Existing OSPOlogy Live in Europe:
 * January 2023: [Amsterdam, Netherlands](https://community.linuxfoundation.org/events/details/lfhq-ospo-european-chapter-presents-ospologylive-share-learn-netherlands/)
 * ???
 
-## 🕵️ Artifacts
+> If you are interested in organizing a OSPOlogy Live in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location, agenda draft and topic outline idea.
 
-### 📭 Newsletters
+### 🙋‍♀️ OSPO Local Meetups:
+
+Framework for in-person OSPO local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
+
+Existing OSPO Local Meetups in Europe:
+
+* [Helsinki](https://community.linuxfoundation.org/ospo-local-meetup-helsinki/)
+* [Geneva (French-Speaking)](https://community.linuxfoundation.org/ospo-local-meetup-western-switzerland-french-speaking/)
+
+> If you are interested in organizing a TODO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community.
+
+
+## Artifacts
+
+### 📭 Newsletter
 
 The OSPO newsletter ships once a month on the last Tuesday of the month. Please consider [subscribing to the newsletter](https://www.getrevue.co/profile/osponews).
 
