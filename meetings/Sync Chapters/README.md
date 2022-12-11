@@ -35,6 +35,6 @@ In order to save time, **group intros are done via Zoom Chat**: please use the c
 > Facilitators and Scribe roles are assigned by the end of the previous call
 > Do you want to improve this README file? Please open a PR!
 
-# Official host list
+# Official Moderator list
 
-Official list of OSPOlogy EMEA & APAC hosts. If you'd like to be included in the list, please first read the responsibilities and requirements (link TBD) and open an issue.
+Official list of OSPOlogy EMEA & APAC Moderators. If you'd like to be included in the list, please first [read the responsibilities and requirements](https://github.com/todogroup/ospology/tree/main/meetings/Sync%20Chaptersmoderator-list.md) and open an issue.
