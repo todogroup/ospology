@@ -3,7 +3,7 @@
 - [About OSPOlogy EMEA](#ospology-emea-sync-meetings)
 - [About OSPOlogy APAC](#ospology-apac-sync-meetings)
 - [OSPOlogy Regional Sync Structure](#structure)
-- [Official EMEA and APAC host's list](#official-host-list) 
+- [Official EMEA and APAC moderators's list](#official-moderator-list) 
 
 ## OSPOlogy EMEA Sync meetings
 
