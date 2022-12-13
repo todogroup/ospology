@@ -1,7 +1,7 @@
 ---
 markmap:
-  maxWidth: 300
   initialExpandLevel: 2
+  maxWidth: 400
 ---
 
 # 🧭 OSPOマインドマップ (原文は[こちら](https://github.com/todogroup/ospology/blob/main/ospo-mindmap/Content/ospomindmap.md))
