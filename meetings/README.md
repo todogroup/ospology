@@ -53,11 +53,11 @@ https://community.linuxfoundation.org/todo-group/
 * [June 1 2022 - OSPOlogy: The Strategies and Ideas Behind Spotify FOSS Fund](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-the-strategy-and-ideas-behind-the-spotify-foss-fund/) - [Slides & Discussion](https://github.com/todogroup/ospology/discussions/116)
 * [July 26 2022 - OSPOlogy: Growing an Open Source Culture Inside Sony](https://community.linuxfoundation.org/events/details/lfhq-todo-group-presents-growing-an-open-source-culture-inside-sony/) - [Meeting Slides](https://docs.google.com/presentation/d/1FjcrDfwk60aGvujAADKV2Kh6FiPdeLo8CpI9d0IVBO8/edit?usp=sharing)- [Discussion & Sony presentation](https://github.com/todogroup/ospology/discussions/160)
 * [October 5 2022 - OSPOlogy: Ways to Define a Metrics Strategy in your Open Source Program Office](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-ways-to-define-a-metrics-strategy-in-your-ospo/) - [Meeting Slides](https://docs.google.com/presentation/d/1hr74s9MpOGUbulvQplGQZifzfwsjQjxZrqx8vOncsCs/edit?usp=sharing)- [Discussion](https://github.com/todogroup/ospology/discussions/194)
-* [NEXT: November 15 2022 - OSPOlogy - How to automate your FOSS policy and processes](https://community.linuxfoundation.org/todo-group-ospology/)
+* [November 15 2022 - OSPOlogy - How to automate your FOSS policy and processes](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-how-to-automate-your-foss-policy-and-processes/)
 
 **🌄 Season 3**
 
-COMING in 2021
+* [NEXT: January 18 2023 - OSPOlogy: How OSPOs Manage Change In Enterprises For Open Source Adoption](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-how-ospos-manage-change-in-enterprises-for-open-source-adoption/)
 
 ## OSPOlogy Planning
 
