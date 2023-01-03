@@ -88,7 +88,7 @@ Existing OSPO Local Meetups in Europe:
 
 ### 📭 Newsletter
 
-The OSPO newsletter ships once a month on the last Tuesday of the month. Please consider [subscribing to the newsletter](https://www.getrevue.co/profile/osponews).
+The OSPO newsletter ships once a month on the last Tuesday of the month. Please consider [subscribing to the newsletter](https://ospo-news.ghost.io/).
 
 Contribute to the monthly newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Please review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).
 
