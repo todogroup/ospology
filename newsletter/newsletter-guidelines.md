@@ -41,7 +41,7 @@ OSPO-focused topics, including:
 
 1) `md` file will be added at [newsletter repo](https://github.com/todogroup/ospology/tree/main/newsletter)
 2) Once created, community can open a PR to add their resources to the file.
-3) Same content will be copy-pasted to [revue](https://www.getrevue.co/profile/osponews) and be shiped monthly on the last Tuesday of the month.
+3) Same content will be copy-pasted to [Ghost](https://ospo-news.ghost.io/) and be shiped monthly on the last Tuesday of the month.
 
 ******
 
