@@ -2,7 +2,7 @@
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
 [![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://ospo-news.ghost.io/)
 [![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
-[![ospology](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA)
+[![ospology](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
 
 # 📖 OSPOlogy: The Study of OSPOs
 
