@@ -14,7 +14,7 @@
 
 ## How to Contribute to OSPONews
 
-The content that is sent through OSPONews via revue is created by and for the OSPO Community using the `yyyy-mm-dd.md` files within this repository. to get started, just edit any of the sections in the `yyyy-mm-dd.md` file and open a PR. 
+The content that is sent through OSPONews via [Ghost](https://ospo-news.ghost.io/) is created by and for the OSPO Community using the `yyyy-mm-dd.md` files within this repository. to get started, just edit any of the sections in the `yyyy-mm-dd.md` file and open a PR. 
 
 Some examples of contributions to the newsletter are:
 
