@@ -21,7 +21,7 @@ markmap:
 
 ### Industry Collaborative
 
-- `Definition` OS as a way for a specific industry to become more 
+- `Definition` OS as a way for a specific industry to become more
 efficient through sharing costs and innovation for industry-specific needs
 - `Example` EU Automotive companies
 
@@ -37,8 +37,8 @@ efficient through sharing costs and innovation for industry-specific needs
 
 ### Big Project Facilitators
 
-- `Definition` Form or facilitate the formation of large, complex 
-open source projects inside an organization and/or Launch OS 
+- `Definition` Form or facilitate the formation of large, complex
+open source projects inside an organization and/or Launch OS
 as publicly available projects
 - `Example` Comcast incubated the Apache Traffic Control Project
 
@@ -50,7 +50,7 @@ source projects and capabilities
 
 ### Technology Strategy Experts
 
-- `Definition` Evaluate viable open source technologies and help senior IT managers 
+- `Definition` Evaluate viable open source technologies and help senior IT managers
 to lay out a technology roadmap
 - `Example` OSPOs that act as internal OS consultants to help developers and team
 
@@ -108,7 +108,7 @@ development team of the Linux Project
     - RESTful API
     - SaaS
     - Web Application
-- Faciliate effective use of open source in proprietary products or services
+- Facilitate effective use of open source in proprietary products or services
 - Comply with third-party software supplier or customer contractural obligations
 - Protect organization's intellectual property
   - Conduct open source due diligence for acquisitions (or M&A projects)
@@ -206,7 +206,7 @@ development team of the Linux Project
   - Checklist for developers
   - Checklist for SW procurement
   - Executing a mentorship for open source leaders and/or organization leaders
-  - Organizing events 
+  - Organizing events
     - Present Open Source at the organization's all-hands and similar meetings
     - Organize brown bag seminars on open source topics (with invited speakers)
   - Assist speakers for coding forums / conferences
@@ -320,7 +320,7 @@ incubation and post launch
 
 ### 🧑‍💼 Give Advice on Open Source
 
-- Shaping the organization's software strategy and processes and role of open soure within the organization's software ecosystem
+- Shaping the organization's software strategy and processes and role of open source within the organization's software ecosystem
 - Advise on which open source technologies to adopt, hold or avoid
 - Provide open source guidance to people whether managers, contributors, open source project leaders/project maintainers with their issues
 - Evaluate OSS projects whether technical, health or compliance assessment
