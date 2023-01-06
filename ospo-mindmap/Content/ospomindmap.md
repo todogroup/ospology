@@ -360,7 +360,7 @@ incubation and post launch
 ## 🤝 Stakeholders
 
 - Legal
-  - License Compliance
+  - License compliance
   - Policies and guidelines
   - Mergers and acquisitions
   - Investment due diligence
@@ -369,7 +369,7 @@ incubation and post launch
 - Security
   - Software supply chain risk management
 - Engineering & Product
-  - Adopt Tooling
+  - Adopt tooling
   - Follow policy and guidelines
 - Branding
   - Corporate logo usage
