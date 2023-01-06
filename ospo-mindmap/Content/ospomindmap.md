@@ -356,3 +356,24 @@ incubation and post launch
 
 - Help an organization understand the open source technical stack, compliance and opportunities of the target company and related risk as part of the due diligence process
 - Ensure contractors (outsourced developement) follow the organization's open source policies and processes
+
+## 🤝 Stakeholders
+
+- Legal
+  - License Compliance
+  - Policies and guidelines
+  - Mergers and acquisitions
+  - Investment due diligence
+  - Contribution reviews
+  - Trademark searches for new open source projects
+- Security
+  - Software supply chain risk management
+- Engineering & Product
+  - Adopt Tooling
+  - Follow policy and guidelines
+- Branding
+  - Corporate logo usage
+- Corporate Communications
+  - Internal and external messaging
+  - External website
+  - Policy for speaking externally
