@@ -371,6 +371,8 @@ incubation and post launch
 - Engineering & Product Development
   - Adopt tooling
   - Follow policy and guidelines
+Learning and Development
+  - Training on open source ways-of-working
 - Branding
   - Corporate logo usage
 - Corporate Communications
