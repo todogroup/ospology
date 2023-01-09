@@ -77,8 +77,9 @@ There are two actors for OSPOlogy.live (1) the hosting party who makes available
 
 An individual may be qualified to be a OSPOlogy.live organizer (2) if:
 
-1. Is a TODO Member
-2. Is an OSPOlogy maintainer and the organization does not derive a significant portion of its revenue as a solution provider to other OSPOs
+1. Is a TODO General Member representative
+2. Is an [OSPO Associate representative](https://todogroup.org/associates/)
+3. Is an [OSPOlogy maintainer](https://github.com/todogroup/ospology/blob/main/GOVERNANCE.md#ospology-repo-governance) and the organization does not derive a significant portion of its revenue as a solution provider to other OSPOs
 
 OSPOlogy.live hosts shall be responsible for:
 
