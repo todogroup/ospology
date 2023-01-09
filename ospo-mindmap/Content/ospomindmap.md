@@ -368,7 +368,7 @@ incubation and post launch
   - Trademark searches for new open source projects
 - Security
   - Software supply chain risk management
-- Engineering & Product
+- Engineering & Product Development
   - Adopt tooling
   - Follow policy and guidelines
 - Branding
