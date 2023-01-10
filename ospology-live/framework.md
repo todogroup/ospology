@@ -73,17 +73,20 @@ If you are interested in organizing an OSPOlogy workshop in your region feel fre
 - Ana Jimenez <ana@todogroup.org>
 - Thomas Steenbergen <opensource@steenbe.nl>
 
-There are two actors for OSPOlogy.live (1) the hosting party who makes available a meeting room and (2) the workshop organizer/facilitator in charge of workshop activities and planning. (1) and (2) may be the same entity/individual.
+There are two actors for OSPOlogy.live (1) the venue host who makes available a meeting room and (2) the organizing team in charge of workshop activities and planning. (1) and (2) may be the same entity/individual.
 
-An individual may be qualified to be a OSPOlogy.live organizer (2) if:
+* Organizing Team: The OSPOlogyLive Organizing team is a group of people working together to make the event happen (setting the agenda, finding speakers, etc.) – this group is coordinated by Ana and Thomas.
+* Venue Host: Hosts the venue for the OSPOlogyLive event to manage the logistics and sponsor the cost of the venue. The Venue Host is also part of the Organizing Team.
+
+An individual may be qualified to be part of the OSPOlogy.live Organizing team (2) if:
 
 1. Is a TODO General Member representative
 2. Is an [OSPO Associate representative](https://todogroup.org/associates/)
 3. Is an [OSPOlogy maintainer](https://github.com/todogroup/ospology/blob/main/GOVERNANCE.md#ospology-repo-governance) and the organization does not derive a significant portion of its revenue as a solution provider to other OSPOs
 
-OSPOlogy.live hosts shall be responsible for:
+OSPOlogy.live Organizing team shall be responsible for:
 
 - Approve/Decline workshop request: All voting is done via two-thirds majority of OSPOlogy.live organizers. In case of conflict resolution, the TODO Steering Committee will have the final oversight of the proposed workshop.
-- Look for a host that makes available the meeting room
+- Look for a venue host that makes available the meeting room
 - Oversee workshop logistics
 - Facilitate breakroom discussions
