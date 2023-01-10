@@ -293,6 +293,29 @@ incubation and post launch
 - OW2
   - Good Governance Initiative
 
+### 🤝 Collaborate with Internal Stakeholders
+
+  - Legal
+    - License compliance
+    - Policies and guidelines
+    - Mergers and acquisitions
+    - Investment due diligence
+    - Contribution reviews
+    - Trademark searches for new open source projects
+  - Security
+    - Software supply chain risk management
+  - Engineering & Product Development
+    - Adopt tooling
+    - Follow policy and guidelines
+  - Learning and Development
+    - Training on open source ways-of-working
+  - Branding
+    - Corporate logo usage
+  - Corporate Communications
+    - Internal and external messaging
+    - External website
+    - Policy for speaking externally
+    - Social media accounts
 
 ### ⏱️ Track Performance Metrics
 
@@ -356,27 +379,3 @@ incubation and post launch
 
 - Help an organization understand the open source technical stack, compliance and opportunities of the target company and related risk as part of the due diligence process
 - Ensure contractors (outsourced developement) follow the organization's open source policies and processes
-
-## 🤝 Stakeholders
-
-- Legal
-  - License compliance
-  - Policies and guidelines
-  - Mergers and acquisitions
-  - Investment due diligence
-  - Contribution reviews
-  - Trademark searches for new open source projects
-- Security
-  - Software supply chain risk management
-- Engineering & Product Development
-  - Adopt tooling
-  - Follow policy and guidelines
-Learning and Development
-  - Training on open source ways-of-working
-- Branding
-  - Corporate logo usage
-- Corporate Communications
-  - Internal and external messaging
-  - External website
-  - Policy for speaking externally
-  - Social media accounts
