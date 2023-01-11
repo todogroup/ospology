@@ -304,11 +304,17 @@ incubation and post launch
     - Trademark searches for new open source projects
   - Security
     - Software supply chain risk management
+    - Selection criteria for open source components
   - Engineering & Product Development
     - Adopt tooling
     - Follow policy and guidelines
   - Learning and Development
-    - Training on open source ways-of-working
+    - Open source training
+      - Company open source policy
+      - Open source ways-of-working
+      - How to consume open source
+      - How to contribute to open source
+      - How to create open source projects
   - Branding
     - Corporate logo usage
   - Corporate Communications
