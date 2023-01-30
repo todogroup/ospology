@@ -1,11 +1,19 @@
-# 🚀 The Five-Stage OSPO Maturity Model
+# Taxonomy of OSPO Models for Organizations
+
+We would expect this to be a living document. The goal is to build a taxonomy of OSPO models and identify key components (patterns) that facilitate learning and implementation in different organizations.
+
+The community can contribute to with subversions from the `The Five-Stage OSPO Maturity Model` that better fit the needs of specific industry verticals and/or regions.
+
+> If you would like to contirbute, please open a PR.
+
+
+## The OSPO Model 1 - The Five-Stage OSPO Maturity Model
 
 > Full study can be found at [The evolution of the OSPO](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
+> 
+> To learn more about OSPO characteristics, structure and roles, please check [A Deep Dive Into OSPO](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
 
-As OSPOs have proliferated and become more common, these programs have matured. By mapping conversations with OPSO leaders and experts to the OSPO survey results, 
-we have developed an OSPO maturity model to describe the typical evolution of OSPOs. The model is general: the size and the type of the organization affect how the 
-OSPO matures. In larger organizations, multiple business units might develop different approaches to open source, each with a different technology culture; and pure digital 
-technology companies are far more likely to consume and contribute to OSS early and have greater exposure to open source technologies and concepts.
+As OSPOs have proliferated and become more common, these programs have matured. By mapping conversations with OPSO leaders and experts to the OSPO survey results, we have developed an OSPO maturity model to describe the typical evolution of OSPOs. Please note that *one size does not fit all*. This model has been proved to work better in those environments where open source was not *traditionally* implemented on its *day-to-day operations* at first. Also, the size and the type of the organization affect how the OSPO matures. In larger organizations, multiple business units might develop different approaches to open source, each with a different technology culture; and pure digital technology companies are far more likely to consume and contribute to OSS early and have greater exposure to open source technologies and concepts.
 
 ![LFResearch_OSPO_Report_Fig2](https://user-images.githubusercontent.com/43671777/167606513-18cb999e-8d01-4807-a23e-2ad5f6ec85f7.jpg)
 
@@ -34,20 +42,6 @@ while the rest of the engineering organization may use open source coincidentall
 has neither a centralized team focused on open source nor a top-level open source strategy for the organization. These are critical because, once adopted, those open source components 
 become part of the organization software supply chain by default, which makes a strategic approach all the more imperative.
 
-**Suggested list of OSS Communities to engage in this stage**
-
-Organizations at level 0 should engage first with OS communities that provides open source on ramp and act as industry verticals (e.g finance, energy,
-health, entertainment etc). Here are some examples:
-
-| Industry vertical | Project / Community |
-| --- | --- |
-| Finance and Banking Sector | FINOS |
-| Energy Sector | LF Enery |
-| Public Health Sector | LF Public Health |
-| Entertainment Sector | Academy Software Foundation |
-
-
-> Do you want to list other OS communities? please open a PR
 
 
 ## 1️⃣ Stage 1: Providing OSS Compliance, Inventory, and Developer Education
