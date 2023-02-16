@@ -9,7 +9,7 @@
 |[OSPO Newsletter 6](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-6/)|[OSPO Newsletter 16](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-16/)|
 |[OSPO Newsletter 7](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-7/)|[OSPO Newsletter 17](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-17/)|
 |[OSPO Newsletter 8](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-8/)|[OSPO Newsletter 18](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-18/)|
-|[OSPO Newsletter 9](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-9/)| |
+|[OSPO Newsletter 9](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-9/)|[OSPO Newsletter 19](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-19/)|
 |[OSPO Newsletter 10](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-10/)| |
 
 ## How to Contribute to OSPONews
