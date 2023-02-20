@@ -20,7 +20,7 @@ contribution to open source projects.
 ## Problem
 
 OSPOs has been proved to be key lever to ensure open source sustainability within organizations in the long term. However, the way to proceed and operate 
-is different depending on the type or organization (publi vs private) goals, values and region (e.g european regulations, country regulations).
+is different depending on the type or organization (public vs private) goals, values and region (e.g European regulations, country regulations).
 
 How can Open Source (Program) Offices managers, leaders and teams operate within european frameworks to better achieve open source sustainability?
 
