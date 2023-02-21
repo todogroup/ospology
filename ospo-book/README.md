@@ -3,7 +3,7 @@
 ## A Guide for Organizations
 
 **Authors (individuals):** Ana Jiménez, Chris Aniszczyk  
-**Co-Authors (individuals):** TBD  
+**Co-Authors (individuals):** [co-authors list](AUTHORS.md)  
 **Desired Release Date:** July 2023  
 **Desired Publication Date:** September 2023
 
