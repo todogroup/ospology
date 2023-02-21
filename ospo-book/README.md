@@ -1,5 +1,3 @@
-// SPDX-License-Identifier: CCC-BY-4.0
-
 # Streamlining Open Source Operations with Open Source Program Offices
 
 ## A Guide for Organizations
