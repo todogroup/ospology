@@ -36,10 +36,11 @@ This section will provide organizations with a comprehensive list of the existin
 - [The Evolution of the OSPO - OSPO Maturity Model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
 - [OSPO 101 Course](https://github.com/todogroup/ospo101)
 - [A Deep Dive into OSPO Responsibilities, structures and open source models](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
-- [Good Governance Initiative]()
+- [Good Governance Initiative](https://ospo.zone/ggi/)
 - [OSPO Mind Map](https://ospomindmap.todogroup.org/)
-- [OSPOlogy Webinars - Case Studies]()
+- [OSPOlogy Webinars - Case Studies](https://www.youtube.com/@ospology)
 - [OSPO Annual Surveys - The state of the OSPO](https://github.com/todogroup/osposurvey)
+- [Standard for Public Code](https://standard.publiccode.net/)
 
 
 
