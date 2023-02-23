@@ -57,5 +57,5 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | The state of the OSPO 2022 | https://github.com/todogroup/osposurvey |
 | Study | The Evolution of the OSPO | https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/ |
 | Standard | Standard for Public Code| https://standard.publiccode.net/ |
-| Specification | OpenChain Security Assurance Specification | https://www.openchainproject.org/get-started | 
-| Specification | OpenChain ISO/IEC 5230:2020 | https://www.openchainproject.org/get-started |
+| Specification | OpenChain Security Assurance Specification | https://www.openchainproject.org/security-assurance | 
+| Specification | OpenChain ISO/IEC 5230:2020 | https://www.openchainproject.org/license-compliance |
