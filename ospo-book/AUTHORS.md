@@ -21,7 +21,7 @@ Here is a list of Authors and Co-auhtors of this project. This list is updated e
 - Chris Xie
 - Jiri Marek
 - Supriya Ashish Chitale
-- Gegerly Casatari
+- Gergely Csatari
 - Rob Moffat
 - Jim St.Clare
 - Shane Coughlan
