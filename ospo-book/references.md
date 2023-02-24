@@ -56,6 +56,20 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | The state of the OSPO 2021 | https://github.com/todogroup/osposurvey |
 | Study | The state of the OSPO 2022 | https://github.com/todogroup/osposurvey |
 | Study | The Evolution of the OSPO | https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/ |
+| Study | Understanding the Open Source Development Model | https://derkling.matbug.net/_media/docs:lf_os_dev_model.pdf |
+| Study | Artificial Intelligence and Data in Open Source | https://www.linuxfoundation.org/research/artificial-intelligence-and-data-in-open-source | 
+| Case Study | Autodesk OSPO | https://todogroup.org/guides/casestudies/autodesk/ | 
+| Case Study | Capital One - OSPO in regulated environments | https://todogroup.org/guides/casestudies/capitalone/ | 
+| Case Study | Porsche - OSPOs in Automotive | https://todogroup.org/guides/casestudies/porsche/ |
+| Case Study | Comcast | https://todogroup.org/guides/casestudies/comcast/ |
+| Case Study | Dropbox | https://todogroup.org/guides/casestudies/dropbox/ |
+| Case Study | Meta | https://todogroup.org/guides/casestudies/facebook/ | 
+| Case Study | Microsoft | https://todogroup.org/guides/casestudies/microsoft/| 
+| Case Study | National Instruments | https://todogroup.org/guides/casestudies/ni/ |
+| Case Study | Red Hat | https://todogroup.org/guides/casestudies/porsche/ | 
+| Case Study | Salesforce | https://todogroup.org/guides/casestudies/salesforce/ |
+| Case Study | SAP | https://todogroup.org/guides/casestudies/sap/ |
+| Case Study | Uber | https://todogroup.org/guides/casestudies/uber/ |
 | Case Study | Rochester Institute of Technology OSPO | https://www.rit.edu/news/rit-creates-openrit-university-wide-initiative-all-things-open | 
 | Case Study | Trinity College Dublin OSPO |https://ospoplusplus.org/resource/trinity-college-dublin-ospo/ |
 | Case Study | Johns Hopkins University OSPO | https://ospoplusplus.org/resource/johns-hopkins-university-ospo/ |
