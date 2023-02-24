@@ -56,6 +56,12 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | The state of the OSPO 2021 | https://github.com/todogroup/osposurvey |
 | Study | The state of the OSPO 2022 | https://github.com/todogroup/osposurvey |
 | Study | The Evolution of the OSPO | https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/ |
+| Case Study | Rochester Institute of Technology OSPO | https://www.rit.edu/news/rit-creates-openrit-university-wide-initiative-all-things-open | 
+| Case Study | Trinity College Dublin OSPO |https://ospoplusplus.org/resource/trinity-college-dublin-ospo/ |
+| Case Study | Johns Hopkins University OSPO | https://ospoplusplus.org/resource/johns-hopkins-university-ospo/ |
+| Case Study |  University of California Santa Cruz OSPO | https://ospoplusplus.org/resource/ospo-uc-santa-cruz/ |
+| Presentation | How Government OSPOs Deliver Value for Citizens at Scale | https://youtu.be/uX1ULoGR6lg | Article | The Dutch OSPO | https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/dutch-digitalisation-minister-announces-ospo-creation | 
+| Article | The OSPO – A New Tool for Digital Government | https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/ | 
 | Standard | Standard for Public Code| https://standard.publiccode.net/ |
 | Specification | OpenChain Security Assurance Specification | https://www.openchainproject.org/security-assurance | 
 | Specification | OpenChain ISO/IEC 5230:2020 | https://www.openchainproject.org/license-compliance |
