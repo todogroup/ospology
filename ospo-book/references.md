@@ -67,7 +67,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Case Study | Microsoft | https://todogroup.org/guides/casestudies/microsoft/| 
 | Case Study | National Instruments | https://todogroup.org/guides/casestudies/ni/ |
 | Case Study | Porsche | https://todogroup.org/guides/casestudies/porsche/ |
-| Case Study | Red Hat | https://todogroup.org/guides/casestudies/porsche/ |
+| Case Study | Red Hat | https://todogroup.org/guides/casestudies/redhat/ |
 | Case Study | Salesforce | https://todogroup.org/guides/casestudies/salesforce/ |
 | Case Study | SAP | https://todogroup.org/guides/casestudies/sap/ |
 | Case Study | Uber | https://todogroup.org/guides/casestudies/uber/ |
@@ -80,3 +80,6 @@ This section will provide organizations with a comprehensive list of the existin
 | Standard | Standard for Public Code| https://standard.publiccode.net/ |
 | Specification | OpenChain Security Assurance Specification | https://www.openchainproject.org/security-assurance | 
 | Specification | OpenChain ISO/IEC 5230:2020 | https://www.openchainproject.org/license-compliance |
+| Book | The Open Source Way 2.0 | https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html |
+| Book | VM (Vicky) Brasseur: Forge Your Future with Open Source | https://www.oreilly.com/library/view/forge-your-future/9781680506389/f_0000.xhtml |
+| Book | Eric S. Raymond: The Cathedral & the Bazaar | https://www.oreilly.com/library/view/the-cathedral/0596001088/ | 
