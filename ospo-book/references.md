@@ -66,7 +66,8 @@ This section will provide organizations with a comprehensive list of the existin
 | Case Study | Meta | https://todogroup.org/guides/casestudies/facebook/ | 
 | Case Study | Microsoft | https://todogroup.org/guides/casestudies/microsoft/| 
 | Case Study | National Instruments | https://todogroup.org/guides/casestudies/ni/ |
-| Case Study | Red Hat | https://todogroup.org/guides/casestudies/porsche/ | 
+| Case Study | Porsche | https://todogroup.org/guides/casestudies/porsche/ |
+| Case Study | Red Hat | https://todogroup.org/guides/casestudies/porsche/ |
 | Case Study | Salesforce | https://todogroup.org/guides/casestudies/salesforce/ |
 | Case Study | SAP | https://todogroup.org/guides/casestudies/sap/ |
 | Case Study | Uber | https://todogroup.org/guides/casestudies/uber/ |
