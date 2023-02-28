@@ -1,18 +1,19 @@
-# ✨ Launching OSPOlogy.live: OSPOlogy Workshops piloting in Europe first ✨
+# ✨ OSPOlogyLive ✨
+## Micro-Conferences on Open Source (Program) Offices Coming to Europe
 
 [About OSPOlogy Live](#about-ospology-live)
 
 [Problem statement](#problem-statement)
 
-[Introducing OSPOlogy workshop](#introducing-ospology-workshop)
+[About OSPOlogy Live micro-conference](#about-ospology-live-micro-conference)
 
-[The workshop framework](#the-workshop-framework)
+[Key actors, Host selection criteria and requirements](#key-actors-host-selection-criteria-and-requirements)
+  * Key actors
+  * Approval process
+  * Recommendations
+  * Responsibilities
 
-[Unconference style](#unconference-style)
-
-[Suggested workshop sections](#suggested-workshop-sections)
-
-[Interested?](#interested)
+[FAQ](#faq)
 
 ## About OSPOlogy Live
 
@@ -24,7 +25,7 @@ OSPOlogy Live is a series of conferences designed as interactive lectures and br
 
 The OSPO movement is expanding across industries and regions of all types and sizes. Due to the wide range of responsibilities and ways to operate, OSPO professionals usually find it difficult when it comes to implementing OSPO best practices, policies, processes, or tools for their open source management efforts.
 
-## Introducing OSPOlogy workshop
+## About OSPOlogy Live micro-conference
 
 We are introducing a new framework for hybrid small-scale conference targeted to discuss important topics for OSPOs. This format provides a more intimate and interactive setting for participants to engage in discussions, share knowledge, and build relationships with like-minded professionals.
 
@@ -89,6 +90,19 @@ To ensure that the event meets our project direction and values, we require a fo
 
 * Easy Accessibility: Hosts should be located in an easily accessible location to ensure that attendees can travel to and from the event with ease.
 
+### Aproval Process
+
+**1) An organization contacts the [OSPOlogy Live organizing team](mailto:ospologylive-organizers@lists.todogroup.org) to host:** Provides a first idea of the topics they would like to focus, specific region and available days. This is notified to the rest of organizers for awareness and approval.
+Set up call between host and organizers
+
+**2) Set up call between host and organizers:** First call tries to include representatives from ospology live organizers which core mission is important for organizer’s needs
+
+**3) Schedule 4 sync calls to follow up and planning:** Invites all ospology live organizers representatives and organization’s representatives to work together on conference design, topics and speakers
+
+![image-one](https://user-images.githubusercontent.com/43671777/221821181-e3786ca8-e32c-45c3-8c66-8764ab170373.png)
+
+
+
 ### Recommendations:
 
 * Record Presentations: We highly recommend that hosts allow set up to record presentations to allow for hybrid formats and make the content accessible to a broader audience.
@@ -108,8 +122,41 @@ The OSPOlogy Live organizing team is responsible for a variety of tasks, includi
 * Facilitation: Facilitating breakroom discussions to encourage networking and conversation among attendees.
 
 
-## Interested?
+## FAQ
 
-Efforts are already on the way to organize the OSPOlogy workshops in different European countries focused on the various OSPO responsibilities per quarter (Three OSPOlogy Live every year).
+** 1️⃣ How many OSPOlogyLive micro-conferences happens every year?**
 
-If you are interested in organizing an OSPOlogy workshop in your region feel free to contact the OSPOlogyLive Organizers Mailing List: TBD
+We hold a maximum number of three (3) OSPOlogyLive micro-conferences per year in various European countries, each focusing on specific OSPO responsibilities.
+
+** 2️⃣ Can I host multiple OSPOlogyLive micro-conferences in the same country?**
+
+We value location diversity and aim to provide opportunities for different regions to host OSPOlogyLive micro-conferences that cater to their specific needs. As a result, **we do not plan to organize multiple OSPOlogyLive events in the same region during the same year.**
+
+However, one of the goals of OSPOlogyLive is to encourage the growth of local OSPO communities (and encourage native-language), led by local ambassadors. We believe that local OSPO meetups, powered by the TODO Group, can provide valuable opportunities for networking, learning, and collaboration among open source enthusiasts in a specific area.
+
+If you're interested in becoming a local OSPO ambassador or organizing an OSPO meet-up, please check out OSPO Local Meetups [Framework](https://github.com/todogroup/ospology/blob/main/local-meetups/framework.md) and [local host guidelines](https://github.com/todogroup/ospology/blob/main/local-meetups/local-host-guidelines.md) for more information on how you can get involved.b Current OSPO Local Meetups includes OSPO Local Chapter Finland, Netherlands and Japan.
+
+** 3️⃣ What is the differentce between OSPOlogy Live adn OSPO Local Meetups?**
+
+Scope of OSPOlogyLive:
+
+* Led by highly committed OSPOlogyLive organizers' representatives
+* Collaboration among open source enthusiasts at **local** and **global** levels
+* Provide opportunities for local OSPO communities to start
+
+Scope of OSPO Local Meetups:
+
+* Fully-led by local ambassadors
+* Less structured to promote native language
+* Collaboration among open source enthusiasts in a **specific area (local)**
+* Lower commitment from OSPOlogyLive organizers' representatives
+* Provide opportunities for local OSPO communities to grow and develop
+
+
+** 4️⃣ How can I be part of the organizing team if my organization is not hosting?**
+
+Here's what you need to do:
+
+* Be a representative from an open source community, project, or foundation involved in the OSPO movement (e.g., adoption, day-to-day operations, etc).
+* Submit an OSPO Associates request to use our logo brand in future OSPOlogyLive micro-conferences. You can find more information about the OSPO Associates program at todogroup.org/associates.
+* Wait for our OSPOlogyLive organizers to review and approve your request. Approval will happen if 2/3 of current OSPOlogy Live organizers approves.
