@@ -83,3 +83,4 @@ This section will provide organizations with a comprehensive list of the existin
 | Book | The Open Source Way 2.0 | https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html |
 | Book | VM (Vicky) Brasseur: Forge Your Future with Open Source | https://www.oreilly.com/library/view/forge-your-future/9781680506389/f_0000.xhtml |
 | Book | Eric S. Raymond: The Cathedral & the Bazaar | https://www.oreilly.com/library/view/the-cathedral/0596001088/ | 
+| Book | Open Source Law, Policy and Practice (2nd edn) | https://academic.oup.com/book/44727?login=false | 
