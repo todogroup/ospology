@@ -96,3 +96,20 @@ impact on the OSPO. It examines the OSPO in four different directions:
 ### [Pillar 3] Structure
 
 This pillar focuses on expectations
+
+## ☑️ Assessment Checklists 
+
+Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO.
+
+## 🎙 Real Use Cases 
+
+Provide evidence and examples on how open source leades are doing across organizations and regions.
+
+## 🚫 OSPO anti-patterns
+
+Raise awareness of ineffective approaches.
+
+## 🧑‍🏫 "Continue here" Resources 
+
+Guide readers in further exploration of what’s already on the internet 
+
