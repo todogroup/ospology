@@ -1,69 +1,42 @@
-# Framework For OSPO Local Meetups: Sharing OSPOs Experiences Powered By TODO Group
+# OSPO Local Meetups: Local Communities Supported By TODO Group
+
+1. [The Framework](#the-framework)
+2. [Meetup Expectations](#meetup-expectations)
+3. [Local Ambassador Requirements and Responsibilities](#local-ambassador-requirements-and-responsibilities)
+4. [How can I start a new OSPO Local Meetup](#how-can-i-start-a-new-ospo-local-meetup)
 
 
-1. [About OSPOlogy](#about-ospology)
-2. [Problem statement](#problem-statement)
-3. [Introducing Local OSPO Meetups powered by TODO Group](#introducing-local-ospo-meetups-powered-by-todo-group)
-   + [The Framework](#the-framework)
-   + [Meetup expectations](#meetup-expectations)
-   + [Local Organizer Requirements and Responsibilities](#local-organizer-requirements-and-responsibilities)
-5. [Interested?](#interested)
-
-
-
-## About OSPOlogy 
-OSPOlogy is an initiative under the TODO group that offers best practice sharing online workshops that are open to all, from folks starting their OSPOs to seasoned OPSOers! These sessions are typically led by a TODO member covering one topic or sharing their organization’s OSPO journey.
-For further details see https://github.com/todogroup/ospology.
-
-## Problem statement
-TODO Group members requested local events to find and network with OSPOers near their area, to different OSPO topics.
-Introducing OSPOlogy Meetups, powered by TODO Group.
-
-## Introducing Local OSPO Meetups powered by TODO Group
-
-We are introducing a new framework for in-person local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
+We are introducing a new framework for in-person local meetups to nurture local communities. OSPO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
 ### The Framework
 
 In a nutshell, the framework defines the following local meetup requirements:
 
-* Hybrid gatherings that are open to TODO members and the public
-* Hosted by a Local TODO Organizer
+* Hybrid gatherings that are open to TODO members, OSPOlogy community and the public.
+* Hosted by a Local OSPO Ambassador (see [Local Ambassador's requirements](https://github.com/todogroup/ospology/blob/main/local-meetups/local-ambassadors-guidelines.md#requirements-and-responsibilities))
 * Follow [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
   * Recordings are not allowed
   * The information received can be shared as meet-up notes, but does not reveal the identity of who said it
 * Provides a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management
 * Encourages neutraly
 * Encourages diversity of attendees and regions to participate including hosting meetups in local languages
-* TODO community participants can propose a new local TODO meetup
+* Everyone can propose a new local OSPO meetup
 * Is under Linux Foundation [policies](https://www.linuxfoundation.org/policies/) and [code of conduct](https://events.linuxfoundation.org/about/code-of-conduct/)
-* Participants must register for TODO Local meet-ups via [Linux Foundation’s community platform](https://community.linuxfoundation.org/todo-group-europe/).
+* Participants must register for OSPO Local meetups via [Linux Foundation’s community platform](https://community.linuxfoundation.org/todo-group-europe/).
 
 ### Meetup Expectations
 
-OSPO Local meetups powered by the TODO Group is committed to vendor neutrality and aims to become a forum for like-minded professionals to share knowledge and experiences on OSPOs. Even though we understand that during a conversation, OSPO tooling and/or services examples might arise, vendors may not propose solutions or use the meetups under the TODO Group umbrella for any discussions designed to generate sales for a vendor. Meetups are not intended to be vendor pitches and can’t be used for that purpose if you would like to have the meetup under the TODO Group branding.
+OSPO Local meetups supported by the TODO Group is committed to vendor neutrality and aims to become a forum for like-minded professionals to share knowledge and experiences on OSPOs. Even though we understand that during a conversation, OSPO tooling and/or services examples might arise, vendors may not propose solutions or use the meetups under the TODO Group umbrella for any discussions designed to generate sales for a vendor. Meetups are not intended to be vendor pitches and can’t be used for that purpose if you would like to have the meetup under the TODO Group branding.
 
-### Local Organizer Requirements and Responsibilities
+### Local Ambassador Requirements and Responsibilities
 
-An individual may be qualified to become a local TODO organizer if:
+Please read the [local ambassador guideline document](https://github.com/todogroup/ospology/blob/main/local-meetups/local-ambassadors-guidelines.md#requirements-and-responsibilities)
 
-**OPTION 1:** 
-* You are a TODO Member
+## How can I start a new OSPO Local Meetup?
 
-**OPTION 2**
+If you are interested in organizing a OSPO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community. The [TODO Steering Committee](https://github.com/todogroup/governance#-about-todo-steering-committee-tsc) will review this proposal and has the final word to approve/decline.
 
-* You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md)
-AND
-* Your organization does not derive a significant portion of its revenue (more than 50%) as a solution provider to other OSPOs 
+## How does TODO Group provide support?
 
-Local TODO Organizer shall be responsible for:
+The TODO Group provides a neutral and safe environment for the creation and development of these meetups, supporting the local community with the online platform, policies, framework, code of conduct, communication channels, branding, and promotion.
 
-* Managing registration and meetup description via [Linux Foundation’s community platform](https://community.linuxfoundation.org/todo-group-europe/).
-* Providing meetup location and logistics
-* Reporting to TODO Program Manager and Steering Committee each quarter to track meetup evolution and new topics
-* Posting a recap to [OSPO Forum](https://github.com/todogroup/ospology/discussions/categories/announcements) in English.
-
-
-## Interested?
-
-If you are interested in organizing a TODO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community. The [TODO Steering Committee](https://github.com/todogroup/governance#-about-todo-steering-committee-tsc) will review this proposal and has the final word to approve/decline.
