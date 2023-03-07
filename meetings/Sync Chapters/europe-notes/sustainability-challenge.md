@@ -6,7 +6,7 @@
 When it comes to OSS wihtin organizations, sustainability can be seen as an ongoing challenge as the organization adapts 
 to changes on its transition to open source adoption. We can find three main scopes when refereing to sustainability:
 
-1. Informing current and future contirbutors in the organization and involved teams of the evolving open source strategy.
+1. Informing current and future contributors in the organization and involved teams of the evolving open source strategy.
 with updates on new developments and changes in real time.
 
 2. Ensuring continued involvement in open source projects and initiatives to make use of any momentum that preceded a period 
