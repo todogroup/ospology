@@ -6,6 +6,7 @@
     "build": "npm run build:en -- --no-open && npm run build:jp -- --no-open",
     "build:en": "markmap Content/ospomindmap.md --output Public/index.html",
     "build:jp": "markmap Content/ospomindmap_jp.md --output Public/jp.html",
+    "build:cn": "markmap Content/ospomindmap_zh_cn.md --output Public/cn.html",
     "dev": "npm run build:en -- --watch"
   },
   "dependencies": {
