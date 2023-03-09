@@ -36,15 +36,15 @@ An *Open Source Program Office (OSPO)* is a center of expertise, either virtual 
 * Ensure legal compliance
 * Promote community engagement
 
-The impacts of an OSPO role for an organization can include:
+OSPO (as a role) can include:
 
-* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating employees, establishing new processes and workflows, and adopting new tools and technologies.
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
 
 * Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
 
-* Open Source Advocate: OSPOs can promote the use of open source software and best practices across different organizational units. This can help organizations realize the benefits of open source, such as increased collaboration, faster innovation, and reduced costs.
+* Open Source Advocate: OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
 
-* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and contributions. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
+* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
 
 ## History and Roots
 
