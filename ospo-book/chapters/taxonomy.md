@@ -1,41 +1,21 @@
 # Taxonomy used for chapter navigation
 
-Open Source Program Offices (OSPOs) can be complex and diverse depending on their nature, organizational culture, goals, size, and more. 
-To help readers quickly identify which sections of the book are most relevant to their interests, each chapter 
-includes the following deliverables 
+Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a consistent structure and includes the following deliverables: General Content, Assessment Checklists, OSPO Anti-Patterns, and *Continue Here* Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with *segment tags*, which are explained below.
 
-## 🔖 Tag System 
-This shows the types of segments that the content is most relevant to. These segments are organized within 
-three main pillars. These pillars are key areas that has indirect impact on the creation, evolution of the OSPO 
-and its perceived value to the organization.
+## 🔖 Segment Tags
 
-### [Pillar 1] Organizational Goals & Motivators
+The tag system followed in the book aims to show the types of segments that the content is most relevant to. These segments are organized within `organizational goals` & `drivers of motivators` that has direct impact on the creation, evolution of the different OSPO roles and its perceived value to the organization.
 
-This pillar answers questions related to goal alignment and drivers of motivation.
-
-**Goal Alignment**
+**Goal Alignment Definition:**
 Goal alignment refers to the process of aligning the goals and objectives of the OSPO
 with the overall mission and purpose of the organization and those entities that shapes 
 the organization (e.g government laws).
 
-**Drivers of Motivation**
+**Drivers of Motivation Definition:**
 Motivation is the driving force that fuels people and entities to achieve their goals and 
 reach their full potential.
 
-**Common Questions**
-
-* What does my organization does?
-* What's the mission and values of my organization?
-* How my organization is structured?
-* What is my organization trying to achieve with open source?
-* Why are they investing in open source?
-* Is open osurce being used already? If so, by wich mean and how? 
-
-Collectively, the answers to these questions helps to understand to the reader
-how open source is being utilized within an organization, and how it contributes 
-to its overall success and mission.
-
-**Categorization & Schema**
+### Segments Definition & Diagram
 
 * `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises, 
 that are primarily focused on creating business value through the use of open source software. 
@@ -67,49 +47,37 @@ to using open source software to create positive social change.
 
 ![img-1l](https://user-images.githubusercontent.com/43671777/222904547-885da535-96c2-4586-a907-b7ab9623ba55.png)
 
+### Common Questions to Identify the Best Segment
 
-Regardless of the type of organization, it is important for OSPO leaders and teams to understand the 
-drivers of motivation for the actors they will interact with and align their goals with the overall 
-mission of the organization.
+Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What is my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
 
-It's important to note that these tags are not meant to be exclusive. 
-Some chapters may be relevant to multiple types of OSPOs and multiple tags can be included. 
+Regardless of the type of organization, it is essential for OSPO leaders and teams to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
 
-### [Pillar 2] Tasks, Communication, and Relationships
+### Important considerations
 
-> RE ML disussion: https://lists.todogroup.org/g/ospo-book-project/message/5
+It's worth noting that these tags are not meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
 
+Identifiers: 
+`📈 Business-Oriented`,  
+`🎓 Educational-Oriented`, 
+`👩‍🏫 Business-Educational`, 
+`🏛 Social-Gov-Oriented`, 
+`🌳 Social-NonGov-Oriented`
 
-This pillar focuses on the transmission of knowledge to different player who have a direct or indirect 
-impact on the OSPO. It examines the OSPO in four different directions:
-
-* `⬇️ Down`: as the head of an OSPO I need to manage what the OSPO team does. What do they do? That depends on the OSPO, but either way, there’s a basic need to manage a group. 
-
-* `⬆️ Up`: as the head of a group (or someone proposing the creation of one) I need to manage expectations and needs with respect to my executive’s technology needs.
-
-* `↔️ Sideways`: An OSPO need to work with others. For intance, in `business-oriented` OSPO, these include the dev tools team, the security team.  
-
-* `🛸 Outside`: An OSPO represents the organization to the external communities and foundations. What is our method of integration? 
-
-<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/222905871-3efbd469-edec-4bce-b826-126f2b64dad9.png">
-
-### [Pillar 3] Structure
-
-This pillar focuses on expectations
 
 ## ☑️ Assessment Checklists 
 
-Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO.
+Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ assespent`
 
-## 🎙 Real Use Cases 
+## 🎙 Use Cases 
 
-Provide evidence and examples on how open source leades are doing across organizations and regions.
+Provide evidence and examples on how open source leades are doing across organizations and regions. Identifier `🎙 use-case`
 
 ## 🚫 OSPO anti-patterns
 
-Raise awareness of ineffective approaches.
+Raise awareness of ineffective approaches. Identifier `🚫 antipatterns`
 
 ## 🧑‍🏫 "Continue here" Resources 
 
-Guide readers in further exploration of what’s already on the internet 
+Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 resources`
 
