@@ -93,6 +93,26 @@ Assessing open source adoption is critical because it sets the foundation for su
     * What are the key legal and compliance considerations for using open source software within the organization?
     * What are the challenges and opportunities for implementing an OSPO within the organization?
     * What resources and support will be needed to successfully implement an OSPO within the organization?
+    
+### Understand knowledge transmission through the eyes of OSPO
+
+> RE ML disussion: https://lists.todogroup.org/g/ospo-book-project/message/5
+
+If the organization decide to establish an OSPO (as entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
+
+* Looking downward: as the head of an OSPO, managing the team's tasks is a fundamental responsibility. Depending on the OSPO's objectives, the team's responsibilities may vary, but effective management is essential.
+
+* Looking upward: if proposing the creation of an OSPO, managing expectations and aligning with executives' technology needs is necessary.
+
+* Looking sideways: collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the dev tools and security teams is necessary.
+
+* Looking outside: representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
+
+As an example, the following [diagram](https://lists.todogroup.org/g/ospo-book-project/message/5) illustrates the various players in a business-oriented OSPO and the different methods of interaction, communication, and knowledge transmission.
+
+<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
+
+In Chapters 3 and 6, we will delve deeper into how an OSPO can effectively address knowledge transmission across various open source players and highlight some best practices utilized by different organizations.
 
 ## Antipatterns
 
