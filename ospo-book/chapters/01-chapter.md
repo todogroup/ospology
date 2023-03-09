@@ -14,7 +14,6 @@ In this book, we will guide organizations through the process of creating and im
 
 The book is structured in a user-friendly and practical manner, with a focus on providing actionable advice and steps that organizations can take to create and implement an OSPO. The book will cover a range of topics, including:
 
-* Encouraging Organizations to treat Open Source as a commodity
 * Understanding the value of open source program offices within organizations
 * Learning how to be involved in open source program operations on a daily basis
 * Gathering the ingredients for a minimum viable OSPO
@@ -28,9 +27,30 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 ## OSPO Definition
 
-An Open Source Program Office (OSPO) is a center of expertise, either virtual or physical, that supports, nurtures, shares, explains, and grows open source within an organization. OSPOs are typically responsible for defining and implementing strategies and policies that guide open source efforts and provide tools, processes, and knowledge to organization teams and experts in navigating open source without harming the open source ecosystem. Instead, they help to sustain it while achieving organizational goals.
+An *Open Source Program Office (OSPO)* is a center of expertise, either virtual or physical, that supports, nurtures, shares, explains, and grows open source within an organization. An OSPO *role* can be conceived as an umbrella term, covering the responsibilities for defining and implementing strategies and policies that guide open source efforts and provide tools, processes, and knowledge to organization teams and experts in navigating open source without harming the open source ecosystem. Instead, they help to sustain it while achieving organizational goals.
 
-OSPOs may set policies related to code use, distribution, selection, auditing, and other key areas. They may also provide education and training to internal and external stakeholders involved in open source activities, ensure legal compliance, and promote community engagement.
+ OSPOs (as center of expertise) may comprise a framework built around some or all of the following aspects:
+
+* Set policies related to code use, distribution, selection, auditing, and other key areas
+* Provide education and training to internal and external stakeholders involved in open source activities
+* Ensure legal compliance
+* Promote community engagement
+
+The impacts of an OSPO role for an organization can include:
+
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating employees, establishing new processes and workflows, and adopting new tools and technologies.
+
+* Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
+
+* Open Source Advocate: OSPOs can promote the use of open source software and best practices across different organizational units. This can help organizations realize the benefits of open source, such as increased collaboration, faster innovation, and reduced costs.
+
+* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and contributions. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
+
+## History and Roots
+
+The OSPO concept initially started within the corporate world and is now about two decades old, but really started to accelerate in the last decade or so. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) ended up having an OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+
+The term started becoming more mainstream and diverse in the last years, as more organizations from different sectors and regions included dedicated open source roles in their organization to manage open source operations and strategy. Nowadays, we can find OSPOs being formed in different regions (APAC, EMEA, AMER) and entities, such as Governments, Enterprises, NGOs, Universities and more.
 
 > Important Considerations in Defining an Open Source Program Office (OSPO): OSPOs vary in Sector, Region, and Organizational Size; May Exclude the Term 'Program' to become 'Open Source Office'; and No Two OSPOs are Alike.
 
