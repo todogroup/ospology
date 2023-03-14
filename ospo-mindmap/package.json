@@ -1,0 +1,16 @@
+{
+  "name": "ospo-mindmap",
+  "description": "The OSPO Mind Map schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.",
+  "scripts": {
+    "prebuild": "mkdir -p Public/",
+    "build": "npm run build:en -- --no-open && npm run build:jp -- --no-open",
+    "build:en": "markmap Content/ospomindmap.md --output Public/index.html",
+    "build:jp": "markmap Content/ospomindmap_jp.md --output Public/jp.html",
+    "dev": "npm run build:en -- --watch"
+  },
+  "dependencies": {
+    "markmap-cli": "^0.14.3",
+    "markmap-common": "^0.14.2"
+  },
+  "license": "CC-BY-4.0"
+}

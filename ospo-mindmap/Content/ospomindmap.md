@@ -1,4 +1,10 @@
-# 🧭 OSPO Mindmap
+---
+markmap:
+  initialExpandLevel: 2
+  maxWidth: 400
+---
+
+# 🧭 OSPO Mindmap - [Available in multiple languages](https://github.com/todogroup/ospology/tree/main/ospo-mindmap/Content)
 
 ## 🙋 Roles
 
@@ -15,7 +21,7 @@
 
 ### Industry Collaborative
 
-- `Definition` OS as a way for a specific industry to become more 
+- `Definition` OS as a way for a specific industry to become more
 efficient through sharing costs and innovation for industry-specific needs
 - `Example` EU Automotive companies
 
@@ -24,10 +30,15 @@ efficient through sharing costs and innovation for industry-specific needs
 - `Definition` Work on foundational technology problems that cross industries
 - `Example:` Bloomberg worked with Microsoft to make contributions to TypeScript
 
+### Standards Collaborative
+
+- `Definition` Support relevant standards in open source projects and provide feedback to corresponding standards organizations
+- `Example:`Encourage and guide members of their organization to participate in both the Let's Encrypt community and the IETF standards community on ACME, TLS, and other work related to X.509 certificates
+
 ### Big Project Facilitators
 
-- `Definition` Form or facilitate the formation of large, complex 
-open source projects inside an organization and/or Launch OS 
+- `Definition` Form or facilitate the formation of large, complex
+open source projects inside an organization and/or Launch OS
 as publicly available projects
 - `Example` Comcast incubated the Apache Traffic Control Project
 
@@ -39,7 +50,7 @@ source projects and capabilities
 
 ### Technology Strategy Experts
 
-- `Definition` Evaluate viable open source technologies and help senior IT managers 
+- `Definition` Evaluate viable open source technologies and help senior IT managers
 to lay out a technology roadmap
 - `Example` OSPOs that act as internal OS consultants to help developers and team
 
@@ -55,6 +66,7 @@ development team of the Linux Project
 - FTE Large Team
 - FTE Small Team
 - Virtual team (not FTE)
+- FTE team with virtual members from other teams
 - Single FTE Managing multiple teams
 
 ## 🧩 Responsibilities
@@ -96,7 +108,7 @@ development team of the Linux Project
     - RESTful API
     - SaaS
     - Web Application
-- Faciliate effective use of open source in proprietary products or services
+- Facilitate effective use of open source in proprietary products or services
 - Comply with third-party software supplier or customer contractural obligations
 - Protect organization's intellectual property
   - Conduct open source due diligence for acquisitions (or M&A projects)
@@ -117,9 +129,7 @@ development team of the Linux Project
 - License Compliance Policies
 
 
-### 📝 Establish and Improve Open Source Policies and Processes
-
-##### Policies
+### 📝 Establish and Improve Open Source Policies
 
 - Using open source and open source compliance policy
   - Forking an open source project
@@ -139,7 +149,7 @@ development team of the Linux Project
   - Risk assessment and acceptance  
   - Business alignment
 
-#### Processes
+### 💪 Establish and Improve Open Source Processes
 
 - Creating Open Source
   - Contributing to third-party OSS projects during work time
@@ -163,11 +173,6 @@ development team of the Linux Project
       - Review licenses of dependencies used by contributed code
     - Provide guidance to contributors on open source community ways of working
     - Publishing of project's release artifacts to public repositories such as Maven Central, npm, etc.
-  - Sponsoring Open Source
-    - Sponsoring third-party projects or individuals
-    - Sponsoring open source organizations
-    - Sponsoring own organization's open source projects or individual members
-    - Sponsoring events
   - Signing contribution related agreements
     - Contributor license agreement (individual / corporate)
     - Developer certificate of origin
@@ -201,12 +206,17 @@ development team of the Linux Project
   - Checklist for developers
   - Checklist for SW procurement
   - Executing a mentorship for open source leaders and/or organization leaders
-  - Organizing events 
+  - Organizing events
     - Present Open Source at the organization's all-hands and similar meetings
     - Organize brown bag seminars on open source topics (with invited speakers)
   - Assist speakers for coding forums / conferences
 - Measuring Open Source
   - Develop, execute and improve measuring the impact of your organization's open source activities
+- Sponsoring Open Source
+  - Sponsoring third-party projects or individuals
+  - Sponsoring open source organizations
+  - Sponsoring own organization's open source projects or individual members
+  - Sponsoring events
 
 ### 📈 Prioritize and Drive Open Source Upstream Development
 
@@ -283,6 +293,35 @@ incubation and post launch
 - OW2
   - Good Governance Initiative
 
+### 🤝 Collaborate with Internal Stakeholders
+
+  - Legal
+    - License compliance
+    - Policies and guidelines
+    - Mergers and acquisitions
+    - Investment due diligence
+    - Contribution reviews
+    - Trademark searches for new open source projects
+  - Security
+    - Software supply chain risk management
+    - Selection criteria for open source components
+  - Engineering & Product Development
+    - Adopt tooling
+    - Follow policy and guidelines
+  - Learning and Development
+    - Open source training
+      - Company open source policy
+      - Open source ways-of-working
+      - How to consume open source
+      - How to contribute to open source
+      - How to create open source projects
+  - Branding
+    - Corporate logo usage
+  - Corporate Communications
+    - Internal and external messaging
+    - External website
+    - Policy for speaking externally
+    - Social media accounts
 
 ### ⏱️ Track Performance Metrics
 
@@ -310,7 +349,7 @@ incubation and post launch
 
 ### 🧑‍💼 Give Advice on Open Source
 
-- Shaping the organization's software strategy and processes and role of open soure within the organization's software ecosystem
+- Shaping the organization's software strategy and processes and role of open source within the organization's software ecosystem
 - Advise on which open source technologies to adopt, hold or avoid
 - Provide open source guidance to people whether managers, contributors, open source project leaders/project maintainers with their issues
 - Evaluate OSS projects whether technical, health or compliance assessment

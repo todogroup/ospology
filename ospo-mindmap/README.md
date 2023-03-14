@@ -30,11 +30,19 @@ This folder contains four main resources:
 
 ### Content
 
-Please [open a PR](https://github.com/todogroup/ospology/pulls) making your changes and suggestions to the `md` file.
+Follow these steps to create a new version of the Mind map:
+
+1. From `ospology/ospo-mindmap/`, run
+   ```sh
+   npm install
+   ```
+2. Make your changes to [`Content/ospomindmap.md`](Content/ospomindmap.md) (or [`Content/ospomindmap_jp.md`](Content/ospomindmap_jp.md))
+3. Run `npm run dev` to see your changes live as you edit.
+4. Commit your changes and [open a PR](https://github.com/todogroup/ospology/pulls)
 
 **Markmap Syntax**
 
-Markmap is a tool (under [MIT licence](https://github.com/gera2ld/markmap/blob/master/LICENSE)) designed by @gera2ld that parses markdown content and extract its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap. Please see [markmap documentation](https://markmap.js.org/docs/) for further details.
+Markmap is a tool (under [MIT licence](https://github.com/gera2ld/markmap/blob/master/LICENSE)) designed by @gera2ld that parses markdown content and extract its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap. Please see [markmap documentation](https://markmap.js.org/docs) for further details.
 
 ### Visualization and html generation
 
@@ -49,19 +57,19 @@ to visualize your mindmap localy you can use:
 Use markmap command-line in a local terminal.
 
 ```
-$ npx markmap-cli markmap.md
+$ npx markmap-cli path/to/markmap.md
 ```
 You can also install it globally:
 ```
-$ yarn global add markmap-cli
-$ markmap markmap.md
+$ yarn global add markmap-cli markmap-common
+$ markmap path/to/markmap.md
 ```
 There is a watch mode so that you could edit the Markdown file and get updates on the fly:
 ```
-$ markmap -w markmap.md
+$ markmap -w path/to/markmap.md
 ```
 
 ### Feedback and Suggestions
 
-Do you want to imporve this guide? please open an [issue](https://github.com/todogroup/ospology/issues) with your ideas
+Do you want to improve this guide? Please open an [issue](https://github.com/todogroup/ospology/issues) with your ideas.
 
