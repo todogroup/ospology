@@ -4,7 +4,7 @@ This book provides a guide to Open Source Programs Offices (OSPOs), to better un
 establishing and managing an OSPO. The book covers a wide range of topics, including the reasons why organizations may need (or not) an OSPO, the 
 role of OSPOs in different types of organizations (public, private, small, medium, large), the challenges, antipatterns associated with OSPOs, and the 
 tools and processes required to establish and manage an effective OSPO. The book also does a brief introduction to assess an organization's readiness 
-for OSPO. As well as how to’s recommendations: from how to develop open source policies to how to engage with external open source communities.
+for having an OSPO. As well as how to’s recommendations: from how to develop open source policies to how to engage with external open source communities.
 
 # What’s not in this book
 
