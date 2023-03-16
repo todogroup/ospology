@@ -48,7 +48,7 @@ OSPO (as a role) can include:
 
 ## History and Roots
 
-The OSPO concept initially started within the corporate world and is now about two decades old, but really started to accelerate in the last decade or so. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) ended up having an OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated signficantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
 
 The term started becoming more mainstream and diverse in the last years, as more organizations from different sectors and regions included dedicated open source roles in their organization to manage open source operations and strategy. Nowadays, we can find OSPOs being formed in different regions (APAC, EMEA, AMER) and entities, such as Governments, Enterprises, NGOs, Universities and more.
 
