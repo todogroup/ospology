@@ -56,7 +56,7 @@ The term started becoming more mainstream and diverse in the last years, as more
 
 # Assessing Readiness for Open Source and OSPO
 
-`✅ Assesment`
+`✅ Assessment`
 
 The purpose of this section is to first identify the strengths, weaknesses, and opportunities for improvement within the organization, 
 and to help determine if an OSPO is the right solution for the organization's needs based on their existing open source engagement level, culture and understanding. 
