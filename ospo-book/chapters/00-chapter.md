@@ -11,8 +11,7 @@ for having an OSPO. As well as how to’s recommendations: from how to develop o
 This book is not intended to be a guide to open source software development, nor does it cover the technical aspects of open source software development 
 in depth. Instead, the book focuses on the organizational and management aspects of open source dynamics within organizations by establishing OSPO roles. 
 
-The book neither provide detailed technical guidance on specific open source software projects, nor does it provide guidance on how to write or contribute 
-code to open source projects as individuals.
+Providing guidance on how to deploy, use and contribute to specific open source software projects is also out of the scope of this book.
 
 # Who should read this book?
 
