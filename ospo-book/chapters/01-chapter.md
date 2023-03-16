@@ -14,7 +14,7 @@ In this book, we will guide organizations through the process of creating and im
 
 The book is structured in a user-friendly and practical manner, with a focus on providing actionable advice and steps that organizations can take to create and implement an OSPO. The book will cover a range of topics, including:
 
-* Understanding the value of open source program offices within organizations
+* Understanding the value of OSPOs within organizations
 * Learning how to be involved in open source program operations on a daily basis
 * Gathering the ingredients for a minimum viable OSPO
 * Best practices for creating and implementing an open source strategy
