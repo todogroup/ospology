@@ -1,7 +1,7 @@
 # Chapter 1: Introduction to Open Source Program Offices
 
 - [Introduction](#introduction)
-- [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assesment`
+- [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
 - [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 - [Resources](#resources) - `📚 Continue Here`
 
