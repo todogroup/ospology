@@ -1,4 +1,4 @@
-# What is this book About?
+# What is this book about?
 
 This book provides a guide to Open Source Programs Offices (OSPOs), to better understand their role in organizations, and the best practices for 
 establishing and managing an OSPO. The book covers a wide range of topics, including the reasons why organizations may need (or not) an OSPO, the 
