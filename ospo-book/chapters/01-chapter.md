@@ -118,7 +118,7 @@ In Chapters 3 and 6, we will delve deeper into how an OSPO can effectively addre
 
 `🚫 OSPO Antipatterns`
 
-While Open Source Programs Offices (OSPOs) can provide significant benefits for organizations, there are also bad practices that organizations should avoid if they don't want to lead to negative consequences for both the organization and the open source ecosystem. Here is a set of examples that illustrates what an OSPO is not about, and how to avoid common pitfalts:
+While Open Source Programs Offices (OSPOs) can provide significant benefits for organizations, there are also bad practices that organizations should avoid if they don't want to lead to negative consequences for both the organization and the open source ecosystem. Here is a set of examples that illustrates what an OSPO is not about, and how to avoid common pitfalls:
 
 * **Establishing an OSPO without proper alignment with organizational goals:** An OSPO should not be established just because it is a trend or because other organizations have them. Without proper alignment, an OSPO can become a waste of time, resources, and money
 
