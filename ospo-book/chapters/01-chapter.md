@@ -122,7 +122,7 @@ While Open Source Programs Offices (OSPOs) can provide significant benefits for 
 
 * **Establishing an OSPO without proper alignment with organizational goals:** An OSPO should not be established just because it is a trend or because other organizations have them. Without proper alignment, an OSPO can become a waste of time, resources, and money
 
-* **Viewing an OSPO as a separate silo within the organization:** it should be integrated into the organization's existing structure and collaborate with other teams to achieve common goals
+* **Viewing an OSPO as a separate silo within the organization:** It should be integrated into the organization's existing structure and collaborate with other teams to achieve common goals.
 
 * **Viewing an OSPO as a legal or compliance function only:** Instead, it should be recognized as a strategic entity within the organization that contributes to the organization's overall goals and objectives while keeping in mind the value and rights of the open source community.
 
