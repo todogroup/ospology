@@ -87,7 +87,7 @@ Assessing open source adoption is critical because it sets the foundation for su
 
     * How would you define 'open source'?
     * What does 'open source' mean for you and your organization?
-    * Is there an open source culture within the organization?
+    * How would you define the 'open source culture' within your organization?
     * What are the organization's goals and objectives for using open source?
     * How is open source software currently being used and /or created (contirbution) within the organization?
     * If any, what are the current policies and procedures for managing open source software within the organization?
