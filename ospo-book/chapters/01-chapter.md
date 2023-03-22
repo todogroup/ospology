@@ -85,7 +85,8 @@ Assessing open source adoption is critical because it sets the foundation for su
 
 * **☑️ Overall, gather input from stakeholders on these areas** by asking the folowing questions
 
-    * What does open source means for the organization?
+    * How would you define 'open source'?
+    * What does 'open source' mean for you and your organization?
     * Is there an open source culture within the organization?
     * What are the organization's goals and objectives for using open source?
     * How is open source software currently being used and /or created (contirbution) within the organization?
