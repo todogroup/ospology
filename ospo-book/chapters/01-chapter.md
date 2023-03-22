@@ -69,7 +69,9 @@ In the past, collaborative open source software development was primarily adopte
 
 Once an organization has assessed the level of open source used, contributed, or produced in the organization and why establishing an OSPO can help an organization manage the risks and opportunities of what open source, open works and collaboration brings, and ensure that its open source activities are effectively managed and aligned with the organization's strategic goals and objectives. 
 
-While this is a book about Open Source Programs Offices (OSPOs), it is important to note that establishing an OSPO is not the starting point for open source operations. Before establishing an OSPO (and keep reading the content of the book), it is critical to assess your organization's level of open source adoption and readiness for open source operations. Open source software adoption varies widely across organizations, and it is important to understand your organization's current level of adoption and the level of knowledge and understanding of open source within your organization.
+While this is a book about Open Source Programs Offices (OSPOs), it is important to note that establishing an OSPO might not the starting point for open source operations. Before establishing an OSPO (and keep reading the content of the book), companies and organizations need to assess their current goals and relationship with using and collaborating to open source software projects. 
+
+Below, people will find a checklist to assess and better understand their possible current stage and potential next steps.
 
 Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes. 
 
