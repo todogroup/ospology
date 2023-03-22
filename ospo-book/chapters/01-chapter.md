@@ -63,7 +63,7 @@ and to help determine if an OSPO is the right solution for the organization's ne
 
 ## Where do Open Source and OSPO converge?
 
-In the past, open source software was primarily used by small groups of developers and enthusiasts, and there was little need for dedicated organizational units to manage open source activities. However, as open source software has become more prevalent and critical to the operation of many organizations, the need for dedicated OSPOs has become more apparent.
+In the past, collaborative open source software development was primarily adopted by small groups of developers and enthusiasts, and there was little need for dedicated organizational units to manage open source activities. However, as this method has become more prevalent and critical to the operation of many organizations, the need for dedicated OSPOs has become more apparent.
 
 ### Understand existing and desired open source adoption
 
