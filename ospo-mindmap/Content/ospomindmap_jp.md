@@ -4,9 +4,9 @@ markmap:
   maxWidth: 400
 ---
 
-# 🧭 OSPOマインドマップ (原文は[こちら](https://github.com/todogroup/ospology/blob/main/ospo-mindmap/Content/ospomindmap.md))
+# 🧭 OSPOマインドマップ - 原文は[こちら](https://github.com/todogroup/ospology/blob/main/ospo-mindmap/Content/)
 
-## 役割
+## 🙋 役割
 
 - ガバナンス
 - プロジェクト管理
