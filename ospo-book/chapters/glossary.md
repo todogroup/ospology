@@ -11,7 +11,7 @@ information and resources available.
 * **InnerSource:** is the use of open source software development best practices and the establishment of an open source-like culture within organizations
 for the development of its non-open-source and/or proprietary software. https://en.wikipedia.org/wiki/Inner_source
 
-* **InnerSource Principles:** InnerSource Principles are a set of guidelines that provide a framework InnerSource Principles provide a framework for organizations 
+* **InnerSource Principles:** InnerSource Principles are a set of guidelines that provide a framework for organizations 
 to tap into the collective knowledge and expertise of their employees, and to create a culture of collaboration and innovation. 
 Learn more about InnerSource principles: https://innersourcecommons.org/learn/
 
