@@ -7,7 +7,7 @@ of these terms, but to clarify what we mean specifically under the context of th
 We believe that it is important to be concise and clear in our definitions, and to reference existing descriptions and resources whenever possible. 
 This will help us avoid creating a glossary that is overly complex or difficult to understand, and will ensure that our readers have access to the best 
 information and resources available.
-
+**Free Software:** Free Software refers to freedom, not price. It guarantees its users the essential four freedoms (Use, Study, Share, Improve) The absence of at least one of these freedoms means an application is proprietary, so non‐Free Software. Learn more: https://fsfe.org/freesoftware/freesoftware.en.html
 * **InnerSource:** is the use of open source software development best practices and the establishment of an open source-like culture within organizations
 for the development of its non-open-source and/or proprietary software. https://en.wikipedia.org/wiki/Inner_source
 
