@@ -17,7 +17,6 @@ Providing guidance on how to deploy, use and contribute to specific open source 
 
 This book is intended for any person that wants to better understand the role of OSPOs within an organization.
 More specific examples include:
-likely to have a close relationship with an OSPO in the future.
 
 * Executives, policy-makers and decision-makers who are responsible for establishing, overseeing, funding or sponsoring an OSPO within an organization.
 * Open source program managers and leaders who are responsible for coordinating and managing an organization's open source activities and engagement with open source communities.
