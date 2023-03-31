@@ -102,7 +102,7 @@ Assessing open source adoption is critical because it sets the foundation for su
     * What are the challenges of implementing an OSPO within the organization?
     * What resources and support will be needed to successfully implement an OSPO within the organization?
     
-### Understand knowledge transmission through the eyes of OSPO
+### Understand knowledge sharing through the eyes of OSPO
 
 > RE ML disussion: https://lists.todogroup.org/g/ospo-book-project/message/5
 
