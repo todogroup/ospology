@@ -44,7 +44,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Course | Open Source Community Management | https://training.linuxfoundation.org/training/open-source-community-management/ |
 | Course | Open Source License Compliance for Lawyers | https://training.linuxfoundation.org/training/open-source-license-compliance-for-lawyers/ |
 | Course | Open Source Licensing Basics for Lawyers | https://training.linuxfoundation.org/training/open-source-licensing-basics-for-lawyers/ |
-| Course | Introduction to open source license compliance | https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/
+| Course | Introduction to open source license compliance | https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/ |
 | Course | Secure Software Development Fundamentals Courses | https://openssf.org/training/courses/ |
 | Whitepaper | A Deep Dive into OSPO Responsibilities structures and open source models | https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/ |
 | Handbook | Good Governance Initiative | https://ospo.zone/ggi/ |
@@ -59,8 +59,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | Understanding the Open Source Development Model | https://derkling.matbug.net/_media/docs:lf_os_dev_model.pdf |
 | Study | Artificial Intelligence and Data in Open Source | https://www.linuxfoundation.org/research/artificial-intelligence-and-data-in-open-source | 
 | Study | The Business Value of the OSPO | https://www.linuxfoundation.org/research/business-value-of-ospo |
-| Study | A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges
- | https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices |
+| Study | A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges | https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices |
 | Study | The Evolution of the Open Source Program Office (OSPO) | https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo |
 | Case Study | Autodesk OSPO | https://todogroup.org/guides/casestudies/autodesk/ | 
 | Case Study | Capital One - OSPO in regulated environments | https://todogroup.org/guides/casestudies/capitalone/ | 
