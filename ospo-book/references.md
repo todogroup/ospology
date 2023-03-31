@@ -59,6 +59,9 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | Understanding the Open Source Development Model | https://derkling.matbug.net/_media/docs:lf_os_dev_model.pdf |
 | Study | Artificial Intelligence and Data in Open Source | https://www.linuxfoundation.org/research/artificial-intelligence-and-data-in-open-source | 
 | Study | The Business Value of the OSPO | https://www.linuxfoundation.org/research/business-value-of-ospo |
+| Study | A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges
+ | https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices |
+
 | Case Study | Autodesk OSPO | https://todogroup.org/guides/casestudies/autodesk/ | 
 | Case Study | Capital One - OSPO in regulated environments | https://todogroup.org/guides/casestudies/capitalone/ | 
 | Case Study | Porsche - OSPOs in Automotive | https://todogroup.org/guides/casestudies/porsche/ |
@@ -84,4 +87,4 @@ This section will provide organizations with a comprehensive list of the existin
 | Book | The Open Source Way 2.0 | https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html |
 | Book | VM (Vicky) Brasseur: Forge Your Future with Open Source | https://www.oreilly.com/library/view/forge-your-future/9781680506389/f_0000.xhtml |
 | Book | Eric S. Raymond: The Cathedral & the Bazaar | https://www.oreilly.com/library/view/the-cathedral/0596001088/ | 
-| Book | Open Source Law, Policy and Practice (2nd edn) | https://academic.oup.com/book/44727?login=false | 
+| Book | Open Source Law, Policy and Practice (2nd edn) | https://academic.oup.com/book/44727 | 
