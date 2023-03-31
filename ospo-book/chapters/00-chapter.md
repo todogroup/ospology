@@ -20,6 +20,5 @@ More specific examples include:
 
 * Executives, policy-makers and decision-makers who are responsible for establishing, overseeing, funding or sponsoring an OSPO within an organization.
 * Open source program managers and leaders who are responsible for coordinating and managing an organization's open source activities and engagement with open source communities.
-* Developers, researchers, students, professors and engineers who are interested in contributing to open source projects and want to better understand the role of OSPOs within their organization.
 * Legal and compliance professionals who are responsible for managing legal issues related to open source software, including licensing and intellectual property.
 
