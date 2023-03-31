@@ -61,7 +61,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | The Business Value of the OSPO | https://www.linuxfoundation.org/research/business-value-of-ospo |
 | Study | A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges
  | https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices |
-
+| Study | The Evolution of the Open Source Program Office (OSPO) | https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo |
 | Case Study | Autodesk OSPO | https://todogroup.org/guides/casestudies/autodesk/ | 
 | Case Study | Capital One - OSPO in regulated environments | https://todogroup.org/guides/casestudies/capitalone/ | 
 | Case Study | Porsche - OSPOs in Automotive | https://todogroup.org/guides/casestudies/porsche/ |
