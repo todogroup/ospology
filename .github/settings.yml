@@ -15,6 +15,7 @@ repository:
   # note that the permissions below may provide wider access than needed for
   # a specific role, and we trust these individuals to act according to their
   # role. If there are questions, please contact one of the chairs.
+  
 collaborators:
   - username: caniszczyk
     permission: admin
@@ -23,4 +24,7 @@ collaborators:
     permission: admin
 
   - username: amye
+    permission: admin
+    
+  - username: souravcipher
     permission: admin
