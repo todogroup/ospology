@@ -94,7 +94,8 @@ Assessing open source adoption is critical because it sets the foundation for su
     * How much open-source software is already being used in the organization?
     * How would you define the 'open source culture' within your organization?
     * What are the organization's goals and objectives for using open source?
-    * How is open source software currently being used and /or created (contirbution) within the organization?
+    * How is open source software currently being used (usage) within the organization?
+    * How is open source software currently being created (contribution) within the organization?
     * If any, what are the current policies and procedures for managing open source software within the organization?
     * What are the key legal and compliance considerations for using open source software within the organization?
     * What are the motivations for implementing an OSPO within the organization?
