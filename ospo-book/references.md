@@ -58,6 +58,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | The Evolution of the OSPO | https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/ |
 | Study | Understanding the Open Source Development Model | https://derkling.matbug.net/_media/docs:lf_os_dev_model.pdf |
 | Study | Artificial Intelligence and Data in Open Source | https://www.linuxfoundation.org/research/artificial-intelligence-and-data-in-open-source | 
+| Study | The Business Value of the OSPO | https://www.linuxfoundation.org/research/business-value-of-ospo |
 | Case Study | Autodesk OSPO | https://todogroup.org/guides/casestudies/autodesk/ | 
 | Case Study | Capital One - OSPO in regulated environments | https://todogroup.org/guides/casestudies/capitalone/ | 
 | Case Study | Porsche - OSPOs in Automotive | https://todogroup.org/guides/casestudies/porsche/ |
