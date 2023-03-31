@@ -15,7 +15,7 @@ Providing guidance on how to deploy, use and contribute to specific open source 
 
 # Who should read this book?
 
-This book is intended for any person that wants to better understand the role of OSPOs within an organization. The book may be of interest to any role 
+This book is intended for any person that wants to better understand the role of OSPOs within an organization.
 More specific examples include:
 likely to have a close relationship with an OSPO in the future.
 
