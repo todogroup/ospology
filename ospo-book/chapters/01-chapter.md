@@ -29,7 +29,22 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 ## OSPO Definition
 
-An *Open Source Program Office (OSPO)* is a center of expertise, either virtual or physical, that supports, nurtures, shares, explains, and grows open source within an organization. An OSPO *role* can be conceived as an umbrella term, covering the responsibilities for defining and implementing strategies and policies that guide open source efforts and provide tools, processes, and knowledge to organization teams and experts in navigating open source without harming the open source ecosystem. Instead, they help to sustain it while achieving organizational goals.
+
+[WHAT] An Open Source Program Office (OSPO) is a center of expertise, either virtual or physical, whose people support, nurture, share, explain, and promote the growth of open source within an organization.
+
+[WHO] OSPOs are composed of people (open source specialists) wearing different hats:
+
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
+
+* Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
+
+* Open Source Advocate: OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
+
+* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
+
+[HOW] The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
+
+[WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
  OSPOs (as center of expertise) may comprise a framework built around some or all of the following aspects:
 
