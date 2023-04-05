@@ -46,22 +46,6 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
- OSPOs (as center of expertise) may comprise a framework built around some or all of the following aspects:
-
-* Set policies related to code use, distribution, selection, auditing, and other key areas
-* Provide education and training to internal and external stakeholders involved in open source activities
-* Ensure legal compliance
-* Promote community engagement
-
-OSPO (as a role) can include:
-
-* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
-
-* Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
-
-* Open Source Advocate: OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
-
-* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
 
 ## History and Roots
 
