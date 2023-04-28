@@ -1,0 +1,27 @@
+name: Build PDF
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'ospo-book/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'ospo-book/**'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Generate book
+      uses: docker://pandoc/latex:3.1
+      with:
+        args: -N -s --template=ospo-book/docs/template.latex -o ospo-book/docs/output.pdf ospo-book/chapters/*.md
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: book-pdf
+        path: ospo-book/docs/output.pdf
