@@ -44,8 +44,8 @@ The methodology will be designed to help organizations streamline their open sou
 
 ## Communication Channels
 
-* Creation of a new Mailing List with all collaborators and users involved: ospo-book-project (via groups.io) 
-* One Bi-monthly sync call ( AMER/ EMEA and APAC/EMEA-friendly timezone) with agenda to follow up (TBD)
+* Mailing List with interested contributors: [Join ospo-book-project](https://lists.todogroup.org/g/ospo-book-project)
+* One Bi-monthly sync call ( AMER/ EMEA and APAC/EMEA-friendly timezone) with agenda to follow up: Sent via mailing list
 
 ## Existing Literature & Resources
 
@@ -60,4 +60,4 @@ This section will provide organizations with a comprehensive overview of the exi
 
 ## License & Attribution Notice 
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, are the original creators of this work and made substantial contributions to its content and development. The [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the authors only (the creators).
+This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that aappear in this list.
