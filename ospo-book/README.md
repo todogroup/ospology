@@ -60,4 +60,4 @@ This section will provide organizations with a comprehensive overview of the exi
 
 ## License & Attribution Notice 
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that aappear in this list.
+This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that appear in this list.
