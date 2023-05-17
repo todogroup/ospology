@@ -86,7 +86,7 @@ Assessing open source adoption is critical because it sets the foundation for su
 
 * **☑️ Addressing Gaps:** Determine if there are any gaps in open source adoption or readiness and develop a plan to address them. This may include training those actors that will be or are currently involved in open source on open source software usage and licensing, developing new tools and processes to support open source operations, or establishing an OSPO to coordinate open source activities.
 
-* **☑️ Overall, gather input from stakeholders on these areas** by asking the folowing questions
+* **☑️ Overall, gather input from stakeholders on these areas** by asking the following questions
 
     * How would you define 'open source'?
     * What does 'open source' mean for you and your organization?
@@ -101,11 +101,11 @@ Assessing open source adoption is critical because it sets the foundation for su
     * What are the challenges of implementing an OSPO within the organization?
     * What resources and support will be needed to successfully implement an OSPO within the organization?
     
-### Understand knowledge sharing through the eyes of OSPO
+### Understand knowledge sharing through the eyes of an OSPO
 
-> RE ML disussion: https://lists.todogroup.org/g/ospo-book-project/message/5
+> RE ML discussion: https://lists.todogroup.org/g/ospo-book-project/message/5
 
-If the organization decide to establish an OSPO (as entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
+If the organization decides to establish an OSPO (as an entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
 
 * Looking downward: as the head of an OSPO, managing the team's tasks is a fundamental responsibility. Depending on the OSPO's objectives, the team's responsibilities may vary, but effective management is essential.
 
@@ -125,7 +125,7 @@ In Chapters 3 and 6, we will delve deeper into how an OSPO can effectively addre
 
 `🚫 OSPO Antipatterns`
 
-While Open Source Programs Offices (OSPOs) can provide significant benefits for organizations, there are also bad practices that organizations should avoid if they don't want to lead to negative consequences for both the organization and the open source ecosystem. Here is a set of examples that illustrates what an OSPO is not about, and how to avoid common pitfalls:
+While Open Source Program Offices (OSPOs) can provide significant benefits for organizations, there are also bad practices that organizations should avoid if they don't want to lead to negative consequences for both the organization and the open source ecosystem. Here is a set of examples that illustrates what an OSPO is not about, and how to avoid common pitfalls:
 
 * **Establishing an OSPO without proper alignment with organizational goals:** An OSPO should not be established just because it is a trend or because other organizations have them. Without proper alignment, an OSPO can become a waste of time, resources, and money.
 
