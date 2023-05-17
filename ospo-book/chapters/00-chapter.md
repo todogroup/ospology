@@ -1,17 +1,13 @@
 # What is this book about?
 
-This book provides a guide to Open Source Programs Offices (OSPOs), to better understand their role in organizations, and the best practices for 
-establishing and managing an OSPO. The book covers a wide range of topics, including the reasons why organizations may need (or not) an OSPO, the 
-role of OSPOs in different types of organizations (public, private, small, medium, large), the challenges, antipatterns associated with OSPOs, and the 
-tools and processes required to establish and manage an effective OSPO. The book also does a brief introduction to assess an organization's readiness 
-for having an OSPO. As well as how to’s recommendations: from how to develop open source policies to how to engage with external open source communities.
+This book serves as a guide for Open Source Program Offices (OSPOs), aiding them in gaining a better understanding of their role within organizations and providing valuable insights into the optimal practices for establishing and effectively managing an OSPO. The book covers a wide range of topics, including why organizations may or may not need an OSPO, the role of OSPOs in different types of organizations (public, private, small, medium, large), the challenges, antipatterns associated with OSPOs, and the 
+tools and processes required to establish and manage an effective OSPO. Additionally, the book includes a concise introduction to assessing an organization's preparedness for implementing an OSPO. It offers practical recommendations and step-by-step guidance on various aspects, ranging from formulating open source policies to effectively engaging with external open source communities.
 
 # What’s not in this book
 
-This book is not intended to be a guide to open source software development, nor does it cover the technical aspects of open source software development 
-in depth.
+This book does not aim to provide guidance on open source software development or delve deeply into its technical aspects.
 
-Providing guidance on how to deploy, use and contribute to specific open source software projects is also out of the scope of this book.
+Additionally, it does not intend to offer guidance on the deployment, usage, and contribution to specific open source software projects, as this falls outside the scope of the book.
 
 # Who should read this book?
 
