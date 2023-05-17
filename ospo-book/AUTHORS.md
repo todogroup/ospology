@@ -1,4 +1,4 @@
-Here is a list of Authors and Co-auhtors of this project. This list is updated every time a new release is published.
+Here is a list of Authors and Co-authors of this project. This list is updated every time a new release is published.
 
 ## Authors
 
@@ -28,6 +28,6 @@ Here is a list of Authors and Co-auhtors of this project. This list is updated e
 - Kate Stewart
 - David a. Wheeler
 
-> Co-author list will evolve as new contributions form more open source experts arise
-> If you would like to be added to the list. Please open a new issue and ping @anajsana for awareness
-> If you would like to be removed form the list. Please open a new issue and ping @anajsana for awareness
+> Co-author list will evolve as new contributions from more open source experts arise
+> If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
+> If you would like to be removed from the list, please open a new issue and ping @anajsana for awareness
