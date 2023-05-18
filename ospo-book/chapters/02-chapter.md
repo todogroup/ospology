@@ -29,13 +29,13 @@ To understand the value of an OSPO, the reader needs to get familiar to the reas
 ## The reasons behind STARTING an OSPO
 
 The [business value of the OSPO](https://project.linuxfoundation.org/hubfs/LF%20Research/TODO%20Group%20-%20The%20Business%20Value%20of%20the%20OSPO%20-%20Report.pdf?hsLang=en) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
-* Mitigating Security Risks
-* Embracing the Sustainability of Open Source Projects
-* Managing Compliance 
 * Building standardized processes around open source
 * Learn how to approach the open source community
+* Embracing the Sustainability of Open Source Projects
+* Managing Compliance 
 * Expanding access to open knowledge
 * Improving development velocity
+* Mitigating Security Risks
 
 ## The reasons behind SUSTAINING an OSPO
 
