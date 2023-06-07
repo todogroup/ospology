@@ -93,6 +93,20 @@ Since every organization is unique in its values, business drivers, and culture,
 
 Moreover, it is important to [identify the open source projects and communities with which you will work](https://todogroup.org/guides/participating/). Developing a plan for how you will support these initiatives is crucial. Additionally, you will need to [consider the role that open source will play in your organization and how you will integrate open source solutions into your existing IT infrastructure](https://todogroup.org/guides/outbound-oss/).
 
+### Making Open Source Relevant outside the organization
+
+Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
+
+* Government Agencies: Government bodies establish and enforce laws and regulations that impact organizations.
+* Industry Regulators: Many industries have their own regulatory bodies or professional associations that set guidelines and standards for organizations to follow.
+* Consumer Protection Agencies: Consumer protection agencies ensure that organizations provide fair and safe products or services to consumers.
+
+In order for open source to be successful and sustainable within an organization, it is crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications on open source and its community.
+
+![collaboration-outside](https://github.com/todogroup/ospology/assets/43671777/33b831ed-fbcd-42ad-bc62-a04d5467ddfc)
+
+
+Consequently, when formulating strategies, it is essential for the Open Source Program Office (OSPO) to develop a plan on how to approach and communicate with these regulators, clearly defining the roles they will play in the policy-making process.
 
 
 ## Assessing Maturity of Open Source Program Office
