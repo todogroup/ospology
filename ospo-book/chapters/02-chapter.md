@@ -101,7 +101,7 @@ Common misunderstandings that should be corrected as soon as possible
 * **OSPO = Sales Profit or Marketing Tool:** Assume that an OSPO will act as a lead generator.
 * **Believe that an OSPO provides an immediate solution** to the open source problems the organization faces
 * **See OSPOs as an added value and not as direct support for the core organization’s areas and functions:** As cited in the 2020 State of the Software Supply Chain Report from Sonatype, [80-90% of modern applications consist of open source software](https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations). If your organization uses open source in their internal processes and/or products, is very likely that the OSPO enable and maintain risk mitigation.
-
+**OSPO that have pure a technical focus and forget about Open Source culture:**  Working on code together means a lot of things: transparency, diversity and cooperation.
 # Resources
 
 `📚 Continue Here`
