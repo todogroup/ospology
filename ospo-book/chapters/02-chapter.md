@@ -41,7 +41,7 @@ The [business value of the OSPO report](https://project.linuxfoundation.org/hubf
 
 Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 
-An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open-source knowledge, helping the organization to contribute to and build more secure open-source software, as well as improving the sustainability of open-source projects. 
+An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open-source software, as well as improving the sustainability of open-source projects. 
 
 The different roles and responsibilities of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
 
