@@ -48,7 +48,7 @@ The different roles and responsibilities of an OSPO shared below can help reader
 * **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers do not have to consider the business implications of different open source engagement models every time they try to solve a problem
 
 * **Acts as a Facilitator:** The OSPO also plays a sort of translation role between
-Organization’s teams and decision makers' interests regarding open source and the needs from teh open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
+Organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
 
 * **Acts as an Advocate:** OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones
 
