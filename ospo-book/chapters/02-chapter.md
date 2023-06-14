@@ -9,7 +9,7 @@
 
 # Introduction
 
-From end-user companies and software companies to universities and public administrations, an organization's relationship with open source and the value it can get from an OSPO depend on the type of organization it is. However, we can still identify some critical problems that arise when getting involved in open source on an organizational level, which motivates the creation and continuity of an OSPO.
+From end-user companies and software companies to universities and public administrations, an organization's relationship with open source and the value it can get from an OSPO is different per organization. However, we can still identify some critical problems that arise when getting involved in open source on an organizational level, which motivates the creation and continuity of an OSPO.
 
 * **The tension between the need to ship product features and the need to contribute back to open source:** Open source contributions may take a back seat when dealing with multiple day-to-day tasks.
 
