@@ -42,6 +42,8 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 * Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
 
+* Open Source Gatekeeper: OSPOs can help to enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
+
 [HOW] The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
