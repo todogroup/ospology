@@ -27,6 +27,7 @@ Here is a list of Authors and Co-authors of this project. This list is updated e
 - Shane Coughlan
 - Kate Stewart
 - David a. Wheeler
+- Jonas van den Bogaard
 
 > Co-author list will evolve as new contributions from more open source experts arise
 > If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
