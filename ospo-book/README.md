@@ -5,7 +5,7 @@
 * **Desired mid-publication Date:** September 2023
 * **Desired official release Date:** January 2024 
 
-> If you are new to the project, please scroll down to `🐣 Newcommers - START HERE` and read [CONTRIBUTING.md](ospo-book/CONTRIBUTING.md)
+> If you are new to the project, please scroll down to `🐣 Newcommers - START HERE` and read [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## 🧩 Project Description
 
