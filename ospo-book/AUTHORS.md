@@ -1,4 +1,10 @@
-Here is a list of Authors and Co-authors of this project. This list is updated every time a new release is published.
+Here is a list of Authors and Co-authors (contributors) of this project. 
+
+This list is updated every time a new release is published, but you can open a PR anytime adding your name to the list. A maintainer will later review your submission.
+
+> To learn how to become a contributor and be added to this list, please visit GOVERNANCE.md and CONTRIBUTING.md
+
+# Contributors (Individuals)
 
 ## Authors
 
