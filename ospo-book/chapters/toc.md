@@ -4,9 +4,9 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 
 ⚠️ Please make sure you have read the following documentation before proceeding further to gain a complete understanding of the project's workflow and governance.
 
-- [ ] README.md
-- [ ] CONTRIBUTING.md
-- [ ] GOVERNANCE.md
+* [ ] README.md
+* [ ] CONTRIBUTING.md
+* [ ] GOVERNANCE.md
 
 ## Chapter 1: Introduction to Open Source Program Offices
 
@@ -64,5 +64,5 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 
 Under discussion:
 
-*  [How to be a good Open Source community citizen and What to prepare when not every one plays by rules](https://github.com/todogroup/ospology/issues/320)
-*  [Recent developments & outlook](https://github.com/todogroup/ospology/issues/280)
+* [How to be a good Open Source community citizen and What to prepare when not every one plays by rules](https://github.com/todogroup/ospology/issues/320)
+* [Recent developments & outlook](https://github.com/todogroup/ospology/issues/280)
