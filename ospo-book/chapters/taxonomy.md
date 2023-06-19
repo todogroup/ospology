@@ -8,42 +8,41 @@ The tag system followed in the book aims to show the types of segments that the 
 
 **Goal Alignment Definition:**
 Goal alignment refers to the process of aligning the goals and objectives of the OSPO
-with the overall mission and purpose of the organization and those entities that shapes 
+with the overall mission and purpose of the organization and those entities that shapes
 the organization (e.g government laws).
 
 **Drivers of Motivation Definition:**
-Motivation is the driving force that fuels people and entities to achieve their goals and 
+Motivation is the driving force that fuels people and entities to achieve their goals and
 reach their full potential.
 
 ### Segments Definition & Diagram
 
-* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises, 
-that are primarily focused on creating business value through the use of open source software. 
+* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises,
+that are primarily focused on creating business value through the use of open source software.
 
-    * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
+  * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
 
-* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities 
-or schools, that are focused on using open source software to support teaching, research and learning 
+* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities
+or schools, that are focused on using open source software to support teaching, research and learning
 activities.
 
-    * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
+  * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
 
 * `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are likely to collaborate
 with `educational-oriented` types.
 
-    * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
+  * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
 
-
-* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are 
-focused on using open source software to achieve social or public policy objectives (e.g serving 
+* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are
+focused on using open source software to achieve social or public policy objectives (e.g serving
 citizens).
 
-    * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
-    
-* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated 
-to using open source software to create positive social change. 
+  * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
 
-    * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
+* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated
+to using open source software to create positive social change.
+
+  * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
 
 ![img-1l](https://user-images.githubusercontent.com/43671777/222904547-885da535-96c2-4586-a907-b7ab9623ba55.png)
 
@@ -57,19 +56,18 @@ Regardless of the type of organization, it is essential for OSPO leaders and tea
 
 It's worth noting that these tags are not meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
 
-Identifiers: 
-`📈 Business-Oriented`,  
-`🎓 Educational-Oriented`, 
-`👩‍🏫 Business-Educational`, 
-`🏛 Social-Gov-Oriented`, 
+Identifiers:
+`📈 Business-Oriented`,
+`🎓 Educational-Oriented`,
+`👩‍🏫 Business-Educational`,
+`🏛 Social-Gov-Oriented`,
 `🌳 Social-NonGov-Oriented`
 
-
-## ☑️ Assessment Checklists 
+## ☑️ Assessment Checklists
 
 Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ assespent`
 
-## 🎙 Use Cases 
+## 🎙 Use Cases
 
 Provide evidence and examples on how open source leades are doing across organizations and regions. Identifier `🎙 use-case`
 
@@ -77,7 +75,6 @@ Provide evidence and examples on how open source leades are doing across organiz
 
 Raise awareness of ineffective approaches. Identifier `🚫 antipatterns`
 
-## 🧑‍🏫 "Continue here" Resources 
+## 🧑‍🏫 "Continue here" Resources
 
 Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 resources`
-

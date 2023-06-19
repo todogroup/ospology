@@ -1,9 +1,9 @@
 # Chapter 1: Introduction to Open Source Program Offices
 
-- [Introduction](#introduction)
-- [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
-- [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
-- [Resources](#resources) - `📚 Continue Here`
+* [Introduction](#introduction)
+* [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
+* [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
+* [Resources](#resources) - `📚 Continue Here`
 
 # Introduction
 
@@ -11,6 +11,7 @@ Open source has become an integral part of modern organizations, offering a rang
 
 Creating an Open Source Program Office (OSPO) can accelerate a company's or organization's open source journey from mindset change to efficient policies and workflows. An OSPO is a dedicated team or department within an organization that is responsible for managing the organization's open source operations, including the development, distribution, and use of open source software, and harmonizing and integrating these with product development.
 In this book, we will guide organizations through the process of creating and implementing an OSPO. The book provides:
+
 * Practical advice and best practices on how to streamline open source operations
 * Recommendations to ensure that organizations can maximize the benefits of open source while being good open source citizens.
 
@@ -28,7 +29,6 @@ Whether you're just starting out on your open source journey, or are looking to 
 In the following chapters, we will explore the key components of an OSPO, and provide practical guidance and best practices on how to create and implement an OSPO within your organization, regardless of your industry or sector. So let's get started!
 
 ## OSPO Definition
-
 
 [WHAT] An Open Source Program Office (OSPO) is a center of expertise, either virtual or physical, whose people support, nurture, share, explain, and promote the growth of open source within an organization.
 
@@ -48,7 +48,6 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
-
 ## History and Roots
 
 The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated signficantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
@@ -61,8 +60,7 @@ The term started becoming more mainstream and diverse in the last years, as more
 
 `✅ Assessment`
 
-The purpose of this section is to first identify the strengths, weaknesses, and opportunities for improvement within the organization, 
-and to help determine if an OSPO is the right solution for the organization's needs based on their existing open source engagement level, culture and understanding. 
+The purpose of this section is to first identify the strengths, weaknesses, and opportunities for improvement within the organization, and to help determine if an OSPO is the right solution for the organization's needs based on their existing open source engagement level, culture and understanding.
 
 ## Where do Open Source and OSPO converge?
 
@@ -70,13 +68,13 @@ In the past, collaborative open source software development was primarily adopte
 
 ### Understand existing and desired open source adoption
 
-Once an organization has assessed the level of open source used, contributed, or produced in the organization and why establishing an OSPO can help an organization manage the risks and opportunities of what open source, open works and collaboration brings, and ensure that its open source activities are effectively managed and aligned with the organization's strategic goals and objectives. 
+Once an organization has assessed the level of open source used, contributed, or produced in the organization and why establishing an OSPO can help an organization manage the risks and opportunities of what open source, open works and collaboration brings, and ensure that its open source activities are effectively managed and aligned with the organization's strategic goals and objectives.
 
-While this is a book about Open Source Programs Offices (OSPOs), it is important to note that establishing an OSPO might not the starting point for open source operations. Before establishing an OSPO (and keep reading the content of the book), companies and organizations need to assess their current goals and relationship with using and collaborating to open source software projects. 
+While this is a book about Open Source Programs Offices (OSPOs), it is important to note that establishing an OSPO might not the starting point for open source operations. Before establishing an OSPO (and keep reading the content of the book), companies and organizations need to assess their current goals and relationship with using and collaborating to open source software projects.
 
 Below, people will find a checklist to assess and better understand their possible current stage and potential next steps.
 
-Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes. 
+Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes.
 
 * **☑️ Open Source Software (or open works) Usage:** Evaluate the level of open source software usage within your organization. Are there any specific open source projects that are widely used? Are there any projects that are critical to the organization's operations?
 
@@ -90,22 +88,22 @@ Assessing open source adoption is critical because it sets the foundation for su
 
 * **☑️ Overall, gather input from stakeholders on these areas** by asking the following questions
 
-    * How would you define 'open source'?
-    * What does 'open source' mean for you and your organization?
-    * How much open-source software is already being used in the organization?
-    * How would you define the 'open source culture' within your organization?
-    * What are the organization's goals and objectives for using open source?
-    * How is open source software currently being used (usage) within the organization?
-    * How is open source software currently being created (contribution) within the organization?
-    * If any, what are the current policies and procedures for managing open source software within the organization?
-    * What are the key legal and compliance considerations for using open source software within the organization?
-    * What are the motivations for implementing an OSPO within the organization?
-    * What are the challenges of implementing an OSPO within the organization?
-    * What resources and support will be needed to successfully implement an OSPO within the organization?
-    
+  * How would you define 'open source'?
+  * What does 'open source' mean for you and your organization?
+  * How much open-source software is already being used in the organization?
+  * How would you define the 'open source culture' within your organization?
+  * What are the organization's goals and objectives for using open source?
+  * How is open source software currently being used (usage) within the organization?
+  * How is open source software currently being created (contribution) within the organization?
+  * If any, what are the current policies and procedures for managing open source software within the organization?
+  * What are the key legal and compliance considerations for using open source software within the organization?
+  * What are the motivations for implementing an OSPO within the organization?
+  * What are the challenges of implementing an OSPO within the organization?
+  * What resources and support will be needed to successfully implement an OSPO within the organization?
+
 ### Understand knowledge sharing through the eyes of an OSPO
 
-> RE ML discussion: https://lists.todogroup.org/g/ospo-book-project/message/5
+> RE ML discussion: <https://lists.todogroup.org/g/ospo-book-project/message/5>
 
 If the organization decides to establish an OSPO (as an entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
 
@@ -136,7 +134,6 @@ While Open Source Program Offices (OSPOs) can provide significant benefits for o
 * **Viewing an OSPO as a legal or compliance function only:** Instead, it should be recognized as a strategic entity within the organization that contributes to the organization's overall goals and objectives while keeping in mind the value and rights of the open source community.
 
 * **Viewing an OSPO as a one-size-fits-all solution:** It's important to evaluate the benefits and costs of establishing an OSPO and determine if it's the right fit for your organization's goals and objectives.
-
 
 ## Resources
 
