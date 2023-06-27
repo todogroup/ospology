@@ -53,7 +53,8 @@ Organization’s teams and decision makers' interests regarding open source and 
 * **Acts as an Advocate:** OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones
 
 * **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
-**Acts as an Gatekeeper:** OSPOs can help to enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
+
+* **Acts as a Gatekeeper:** OSPOs can help to enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
 ## [Apendix A] A detailed perspective of open source in Public Administrations
 
 We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
