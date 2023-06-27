@@ -41,7 +41,7 @@ open source tasks into four layers of work:
 * **Worker / Employee Level:** This layer involves the people behind the OSPO to work with individuals within the organization, wiht main focus on the intrinsic and extrinsic motivators of contributing 
  to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **Management Level:** At this layer, the people behind the OSPO focus is on strategy and finding alignment between open source and the overall business / organizaiton strategy. Managers may face unique challenges, and leveraging the strengths of open source to help them solve these challenges can help address these issues effectively.
+* **Management Level:** At this layer, the OSPO focuses on strategy and finding alignment between open source and the overall business / organization strategy. Managers may face unique challenges, and leveraging the strengths of open source to help them solve these challenges can help address these issues effectively.
 
 * **Business / Team Units Level:** This layer focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business / team units and fostering collaboration and knowledge transfer among them.
 
