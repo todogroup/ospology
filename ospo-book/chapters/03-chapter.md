@@ -13,7 +13,7 @@
 
 ## Introduction
 
-In this chapter, we will introduce the key tasks and responsibilities of an open source program office (OSPO) on a day-to-day basis, 
+In this chapter, we will introduce the key tasks and responsibilities of an Open Source Program Office (OSPO) on a day-to-day basis, 
 as well as the core concepts to get started with a minimum viable OSPO. This includes the strategy aspect, layers of work, and pillars of support.
 
 ### Ingredients for a Minimum Viable OSPO
