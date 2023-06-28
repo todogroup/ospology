@@ -6,7 +6,6 @@
       - Pillars of Support
       - Design an open source startegy
       - OSPO Framework components
-      - Dealing with regulation and procurement
 - [Assessing maturity of open source program office](#assessing-maturity-of-open-source-program office) - `✅ Assessment`
 - [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 - [Resources](#resources) - `📚 Continue Here`
