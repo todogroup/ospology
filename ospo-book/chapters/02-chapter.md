@@ -68,7 +68,7 @@ Public sector organizations face unique challenges when it comes to managing the
 
 * Increased Collaboration: An OSPO helps public sector organizations to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
 
-* Better Resource Allocation: An OSPO helps public sector organizations to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
+* Better Resource Allocation: An OSPO helps  to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
 
 * Improved Service Delivery: An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens, and to meet the changing needs of their communities.
 
