@@ -20,7 +20,11 @@ From end-user companies and software companies to universities and public admini
 
 To fully overcome these and other problems when engaging in open source, organizations need to be equipped to manage open source operations effectively on both cultural and practical levels.
 
-To understand the value of an OSPO, the reader needs to get familiar to the reasons behind (1) starting an OSPO and (2) sustaining an OSPO in the long term
+To understand the value of an [OSPO](https://ospoglossary.todogroup.org/ospo-definition/), it is important for the reader to understand the reasons for (1) establishing an OSPO and (2) sustaining it over the long term.
+
+In this book, the section on *starting an OSPO* is aimed at organizations that are taking their first steps towards creating a centralized space. Which means that even if they already have personnel dedicated to open source initiatives, lack a centralized structure. On the other hand, the section on *sustaining an OSPO* is more relevant to individuals within organizations that already have a similar entity in place, encompassing aspects such as strategy, compliance, community, and governance.
+
+> In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. This responsibility may evolve and become more complex over time, but it is definitely not a temporary task with a predetermined completion point.
 
 ![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
 
