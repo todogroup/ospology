@@ -79,7 +79,8 @@ informed open source-forward decisions:
 
 Since every organization is unique in its values, business drivers, and culture, it is challenging to provide specific content. However, addressing the following questions can help structure the document effectively:
 
-* Which types of open source projects directly align with your organization's goals??
+* Which open source technology is and which will be important for your organization's goals and product roadmap?
+* Which open source projects directly and indirectly develop or influence these technologies and your organization's goals?
 * Which specific practices can best foster a sustainable open source ecosystem?
 * Which organization's processes have areas for improvement? 
 * How can open source support those improvements? 
