@@ -66,7 +66,7 @@ Public sector organizations face unique challenges when it comes to managing the
 
 * Improved Compliance: An OSPO helps public sector organizations to ensure that their open source operations are compliant with relevant laws and regulations, including data privacy laws, procurement regulations, and transparency requirements. This helps organizations to avoid costly legal and regulatory challenges, and to maintain their reputation as responsible public sector organizations.
 
-* Increased Collaboration: An OSPO helps public sector organizations to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
+* Increased Collaboration: An OSPO helps to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
 
 * Better Resource Allocation: An OSPO helps  to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
 
