@@ -70,7 +70,7 @@ Public sector organizations face unique challenges when it comes to managing the
 
 * Better Resource Allocation: An OSPO helps public sector organizations to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
 
-* Improved Service Delivery: An OSPO helps public sector organizations to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens, and to meet the changing needs of their communities.
+* Improved Service Delivery: An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens, and to meet the changing needs of their communities.
 
 The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. Check `📚 Continue Here` at the end of this chapter.
 
