@@ -70,7 +70,7 @@ A strategy creates a high-level consensus on concrete topics and their impact on
 
 It is recommended that this document includes a general Q&A section. Additionally, you may consider creating specific how-to guides for specialized areas that interact with the OSPO and open source projects (e.g., marketing, legal, engineering) to address specific challenges. These guides should be tailored to the domain knowledge of the team members involved.
 
-### Making Open Source Relevant in the organization
+### Understanding the relevance of open source within the organization
 
 Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making 
 informed open source-forward decisions:
