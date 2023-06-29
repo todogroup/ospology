@@ -142,5 +142,3 @@ TBD
 * [A guide to outbound pen source software](https://todogroup.org/guides/outbound-oss/)
 * [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 * [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
-
-

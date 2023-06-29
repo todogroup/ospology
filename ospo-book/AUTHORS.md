@@ -1,4 +1,10 @@
-Here is a list of Authors and Co-auhtors of this project. This list is updated every time a new release is published.
+Here is a list of Authors and Co-authors (contributors) of this project. 
+
+This list is updated every time a new release is published, but you can open a PR anytime adding your name to the list. A maintainer will later review your submission.
+
+> To learn how to become a contributor and be added to this list, please visit GOVERNANCE.md and CONTRIBUTING.md
+
+# Contributors (Individuals)
 
 ## Authors
 
@@ -27,7 +33,8 @@ Here is a list of Authors and Co-auhtors of this project. This list is updated e
 - Shane Coughlan
 - Kate Stewart
 - David a. Wheeler
+- Jonas van den Bogaard
 
-> Co-author list will evolve as new contributions form more open source experts arise
-> If you would like to be added to the list. Please open a new issue and ping @anajsana for awareness
-> If you would like to be removed form the list. Please open a new issue and ping @anajsana for awareness
+> Co-author list will evolve as new contributions from more open source experts arise
+> If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
+> If you would like to be removed from the list, please open a new issue and ping @anajsana for awareness

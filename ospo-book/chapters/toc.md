@@ -1,53 +1,68 @@
-# Table of Contents (Draft)
+# Table of Contents
+
+Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
+
+⚠️ Please make sure you have read the following documentation before proceeding further to gain a complete understanding of the project's workflow and governance.
+
+* [ ] README.md
+* [ ] CONTRIBUTING.md
+* [ ] GOVERNANCE.md
 
 ## Chapter 1: Introduction to Open Source Program Offices
 
+> 🎯 Expected discussion topics to be covered:
+
+* Introduce the definition of OSPOs.
+* Explore the history and roots of OSPOs.
+* Assess the readiness of organizations for open source and OSPOs.
+* Identify common antipatterns in OSPOs.
+* Present a use case illustrating the role of an OSPO.
+
 ## Chapter 2: Understanding the Value of Open Source Program Offices Within Organizations
-- 2.1 Benefits of an Open Source Program Office
-- 2.2 The Importance of an Open Source Program Office
-- 2.3 Example A: European Government’s OSPO
 
-## Chapter 3: Learning how to be involved in Open Source Program Operations on a Daily Basis
-- 3.1 Gathering the Ingredients for a Minimum Viable OSPO
-- 3.2 Best Practices for Creating and Implementing an Open Source Strategy
-- 3.3 A Deep Dive into OSPO Responsibilities
-- 3.4 Measuring Success and Impact of your OSPO
-- 3.5 The OSPO Maturity Model - Enterprises
+> 🎯 Expected discussion topics to be covered:
 
-## Chapter 4: Gathering the Ingredients for a Minimum Viable Open Source Program Office (OSPO)
-- Aspirational Roadmap
-- 4.1 Practical Example
-  * 4.2.1 Creating the OSPO Roadmap for Organizations
-  * 4.2.2 Adapting the OSPO Roadmap for Governments and Public Organizations
-  * 4.3 Gathering the Essential Resources
-  * 4.3.1 Human Resources
-  * 4.3.2 Financial Resources
-  * 4.3.3 Technology Resources
-  * 4.4 Conclusion
+* Examine the reasons behind establishing an OSPO for people within organizations with no OSPOs.
+* Explore the reasons for sustaining an OSPO in organizations for people that are part of an OSPO already.
+* Assess and highlight the value of open source activities within an organization across teh different teams / work units.
+* Identify common antipatterns in OSPOs.
+* Present a use case illustrating the value and impact of an OSPO.
 
-## Chapter 5: Best Practices for Creating and Implementing an Open Source Strategy
-  * 5.1 Creating and Implementing an Open Source Strategy
-  * 5.2 Section: What Should an Open Source Strategy Document Include?
-  * 5.3 Section: How to Create Specific How-to Guides for Each Team Involved in the OSPO
+## Chapter 3: Learning how to be involved in daily operations
 
-## Chapter 6: A deep dive into OSPO responsibilities
-  * 6.1 OSPO alignment with high-level open source goals: usage, contribution leadership
-    * 6.1.1 Helping the organization’s developers and partners wisely use OSS
-    * 6.1.22 Helping third party developers contribute back to OSS projects
-    * 6.1.33 Helping the organization start its own OSS projects
-  * 6.2  OSPO Focus areas
-    * Policy and Compliance
-    * Community Engagement
-    * Legal Support
-    * Technical Integration:
-    * Contribution and Management
-    * Ecosystem Management
-    * Outreach and Education
+> 🎯 Expected discussion topics to be covered:
 
-## Chapter 7: Measuring the success and impact of your OSPO
-* 7.1 Aligning organizational goals with specific metrics and evaluating if the OSPO activities are effectively contributing to these goals
-* 7.2 Defining Metrics (Community, Security, Compliance)
-* 7.3 Tracking Metrics (Community, Security, Compliance)
-* 7.4 Measuring Impact (Community, Security, Compliance)
-* 7.7 Practical Example: Goal-Question-Metric Approach
-* 7.8 Example of a Set of OSPO Metrics
+* Identify the essential ingredients for establishing a Minimum Viable OSPO, such as stucture types, departments to report to, open source roles, etc.
+* Design a set of layers of work (people) tat engage with the OSPO and open source operations.
+* Guide readers in designing an open source strategy (best practices).
+* Assess OSPO maturity using the OSPO Maturity Model.
+* Identify common antipatterns in OSPOs
+* Present a use case illustrating the successful implementation of an OSPO and its evolution over the years.
+
+## Chapter 4: A deep dive into OSPO responsibilities
+
+> 🎯 Expected discussion topics to be covered:
+
+* Deep dive into the different responsibiliteis showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
+* Include an assessment related to OSPO responsibilities.
+* Identify common antipatterns in OSPOs.
+* Present a use case highlighting specific OSPO responsibilities.
+
+## Chapter 5: Measuring the success and impact of your OSPO
+
+> 🎯 Expected discussion topics to be covered:
+
+* Discuss the value and process of aligning open source strategy goals with metrics.
+* Explore different aspects of measuring open source impact within the organization and organization's help and support across open source projects and their communities.
+* Introduce the Goal-Question-Metric (GQM) approach for assessing OSPO success and teh work done in CHAOSS.
+* Discuss common antipatterns in OSPOs.
+* Present a use case showcasing the successful measurement of OSPO impact in the organization and open source projects & communities.
+
+## Chapter 6: Community Proposal topics
+
+> 🎯 Expected discussion topics to be covered:
+
+Under discussion:
+
+* [How to be a good Open Source community citizen and What to prepare when not every one plays by rules](https://github.com/todogroup/ospology/issues/320)
+* [Recent developments & outlook](https://github.com/todogroup/ospology/issues/280)
