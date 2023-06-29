@@ -93,7 +93,7 @@ Since every organization is unique in its values, business drivers, and culture,
 
 Moreover, it is important to [identify the open source projects and communities with which you will work](https://todogroup.org/guides/participating/). Developing a plan for how you will support these initiatives is crucial. Additionally, you will need to [consider the role that open source will play in your organization and how you will integrate open source solutions into your existing IT infrastructure](https://todogroup.org/guides/outbound-oss/).
 
-### Making Open Source Relevant outside the organization
+### Understanding the relevance of open source outside the organization
 
 Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
 
