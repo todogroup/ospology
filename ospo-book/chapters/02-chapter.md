@@ -9,20 +9,19 @@
 
 # Introduction
 
-From end-user companies and software companies to universities and public administrations, an organization's relationship with open source and the value it can get from an OSPO is different per organization. However, we can still identify some critical problems that arise when getting involved in open source on an organizational level, which motivates the creation and continuity of an OSPO.
+Organizations of various types, including end-user companies, software companies, universities, and public administrations, all have a relationship with open source. To handle software responsibly, organizations need to engage with open source. Establishing an organizational structure is an initial step to consolidate commitment, which is where an OSPO comes into play, as it acts as a means for organizations to support their objectives and address challenges when it comes to open source. For instance:
 
 * **The tension between the need to ship product features and the need to contribute back to open source:** Open source contributions may take a back seat when dealing with multiple day-to-day tasks.
 
-* **Procurement processes with never-ending steps:** Open source is a dynamic ecosystem and contributions to it should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
+* **Procurement processes with never-ending steps:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
 * **A lack of consciousness about organizational responsibility:** Due to the way open source was taught in the past, engineering-based tools, or even the engineering jargon used, the concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making.
 
+> To fully overcome these and other problems, organizations need to be equipped to manage open source operations on both cultural and practical levels.
 
-To fully overcome these and other problems when engaging in open source, organizations need to be equipped to manage open source operations effectively on both cultural and practical levels.
+To understand the value of an [OSPO](https://ospoglossary.todogroup.org/ospo-definition/), it is important for the reader to understand the reasons for (1) Establishing an OSPO and (2) Sustaining it over the long term.
 
-To understand the value of an [OSPO](https://ospoglossary.todogroup.org/ospo-definition/), it is important for the reader to understand the reasons for (1) establishing an OSPO and (2) sustaining it over the long term.
-
-In this book, the section on *starting an OSPO* is aimed at organizations that are taking their first steps towards creating a centralized space. Which means that even if they already have personnel dedicated to open source initiatives, lack a centralized structure. On the other hand, the section on *sustaining an OSPO* is more relevant to individuals within organizations that already have a similar entity in place, encompassing aspects such as strategy, compliance, community, and governance.
+In this book, the section on *Starting an OSPO* is aimed at organizations that are taking their first steps toward creating a centralized space. This means that even if they already have personnel dedicated to open source initiatives, lack a centralized structure. On the other hand, the section on *Sustaining an OSPO* is more relevant to individuals within organizations that already have a similar entity in place, encompassing aspects such as strategy, compliance, community, and governance.
 
 > In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. This responsibility may evolve and become more complex over time, but it is definitely not a temporary task with a predetermined completion point.
 
@@ -47,7 +46,7 @@ Stopping the work of an OSPO could have significant negative impacts on those or
 
 An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open-source software, as well as improving the sustainability of open-source projects. 
 
-The different roles and responsibilities of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
+The different roles and pillars of support of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
 
 * **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers do not have to consider the business implications of different open source engagement models every time they try to solve a problem
 
@@ -59,6 +58,9 @@ Organization’s teams and decision makers' interests regarding open source and 
 * **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
 
 * **Acts as a Gatekeeper:** OSPOs can help to enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
+
+![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
+
 ## [Apendix A] A detailed perspective of open source in Public Administrations
 
 We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
