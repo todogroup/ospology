@@ -28,7 +28,7 @@ An individual may be qualified to become a OSPO Local Ambassador if:
 
 OPTION 1 (representative from an organization):
 
-* You are a TODO Member [OR]
+* You are a TODO Member representative or OSPO Associate representative [OR]
 
 OPTION 2 (individual maintainer):
 
