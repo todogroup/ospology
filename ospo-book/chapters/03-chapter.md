@@ -28,24 +28,28 @@ Once this is evaluated, it is recommended to look at the OSPO from three differe
 * The pillars where the OSPO provides support
 * The strategy it will follow and its framework
 
-### Layers of work for an OSPO
+### The OSPO Flower Diagram
 
-The area of work of your OSPO is also a crucial component to map, as it serves as one of the core ingredients for effectively implementing open source 
-dynamics and philosophy on an organizational level. To achieve this, it is recommended to examine your own organizational architecture and break down 
-open source tasks into four layers of work:
+The area of work of your OSPO is also a crucial component to map, as it serves as one of the core ingredients for effectively implementing open source dynamics and philosophy on an organizational level. To achieve this, it is recommended to examine your own organizational architecture and break down open source tasks into small areas of work.
 
-![ospo-layers](https://github.com/todogroup/ospology/assets/43671777/03b224d5-9745-4581-ac36-0dbbda9a990d)
+The structure used in this book to represent these areas is shaped as a flower diagram with a number of petals and the OSPO in the center. Each petal would be directed to a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* also represents the specific communication channels, documentation and other material used with each group of stakeholders.
 
-* **Worker / Employee Level:** This layer involves the people behind the OSPO to work with individuals within the organization, wiht main focus on the intrinsic and extrinsic motivators of contributing 
- to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
+[ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
 
-* **Management Level:** At this layer, the OSPO focuses on strategy and finding alignment between open source and the overall business / organization strategy. Managers may face unique challenges, and leveraging the strengths of open source to help them solve these challenges can help address these issues effectively.
+* **INDIVIDUAL CONTRIBUTORS:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **Business / Team Units Level:** This layer focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business / team units and fostering collaboration and knowledge transfer among them.
+* **MANAGEMENT:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
 
-* **OSPO Level:** This is the inner side of the OSPO itself, where the people behind the OSPO works collectively to oversee and coordinate all the open source initiatives within the organization.
+* **LEGAL:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
-This is a simplified view of the layers of work in an OSPO. However, depending on the complexity of your organization and the resources available to your OSPO, these layers can become more granular and include additional layers with different names.
+* **BUSINESS:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
+  
+* **OPEN SOURCE ECOSYSTEM:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
+
+* **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
+
+> Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
 
 
 ## Creating and Implementing an Open Source Strategy
@@ -95,7 +99,19 @@ Consequently, when formulating strategies, it is essential for the Open Source P
 ## Assessing Maturity of Open Source Program Office
 `✅ Assessment`
 
-n many cases, an OSPO may not be able to tackle all its tasks simultaneously. It often needs to evaluate its past achievements and progress in order to effectively plan and incorporate new milestones into its roadmap. This is where maturity models come into play.
+### The Existing Debates Around Maturity Models
+
+Before deepening dive into maturity levels, we want to emphasize that this book is informative and people should adapt its content to their organization needs. Where maturity models can be useful, organizations can either use maturity models or not. 
+
+For instance, [this article](https://octopus.com/blog/devops-uses-capability-not-maturity) discusses about open source models within the DevOps community. The article argues against the use of maturity models in DevOps for a few reasons:
+
+* Maturity models may focus on reaching a specific end goal, which can hinder innovation and experimentation in DevOps, where continuous improvement is key.
+* Maturity models may tend to encourage standardization and conformity rather than promoting creative problem-solving and trying new approaches, which are important in DevOps.
+* Maturity models may follow a linear progression, assuming there is a fixed path to reach maturity. However, DevOps is a complex process that requires adaptability and flexibility.
+
+### Open Source VS OSPO Maturity Models
+
+In many cases, an OSPO may not be able to tackle all the tasks simultaneously. It often needs to evaluate its past achievements and progress in order to effectively plan and incorporate new milestones into its roadmap. This is where maturity models come into play.
 
 It's important for readers to recognize the distinction between measuring an organization's level of engagement in open source (organizational level) and assessing the maturity of the OSPO team/entity itself (team unit level).
 
