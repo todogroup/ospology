@@ -2,10 +2,11 @@
 
 * [Introduction](#introduction)
   * Ingredients for a Minimum Viable OSPO
-    * Layers of Work
-    * Design an open source startegy
-    * OSPO Framework components
-* [Assessing maturity of open source program office](#assessing-maturity-of-open-source-program office) - `✅ Assessment`
+    * The OSPO Flower Diagram
+    * Design an open source strategy
+    * Understanding the relevance of open source inside the organization
+    * Understanding the relevance of open source outside the organization
+* [Assessing maturity of open source program office](#assessing-maturity-of-open-source-program-office) - `✅ Assessment`
 * [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 * [Resources](#resources) - `📚 Continue Here`
 
@@ -22,13 +23,12 @@ important to identify the key stakeholders in your organization who will be invo
 The guide [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices) explains all essential
 information on OSPO structures and operations.
 
-Once this is evaluated, it is recommended to look at the OSPO from three different dimensions:
+Once this is evaluated, it is recommended to look at the OSPO from two dimensions:
 
-* The layers where the OSPO works and interacts
-* The pillars where the OSPO provides support
+* The areas of work where the OSPO interacts
 * The strategy it will follow and its framework
 
-### The OSPO Flower Diagram
+#### The OSPO Flower Diagram
 
 The area of work of your OSPO is also a crucial component to map, as it serves as one of the core ingredients for effectively implementing open source dynamics and philosophy on an organizational level. To achieve this, it is recommended to examine your own organizational architecture and break down open source tasks into small areas of work.
 
@@ -51,7 +51,7 @@ The structure used in this book to represent these areas is shaped as a flower d
 
 > Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
 
-## Creating and Implementing an Open Source Strategy
+#### Creating and Implementing an Open Source Strategy
 
 The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
 The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
@@ -60,7 +60,7 @@ A strategy creates a high-level consensus on concrete topics and their impact on
 
 It is recommended that this document includes a general Q&A section. Additionally, you may consider creating specific how-to guides for specialized areas that interact with the OSPO and open source projects (e.g., marketing, legal, engineering) to address specific challenges. These guides should be tailored to the domain knowledge of the team members involved.
 
-### Understanding the relevance of open source within the organization
+#### Understanding the relevance of open source within the organization
 
 Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making
 informed open source-forward decisions:
@@ -79,7 +79,7 @@ Since every organization is unique in its values, business drivers, and culture,
 
 Moreover, it is important to [identify the open source projects and communities with which you will work](https://todogroup.org/guides/participating/). Developing a plan for how you will support these initiatives is crucial. Additionally, you will need to [consider the role that open source will play in your organization and how you will integrate open source solutions into your existing IT infrastructure](https://todogroup.org/guides/outbound-oss/).
 
-### Understanding the relevance of open source outside the organization
+#### Understanding the relevance of open source outside the organization
 
 Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
 
