@@ -6,9 +6,9 @@ We value and appreciate any input from the open source community and OSPO practi
 
 Below is a list of resources that will help you become familiar with the process and workflow of the OSPO book project:
 
-- **[GOVERNANCE.md](ospo-book/GOVERNANCE.md)** includes the contributor ladder
-- **[Chapters](ospo-book/chapters)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
-- **[Docs](ospo-book/docs)** includes the questions for interviews, aspirational roadmap for this year and a release checklist
+- **[GOVERNANCE.md](./GOVERNANCE.md)** includes the contributor ladder
+- **[Chapters](./chapters)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
+- **[Docs](./docs)** includes the questions for interviews, aspirational roadmap for this year and a release checklist
 
 If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
 
