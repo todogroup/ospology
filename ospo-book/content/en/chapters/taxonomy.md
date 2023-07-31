@@ -1,4 +1,7 @@
-# Taxonomy used for chapter navigation
+---
+title: "Taxonomy used for chapter navigation"
+status: Completed
+---
 
 Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a consistent structure and includes the following deliverables: General Content, Assessment Checklists, OSPO Anti-Patterns, and *Continue Here* Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with *segment tags*, which are explained below.
 

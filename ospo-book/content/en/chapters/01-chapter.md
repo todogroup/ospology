@@ -1,11 +1,14 @@
-# Chapter 1: Introduction to Open Source Program Offices
+---
+title: "Chapter 1: Introduction to Open Source Program Offices"
+status: Completed
+---
 
 * [Introduction](#introduction)
 * [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
 * [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 * [Resources](#resources) - `📚 Continue Here`
 
-# Introduction
+## Introduction
 
 Open source has become an integral part of modern organizations, offering a range of benefits, including lower costs, increased collaboration, and access to a vast pool of talent and resources. However, with the growing importance of open source, organizations need to be equipped to manage their open source operations effectively, in order to realize these benefits.
 
@@ -28,7 +31,7 @@ Whether you're just starting out on your open source journey, or are looking to 
 
 In the following chapters, we will explore the key components of an OSPO, and provide practical guidance and best practices on how to create and implement an OSPO within your organization, regardless of your industry or sector. So let's get started!
 
-## OSPO Definition
+### OSPO Definition
 
 [WHAT] An Open Source Program Office (OSPO) is a center of expertise, either virtual or physical, whose people support, nurture, share, explain, and promote the growth of open source within an organization.
 
@@ -48,7 +51,7 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
-## History and Roots
+### History and Roots
 
 The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated signficantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
 
@@ -56,17 +59,17 @@ The term started becoming more mainstream and diverse in the last years, as more
 
 > Important Considerations in Defining an Open Source Program Office (OSPO): OSPOs vary in Sector, Region, and Organizational Size; May Exclude the Term 'Program' to become 'Open Source Office'; and No Two OSPOs are Alike.
 
-# Assessing Readiness for Open Source and OSPO
+## Assessing Readiness for Open Source and OSPO
 
 `✅ Assessment`
 
 The purpose of this section is to first identify the strengths, weaknesses, and opportunities for improvement within the organization, and to help determine if an OSPO is the right solution for the organization's needs based on their existing open source engagement level, culture and understanding.
 
-## Where do Open Source and OSPO converge?
+### Where do Open Source and OSPO converge?
 
 In the past, collaborative open source software development was primarily adopted by small groups of developers and enthusiasts, and there was little need for dedicated organizational units to manage open source activities. However, as this method has become more prevalent and critical to the operation of many organizations, the need for dedicated OSPOs has become more apparent.
 
-### Understand existing and desired open source adoption
+#### Understand existing and desired open source adoption
 
 Once an organization has assessed the level of open source used, contributed, or produced in the organization and why establishing an OSPO can help an organization manage the risks and opportunities of what open source, open works and collaboration brings, and ensure that its open source activities are effectively managed and aligned with the organization's strategic goals and objectives.
 
@@ -101,7 +104,7 @@ Assessing open source adoption is critical because it sets the foundation for su
   * What are the challenges of implementing an OSPO within the organization?
   * What resources and support will be needed to successfully implement an OSPO within the organization?
 
-### Understand knowledge sharing through the eyes of an OSPO
+#### Understand knowledge sharing through the eyes of an OSPO
 
 > RE ML discussion: <https://lists.todogroup.org/g/ospo-book-project/message/5>
 

@@ -1,4 +1,7 @@
-# Table of Contents
+---
+title: "Table of Contents"
+status: Completed
+---
 
 Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
 

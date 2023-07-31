@@ -1,4 +1,10 @@
-# Existing Literature & Resources
+---
+title: Existing Literature & Resources
+status: Completed
+menu:
+  main:
+    weight: 10
+---
 
 * The guide will include a comprehensive review of existing literature and resources on open source and Open Source Program Offices, including reports, articles, whitepapers, and books.
 

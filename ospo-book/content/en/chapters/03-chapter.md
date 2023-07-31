@@ -1,4 +1,7 @@
-# Chapter 3: Learning how to be involved in daily operations
+---
+title: "Chapter 3: Learning how to be involved in daily operations"
+status: Completed
+---
 
 * [Introduction](#introduction)
   * Ingredients for a Minimum Viable OSPO
