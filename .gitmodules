@@ -1,6 +1,0 @@
-[submodule "ospo-book/themes/docsy/assets/vendor/Font-Awesome@5.14.0"]
-	path = ospo-book/themes/docsy/assets/vendor/Font-Awesome@5.14.0
-	url = https://github.com/FortAwesome/Font-Awesome.git
-[submodule "ospo-book/themes/docsy/assets/vendor/bootstrap@v4.5.3"]
-	path = ospo-book/themes/docsy/assets/vendor/bootstrap@v4.5.3
-	url = https://github.com/twbs/bootstrap.git
