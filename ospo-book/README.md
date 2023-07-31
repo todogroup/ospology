@@ -84,4 +84,4 @@ cd ospo-book
 npm install
 ```
 
-You can then run the site using `hugo server`.
+Then run the site using `hugo server`.
