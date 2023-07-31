@@ -1,6 +1,7 @@
 ---
 title: Existing Literature & Resources
 status: Completed
+toc_hide: true
 menu:
   main:
     weight: 10
