@@ -1,5 +1,5 @@
-baseURL = "https://ospoglossary.todogroup.org/"
-title = "OSPO Glossary"
+baseURL = "https://ospobook.todogroup.org/"
+title = "OSPO Book"
 
 enableRobotsTXT = true
 
