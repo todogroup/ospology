@@ -53,7 +53,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "OSPO Glossary"
+title = "OSPO Book"
 description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
 languageName ="English"
 # Weight used for sorting.
@@ -87,7 +87,7 @@ copyright = "The Linux Foundation®"
 privacy_policy = "https://www.linuxfoundation.org/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/ospo-glossary-social.jpg"]
+images = ["images/ospo-book-social.jpg"]
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
@@ -108,7 +108,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/todogroup/glossary"
+github_repo = "https://github.com/todogroup/ospology"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 # github_project_repo = "https://github.com/google/docsy"
 
