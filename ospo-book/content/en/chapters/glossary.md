@@ -1,4 +1,7 @@
-# Glossary
+---
+title: "Glossary"
+status: Completed
+---
 
 Welcome to the glossary for the Open Source Program Offices (OSPOs) Book. As you may know, the world of open source is vast and complex,
 with many different terms and concepts that can be difficult to navigate. Our aim with this glossary is not to provide a definitive or general definition

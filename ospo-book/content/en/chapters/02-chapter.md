@@ -1,4 +1,7 @@
-# Chapter 2: Understanding the Value of Open Source Program Offices
+---
+title: "Chapter 2: Understanding the Value of Open Source Program Offices"
+status: Completed
+---
 
 - [Introduction](#introduction)
   - Reasons Behind Starting an OSPO
@@ -7,7 +10,7 @@
 - [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 - [Resources](#resources) - `📚 Continue Here`
 
-# Introduction
+## Introduction
 
 Organizations of various types, including end-user companies, software companies, universities, and public administrations, all have a relationship with open source. To handle software responsibly, organizations need to engage with open source. Establishing an organizational structure is an initial step to consolidate commitment, which is where an OSPO comes into play, as it acts as a means for organizations to support their objectives and address challenges when it comes to open source. For instance:
 
@@ -29,7 +32,7 @@ In this book, the section on _Starting an OSPO_ is aimed at organizations that a
 
 _[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-## The reasons behind STARTING an OSPO
+### The reasons behind STARTING an OSPO
 
 The [business value of the OSPO report](https://project.linuxfoundation.org/hubfs/LF%20Research/TODO%20Group%20-%20The%20Business%20Value%20of%20the%20OSPO%20-%20Report.pdf?hsLang=en) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
 
@@ -41,7 +44,7 @@ The [business value of the OSPO report](https://project.linuxfoundation.org/hubf
 - Improving development velocity
 - Mitigating Security Risks
 
-## The reasons behind SUSTAINING an OSPO
+### The reasons behind SUSTAINING an OSPO
 
 Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 
@@ -62,7 +65,7 @@ The different roles and pillars of support of an OSPO shared below can help read
 
 ![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
 
-## [Apendix A] A detailed perspective of open source in Public Administrations
+### [Apendix A] A detailed perspective of open source in Public Administrations
 
 We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
 Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
@@ -77,11 +80,11 @@ Public sector organizations face unique challenges when it comes to managing the
 
 The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. Check `📚 Continue Here` at the end of this chapter.
 
-## [Appendix B] A broader view of open source in Universities and public admins: Open Work
+### [Appendix B] A broader view of open source in Universities and public admins: Open Work
 
 In Chapter 1 we already introduced how open source has become increasingly significant for modern organizations. By extending the concept of "open" to encompass open research, design, and access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where the _open work_ term is starting to be used among participants that engage in OSPO practitioner communities.
 
-# Assessing Value of Open Source Activity
+## Assessing Value of Open Source Activity
 
 `✅ Assessment`
 
@@ -99,7 +102,7 @@ This is an example of the value of activity from participation to leadership sta
 
 <img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
 
-# Antipatterns
+## Antipatterns
 
 `🚫 OSPO Antipatterns`
 
@@ -111,6 +114,6 @@ Common misunderstandings that should be corrected as soon as possible
 - **See OSPOs as an added value and not as direct support for the core organization’s areas and functions:** As cited in the 2020 State of the Software Supply Chain Report from Sonatype, [80-90% of modern applications consist of open source software](https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations). If your organization uses open source in their internal processes and/or products, is very likely that the OSPO enable and maintain risk mitigation.
   **OSPO that have pure a technical focus and forget about Open Source culture:** Working on code together means a lot of things: transparency, diversity and cooperation.
 
-# Resources
+## Resources
 
 `📚 Continue Here`
