@@ -71,3 +71,17 @@ This section will provide organizations with a comprehensive overview of the exi
 ## 👩‍⚖️ License & Attribution Notice 
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that appear in this list.
+
+## Setting up a local instance
+
+To improve the OSPO Book site itself, install a local copy with these instructions. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
+
+```
+git clone https://github.com/todogroup/ospology/
+cd ospology
+git submodule update --init --recursive
+cd ospo-book
+npm install
+```
+
+You can then run the site using `hugo server`.
