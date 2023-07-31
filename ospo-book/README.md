@@ -74,7 +74,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 ## Setting up a local instance
 
-To improve the OSPO Book site itself, install a local copy with these instructions. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
+To improve the OSPO Book site itself, install a local copy. Note you must have [npm](https://www.npmjs.com/) and [Hugo](https://gohugo.io/) installed.
 
 ```
 git clone https://github.com/todogroup/ospology/
