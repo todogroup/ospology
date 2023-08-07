@@ -14,5 +14,5 @@ As you explore the terms and concepts in this glossary, we encourage you to use 
 
 ## License
 
-All code contributions are under the Apache 2.0 license. 
+All code contributions are under the Apache 2.0 license.
 Documentation is distributed under CC BY 4.0.
