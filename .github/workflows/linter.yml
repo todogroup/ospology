@@ -50,4 +50,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_MARKDOWN: true
           MARKDOWN_CONFIG_FILE: markdownlint.yml
-          FILTER_REGEX_INCLUDE: .*ospo-book/chapters/.*.md
+          FILTER_REGEX_INCLUDE: .*ospo-book/content/en/.*.md
