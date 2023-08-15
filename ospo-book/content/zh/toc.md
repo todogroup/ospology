@@ -1,19 +1,20 @@
 ---
 title: "内容目录"
 status: Completed
+weight: 10
 ---
 
-Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
+内容贡献者可以为多个章节提供帮助，也可以只专注于一个章节。所有这些贡献都同等重要，有助于促进社区的繁荣发展。 每一章的标题都是起步阶段的草稿，社区将通过 OSPO 手册的邮件列表讨论、PR评审和贡献者电话沟通来完善和改进这些标题。
 
-⚠️ Please make sure you have read the following documentation before proceeding further to gain a complete understanding of the project's workflow and governance.
+⚠️ 请确保您已阅读以下文档，然后再进一步了解项目的工作流程和治理。
 
 * [ ] README.md
 * [ ] CONTRIBUTING.md
 * [ ] GOVERNANCE.md
 
-## Chapter 1: Introduction to Open Source Program Offices
+## 第1章 ： 开源项目办公室简介
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯  预期涉及的讨论主题：
 
 * Introduce the definition of OSPOs.
 * Explore the history and roots of OSPOs.
@@ -21,9 +22,9 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 * Identify common antipatterns in OSPOs.
 * Present a use case illustrating the role of an OSPO.
 
-## Chapter 2: Understanding the Value of Open Source Program Offices Within Organizations
+## 第2章： 理解开源项目办公室在组织内的价值
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯  预期涉及的讨论主题：
 
 * Examine the reasons behind establishing an OSPO for people within organizations with no OSPOs.
 * Explore the reasons for sustaining an OSPO in organizations for people that are part of an OSPO already.
@@ -31,9 +32,9 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 * Identify common antipatterns in OSPOs.
 * Present a use case illustrating the value and impact of an OSPO.
 
-## Chapter 3: Learning how to be involved in daily operations
+## 第3章： 学习如何参与日常运营
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯  预期涉及的讨论主题：
 
 * Identify the essential ingredients for establishing a Minimum Viable OSPO, such as stucture types, departments to report to, open source roles, etc.
 * Design a set of layers of work (people) tat engage with the OSPO and open source operations.
@@ -42,18 +43,18 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 * Identify common antipatterns in OSPOs
 * Present a use case illustrating the successful implementation of an OSPO and its evolution over the years.
 
-## Chapter 4: A deep dive into OSPO responsibilities
+## 第4章： 深入探讨 OSPO 的职责
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯  预期涉及的讨论主题：
 
 * Deep dive into the different responsibiliteis showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
 * Include an assessment related to OSPO responsibilities.
 * Identify common antipatterns in OSPOs.
 * Present a use case highlighting specific OSPO responsibilities.
 
-## Chapter 5: Measuring the success and impact of your OSPO
+## 第5章： 衡量 OSPO 的成功和影响
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯  预期涉及的讨论主题：
 
 * Discuss the value and process of aligning open source strategy goals with metrics.
 * Explore different aspects of measuring open source impact within the organization and organization's help and support across open source projects and their communities.
@@ -61,11 +62,11 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 * Discuss common antipatterns in OSPOs.
 * Present a use case showcasing the successful measurement of OSPO impact in the organization and open source projects & communities.
 
-## Chapter 6: Community Proposal topics
+## 第6章： 社区提案主题
 
-> 🎯 Expected discussion topics to be covered:
+> 🎯 预期涉及的讨论主题：
 
-Under discussion:
+正在讨论中：
 
-* [How to be a good Open Source community citizen and What to prepare when not every one plays by rules](https://github.com/todogroup/ospology/issues/320)
-* [Recent developments & outlook](https://github.com/todogroup/ospology/issues/280)
+* [如何成为一名优秀的开源社区公民以及当并非每个人都遵守规则时要准备什么](https://github.com/todogroup/ospology/issues/320)
+* [近期发展与前景展望](https://github.com/todogroup/ospology/issues/280)
