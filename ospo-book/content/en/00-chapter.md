@@ -1,6 +1,7 @@
 ---
 title: "What is this book about?"
 status: Completed
+weight: 20
 ---
 
 ## What is this book about?

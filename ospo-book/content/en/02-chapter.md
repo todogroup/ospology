@@ -1,6 +1,7 @@
 ---
 title: "Understanding the Value of Open Source Program Offices"
 status: Completed
+weight: 40
 ---
 
 - [Introduction](#introduction)

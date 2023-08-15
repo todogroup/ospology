@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Open Source Program Offices"
 status: Completed
+weight: 30
 ---
 
 * [Introduction](#introduction)
