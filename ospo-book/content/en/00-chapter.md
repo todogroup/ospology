@@ -1,5 +1,5 @@
 ---
-title: "Chapter 0: What is this book about?"
+title: "What is this book about?"
 status: Completed
 ---
 
