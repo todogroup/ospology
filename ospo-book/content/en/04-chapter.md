@@ -1,6 +1,6 @@
 ---
-title: "Chapter 4: "
-status: Completed
+title: "Chapter 4"
+status: To be Done
 ---
 
 # TBD
