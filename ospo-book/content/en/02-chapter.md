@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: Understanding the Value of Open Source Program Offices"
+title: "Understanding the Value of Open Source Program Offices"
 status: Completed
 ---
 
