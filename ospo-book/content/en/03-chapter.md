@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Learning how to be involved in daily operations"
+title: "Learning how to be involved in daily operations"
 status: Completed
 ---
 
