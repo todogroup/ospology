@@ -3,8 +3,7 @@ title: OSPO Book
 status: Completed
 ---
 
-
-# Welcome to the <br/>OSPO Book
+# Welcome to the OSPO Book
 
 This book serves as a wiki of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO. 
 The book covers a wide range of topics, including:
@@ -21,5 +20,5 @@ As you explore the terms and concepts in this book, we encourage you to use the 
 
 ## License
 
-All code contributions are under the Apache 2.0 license.
-Documentation is distributed under CC BY 4.0.
+All code contributions are under the Apache 2.0 license
+Documentation is distributed under CC BY 4.0
