@@ -1,6 +1,10 @@
 ---
 title: "Glossary"
 status: Completed
+toc_hide: true
+menu:
+  main:
+    weight: 10
 ---
 
 Welcome to the glossary for the Open Source Program Offices (OSPOs) Book. As you may know, the world of open source is vast and complex,

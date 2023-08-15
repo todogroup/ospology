@@ -63,7 +63,7 @@
   {{- if $withChild }}
   {{- $ulNr := add $ulNr 1 }}
   <ul class="ul-{{ $ulNr }}{{ if (gt $ulNr 1)}} foldable{{end}}">
-    {{ range $pages.ByTitle -}}
+    {{ range $pages.ByWeight -}}
     {{ if (not (and (eq $s $p.Site.Home) (eq .Params.toc_root true))) -}}
     {{ template "section-tree-nav-section" (dict "page" $p "section" . "shouldDelayActive" $shouldDelayActive "sidebarMenuTruncate" $sidebarMenuTruncate "ulNr" $ulNr "ulShow" $ulShow) }}
     {{- end }}

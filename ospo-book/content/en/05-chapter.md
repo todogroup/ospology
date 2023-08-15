@@ -1,6 +1,7 @@
 ---
-title: "Chapter 5: "
-status: Completed
+title: "Chapter 5"
+status: To be Done
+weight: 70
 ---
 
 # TBD
