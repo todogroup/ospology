@@ -21,7 +21,7 @@ The content below contains links to the original authors, foundations, NGOs, or 
   * Make and distribute copies of the content,
   * Change and improve the content and distribute these derivative works
 
-Learn more about Free Cultural Works at <https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works>
+ Learn more about Free Cultural Works at <https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works>
 
 * **Free Software:** Free Software refers to freedom, not price. It guarantees its users the essential four freedoms (Use, Study, Share, Improve) The absence of at least one of these freedoms means an application is proprietary, so non‐Free Software. Learn more: <https://fsfe.org/freesoftware/freesoftware.en.html>
 * **InnerSource:** is the use of open source software development best practices and the establishment of an open source-like culture within organizations
@@ -50,13 +50,13 @@ areas as well, such as open science, open hardware, and open education. For this
   * *A collection of software projects which are developed and evolve together in the same environment*.
   * *A set of software solutions that enable, support and automate the activities and transactions by the actors in the associated social or business ecosystem and the organizations that provide these solutions*
 
-Regarding open source software ecosystems, there are only a few [specific definitions provided by authors Wynn and Hoving](https://upcommons.upc.edu/handle/2117/87103). They base their definitions on key factors like the shared market, organizations, and capital, which are vital in supporting the open source software community. Some widely accepted definitions of open source software ecosystems are:
+ Regarding open source software ecosystems, there are only a few [specific definitions provided by authors Wynn and Hoving](https://upcommons.upc.edu/handle/2117/87103). They base their definitions on key factors like the shared market, organizations, and capital, which are vital in supporting the open source software community. Some widely accepted definitions of open source software ecosystems are:
 
   * A Software Ecosystem placed in a heterogeneous environment
   * Its boundary is a set of niche players
   * The keystone player is an OSS community around a set of projects in a common platform
 
-Learn more about Open Source Software Ecosystems: [Franco, O. Open source software ecosystems: towards a modeling framework](https://upcommons.upc.edu/handle/2117/87103)
+ Learn more about Open Source Software Ecosystems: [Franco, O. Open source software ecosystems: towards a modeling framework](https://upcommons.upc.edu/handle/2117/87103)
 
 * **Open Source Project Dynamics:** Open source project dynamics refers to the complex social and technical interactions that occur within
 open source communities. This includes things like peer review, community-driven governance, and decentralized
