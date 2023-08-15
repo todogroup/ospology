@@ -7,6 +7,7 @@
     "build:en": "markmap Content/ospomindmap.md --output Public/index.html",
     "build:cn": "markmap Content/ospomindmap_zh_cn.md --output Public/cn.html",
     "build:jp": "markmap Content/ospomindmap_jp.md --output Public/jp.html",
+    "build:tw": "markmap Content/ospomindmap_zh_tw.md --output Public/tw.html",
     "dev": "npm run build:en -- --watch"
   },
   "dependencies": {
