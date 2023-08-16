@@ -1,10 +1,10 @@
 ---
-title: 现有文献和资源
+title: 资源
 status: Completed
 toc_hide: true
 menu:
   main:
-    weight: 10
+    weight: 30
 ---
 
 * The guide will include a comprehensive review of existing literature and resources on open source and Open Source Program Offices, including reports, articles, whitepapers, and books.

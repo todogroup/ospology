@@ -1,5 +1,5 @@
 ---
-title: "Learning how to be involved in daily operations"
+title: "学习如何参与日常运营"
 status: Completed
 weight: 50
 ---
@@ -14,7 +14,7 @@ weight: 50
 * [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 * [Resources](#resources) - `📚 Continue Here`
 
-## Introduction
+## 简介
 
 In this chapter, we will introduce the key tasks and responsibilities of an Open Source Program Office (OSPO) on a day-to-day basis,
 as well as the core concepts to get started with a minimum viable OSPO. This includes the strategy aspect, layers of work, and pillars of support.
@@ -97,7 +97,7 @@ In order for open source to be successful and sustainable within an organization
 
 Consequently, when formulating strategies, it is essential for the Open Source Program Office (OSPO) to develop a plan on how to approach and communicate with these regulators, clearly defining the roles they will play in the policy-making process.
 
-## Assessing Maturity of Open Source Program Office
+## 评估开源项目办公室的成熟度
 
 `✅ Assessment`
 
@@ -136,13 +136,13 @@ On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/t
 
 * Leader and Advisor: Open source is regarded as a critical component of the organization's IT infrastructure and open culture. The OSPO takes on the role of ensuring effective and efficient use and contribution of open source across the organization. They also manage relationships with open source communities and stakeholders, acting as a leader and advisor.
 
-## Antipatterns
+## 反模式
 
 `🚫 OSPO Antipatterns`
 
 TBD
 
-## Resources
+## 资源
 
 `📚 Continue Here`
 
