@@ -10,9 +10,7 @@ This book serves as a wiki of knowledge for people working at Open Source Progra
 
 ## What’s not in this book
 
-This book does not aim to provide guidance on open source software development or delve deeply into its technical aspects.
-
-Additionally, it does not intend to offer guidance on the deployment, usage, and contribution to specific open source software projects, as this falls outside the scope of the book.
+This book does not aim to provide guidance on open source software development or delve deeply into its technical aspects. Additionally, it does not intend to offer guidance on the deployment, usage, and contribution to specific open source software projects, as this falls outside the scope of the book.
 
 ## Who should read this book?
 
