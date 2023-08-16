@@ -1,5 +1,5 @@
 ---
-title: "内容目录"
+title: "目录"
 status: Completed
 weight: 10
 ---

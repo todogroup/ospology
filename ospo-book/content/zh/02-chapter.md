@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Value of Open Source Program Offices"
+title: "理解开源项目办公室在组织内的价值"
 status: Completed
 weight: 40
 ---
@@ -11,7 +11,7 @@ weight: 40
 - [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 - [Resources](#resources) - `📚 Continue Here`
 
-## Introduction
+## 简介
 
 Organizations of various types, including end-user companies, software companies, universities, and public administrations, all have a relationship with open source. To handle software responsibly, organizations need to engage with open source. Establishing an organizational structure is an initial step to consolidate commitment, which is where an OSPO comes into play, as it acts as a means for organizations to support their objectives and address challenges when it comes to open source. For instance:
 
@@ -85,7 +85,7 @@ The European Commission's Open Source Program Office (OSPO) has launched a new p
 
 In Chapter 1 we already introduced how open source has become increasingly significant for modern organizations. By extending the concept of "open" to encompass open research, design, and access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where the _open work_ term is starting to be used among participants that engage in OSPO practitioner communities.
 
-## Assessing Value of Open Source Activity
+## 评估开源活动的价值
 
 `✅ Assessment`
 
@@ -103,7 +103,7 @@ This is an example of the value of activity from participation to leadership sta
 
 <img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
 
-## Antipatterns
+## 反模式
 
 `🚫 OSPO Antipatterns`
 
@@ -115,6 +115,6 @@ Common misunderstandings that should be corrected as soon as possible
 - **See OSPOs as an added value and not as direct support for the core organization’s areas and functions:** As cited in the 2020 State of the Software Supply Chain Report from Sonatype, [80-90% of modern applications consist of open source software](https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations). If your organization uses open source in their internal processes and/or products, is very likely that the OSPO enable and maintain risk mitigation.
   **OSPO that have pure a technical focus and forget about Open Source culture:** Working on code together means a lot of things: transparency, diversity and cooperation.
 
-## Resources
+## 资源
 
 `📚 Continue Here`

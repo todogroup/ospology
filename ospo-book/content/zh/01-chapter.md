@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Open Source Program Offices"
+title: "开源项目办公室简介"
 status: Completed
 weight: 30
 ---
@@ -9,7 +9,7 @@ weight: 30
 * [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
 * [Resources](#resources) - `📚 Continue Here`
 
-## Introduction
+## 简介
 
 Open source has become an integral part of modern organizations, offering a range of benefits, including lower costs, increased collaboration, and access to a vast pool of talent and resources. However, with the growing importance of open source, organizations need to be equipped to manage their open source operations effectively, in order to realize these benefits.
 
@@ -32,7 +32,7 @@ Whether you're just starting out on your open source journey, or are looking to 
 
 In the following chapters, we will explore the key components of an OSPO, and provide practical guidance and best practices on how to create and implement an OSPO within your organization, regardless of your industry or sector. So let's get started!
 
-### OSPO Definition
+### OSPO 定义
 
 [WHAT] An Open Source Program Office (OSPO) is a center of expertise, either virtual or physical, whose people support, nurture, share, explain, and promote the growth of open source within an organization.
 
@@ -52,7 +52,7 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
-### History and Roots
+### 历史渊源
 
 The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated signficantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
 
@@ -60,7 +60,7 @@ The term started becoming more mainstream and diverse in the last years, as more
 
 > Important Considerations in Defining an Open Source Program Office (OSPO): OSPOs vary in Sector, Region, and Organizational Size; May Exclude the Term 'Program' to become 'Open Source Office'; and No Two OSPOs are Alike.
 
-## Assessing Readiness for Open Source and OSPO
+## 评估开源和OSPO的准备情况
 
 `✅ Assessment`
 
@@ -125,7 +125,7 @@ As an example, the following [diagram](https://lists.todogroup.org/g/ospo-book-p
 
 In Chapters 3 and 6, we will delve deeper into how an OSPO can effectively address knowledge transmission across various open source players and highlight some best practices utilized by different organizations.
 
-## Antipatterns
+## 反模式
 
 `🚫 OSPO Antipatterns`
 
@@ -139,7 +139,7 @@ While Open Source Program Offices (OSPOs) can provide significant benefits for o
 
 * **Viewing an OSPO as a one-size-fits-all solution:** It's important to evaluate the benefits and costs of establishing an OSPO and determine if it's the right fit for your organization's goals and objectives.
 
-## Resources
+## 资源
 
 `📚 Continue Here`
 
