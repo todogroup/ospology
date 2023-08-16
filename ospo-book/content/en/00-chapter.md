@@ -6,7 +6,7 @@ weight: 20
 
 ## What is this book about?
 
-This book serves as a guide for Open Source Program Offices (OSPOs), aiding them in gaining a better understanding of their role within organizations and providing valuable insights into the optimal practices for establishing and effectively managing an OSPO. The book covers a wide range of topics, including why organizations may or may not need an OSPO, the role of OSPOs in different types of organizations (public, private, small, medium, large), the challenges, antipatterns associated with OSPOs, and the tools and processes required to establish and manage an effective OSPO. Additionally, the book includes a concise introduction to assessing an organization's preparedness for implementing an OSPO. It offers practical recommendations and step-by-step guidance on various aspects, ranging from formulating open source policies to effectively engaging with external open source communities.
+This book serves as a wiki of knowledge for people working at Open Source Program Offices (OSPOs) and for any person that wants to better understand the role of OSPOs within an organization, aiding them in gaining a better understanding of their key role to establish and managing open source strategy and operations. It offers practical recommendations on various aspects, ranging from building an open source  strategy, to effectively engaging with external open source communities. Additionally, the book includes an introduction to assessing an organization's readiness for implementing an OSPO.
 
 ## What’s not in this book
 
