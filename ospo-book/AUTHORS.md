@@ -6,34 +6,35 @@ This list is updated every time a new release is published, but you can open a P
 
 # Contributors (Individuals)
 
-## Authors
-
+## Maintainers
 - Ana Jiménez Santamaría
-- Chris Aniszczyk 
+- Chris Aniszczyk
 
-## Co-Authors
-
-- Christine Abernathy
-- Shilla Saebi
+## Core Contributors
+- Alin Jerpelea
 - Annania Melaku
-- Stephanie Lieggi
 - Carlos Maltzhan
-- Remy D
-- Takanori Suzuki
-- Hiro Fukuchi
-- Seo Yeon Lee
-- Gil Yehuda
-- Masae Shida
 - Chris Xie
-- Jiri Marek
-- Supriya Ashish Chitale
+- Christine Abernathy
+- Cornelius Schumacher
+- David A. Wheeler
 - Gergely Csatari
-- Rob Moffat
-- Jim St.Clare
-- Shane Coughlan
-- Kate Stewart
-- David a. Wheeler
+- Gil Yehuda
+- Hiro Fukuchi
+- Jiri Marek
 - Jonas van den Bogaard
+- Kate Stewart
+- Masae Shida
+- Remy D
+- Rob Moffat
+- Seo Yeon Lee
+- Shane Coughlan
+- Shilla Saebi
+- Stephanie Lieggi
+- Supriya Ashish Chitale
+- Takanori Suzuki
+- Victor Lu
+
 
 > Co-author list will evolve as new contributions from more open source experts arise
 > If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
