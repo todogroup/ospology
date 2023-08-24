@@ -4,14 +4,6 @@ status: Completed
 weight: 10
 ---
 
-Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
-
-⚠️ Please make sure you have read the following documentation before proceeding further to gain a complete understanding of the project's workflow and governance.
-
-* [ ] README.md
-* [ ] CONTRIBUTING.md
-* [ ] GOVERNANCE.md
-
 ## Chapter 1: Introduction to Open Source Program Offices
 
 > 🎯 Expected discussion topics to be covered:
