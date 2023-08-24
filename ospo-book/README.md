@@ -1,9 +1,9 @@
 # 👋 Welcome to Open Source (Program) Office Book
 
-* **Authors and co-authors (individuals):** [contributor's list](AUTHORS.md)  
-* **Desired mid-release Date:** August 2023  
+* **Authors and co-authors (individuals):** [contributor's list](AUTHORS.md)
+* **Desired mid-release Date:** August 2023
 * **Desired mid-publication Date:** September 2023
-* **Desired official release Date:** January 2024 
+* **Desired official release Date:** January 2024
 
 > If you are new to the project, please scroll down to `🐣 Newcommers - START HERE` and read [CONTRIBUTING.md](ospo-book/CONTRIBUTING.md)
 
@@ -69,7 +69,7 @@ The methodology will be designed to help organizations streamline their open sou
 
 This section will provide organizations with a comprehensive overview of the existing literature and resources available on open source and OSPOs, making it easy for them to access the information and support they need to create and implement an OSPO successfully.
 
-## 👩‍⚖️ License & Attribution Notice 
+## 👩‍⚖️ License & Attribution Notice
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that appear in this list.
 
