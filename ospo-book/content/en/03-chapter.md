@@ -36,7 +36,7 @@ Once this is evaluated, it is recommended to look at the OSPO from two dimension
 
 The area of work of your OSPO is also a crucial component to map, as it serves as one of the core ingredients for effectively implementing open source dynamics and philosophy on an organizational level. To achieve this, it is recommended to examine your own organizational architecture and break down open source tasks into small areas of work.
 
-The structure used in this book to represent these areas is shaped as a flower diagram with a number of petals and the OSPO in the center. Each petal would be directed to a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* also represents the specific communication channels, documentation and other material used with each group of stakeholders.
+The structure used in this book to represent these areas is shaped as a flower diagram with a number of petals and the OSPO in the center. Each petal represents a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* also represents the specific communication channels, documentation and other material used with each group of stakeholders.
 
 ![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
 [ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
