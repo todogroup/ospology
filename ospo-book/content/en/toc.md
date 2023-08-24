@@ -32,7 +32,7 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 * Identify common antipatterns in OSPOs.
 * Present a use case illustrating the value and impact of an OSPO.
 
-## Chapter 3: Learning how to be involved in daily operations
+## Chapter 3: Daily Operations of an Open Source Program Office
 
 > 🎯 Expected discussion topics to be covered:
 

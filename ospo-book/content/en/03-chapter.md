@@ -1,5 +1,5 @@
 ---
-title: "Learning how to be involved in daily operations"
+title: "Daily Operations of an Open Source Program Office"
 status: Completed
 weight: 50
 ---
@@ -48,7 +48,7 @@ The structure used in this book to represent these areas is shaped as a flower d
 * **LEGAL:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
 * **BUSINESS:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
-  
+
 * **OPEN SOURCE ECOSYSTEM:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
 * **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
