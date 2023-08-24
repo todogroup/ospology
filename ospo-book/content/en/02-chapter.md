@@ -33,7 +33,7 @@ In this book, the section on _Starting an OSPO_ is aimed at organizations that a
 
 _[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-### The reasons behind STARTING an OSPO
+### The reasons behind Starting an OSPO
 
 The [business value of the OSPO report](https://project.linuxfoundation.org/hubfs/LF%20Research/TODO%20Group%20-%20The%20Business%20Value%20of%20the%20OSPO%20-%20Report.pdf?hsLang=en) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
 
@@ -45,7 +45,7 @@ The [business value of the OSPO report](https://project.linuxfoundation.org/hubf
 - Improving development velocity
 - Mitigating Security Risks
 
-### The reasons behind SUSTAINING an OSPO
+### The reasons behind Sustaining an OSPO
 
 Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 

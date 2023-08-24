@@ -41,15 +41,15 @@ The structure used in this book to represent these areas is shaped as a flower d
 ![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
 [ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
 
-* **INDIVIDUAL CONTRIBUTORS:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+* **Individual Contributors:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **MANAGEMENT:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
+* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
 
-* **LEGAL:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
+* **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
-* **BUSINESS:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
+* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
 
-* **OPEN SOURCE ECOSYSTEM:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
+* **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
 * **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
 
@@ -111,7 +111,7 @@ For instance, [this article](https://octopus.com/blog/devops-uses-capability-not
 * Maturity models may tend to encourage standardization and conformity rather than promoting creative problem-solving and trying new approaches, which are important in DevOps.
 * Maturity models may follow a linear progression, assuming there is a fixed path to reach maturity. However, DevOps is a complex process that requires adaptability and flexibility.
 
-### Open Source VS OSPO Maturity Models
+### Open Source Maturity Models vs. OSPO Maturity Models
 
 In many cases, an OSPO may not be able to tackle all the tasks simultaneously. It often needs to evaluate its past achievements and progress in order to effectively plan and incorporate new milestones into its roadmap. This is where maturity models come into play.
 
