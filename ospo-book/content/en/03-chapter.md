@@ -147,7 +147,7 @@ TBD
 `📚 Continue Here`
 
 * [Setting up a open source strategy](https://todogroup.org/guides/strategy/).
-* [Participating in open source ommunities](https://todogroup.org/guides/participating/)
+* [Participating in open source communities](https://todogroup.org/guides/participating/)
 * [A guide to outbound pen source software](https://todogroup.org/guides/outbound-oss/)
 * [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 * [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
