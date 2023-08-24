@@ -32,6 +32,7 @@ Below is a list of resources that will help you become familiar with the process
 
 If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
 
+Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
 
 ## 💬 Communication Channels
 
