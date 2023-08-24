@@ -48,7 +48,7 @@ The structure used in this book to represent these areas is shaped as a flower d
 * **LEGAL:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
 * **BUSINESS:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
-  
+
 * **OPEN SOURCE ECOSYSTEM:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
 * **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
@@ -130,7 +130,7 @@ On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/t
 
 * Ad hoc: In the ad hoc stage, organizations start recognizing the value of open source and begin integrating it into their IT infrastructure. However, open source operations are still managed in an ad hoc manner, often on a case-by-case basis.
 
-* Security, Education, and Strategy: At this stage, organizations aim to formalize their open source operations by establishing dedicated OSPOs to manage their open source activities. These OSPOs take responsibility for ensuring compliance with legal and regulatory requirements, as well as developing and implementing open source strategies on how to use open source software in a sustainable way. This stage also contemplates the education on contirbuting to open source projects bu helping on its security adn sutainability.
+* Security, Education, and Strategy: At this stage, organizations aim to formalize their open source operations by establishing dedicated OSPOs to manage their open source activities. These OSPOs take responsibility for ensuring compliance with legal and regulatory requirements, as well as developing and implementing open source strategies on how to use open source software in a sustainable way. This stage also contemplates the education on contributing to open source projects by helping on its security and sustainability.
 
 * Community, Education, and Engagement: Organizations in this stage have mature OSPOs that oversee all aspects of their open source contributions and (if needed) and new open source projects. The OSPO is responsible for establishing best practices and standards for the open source projects they have activity. They ensure that all open source projects align with the organization's strategy and actively engage and sustain open source communities.
 
