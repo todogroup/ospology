@@ -20,7 +20,7 @@ weight: 10
 
 * Examine the reasons behind establishing an OSPO for people within organizations with no OSPOs.
 * Explore the reasons for sustaining an OSPO in organizations for people that are part of an OSPO already.
-* Assess and highlight the value of open source activities within an organization across teh different teams / work units.
+* Assess and highlight the value of open source activities within an organization across the different teams / work units.
 * Identify common antipatterns in OSPOs.
 * Present a use case illustrating the value and impact of an OSPO.
 
@@ -28,7 +28,7 @@ weight: 10
 
 > 🎯 Expected discussion topics to be covered:
 
-* Identify the essential ingredients for establishing a Minimum Viable OSPO, such as stucture types, departments to report to, open source roles, etc.
+* Identify the essential ingredients for establishing a Minimum Viable OSPO, such as structure types, departments to report to, open source roles, etc.
 * Design a set of layers of work (people) tat engage with the OSPO and open source operations.
 * Guide readers in designing an open source strategy (best practices).
 * Assess OSPO maturity using the OSPO Maturity Model.
@@ -39,7 +39,7 @@ weight: 10
 
 > 🎯 Expected discussion topics to be covered:
 
-* Deep dive into the different responsibiliteis showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
+* Deep dive into the different responsibilities showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
 * Include an assessment related to OSPO responsibilities.
 * Identify common antipatterns in OSPOs.
 * Present a use case highlighting specific OSPO responsibilities.
