@@ -85,7 +85,26 @@ The European Commission's Open Source Program Office (OSPO) has launched a new p
 
 In Chapter 1 we already introduced how open source has become increasingly significant for modern organizations. By extending the concept of "open" to encompass open research, design, and access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where the _open work_ term is starting to be used among participants that engage in OSPO practitioner communities.
 
-## Assessing Value of Open Source Activity
+## Assessing Value of Open Source Consumption
+
+`✅ Assessment`
+
+Open source software is everywhere. Organizations typically underestimate how much they already depend on the consumption of open source. It might be a deliberate choice to make use of specific open source projects, but it also might come in unnoticed as part of commercial software or in an organic way through individuals or teams taking engineering decisions. This can pose risks but it also provides chances. Open source represents a significant part of the value of IT solutions. It is an important step to recognize and assess this value and how an OSPO can serve in sustaining and increasing this value.
+
+There are some studies which analyze usage of open source software in the industry. The [Synopsys Open Source Security and Risk Analysis Report 2022](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html) for example finds that the average software project consists to 78% of open source software.
+
+Assess this value for your own organization by taking steps such as:
+
+- Collect information about open source software used by your development and operations teams
+- Get clarity about composition of commercial software you buy or services you use, ask vendors for what open source software they use, e.g. by requesting Software Bill of Materials (SBOMs)
+- Assess value by evaluating what costs would occur by using alternative proprietary solutions and components
+- Take factors such as speed of innovation or engineering agility into account
+
+This is an example of the activities an organization will perform at the consumer stage in the open source maturity model. This naturally leads to the next step to the participant stage:
+
+![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
+
+## Assessing Value of Open Source Contributions
 
 `✅ Assessment`
 
