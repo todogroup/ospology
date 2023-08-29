@@ -119,7 +119,7 @@ github_repo = "https://github.com/todogroup/ospology"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "065abfba197ec41bd"
+gcs_engine_id = "47909b42a20b740cd"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
