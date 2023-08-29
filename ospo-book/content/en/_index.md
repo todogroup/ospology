@@ -3,7 +3,7 @@ title: OSPO Book
 status: Completed
 ---
 
-# Welcome to the OSPO Book
+# Welcome to the <br/>OSPO Book
 
 This book serves as a source of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO.
 The book covers a wide range of topics, including:
