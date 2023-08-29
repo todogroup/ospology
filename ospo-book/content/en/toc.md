@@ -4,14 +4,6 @@ status: Completed
 weight: 10
 ---
 
-Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
-
-⚠️ Please make sure you have read the following documentation before proceeding further to gain a complete understanding of the project's workflow and governance.
-
-* [ ] README.md
-* [ ] CONTRIBUTING.md
-* [ ] GOVERNANCE.md
-
 ## Chapter 1: Introduction to Open Source Program Offices
 
 > 🎯 Expected discussion topics to be covered:
@@ -28,7 +20,7 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 
 * Examine the reasons behind establishing an OSPO for people within organizations with no OSPOs.
 * Explore the reasons for sustaining an OSPO in organizations for people that are part of an OSPO already.
-* Assess and highlight the value of open source activities within an organization across teh different teams / work units.
+* Assess and highlight the value of open source activities within an organization across the different teams / work units.
 * Identify common antipatterns in OSPOs.
 * Present a use case illustrating the value and impact of an OSPO.
 
@@ -36,7 +28,7 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 
 > 🎯 Expected discussion topics to be covered:
 
-* Identify the essential ingredients for establishing a Minimum Viable OSPO, such as stucture types, departments to report to, open source roles, etc.
+* Identify the essential ingredients for establishing a Minimum Viable OSPO, such as structure types, departments to report to, open source roles, etc.
 * Design a set of layers of work (people) tat engage with the OSPO and open source operations.
 * Guide readers in designing an open source strategy (best practices).
 * Assess OSPO maturity using the OSPO Maturity Model.
@@ -47,7 +39,7 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 
 > 🎯 Expected discussion topics to be covered:
 
-* Deep dive into the different responsibiliteis showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
+* Deep dive into the different responsibilities showcased in the [OSPO Mind Map project](https://ospomindmap.todogroup.org/)
 * Include an assessment related to OSPO responsibilities.
 * Identify common antipatterns in OSPOs.
 * Present a use case highlighting specific OSPO responsibilities.

@@ -33,7 +33,7 @@ In this book, the section on _Starting an OSPO_ is aimed at organizations that a
 
 _[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-### The reasons behind STARTING an OSPO
+### The reasons behind Starting an OSPO
 
 The [business value of the OSPO report](https://project.linuxfoundation.org/hubfs/LF%20Research/TODO%20Group%20-%20The%20Business%20Value%20of%20the%20OSPO%20-%20Report.pdf?hsLang=en) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
 
@@ -45,7 +45,7 @@ The [business value of the OSPO report](https://project.linuxfoundation.org/hubf
 - Improving development velocity
 - Mitigating Security Risks
 
-### The reasons behind SUSTAINING an OSPO
+### The reasons behind Sustaining an OSPO
 
 Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 
@@ -89,7 +89,7 @@ In Chapter 1 we already introduced how open source has become increasingly signi
 
 `✅ Assessment`
 
-Despite an organizations might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a methodology to communicate the value of contributing to open source and going beyond, which the OSPO can develop and use when working with the different teams that engages with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/ospo-book-project/message/18))
+Despite an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a methodology to communicate the value of contributing to open source and going beyond, which the OSPO can develop and use when working with the different teams that engages with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/ospo-book-project/message/18))
 
 - Step one: Get familiar with the consumer-participation-contribution-leadership open source involvement model. [This report by Dr. Ibrahim H](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LF%20Research%20Guide%20to%20Enterprise%20Open%20Source.pdf) explains the different stages (from consumer to leader involvement)
 

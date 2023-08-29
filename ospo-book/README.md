@@ -1,9 +1,9 @@
 # 👋 Welcome to Open Source (Program) Office Book
 
-* **Authors and co-authors (individuals):** [contributor's list](AUTHORS.md)  
-* **Desired mid-release Date:** August 2023  
+* **Authors and co-authors (individuals):** [contributor's list](AUTHORS.md)
+* **Desired mid-release Date:** August 2023
 * **Desired mid-publication Date:** September 2023
-* **Desired official release Date:** January 2024 
+* **Desired official release Date:** January 2024
 
 > If you are new to the project, please scroll down to `🐣 Newcommers - START HERE` and read [CONTRIBUTING.md](ospo-book/CONTRIBUTING.md)
 
@@ -32,6 +32,7 @@ Below is a list of resources that will help you become familiar with the process
 
 If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
 
+Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
 
 ## 💬 Communication Channels
 
@@ -68,7 +69,7 @@ The methodology will be designed to help organizations streamline their open sou
 
 This section will provide organizations with a comprehensive overview of the existing literature and resources available on open source and OSPOs, making it easy for them to access the information and support they need to create and implement an OSPO successfully.
 
-## 👩‍⚖️ License & Attribution Notice 
+## 👩‍⚖️ License & Attribution Notice
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. The authors of this work, Ana Jiménez Santamaría and Chris Aniszczyk, and co-authors made substantial contributions to its content and development. Also, the [co-authors](AUTHORS.md) collaborated with the authors and provided input, references, feedback, suggestions, and advice on the book's outline and content. When attributing this work, please reference the [authors](AUTHORS.md) that appear in this list.
 

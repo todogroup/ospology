@@ -36,20 +36,20 @@ Once this is evaluated, it is recommended to look at the OSPO from two dimension
 
 The area of work of your OSPO is also a crucial component to map, as it serves as one of the core ingredients for effectively implementing open source dynamics and philosophy on an organizational level. To achieve this, it is recommended to examine your own organizational architecture and break down open source tasks into small areas of work.
 
-The structure used in this book to represent these areas is shaped as a flower diagram with a number of petals and the OSPO in the center. Each petal would be directed to a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* also represents the specific communication channels, documentation and other material used with each group of stakeholders.
+The structure used in this book to represent these areas is shaped as a flower diagram with a number of petals and the OSPO in the center. Each petal represents a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* also represents the specific communication channels, documentation and other material used with each group of stakeholders.
 
 ![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
 [ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
 
-* **INDIVIDUAL CONTRIBUTORS:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+* **Individual Contributors:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **MANAGEMENT:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
+* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
 
-* **LEGAL:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
+* **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
-* **BUSINESS:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
+* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
 
-* **OPEN SOURCE ECOSYSTEM:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
+* **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
 * **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
 
@@ -111,7 +111,7 @@ For instance, [this article](https://octopus.com/blog/devops-uses-capability-not
 * Maturity models may tend to encourage standardization and conformity rather than promoting creative problem-solving and trying new approaches, which are important in DevOps.
 * Maturity models may follow a linear progression, assuming there is a fixed path to reach maturity. However, DevOps is a complex process that requires adaptability and flexibility.
 
-### Open Source VS OSPO Maturity Models
+### Open Source Maturity Models vs. OSPO Maturity Models
 
 In many cases, an OSPO may not be able to tackle all the tasks simultaneously. It often needs to evaluate its past achievements and progress in order to effectively plan and incorporate new milestones into its roadmap. This is where maturity models come into play.
 
@@ -130,7 +130,7 @@ On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/t
 
 * Ad hoc: In the ad hoc stage, organizations start recognizing the value of open source and begin integrating it into their IT infrastructure. However, open source operations are still managed in an ad hoc manner, often on a case-by-case basis.
 
-* Security, Education, and Strategy: At this stage, organizations aim to formalize their open source operations by establishing dedicated OSPOs to manage their open source activities. These OSPOs take responsibility for ensuring compliance with legal and regulatory requirements, as well as developing and implementing open source strategies on how to use open source software in a sustainable way. This stage also contemplates the education on contirbuting to open source projects bu helping on its security adn sutainability.
+* Security, Education, and Strategy: At this stage, organizations aim to formalize their open source operations by establishing dedicated OSPOs to manage their open source activities. These OSPOs take responsibility for ensuring compliance with legal and regulatory requirements, as well as developing and implementing open source strategies on how to use open source software in a sustainable way. This stage also contemplates the education on contributing to open source projects by helping on its security and sustainability.
 
 * Community, Education, and Engagement: Organizations in this stage have mature OSPOs that oversee all aspects of their open source contributions and (if needed) and new open source projects. The OSPO is responsible for establishing best practices and standards for the open source projects they have activity. They ensure that all open source projects align with the organization's strategy and actively engage and sustain open source communities.
 
@@ -147,7 +147,7 @@ TBD
 `📚 Continue Here`
 
 * [Setting up a open source strategy](https://todogroup.org/guides/strategy/).
-* [Participating in open source ommunities](https://todogroup.org/guides/participating/)
+* [Participating in open source communities](https://todogroup.org/guides/participating/)
 * [A guide to outbound pen source software](https://todogroup.org/guides/outbound-oss/)
 * [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 * [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)

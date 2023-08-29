@@ -54,11 +54,11 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 ### History and Roots
 
-The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated signficantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated significantly in the last decade. Most prominent technology infrastructure firms (e.g., Amazon, VMware, Cisco) and consumer technology companies (e.g., Apple, Google, Facebook) created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
 
 The term started becoming more mainstream and diverse in the last years, as more organizations from different sectors and regions included dedicated open source roles in their organization to manage open source operations and strategy. Nowadays, we can find OSPOs being formed in different regions (APAC, EMEA, AMER) and entities, such as Governments, Enterprises, NGOs, Universities and more.
 
-> Important Considerations in Defining an Open Source Program Office (OSPO): OSPOs vary in Sector, Region, and Organizational Size; May Exclude the Term 'Program' to become 'Open Source Office'; and No Two OSPOs are Alike.
+> Note about naming an Open Source Program Office (OSPO): We refer to the part of the organization managing open source as OSPO, but depending on your organization you might use a different name. OSPOs vary depending on sector, region, organizational size, and many other factors. The name may exclude the term 'Program' to become 'Open Source Office' or you will use a completely different name such as 'Open Source Center of Competence', 'Open Source Steering Committee" or 'Open Source Software Team'. No two OSPOs are alike.
 
 ## Assessing Readiness for Open Source and OSPO
 
