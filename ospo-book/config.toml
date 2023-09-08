@@ -54,7 +54,7 @@ anchor = "smart"
 [languages]
 [languages.en]
 title = "OSPO Book"
-description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
+description = "This book serves as a source of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
