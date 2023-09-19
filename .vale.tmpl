@@ -1,0 +1,19 @@
+{{- /* Keep track of our various counts */ -}}
+{{- range .Files}}
+{{- $file := .Path -}}
+{{- range .Alerts -}}
+{{- $line := .Line -}}
+{{- $col := (index .Span 0) -}}
+{{- $title := .Check | quote -}}
+{{- /* Skip Readability comments on line 1 */ -}}
+{{- if and (ne $line 1) (ne $col 1) (not (hasPrefix "Readability" $title)) -}}
+{{- if eq .Severity "error" }}
+::error file={{$file}},line={{$line}},col={{$col}},title={{$title}}::{{.Message}}
+{{- else if eq .Severity "warning" }}
+::warning file={{$file}},line={{$line}},col={{$col}},title={{$title}}::{{.Message}}
+{{- else }}
+::notice file={{$file}},line={{$line}},col={{$col}},title={{$title}}::{{.Message}}
+{{- end}}
+{{- end}}
+{{- end}}
+{{- end}}
