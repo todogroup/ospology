@@ -10,11 +10,11 @@ Links to slides will be added to this list once speakers submit them through GH 
 * [A Vision of FOSS at Mercedes-Benz - Wolfgang Gehring](https://github.com/todogroup/ospology/discussions/372)
 
 
-## 📝 Roundatable Summary Notes
+## 📝 Roundtable Summary Notes
 
-Links to summary notes will be added to this list once speakers submit them through GH Discussions
+Links to summary notes will be added to this list once moderators submit them through GH Discussions
 
 
 ## 👩‍🏫 Blog posts and recap videos
 
-Comming Soon
+Coming Soon
