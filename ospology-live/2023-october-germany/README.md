@@ -8,6 +8,7 @@ Links to slides will be added to this list once speakers submit them through GH 
 
 * [Open Source at SAP: Past, Present, and Future - Peter Giese](https://github.com/todogroup/ospology/discussions/373)
 * [A Vision of FOSS at Mercedes-Benz - Wolfgang Gehring](https://github.com/todogroup/ospology/discussions/372)
+* [Getting More Value from your OSPO - Dawn Foster](https://github.com/todogroup/ospology/discussions/375)
 
 
 ## 📝 Roundtable Summary Notes
