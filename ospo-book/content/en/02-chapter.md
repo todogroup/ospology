@@ -89,7 +89,7 @@ In Chapter 1 we already introduced how open source has become increasingly signi
 
 `✅ Assessment`
 
-Open source software is everywhere. Organizations typically underestimate how much they already depend on the consumption of open source. It might be a deliberate choice to make use of specific open source projects, but it also might come in unnoticed as part of commercial software or in an organic way through individuals or teams taking engineering decisions. This can pose risks but it also provides chances. Open source represents a significant part of the value of IT solutions. It is an important step to recognize and assess this value and how an OSPO can serve in sustaining and increasing this value.
+Open source software is everywhere. Organizations typically underestimate how much they already depend on the consumption (also called usage) of open source. It might be a deliberate choice to make use of specific open source projects, but it also might come in unnoticed as part of commercial software or in an organic way through individuals or teams taking engineering decisions. This can pose risks but it also provides chances. Open source represents a significant part of the value of IT solutions. It is an important step to recognize and assess this value and how an OSPO can serve in sustaining and increasing this value.
 
 There are some studies which analyze usage of open source software in the industry. The [Synopsys Open Source Security and Risk Analysis Report 2022](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html) for example finds that the average software project consists to 78% of open source software.
 
