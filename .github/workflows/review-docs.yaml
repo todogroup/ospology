@@ -1,0 +1,27 @@
+---
+name: Review docs
+
+on:
+  pull_request:
+    paths:
+      - "ospo-book/content/*/*.md"
+
+jobs:
+  review-docs:
+    name: Review docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Download vale
+        env:
+          BASEURL: https://github.com/errata-ai/vale/releases/download
+          VERSION: 2.29.0
+        run: |
+          mkdir -p .vale/bin && cd .vale/bin
+          wget -O vale.tar.gz --quiet "${BASEURL}/v${VERSION}/vale_${VERSION}_Linux_64-bit.tar.gz"
+          tar xzf vale.tar.gz
+          pwd >> "$GITHUB_PATH"
+      - name: Run vale
+        run: |
+          vale --output=".vale.tmpl" --no-exit ospo-book/content

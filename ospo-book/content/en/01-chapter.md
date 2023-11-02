@@ -115,7 +115,7 @@ If the organization decides to establish an OSPO (as an entity) or integrate OSP
 
 * Looking upward: if proposing the creation of an OSPO, managing expectations and aligning with executives' technology needs is necessary.
 
-* Looking sideways: collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the dev tools and security teams is necessary.
+* Looking sideways: collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is necessary.
 
 * Looking outside: representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
 
