@@ -29,7 +29,7 @@ weight: 10
 > 🎯 Expected discussion topics to be covered:
 
 * Identify the essential ingredients for establishing a Minimum Viable OSPO, such as structure types, departments to report to, open source roles, etc.
-* Design a set of layers of work (people) tat engage with the OSPO and open source operations.
+* Design a set of layers of work (people) that engage with the OSPO and open source operations.
 * Guide readers in designing an open source strategy (best practices).
 * Assess OSPO maturity using the OSPO Maturity Model.
 * Identify common antipatterns in OSPOs
@@ -50,7 +50,7 @@ weight: 10
 
 * Discuss the value and process of aligning open source strategy goals with metrics.
 * Explore different aspects of measuring open source impact within the organization and organization's help and support across open source projects and their communities.
-* Introduce the Goal-Question-Metric (GQM) approach for assessing OSPO success and teh work done in CHAOSS.
+* Introduce the Goal-Question-Metric (GQM) approach for assessing OSPO success and the work done in CHAOSS.
 * Discuss common antipatterns in OSPOs.
 * Present a use case showcasing the successful measurement of OSPO impact in the organization and open source projects & communities.
 
