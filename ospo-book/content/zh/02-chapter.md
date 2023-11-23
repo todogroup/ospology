@@ -35,7 +35,7 @@ _[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.co
 
 ### The reasons behind STARTING an OSPO
 
-The [business value of the OSPO report](https://project.linuxfoundation.org/hubfs/LF%20Research/TODO%20Group%20-%20The%20Business%20Value%20of%20the%20OSPO%20-%20Report.pdf?hsLang=en) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
+The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
 
 - Building standardized processes around open source
 - Learn how to approach the open source community
@@ -91,7 +91,7 @@ In Chapter 1 we already introduced how open source has become increasingly signi
 
 Despite an organizations might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a methodology to communicate the value of contributing to open source and going beyond, which the OSPO can develop and use when working with the different teams that engages with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/ospo-book-project/message/18))
 
-- Step one: Get familiar with the consumer-participation-contribution-leadership open source involvement model. [This report by Dr. Ibrahim H](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LF%20Research%20Guide%20to%20Enterprise%20Open%20Source.pdf) explains the different stages (from consumer to leader involvement)
+- Step one: Get familiar with the consumer-participation-contribution-leadership open source involvement model. [This report by Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source) explains the different stages (from consumer to leader involvement)
 
 ![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
 
