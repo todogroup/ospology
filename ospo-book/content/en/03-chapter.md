@@ -60,7 +60,7 @@ The structure used in this book to represent these areas is shaped as a flower d
 The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
 The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
 
-A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it. A good practice is to [document this strategy in an open source strategy document](https://todogroup.org/guides/strategy/).
+A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it. A good practice is to [document this strategy in an open source strategy document](https://todogroup.org/resources/guides/setting-an-open-source-strategy/).
 
 It is recommended that this document includes a general Q&A section. Additionally, you may consider creating specific how-to guides for specialized areas that interact with the OSPO and open source projects (e.g., marketing, legal, engineering) to address specific challenges. These guides should be tailored to the domain knowledge of the team members involved.
 
@@ -81,7 +81,7 @@ Since every organization is unique in its values, business drivers, and culture,
 * How can you make workers champions for open source?
 * How can the message be effectively transmitted to management for their understanding?
 
-Moreover, it is important to [identify the open source projects and communities with which you will work](https://todogroup.org/guides/participating/). Developing a plan for how you will support these initiatives is crucial. Additionally, you will need to [consider the role that open source will play in your organization and how you will integrate open source solutions into your existing IT infrastructure](https://todogroup.org/guides/outbound-oss/).
+Moreover, it is important to [identify the open source projects and communities with which you will work](https://todogroup.org/resources/guides/participating-in-open-source-communities/). Developing a plan for how you will support these initiatives is crucial. Additionally, you will need to [consider the role that open source will play in your organization and how you will integrate open source solutions into your existing IT infrastructure](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software//).
 
 #### Understanding the relevance of open source outside the organization
 
@@ -146,9 +146,10 @@ TBD
 
 `📚 Continue Here`
 
-* [Setting up a open source strategy](https://todogroup.org/guides/strategy/).
-* [Participating in open source communities](https://todogroup.org/guides/participating/)
-* [A guide to outbound pen source software](https://todogroup.org/guides/outbound-oss/)
+* [Setting up a open source strategy](https://todogroup.org/resources/guides/setting-an-open-source-strategy/).
+* [Participating in open source communities](https://todogroup.org/resources/guides/participating-in-open-source-communities/)
+* [A guide to outbound pen source software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software//)
 * [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 * [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
 * [Open Source maturity model](https://www.finos.org/blog/open-source-maturity-model-launch)
+ 
