@@ -4,37 +4,36 @@
 
 ## 阶段 1
 
-- [ ] Define program branding (e.g., OSPO, open source initiative, head of open source operations).
+- [ ] 定义项目品牌（如 OSPO、开源倡议、开源运营负责人）。
 
-- [ ] Manage legal risk and licenses, creating new procedures and documentation to ensure employees use OSS according to its license terms and that the organization’s OSS consumption is not putting it at legal risk.
+- [ ] 管理法律风险和许可证，创建新的流程和文档，以确保员工根据其许可证条款使用 OSS，并且组织消费 OSS 不会使其面临法律风险。
 
-- [ ] Create education programs to help developers decide when to use OSS in creating new products or services.
+- [ ] 创建教育计划，帮助开发人员决定何时使用 OSS 来创建新产品或服务。
 
-- [ ] Set up specific software inventory processes to create an organization-wide software bill of materials (SBOM).
+- [ ] 建立特定的软件库存流程，以创建全组织范围的软件物料清单 (SBOM)。
 
-- [ ] Overall, recognize the value of OSS and the need for compliance, education, and an SBOMs.
+- [ ] 总之，要认识到 OSS 的价值以及合规、教育和 SBOM 的必要性。
 
 
 ## 阶段 2
 
-- [ ] Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code.
+- [ ] 列出与 OSS 项目交互的最佳实践，例如如何请求功能、提交错误报告和贡献基本代码。
 
-- [ ] Communicate to employees and managers the importance of contributing to and not merely consuming OSS (including advocating for and driving event sponsorships, booking
-project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
+- [ ] 向员工和管理者传达贡献 OSS 而不只是消费 OSS 的重要性（包括倡导和推动活动赞助、在公共技术论坛上预约项目负责人和维护者作为演讲者或小组成员，以及确保组织资源用于关键任务 OSS 项目）。
 
-- [ ]  Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers.
+- [ ] 激励开发人员参与对其运营至关重要的 OSS 项目，使其成为高度活跃的贡献者或主要维护者。
 
 
 ## 阶段 3
 
-- [ ]  Initiate and host, or act as primary sponsors of, OSS projects.
-- [ ]  Create and launch open source projects to establish broad credibility in the open source community.
-- [ ]  Dedicate one or more full-time employee(s) to a project, and accept responsibility for nurturing a project community and ensuring its health.
-- [ ]  Develop internal processes, playbooks, checklists, tooling, and other mechanisms to vet, organize, and operate open source projects and to prepare and coach their leaders.
+- [ ]  发起和领导 OSS 项目，或者作为其主要赞助者。
+- [ ]  创建并启动开源项目，在开源社区建立广泛的信誉。
+- [ ]  为项目配备一名或多名全职员工，并承担起培育项目社区和确保其健康发展的责任。
+- [ ]  开发内部流程、操作手册、检查清单、工具及其他机制，以审核、组织和运营开源项目，并培养和指导其领导者。
 
 ## 阶段 4
 
-- [ ]  Become a strategic partner for technology decisions, helping to guide choices and shape long-term commitments to projects.
-- [ ]  Advise the CTO and technology leadership on which open source technologies to adopt or remove from the organization’s technology stack.
-- [ ]  Take the lead on benchmarking what constitutes an acceptable OSS project.
-- [ ]  Help organizations understand and navigate project politics.
+- [ ]  成为技术决策的战略合作伙伴，帮助指导选择并形成对项目的长期承诺。
+- [ ]  向 CTO 和技术领导层提供建议，说明应采用哪些开源技术，或从组织的现有技术栈中删除哪些开源技术。
+- [ ]  牵头制定可接受的 OSS 项目的基准。
+- [ ]  帮助组织理解和驾驭项目政治。
