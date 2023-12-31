@@ -8,7 +8,7 @@ weight: 40
   - Reasons Behind Starting an OSPO
   - Reasons Behind Sustaining an OSPO
 - [Assessing Value of Open Source Activity](#assessing-value-of-open-source-activity) - `✅ Assessment`
-- [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
+- [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources) - `📚 Continue Here`
 
 ## Introduction
@@ -122,17 +122,37 @@ This is an example of the value of activity from participation to leadership sta
 
 <img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
 
-## Antipatterns
+## Recommendations
 
-`🚫 OSPO Antipatterns`
+`💡 Recommendations`
 
-Common misunderstandings that should be corrected as soon as possible
+In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
 
-- **Characterize OSPOs as a purely top-down initiative:** For instance, one pushed by management on an unwilling team of engineers
-- **OSPO = Sales Profit or Marketing Tool:** Assume that an OSPO will act as a lead generator.
-- **Believe that an OSPO provides an immediate solution** to the open source problems the organization faces
-- **See OSPOs as an added value and not as direct support for the core organization’s areas and functions:** As cited in the 2020 State of the Software Supply Chain Report from Sonatype, [80-90% of modern applications consist of open source software](https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations). If your organization uses open source in their internal processes and/or products, is very likely that the OSPO enable and maintain risk mitigation.
-  **OSPO that have pure a technical focus and forget about Open Source culture:** Working on code together means a lot of things: transparency, diversity and cooperation.
+### Scenario #5
+There is a lack of understanding about open source practices across the organization
+
+> Recommendation: Promote organizational-wide understanding of open source practices through the OSPO by offering educational workshops, creating accessible resources, and establishing open source
+> champions in different departments to foster a culture of open source literacy
+
+### Scenario #6
+An OSPO is seen as a Sales Profit or Marketing Tool
+
+> Recommendation: Ensure that the OSPO is recognized as an integral part of the organization's digital, software, or IT strategy, rather than as a sales profit or marketing tool.
+> Emphasize its role in fostering open source best practices, contributing to technological innovation, and supporting the overall organization's IT / Digital development plan.
+
+### Scenario #7
+An OSPO is seen as an added value and not as direct support for the core organization’s areas and functions
+
+> Recommendation: Highlight how the people behind the OSPO with expertise in open source can enhance key business processes, drive innovation, and directly support strategic objectives,
+> thereby integrating it as an essential component of the organization's operational framework
+
+### Scenario #8
+An OSPO struggles with gaining executive support and buy-in
+> Recommendation: communicate the strategic value of open source through the OSPO, showcasing tangible benefits through case studies or success stories, and aligning its initiatives with key organizational priorities.
+
+### Scenario #9
+An OSPO has a technical focus and forgets about open source culture
+> Recommendation: Embrace the full spectrum of open source culture, which includes transparency, diversity, and cooperation. Encourage the organization to foster an environment where these values are actively promoted and practiced
 
 ## Resources
 
