@@ -6,7 +6,7 @@ weight: 30
 
 * [Introduction](#introduction)
 * [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
-* [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
+* [Recommendations](#recommendations) - `💡 Recommendations`
 * [Resources](#resources) - `📚 Continue Here`
 
 ## Introduction
@@ -126,11 +126,11 @@ As an example, the following [diagram](https://lists.todogroup.org/g/ospo-book-p
 <img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
 
 
-## Real-word Scenarios and Recommendations
+## Recommendations
 
 `💡 Recommendations`
 
-In this section, you will find a series of scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
+In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
 
 ### Scenario #1
 
@@ -162,6 +162,9 @@ An OSPO is seen as a one-size-fits-all solution
 
 Additional resources useful to continue evaluating open source usage, contribution, creation, and leadership:
 
+* [OSPO 101 Module 1 - Open Source Introduction](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1)
+* [OSPO 101 Module 2 - Open Source Business Models](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2)
+* [OSPO 101 Module 3 - Open Source management & your organization](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3)
 * [OSPO easy FAQ - TODO Group and Open Chain Japan, Linux Foundation](https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/)
 * [How to create an OSPO - TODO Group, Linux Foundation](https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/)
 * [OSPO Definition - TODO Group, Linux Foundation](https://ospoglossary.todogroup.org/ospo-definition/)
