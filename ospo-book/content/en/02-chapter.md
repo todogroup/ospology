@@ -158,9 +158,10 @@ The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenC
 
 Have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value
 
-## Step four
+## Step four: Map motivators with different activity types across the organization
 
-Create a secondary division that categorizes each of these unique motivators according to the different stages within the previously mentioned OSPO model, or a similar model as referenced in step 2.
+Create a second division that categorizes each of these unique motivators according to the different stages within the previously mentioned OSPO model, or a similar model as referenced in step 2.
+As an example, below is a possible categorization, proposed by one of the contributors to this book
 
 <img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
 
@@ -202,10 +203,10 @@ An OSPO has a technical focus and forgets about open source culture
 
 - [Securing the Software Supply Chain: The Role of OSPOs - Jessica Marz](https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html)
 - [Simple Frequently Asked Questions OSPO Guide - OSPO SWG Japan](https://qiita.com/owada-k/items/017d1b98d0e437766bd0)
-- [The Business value of the OSPO Report - Linux Foundation](https://www.linuxfoundation.org/research/business-value-of-ospo)
+- [The Business Value of the OSPO Report - Linux Foundation](https://www.linuxfoundation.org/research/business-value-of-ospo)
 - [EC Open Source Programme Office - European Commission Joinup](https://joinup.ec.europa.eu/collection/ec-ospo)
-- [Public services should sustain Critical open source software - FOSSEPS](https://joinup.ec.europa.eu/collection/ec-ospo)
-- [How governments want to use OSPOs to transform themselves - Sivan Pätsch](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government)
+- [Public Services Should Sustain Critical Open Source Software - FOSSEPS](https://joinup.ec.europa.eu/collection/ec-ospo)
+- [How Governments Want to Use OSPOs to Transform Themselves - Sivan Pätsch](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government)
 - [Open Source Security and Risk Analysis Report 2022 - Synopsys](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html)
 - [Open Technology - Scheerder, Jeroen & Koymans](https://www.researchgate.net/publication/254920512_Open_Technology#pf7)
 - [The Pros and Cons of Open Source Software - Khalil Khalaf](https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95)
