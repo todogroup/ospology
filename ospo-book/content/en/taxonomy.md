@@ -51,7 +51,8 @@ to using open source software to create positive social change.
 
   * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
 
-![img-1l](https://user-images.githubusercontent.com/43671777/222904547-885da535-96c2-4586-a907-b7ab9623ba55.png)
+![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
+
 
 ### Common Questions to Identify the Best Segment
 
@@ -76,11 +77,11 @@ Evaluate readiness for establishing an OSPO and the effectiveness of an existing
 
 ## 🎙 Use Cases
 
-Provide evidence and examples on how open source leades are doing across organizations and regions. Identifier `🎙 use-case`
+Provide evidence and examples about how open source leaders are doing across organizations and regions. Identifier `🎙 use-case`
 
-## 🚫 OSPO anti-patterns
+## 💡 Recommendations
 
-Raise awareness of ineffective approaches. Identifier `🚫 antipatterns`
+Shares recommendations from real-world experiences from open source professionals in concrete scenarios. Identifier `💡 Recommendations`
 
 ## 🧑‍🏫 "Continue here" Resources
 
