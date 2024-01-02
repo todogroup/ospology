@@ -78,20 +78,15 @@
 
 在组织认识到 OSS 的价值以及合规、教育和 SBOM 的需求后，他们开始意识到 OSS 使用的经济效益并寻求扩大它。第二阶段的 OSPO 创建了相关的内部机制，如推广使用经批准的 OSS 产品的大使、良好 OSS 健康教育计划以及 OSS 技能建设和认证的技术培训或学费报销等。通过这些举措，组织可以加强对 OSS 的应用并进一步强化：OSS 不仅重要，而且比专有软件产品更理想、更可取。
 
-Employee education includes laying out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code. During this stage, the organization strengthens its collaborative muscle and experiences the social life of an OSS project and community. At this point, the OSPO communicates to employees and managers the importance of contributing to and not merely consuming OSS. This outreach includes advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources (e.g., talent, funding) to mission-critical OSS projects. 
-员工教育包括制定与 OSS 项目交互的最佳实践，例如如何请求功能、提交错误报告和贡献基本代码。在此阶段，组织增强其协作能力并体验 OSS 项目和社区的社交生活。此时，OSPO 向员工和管理人员传达贡献而不仅仅是消耗 OSS 的重要性。这种外展活动包括倡导和推动活动赞助、预订项目领导和维护人员作为公共编码论坛的发言人或小组成员，以及为关键任务 OSS 项目确保组织资源（例如人才、资金）。
+员工教育包括制定与 OSS 项目交互的最佳实践，例如如何请求功能、提交错误报告和贡献基本代码。在此阶段，组织增强其协作能力并体验 OSS 项目和社区的社交生活。此时，OSPO 向员工和管理人员传达贡献而不仅仅是消费 OSS 的重要性。这种外联活动包括倡导和推动活动赞助、预约项目领导和维护人员作为公共编程论坛的发言人或小组成员，以及确保组织资源（如人才、资金）用于关键任务的 OSS 项目。
 
-For organizations, active and visible participation yields multiple benefits: better visibility, better reputation, more attractive employer. To this end, many non-tech organizations purchase booths. at prominent OSS events to interact more with those communities and recruit developers who enjoy working in OSS ecosystems. Technology companies active in open source may extend education programs to customers who want to interact with OSS communities and vendors.
-对于组织来说，积极和可见的参与会产生多种好处：更好的知名度、更好的声誉、更具吸引力的雇主。为此，许多非科技组织购买展位。参加重要的 OSS 活动，与这些社区进行更多互动，并招募喜欢在 OSS 生态系统中工作的开发人员。活跃于开源领域的技术公司可以将教育计划扩展到想要与 OSS 社区和供应商互动的客户。
+对于组织来说，积极和看得见的参与会产生多种好处：更好的知名度、更好的声誉、更具吸引力的雇主品牌。为此，许多非科技组织购买展位，参加重要的 OSS 活动，与这些社区进行更多互动，并招募喜欢在 OSS 生态系统中工作的开发人员。活跃于开源领域的技术公司可以将教育计划扩展到想要与 OSS 社区和供应商互动的客户。
 
-As they advance in Stage 2, organizations begin incentivizing their developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers. To technology organizations, employing a contributor to a prominent OSS project is a valuable investment: most of their contributors to, say, the Linux kernel—the core component of the Linux operating system and the critical interface between computer hardware and software—are full-time employees (FTEs) whose job is to write code for Linux. 
-随着进入第二阶段，组织开始激励开发人员参与对其运营至关重要的 OSS 项目，从而使开发人员成为高度活跃的贡献者或主要维护者。对于技术组织来说，雇用一个著名的 OSS 项目的贡献者是一项有价值的投资：他们的大多数贡献者，比如 Linux 内核（Linux 操作系统的核心组件以及计算机硬件和软件之间的关键接口）都是完全的。时间员工 (FTE)，其工作是为 Linux 编写代码。
+随着进入第二阶段，组织开始激励开发人员参与对其运营至关重要的 OSS 项目，从而使开发人员成为高度活跃的贡献者或主要维护者。对于技术组织而言，雇用一个著名的 OSS 项目的贡献者是一项有价值的投资：他们中的大多数贡献者，比如 Linux 内核—— Linux 操作系统的核心组件以及计算机硬件和软件之间的关键接口——的贡献者都是全职员工 (FTE)，其工作是为 Linux 编写代码。
 
-Outside the technology sector, fewer organizations can assign FTEs to open source work, but they are doing it. For example, both Comcast and Bloomberg have employees working full-time on OSS projects. In this stage of the life cycle, OSPOs begin exploring how to streamline processes for developers to consume OSS. Such developer efficiency may include simplifying CLAs, adding OSS with acceptable license types to ticketing systems for fast approval, promoting reuse of OSS architecture and software in place (a variation on inner-sourcing), and standardizing library selection and open source development tools, thereby blending OSPO and platform operations duties.
-在技​​术领域之外，很少有组织可以将 FTE 分配给开源工作，但他们正在这样做。例如，康卡斯特和彭博社都有员工全职从事 OSS 项目。在生命周期的这个阶段，OSPO 开始探索如何简化开发人员使用 OSS 的流程。这种开发人员效率可能包括简化 CLA、将具有可接受许可证类型的 OSS 添加到票务系统以实现快速批准、促进 OSS 架构和软件的就地重用（内部采购的变体）以及标准化库选择和开源开发工具，从而混合 OSPO 和平台运营职责。
+在技​​术领域之外，很少有组织能够分配全职员工从事开源工作，但他们正在这样做。例如，康卡斯特和彭博社都有员工全职从事 OSS 项目。在生命周期的这个阶段，OSPO 开始探索如何简化开发人员使用 OSS 的流程。这种开发人员效率可能包括简化 CLA、将具有可接受许可证类型的 OSS 添加到工单系统以实现快速审批、促进 OSS 架构和软件的就地重用（内部采购的变体）以及标准化库选择和开源开发工具，从而混合 OSPO 和平台运营职责。
 
-Usually in Stage 2 of the OSPO maturity cycle (or sometimes in Stage 1, if the company is a software or core technology company), OSPOs begin to streamline and optimize open outbound source contributions for their developers. The process of requesting and getting approval for outbound participation is usually ad hoc and painful in the early days
-通常在 OSPO 成熟度周期的第二阶段（或者有时在第一阶段，如果公司是软件或核心技术公司），OSPO 开始为其开发人员简化和优化开放出站源代码贡献。出境参与的请求和获得批准的过程在早期通常是临时的且痛苦的
+通常在 OSPO 成熟度周期的第二阶段（或者有时在第一阶段，如果是一家软件或技术为核心的公司的话），OSPO 开始为其开发人员简化和优化对外开源的贡献流程。对外参与的请求和获得批准的过程在早期通常是临时的且痛苦的。
 
 **本阶段建议参与的 OSS 社区列表**
 
