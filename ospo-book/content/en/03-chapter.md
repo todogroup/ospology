@@ -1,5 +1,5 @@
 ---
-title: "Learning how to be involved in daily operations"
+title: "Foundations and Essential Elements"
 status: Completed
 weight: 50
 ---
