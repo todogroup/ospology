@@ -11,12 +11,12 @@
 
 > 完整研究可以查阅 [OSPO 的演进](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/) 
 > 
-> 欲了解更多 OSPO 特点、组织架构和角色相关信息，请查看[深入了解 OSPO](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
+> 欲了解更多 OSPO 特点、组织架构和角色相关信息，请查看[深入了解 OSPO](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)（[中文版](https://training.linuxfoundation.cn/downloads/d1895d027c54a9e56ff41d428289b9ea)）
 
 随着 OSPO 的激增和普及，这些专项也日趋成熟。通过把 OSPO 领导者和专家的对话与 OSPO 调研结果相结合，我们建立了一个 OSPO 成熟度模型，以描述 OSPO 的典型演进过程。请注意，*一刀切并不适合所有情况*。事实证明，该模型在那些最初没有*传统上*在其*日常运营*中实施开源的环境中效果更好。此外，组织的规模和类型也会影响 OSPO 的成熟程度。在规模较大的组织中，多个业务部门可能会制定不同的开源策略，每个部门都有不同的技术文化；而纯数字化的技术公司更有可能在早期消费 OSS 并为其做出贡献，也更有可能接触到开源技术和理念。
 
 
-![LFResearch_OSPO_报告_图2](https://user-images.githubusercontent.com/43671777/167606513-18cb999e-8d01-4807-a23e-2ad5f6ec85f7.jpg)
+![LFResearch_OSPO_报告_图2](ospo-maturity-model-zh.png)
 
 **揭秘 OSPO 模型**
 
@@ -99,17 +99,13 @@
 
 ### 3️⃣ 阶段 3： 发起开源项目和发展社区
 
-At Stage 3, organizations initiate and then host or act as primary sponsors of OSS projects. They will dedicate one or more FTEs to a project, and they accept responsibility for nurturing a project community and ensuring its health. They don’t confuse this level of organizational commitment with individual employees who decide to open-source their projects. In Stage 3, organizational leaders support incubating and launching open source projects into the public sphere because they understand how these projects benefit their organization. Such projects tend to offer better performance and economics on crucial capabilities that may be noncore to the organization’s value proposition but critical to its technology infrastructure. 
-在第三阶段，组织发起并主持或充当 OSS 项目的主要发起人。他们将为一个项目投入一名或多名 FTE，并承担培育项目社区并确保其健康发展的责任。他们不会将这种级别的组织承诺与决定开源其项目的员工个人混淆。在第三阶段，组织领导者支持在公共领域孵化和启动开源项目，因为他们了解这些项目如何使他们的组织受益。此类项目往往会在关键能力方面提供更好的性能和经济效益，这些能力可能不是组织价值主张的核心，但对其技术基础设施至关重要。
+在第三阶段，组织发起并主导 OSS 项目或充当其主要发起人。他们将为一个项目投入一名或多名全职员工（FTE），并承担培育项目社区并确保其健康发展的责任。他们不会将这种级别的组织承诺与决定开源其项目的员工个人混淆。在第三阶段，组织领导者支持在公共领域孵化和启动开源项目，因为他们了解这些项目如何使他们的组织受益。此类项目往往会在关键能力方面提供更好的业绩和经济效益，这些能力可能不是组织价值主张的核心，但对其技术基础设施至关重要。
 
-In addition, organizations that create and launch open source projects establish broad credibility in the open source community; the possibility of working on open source technology is attractive to many developers.  Most of the OSPOs we spoke with cited recruitment of new engineering talent and retention of existing talent as a key motivation of the open source effort.
-此外，创建和启动开源项目的组织在开源社区中建立了广泛的信誉；从事开源技术的可能性对许多开发人员来说很有吸引力。我们采访的大多数 OSPO 都将招聘新工程人才和保留现有人才视为开源工作的关键动机。
+此外，创建和启动开源项目的组织在开源社区中建立了广泛的信誉；从事开源技术的可能性对许多开发人员来说很有吸引力。我们采访的大多数 OSPO 都将招聘新的工程人才和保留现有人才视为开源工作的关键动机。
 
-Supporting a project with FTEs and funding is true skin in the open source game. Organizations that cross this threshold and successfully launch multiple open source projects develop internal resources and processes that can incubate and ensure the success of these projects post launch. OSPOs are more than just gatekeepers and mentors for project formation and launch; they educate project creators on the requirements for cultivating a healthy open source ecosystem, and they coach project leads to prepare them for a more public leadership role required of an OSS project. 
-用 FTE 和资金支持项目是开源游戏中真正的皮肤。跨越这一门槛并成功启动多个开源项目的组织会开发内部资源和流程，以孵化并确保这些项目启动后的成功。 OSPO 不仅仅是项目形成和启动的看门人和导师；他们向项目创建者提供关于培养健康的开源生态系统的要求的教育，并指导项目负责人为他们担任 OSS 项目所需的更公开的领导角色做好准备。
+用 FTE 和资金支持项目是开源游戏中真面目。跨越这一门槛并成功启动多个开源项目的组织会开发内部资源和流程，以孵化并确保这些项目启动后的成功。 OSPO 不仅仅是项目形成和启动的守门人和导师；他们向项目创建者提供教育培训，帮助其了解健康的开源生态系统的要求，并指导项目负责人为他们担任 OSS 项目所需的更公开的领导角色做好准备。
 
-As an OSS organization matures, its OSPO develops internal processes, playbooks, checklists, tooling, and other mechanisms to vet, organize, and operate open source projects and to prepare and coach their leaders. Some OSPOs prefer to launch projects with the assistance of the major open source foundations or collaboratives such as the TODO Group to enhance capabilities or provide infrastructure, tactical assistance, and other resources. This preference is less resource intensive but cedes control of a project to a broader community.
-随着 OSS 组织的成熟，其 OSPO 会开发内部流程、行动手册、清单、工具和其他机制来审查、组织和运营开源项目，并培养和指导其领导者。一些 OSPO 更愿意在主要开源基金会或 TODO Group 等协作机构的协助下启动项目，以增强能力或提供基础设施、战术援助和其他资源。这种偏好的资源密集程度较低，但会将项目的控制权交给更广泛的社区。
+随着 OSS 组织的成熟，其 OSPO 会开发内部流程、行动手册、清单、工具和其他机制来审查、组织和运营开源项目，并培养和指导其领导者。一些 OSPO 更愿意在主要开源基金会或 TODO Group 等协作机构的协助下启动项目，以增强能力或提供基础设施、战术援助和其他资源。这种选择需要的资源较少，但会将项目的控制权让渡给更广泛的社区。
 
 **本阶段建议参与的 OSS 社区列表**
 
@@ -126,33 +122,21 @@ As an OSS organization matures, its OSPO develops internal processes, playbooks,
 
 ### 4️⃣ 阶段 4： 成为战略决策合作伙伴
 
-At this maturity stage, the OSPO becomes a strategic partner for technology decisions, helping to guide choices and shape long-term commitments to projects. At Stage 4, the CTO and other technology leaders consult the OSPO and its leadership on which open source technologies to rely on and which decision criteria to use in judging open source projects. Because major open source technology choices tend to generate significant secondary and tertiary costs and affect upstream and downstream technologies as well as hiring plans, the choice of open source projects becomes a major business decision. 
-在这个成熟阶段，OSPO 成为技术决策的战略合作伙伴，帮助指导选择并形成对项目的长期承诺。在第四阶段，CTO 和其他技术领导者会向 OSPO 及其领导层咨询应依赖哪些开源技术以及在判断开源项目时使用哪些决策标准。由于主要的开源技术选择往往会产生大量的二级和三级成本，并影响上下游技术以及招聘计划，因此开源项目的选择成为一项重大的业务决策。
+在这一成熟阶段，OSPO 成为技术决策的战略合作伙伴，帮助指导选择并形成对项目的长期承诺。在第四阶段，CTO 和其他技术领导者会向 OSPO 及其领导层咨询应依赖哪些开源技术以及在判断开源项目时使用哪些决策标准。由于主要的开源技术选择往往会产生大量的二级和三级成本，并影响上下游技术以及招聘计划，因此开源项目的选择成为一项重大的业务决策。
 
-In broad terms, OSPOs provide three types of strategic guidance in Stage 4. First, the OSPO advises the CTO and technology leadership on which open source technologies to adopt or remove from the organization’s technology stack. Given the many OSS options today—with most major categories of software featuring dozens of choices as shown in Figure 2—the OSPO can provide insights into OSS trends such as popularity of different languages, designs of APIs, or capabilities of different NoSQL databases. In this role, the OSPO becomes an internal technology consultant to the CTO and the in-house expert on OSS. 
-从广义上讲，OSPO 在第 4 阶段提供三种类型的战略指导。首先，OSPO 就应采用或从组织的技术堆栈中删除哪些开源技术向 CTO 和技术领导层提供建议。鉴于当今 OSS 选项众多（大多数主要软件类别都有数十种选择，如图 2 所示），OSPO 可以提供对 OSS 趋势的洞察，例如不同语言的流行程度、API 设计或不同 NoSQL 数据库的功能。在此角色中，OSPO 成为 CTO 的内部技术顾问和 OSS 的内部专家。
+从广义上讲，OSPO 在第 4 阶段提供三种类型的战略指导。首先，OSPO 就应采用或从组织的技术栈中删除哪些开源技术向 CTO 和技术领导层提供建议。鉴于当今 OSS 选项众多（大多数主要软件类别都有数十种选择，如图 2 所示），OSPO 可以提供对 OSS 趋势的洞察，例如不同语言的流行程度、API 设计或不同 NoSQL 数据库的功能。在此角色中，OSPO 成为 CTO 的内部技术顾问和 OSS 的内部专家。
 
-In a second type of strategic guidance, OSPOs take the lead on benchmarking what constitutes an acceptable OSS project. The OSPO often evaluates the behavior and performance of the project, especially changes in license type that limit usage, or abrupt shifts in the project roadmap, to determine whether a project manager has the best interests of the community in mind. Most OSPOs rely on back-of-the-envelope 
-metrics to evaluate project behavior such as:
-在第二种类型的战略指导中，OSPO 率先对可接受的 OSS 项目的构成进行基准测试。 OSPO 经常评估项目的行为和绩效，特别是限制使用的许可证类型的变化，或项目路线图的突然变化，以确定项目经理是否考虑到社区的最大利益。大多数 OSPO 依赖于粗略的信息
+在第二种类型的战略指导中，OSPO 率先对可接受的 OSS 项目的构成进行基准测试。 OSPO 经常评估项目的行为和表现，特别是限制使用的许可证类型的变化，或项目路线图的突然变化，以确定项目管理者是否考虑到社区的最大利益。大多数 OSPO 依赖于粗略的信息评估项目行为的指标，比如：
 
-* Which type of license does it have?
-* What is its code of conduct, and what are the consequences for breaking it?
-* What is its governance structure, and does this structure ensure independence?
-* How long does it take to respond to pull requests or bug filings?
-* How frequently does the project ship new versions?
-* Does one party (company or organization) or a whole community control the project?
-* How many contributors does the project have? How has that number changed over time?
-* 它拥有哪种类型的许可证？
+* 它使用哪种类型的许可证？
 * 它的行为准则是​​什么？违反它的后果是什么？
-* 其治理结构是什么？该结构是否确保独立性？
-* 响应拉取请求或错误报告需要多长时间？
+* 其治理结构是什么？该结构能否确保独立性？
+* 响应 PR 或错误报告需要多长时间？
 * 该项目发布新版本的频率如何？
 * 项目是由一方（公司或组织）还是整个社区控制的？
-* 该项目有多少贡献者？随着时间的推移，这个数字发生了怎样的变化？
+* 该项目有多少贡献者？随着时间的推移，这个数字的变化趋势如何？
 
-A third type of guidance is helping organizations understand and navigate project politics, such as maintaining a neutral stance when multiple influential actors are attempting to steer a project, or illuminating the latent political considerations of community members. At a higher plane, OSPOs can help companies maintain a neutral posture on techno-nationalism and bridge political differences by cultivating personal and working relationships that transcend national boundaries and political realms. Increasingly, this value extends to the work of foundations and nonprofits, as those realms become important neutral spaces in open source.
-第三类指导是帮助组织理解和驾驭项目政治，例如当多个有影响力的参与者试图引导项目时保持中立立场，或者阐明社区成员潜在的政治考虑。在更高层面上，OSPO 可以帮助公司在技术民族主义上保持中立姿态，并通过培养超越国界和政治领域的个人和工作关系来弥合政治分歧。这种价值越来越多地延伸到基金会和非营利组织的工作中，因为这些领域成为开源中重要的中立空间。
+第三类指导是帮助组织理解和驾驭项目政治，例如当多个有影响力的参与者试图引导项目时保持中立立场，或者阐明社区成员潜在的政治考虑。在更高层面上，OSPO 可以帮助公司在技术民族主义问题上保持中立姿态，并通过培养超越国界和政治领域的个人和工作关系来弥合政治分歧。这种价值越来越多地延伸到基金会和非营利组织的工作中，因为这些领域成为开源中非常重要的中立空间。
 
 **本阶段建议参与的 OSS 社区列表**
 
