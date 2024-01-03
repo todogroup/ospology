@@ -101,13 +101,7 @@ For open source to be successful and sustainable within an organization, it is c
 
 ### The Existing Debates Around Maturity Models
 
-Before deepening dive into maturity levels, we want to emphasize that this book is informative and people should adapt its content to their organization needs. Where maturity models can be useful, organizations can either use maturity models or not.
-
-For instance, [this article](https://octopus.com/blog/devops-uses-capability-not-maturity) discusses about open source models within the DevOps community. The article argues against the use of maturity models in DevOps for a few reasons:
-
-* Maturity models may focus on reaching a specific end goal, which can hinder innovation and experimentation in DevOps, where continuous improvement is key.
-* Maturity models may tend to encourage standardization and conformity rather than promoting creative problem-solving and trying new approaches, which are important in DevOps.
-* Maturity models may follow a linear progression, assuming there is a fixed path to reach maturity. However, DevOps is a complex process that requires adaptability and flexibility.
+Before deepening dive into maturity levels, we want to emphasize that this book is informative and people should adapt its content to their organization needs. Where maturity models can be useful, organizations can either use maturity models or not. For instance, [this article](https://octopus.com/blog/devops-uses-capability-not-maturity) discusses about open source models within the DevOps community.
 
 ### Open Source Maturity Models vs. OSPO Maturity Models
 
@@ -126,53 +120,66 @@ On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/t
 It helps identify the specific areas where they need to concentrate their efforts and improve their practices and its creation might come at any level of the open source journey of an organization.
 
 
-### OSPO simple checklist
+### Simple checklist
 [This checklist](https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md) offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+
+#### Pre-stages
+
+- [ ] Create and publish a common set of values and principles around open source usage, contribution and creation as an organization
+- [ ] Define program branding (e.g., OSPO, open source initiative, head of open source operations).
+- [ ] Define structure, budget and necessary cross-functional staff to get started
+- [ ] Define an action plan for the upcomming years
 
 #### Stage 1
 
-- [ ] Define program branding (e.g., OSPO, open source initiative, head of open source operations).
-- [ ] Manage legal risk and licenses, creating new procedures and documentation to ensure employees use OSS according to its license terms and that the organization’s OSS consumption is not putting it at legal risk.
-- [ ] Create education programs to help developers decide when to use OSS in creating new products or services.
+- [ ] Manage security risks and legal risk and licenses, creating new procedures and documentation to ensure employees use open source in the organization according to its license terms.
+- [ ] Create education programs to help developers decide when to use open source in creating new products or services.
 - [ ] Set up specific software inventory processes to create an organization-wide software bill of materials (SBOM).
-- [ ] Overall, recognize the value of OSS and the need for compliance, education, and an SBOMs.
+- [ ] Overall, recognize the value of open source when developing software, hardware, using datasets to train machine learning models, etc and the need for security scorecards, compliance, education, and an SBOMs.
 
 #### Stage 2
 
 - [ ] Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code.
-- [ ] Communicate to employees and managers the importance of contributing to and not merely consuming (also called usage) OSS (including advocating for and driving event sponsorships, booking
+- [ ] Communicate to workers, policimakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking
 project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
-- [ ]  Incentivize developers to work on OSS projects critical to their operations, to the degree that developers become highly active contributors or primary maintainers.
+- [ ]  Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contirbuting code, field expertise, etc), to the degree that workers become highly active contributors.
 
 
 #### Stage 3
 
-- [ ]  Initiate and host, or act as primary sponsors of, OSS projects.
+- [ ]  Initiate and host, or act as primary sponsors of open source projects critical to your organization.
 - [ ]  Create and launch open source projects to establish broad credibility in the open source community.
 - [ ]  Dedicate one or more full-time employee(s) to a project, and accept responsibility for nurturing a project community and ensuring its health.
-- [ ]  Develop internal processes, playbooks, checklists, tooling, and other mechanisms to vet, organize, and operate open source projects and to prepare and coach their leaders.
+- [ ]  Develop internal processes, playbooks, working hours, checklists, tooling, and other mechanisms to vet, organize, and operate open source projects and to prepare and coach their leaders.
 
 #### Stage 4
 
 - [ ]  Become a strategic partner for technology decisions, helping to guide choices and shape long-term commitments to projects.
-- [ ]  Advise the CTO and technology leadership on which open source technologies to adopt or remove from the organization’s technology stack.
-- [ ]  Take the lead on benchmarking what constitutes an acceptable OSS project.
-- [ ]  Help organizations understand and navigate project governance.
+- [ ]  Advise the CTO and technology leadership on which open source projects to adopt or remove from the organization’s technology stack.
+- [ ]  Take the lead on benchmarking what constitutes an acceptable open source project.
+- [ ]  Help organizations understand and navigate through the different open source project governance models.
 
 ## Recommendations
 
 `💡 Recommendations`
 
-TBD
+### Scenario #10
+
+There is a lack of consistency in how open source understanding and value is perceived across the organization, leading to confusion and potential risks.
+
+> Recommendation: Establish and enforce a consistent understanding of open source throughout the organization to ensure a stable and strong foundation for the OSPO. Creating publicly available FOSS and/or Open Source manifestos, principles, and websites is an effective way to foster a common understanding of values, principles, and goals among all teams and subsidiaries
 
 ## Resources
 
 `📚 Continue Here`
 
+* [FINOS open source maturity model](https://www.finos.org/blog/open-source-maturity-model-launch)
+* [Porsche Open Source Website](https://opensource.porsche.com/)
+* [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
+* [OSPO 101 training module - OSPO and your organization](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3)
 * [Setting up an open source strategy](https://todogroup.org/resources/guides/setting-an-open-source-strategy/).
 * [Participating in open source communities](https://todogroup.org/resources/guides/participating-in-open-source-communities/)
 * [A guide to outbound open source software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/)
 * [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
-* [OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
 * [Open Source maturity model](https://www.finos.org/blog/open-source-maturity-model-launch)
  
