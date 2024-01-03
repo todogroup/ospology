@@ -11,17 +11,7 @@
 
 - 💚 [Our Mission](#our-mission)
 - 🦺 [Community](#community)
-    - OSPOlogy Webinars
-    - OSPOlogy Sync Calls
-      - Europe
-      - APAC
-    - OSPOlogy Working Hours
-    - OSPOlogy Live Europe
-    - OSPO Local Communities & Meetups
-- 🕵️‍♀️ [Artifacts](#artifacts)
-  - Newsletter
-  - Mind Map
-  
+- 🕵️‍♀️ [Popular Artifacts](#popular-artifacts)
 
 ## Our Mission
 
