@@ -43,24 +43,24 @@ The structure used in this book to represent these areas is shaped as a flower d
 ![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
 [ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
 
-* **Individual Contributors:** This petal involves the people behind the OSPO to work with individuals within the organization, with main focus on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+* **Individual Contributors:** This petal involves the people behind the OSPO to work with individuals within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source help them overcome these challenges effectively.
+* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
 
 * **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
-* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer among them.
+* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer.
 
 * **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
-* **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source
+* **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source.
 
 > Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
 
 #### Creating and Implementing an Open Source Strategy
 
-The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
-The OSPO's strategy focuses on aligning the organization's open source usage (also called consumption) and contributions across its projects, products, services, or internal infrastructure to its overall organization objectives.
+The people behind an OSPO achieve this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
+The OSPO's strategy focuses on aligning the organization's open source usage (consumption) and contributions across its projects, products, services, or internal infrastructure to its overall organization objectives.
 
 A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it. A good practice is to [document this strategy in an open source strategy document](https://todogroup.org/resources/guides/setting-an-open-source-strategy/).
 
@@ -93,7 +93,7 @@ Organizations are subject to various external regulators that influence and shap
 * Industry Regulators: Many industries have their own regulatory bodies or professional associations that set guidelines and standards for organizations to follow.
 * Consumer Protection Agencies: Consumer protection agencies ensure that organizations provide fair and safe products or services to consumers.
 
-For open source to be successful and sustainable within an organization, it is crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications of open source and its community. Thus, it is recommended that the OSPO considers ways to develop a plan for approaching and communicating with regulators, clearly defining the roles they will play in the policymaking process.
+For open source to be successful and sustainable within an organization, it is crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications of open source and its community. Thus, it is recommended that the OSPO consider ways to develop a plan for approaching and communicating with regulators, clearly defining the roles they will play in the policymaking process.
 
 ## Assessing Maturity of Open Source Program Office
 
