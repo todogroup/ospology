@@ -131,7 +131,7 @@ The OSPOlogy Live organizing team is responsible for a variety of tasks, includi
 
 **1️⃣ How many OSPOlogyLive micro-conferences happens every year?**
 
-We hold a maximum number of three (3) OSPOlogyLive micro-conferences per year in various European countries, each focusing on specific OSPO responsibilities.
+We hold a maximum number of 3-4 OSPOlogyLive micro-conferences per year in various European countries, each focusing on specific OSPO responsibilities.
 
 **2️⃣ Can I host multiple OSPOlogyLive micro-conferences in the same country?**
 
@@ -163,5 +163,12 @@ Scope of OSPO Local Meetups:
 Here's what you need to do:
 
 * Be a representative from an open source community, project, or foundation involved in the OSPO movement (e.g., adoption, day-to-day operations, etc).
-* Submit an OSPO Associates request to use our logo brand in future OSPOlogyLive micro-conferences. You can find more information about the OSPO Associates program at todogroup.org/associates.
-* Wait for our OSPOlogyLive organizers to review and approve your request. Approval will happen if 2/3 of current OSPOlogy Live organizers approves.
+* Actively participate in the OSPOlogyLive sync meetings with the hosts and stay updated on mailing list conversations and discussions.
+* Submit an OSPO Associates request to use OSPOlogyLive brand in future mini-summit editions. You can find more information about the OSPO Associates program at https://todogroup.org/about/associates/.
+* Wait for our OSPOlogyLive organizers to review and approve your request. Approval will happen if 2/3 of active OSPOlogyLive organizers approve.
+
+Benefits:
+
+* Benefit from cross-community collaboration, with other projects assisting the adoption and development of OSPOs across organizations.
+* Participate in the planning, design, and approval processes of micro-conferences.
+* Promote your open source initiative/project and brand within the OSPOlogyLive network
