@@ -3,16 +3,16 @@ title: OSPO Book
 status: Completed
 ---
 
-# Welcome to the OSPO Book
+# Welcome to the <br/>OSPO Book
 
-This book serves as a source of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO.
-The book covers a wide range of topics, including:
+The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and/or create open source projects through professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role and provides resources [developed openly by a group of contributors](https://ospobook.todogroup.org/07-chapter/) with deep knowledge in open source strategy, community and management. This includes setting up policies, processes, and strategies on how to use, contribute to, and create open source projects critical to the organization's infrastructure, as well as overseeing day-to-day operations.
 
-* Why organizations may or may not need an OSPO
-* Assessing an organization's readiness for implementing an OSPO
-* The role of OSPOs in different types of organizations
-* Challenges and common antipatterns associated with OSPOs
-* Practical recommendations in day-to-day-tasks, ranging from formulating open source policies to effectively engaging with external open source communities
+
+* Why organizations may or may not need an OSPO.
+* Assessing an organization's readiness for implementing an OSPO.
+* The role of OSPOs in different types of organizations.
+* Common difficult scenarios and recommendations.
+* Practical recommendations in day-to-day operations, ranging from formulating open source policies to effectively engaging with external open source communities.
 
 <p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Colorful houses with people"></p>
 

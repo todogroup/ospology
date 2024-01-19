@@ -7,16 +7,16 @@ menu:
     weight: 20
 ---
 
-Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a consistent structure and includes the following deliverables: General Content, Assessment Checklists, OSPO Anti-Patterns, and *Continue Here* Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with *segment tags*, which are explained below.
+Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a structure and includes the following deliverables: General Content, Assessment Checklists, Recommendations, and 'Continue Here' Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with 'segment tags,' which are explained below:
 
 ## 🔖 Segment Tags
 
-The tag system followed in the book aims to show the types of segments that the content is most relevant to. These segments are organized within `organizational goals` & `drivers of motivators` that has direct impact on the creation, evolution of the different OSPO roles and its perceived value to the organization.
+The tag system used in the book aims to show the types of segments that the content is most relevant to. These segments are organized within 'organizational goals' and 'drivers of motivation' that have a direct impact on the creation and evolution of the different OSPO roles and their perceived value to the organization
 
 **Goal Alignment Definition:**
 Goal alignment refers to the process of aligning the goals and objectives of the OSPO
-with the overall mission and purpose of the organization and those entities that shapes
-the organization (e.g government laws).
+with the overall mission and purpose of the organization and those entities that shape
+the organization (e.g. government laws).
 
 **Drivers of Motivation Definition:**
 Motivation is the driving force that fuels people and entities to achieve their goals and
@@ -30,7 +30,7 @@ that are primarily focused on creating business value through the use of open so
   * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
 
 * `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities
-or schools, that are focused on using open source software to support teaching, research and learning
+or schools, that are focused on using open source to support teaching, research, and learning
 activities.
 
   * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
@@ -41,23 +41,24 @@ with `educational-oriented` types.
   * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
 
 * `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are
-focused on using open source software to achieve social or public policy objectives (e.g serving
+focused on using open source to achieve social or public policy objectives (e.g serving
 citizens).
 
   * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
 
 * `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated
-to using open source software to create positive social change.
+to use open source to create positive social change.
 
   * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
 
-![img-1l](https://user-images.githubusercontent.com/43671777/222904547-885da535-96c2-4586-a907-b7ab9623ba55.png)
+![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
+
 
 ### Common Questions to Identify the Best Segment
 
 Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What is my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
 
-Regardless of the type of organization, it is essential for OSPO leaders and teams to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
+Regardless of the type of organization, OSPO leaders and teams need to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
 
 ### Important considerations
 
@@ -72,16 +73,16 @@ Identifiers:
 
 ## ☑️ Assessment Checklists
 
-Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ assespent`
+Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ Assessment`
 
 ## 🎙 Use Cases
 
-Provide evidence and examples on how open source leades are doing across organizations and regions. Identifier `🎙 use-case`
+Provide evidence and examples about how open source leaders are doing across organizations and regions. Identifier `🎙 Use-case`
 
-## 🚫 OSPO anti-patterns
+## 💡 Recommendations
 
-Raise awareness of ineffective approaches. Identifier `🚫 antipatterns`
+Shares recommendations from real-world experiences from open source professionals in concrete scenarios. Identifier `💡 Recommendations`
 
 ## 🧑‍🏫 "Continue here" Resources
 
-Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 resources`
+Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 Resources`

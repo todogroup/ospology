@@ -3,9 +3,9 @@
 	<div class="container-fluid mx-sm-3">
 		<div class="d-flex flex-column flex-lg-row mb-4">
 			<div class="logo-and-hub">
-				<a class="logo" title="TODO website" href="https://todogroup.org/">
+				<a class="logo" title="OSPOlogy Repository" href="https://github.com/todogroup/ospology">
 					<span>{{ if .Site.Params.ui.navbar_logo }}
-						{{ with resources.Get "icons/logo-white.svg" }}
+						{{ with resources.Get "icons/OSPOlogy-white.svg" }}
 						{{ ( . | minify).Content | safeHTML }}{{ end }}{{ end }}</span>
 				</a>
 				<div class="d-flex justify-content-center d-lg-none">
@@ -19,7 +19,7 @@
 		<div class="horizontal-rule d-none d-lg-block mb-4"></div>
 		<div class="copyright py-2 order-sm-2">
 			<small>
-				&copy; {{ now.Year}} TODO Authors |
+				&copy; {{ now.Year}} OSPO Book Contributors |
 				Documentation Distributed under CC BY 4.0</small>
 			{{ if not .Site.Params.ui.footer_about_disable }}
 			{{ with .Site.GetPage "about" }}

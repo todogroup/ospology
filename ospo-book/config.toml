@@ -54,7 +54,7 @@ anchor = "smart"
 [languages]
 [languages.en]
 title = "OSPO Book"
-description = "The OSPO Glossary Project is intended to be used as a reference for common terms used when talking about Open Source and Open Source Program Offices (OSPO)."
+description = "This book serves as a source of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -112,14 +112,14 @@ github_repo = "https://github.com/todogroup/ospology"
 # github_project_repo = "https://github.com/google/docsy"
 
 # Specify a value here if your content directory is not in your repo's root directory
-# github_subdir = ""
+github_subdir = "ospo-book"
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "065abfba197ec41bd"
+gcs_engine_id = "47909b42a20b740cd"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
