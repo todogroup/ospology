@@ -13,7 +13,7 @@ maturity model. The OSPO checklist can be found at ["The Evolution of the OSPO S
 
 - [ ] Set up specific software inventory processes to create an organization-wide software bill of materials (SBOM).
 
-- [ ] Overall, recognize the value of OSS and the need for compliance, education, and an SBOMs.
+- [ ] Overall, recognize the value of OSS and the need for compliance, education, and SBOMs.
 
 
 ## Stage 2
