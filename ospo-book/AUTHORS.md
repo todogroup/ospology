@@ -33,6 +33,7 @@ This list is updated every time a new release is published, but you can open a P
 - Stephanie Lieggi
 - Supriya Ashish Chitale
 - Takanori Suzuki
+- Ulises Gascón
 - Victor Lu
 
 
