@@ -33,6 +33,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Stephanie Lieggi
 * Supriya Ashish Chitale
 * Takanori Suzuki
+* Ulises Gascon
 * Victor Lu
 
 If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
