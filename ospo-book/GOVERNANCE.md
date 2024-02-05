@@ -15,10 +15,10 @@ The OSPO Book Project is for everyone. Anyone can join the [public mailing list]
 
 There are a variety of ways you can contribute to the project, including:
 
-* Content contributors: everyone who improves existing chapters under review or initiates the baselie for a new one.
-* Technical contributors: everyone who enhance the repository's infrastructure to enable the generation of automatic PDF versions for the chapters
-* Localization contributors: those who help translate the ospo book into another language. (We recommend to waint until the first release is published)
-* Interviewees: anyone who participates in the [ospo book interviews](https://github.com/todogroup/ospology/blob/main/ospo-book/docs/interview-questionnaire.md) to feature use cases and include quotes on open source best practices wihtin organizations.
+* Content contributors: everyone who improves existing chapters under review or initiates the baseline for a new one.
+* Technical contributors: everyone who enhances the repository's infrastructure to enable the generation of automatic PDF versions for the chapters.
+* Localization contributors: those who help translate the OSPO book into another language. (We recommend to waint until the first release is published).
+* Interviewees: anyone who participates in the [OSPO book interviews](https://github.com/todogroup/ospology/blob/main/ospo-book/docs/interview-questionnaire.md) to feature use cases and include quotes on open source best practices within organizations.
 
 Contributors can have multiple roles or focus on one area only. All these contributions are equally important and help foster a thriving community.
 
@@ -26,7 +26,7 @@ Content contributors are expected to:
 
 * Review Chapter PRs for accurate information within a specific topic
 * Review issues and provide feedback and guide them when needed
-* Attend Contributors's call at least two times per year (invites are sent via [OSPO Book Mailing List](https://lists.todogroup.org/g/ospo-book-project))
+* Attend Contributors's calls at least two times per year (invites are sent via [OSPO Book Mailing List](https://lists.todogroup.org/g/ospo-book-project))
 
 ### 3. 👩‍⚖️ Maintainers
 
@@ -38,7 +38,7 @@ To become a maintainer, start by expressing interest to existing maintainers. Ex
 
 ### Stepping Down/Emeritus Process
 
-If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs. moving to emeritus status (completely stepping away from the project).
+If and when a contributor's commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs. moving to emeritus status (completely stepping away from the project).
 
 ### Stepping Back Into a Role
 
