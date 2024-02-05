@@ -1,17 +1,33 @@
+
+<a href="https://ospobook.todogroup.org/"><img src="https://img.shields.io/badge/OSPO%20Book-Website-dark green?labelColor=3E9492&style=flat" alt="OSPO Book"/></a>
+
 # 👋 Welcome to Open Source (Program) Office Book
 
 * **Authors and co-authors (individuals):** [contributor's list](AUTHORS.md)
-* **Desired mid-release Date:** August 2023
-* **Desired mid-publication Date:** September 2023
-* **Desired official release Date:** January 2024
+* **Desired mid-release Date:** August 2023 ✅
+* **Desired mid-publication Date:** September 2023 ✅
+* **Desired full release Date:** August 2024 ⏳
+* **Desired full printed version Date:** September 2024 ⏳
 
-> If you are new to the project, please scroll down to `🐣 Newcommers - START HERE` and read [CONTRIBUTING.md](ospo-book/CONTRIBUTING.md)
+
+> 🐣 If you are new to the project, please scroll down to `Newcommers - START HERE` and read [CONTRIBUTING.md](ospo-book/CONTRIBUTING.md)
+
+
+> 👉 Ready to contribute? check the [2024 Roadmap](https://todogroup.org/blog/ospo-book-2024-roadmap/)
 
 ## 🧩 Project Description
 
 Open source software is increasingly being adopted by organizations of all sizes and industries, making it essential for organizations to have a clear and well-defined open source strategy and operations. This guide aims to help organizations understand the value of having an Open Source Program Office (OSPO) within their organization and provide a step-by-step guide on how to create and implement an OSPO.
 
 The guide will be aimed at organizations of all sizes and industries, including those just starting their open source journey as well as those looking to streamline and improve their existing open source operations. It will provide practical, actionable advice and real-world examples to help organizations streamline their open source operations and achieve their goals.
+## 🙋‍♀️ Project Teams
+
+|      | General   | Infra Team       | Doc Team         | Review Team                 |
+|-----------|-----------|------------------|------------------|-----------------------------|
+| **Chair (2024)** | Ana Jimenez      | Chris Abraham    |     Ana Jimenez                     | Help wanted 
+| **Co-chair (2024)** |Help wanted             | Help wanted               | Help wanted                          |
+| **Description** | moderates monthly calls, prepares agenda items and checks progress done | team involved in project infrastructure and website development | team involved in content creation | team involved in reviewing existing content and references |
+
 
 ## 🎯 Goals
 
@@ -37,7 +53,7 @@ Content Contributors can help on multiple chapters or focus on one only. All the
 ## 💬 Communication Channels
 
 * Mailing List with interested contributors: [Join ospo-book-project](https://lists.todogroup.org/g/ospo-book-project)
-* One Bi-monthly sync call ( AMER/ EMEA and APAC/EMEA-friendly timezone) with agenda to follow up: Sent via mailing list
+* One monthly sync call ( AMER/ EMEA and APAC/EMEA-friendly timezone) with agenda to follow up: Sent via mailing list
 
 ## 💚 Community Needs
 
