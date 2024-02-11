@@ -1,7 +1,7 @@
 # 📚 Welcome to OSPOlogyLive Apeldoorn Open Knowledge Archive! 
 https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-apeldoorn/
 
-* [Download the Program in PDF](https://github.com/todogroup/ospology/files/14223801/OSPOlogyLiveApeldoorn_Program.pdf)
+* [Download the Program in PDF](https://github.com/todogroup/ospology/files/14233570/OSPOlogyLiveApeldoorn__Agenda.pdf)
 
 ## 👩‍🏫 Presentations
 
