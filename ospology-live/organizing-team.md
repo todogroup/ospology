@@ -6,6 +6,7 @@ OSPOlogyLive Organizers includes representatives from the following open source 
 * Foundation for Public Code
 * InnerSource Commons
 * LF Energy
+* LF Europe
 * OpenSSF
 * OpenChain
 * SPDX
@@ -17,6 +18,7 @@ OSPOlogyLive Organizers includes representatives from the following open source 
 * Dawn Foster
 * Daniel Izquierdo
 * Elena Findley-de Regt
+* Mirko Bohem
 * Russ Rutledge 
 * Sean Goggins
 * Shane Coughlan 
