@@ -40,6 +40,7 @@ OSPOlogyLive hosts are also part of the organizing team for concrete OSPOlogyLiv
 * Aliander
 * Dutch Tax and Customs Administration
 * Ericsson
+* IKEA
 * SAP
 
 
