@@ -18,7 +18,7 @@ OSPOlogyLive Organizers includes representatives from the following open source 
 * Dawn Foster
 * Daniel Izquierdo
 * Elena Findley-de Regt
-* Mirko Bohem
+* Mirko Boehm
 * Russ Rutledge 
 * Sean Goggins
 * Shane Coughlan 
