@@ -4,7 +4,7 @@ status: Completed
 weight: 40
 ---
 
-- [Introduction](#introduction)
+- [Open Source is All About Integration](#open-source-is-all-about-integration)
   - The Value of an OSPO
   - Reasons Behind Starting an OSPO
   - Reasons Behind Sustaining an OSPO
@@ -12,11 +12,17 @@ weight: 40
 - [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources) - `📚 Continue Here`
 
-## Introduction
+## Open Source is all about Integration
 
-Organizations of various types, including end-user companies, software companies, universities, and public administrations, all have a relationship with open source. To handle not only software responsibly but also hardware, content, and other various aspects of technology, organizations need to engage with open source. Establishing an organizational structure is an initial step to consolidate commitment, which is where an OSPO comes into play, as it acts as a means for organizations to support their objectives and address challenges when it comes to open source. 
+Organizations of various types—including end-user companies, software vendors, universities, and public administrations—maintain a relationship with open source. To responsibly manage not only software but also hardware, content, and other aspects of technology, organizations must engage with open source. This involves finding ways to integrate such culture and operations into their IT strategy and technology and AI stacks. Establishing an organizational structure is a crucial first step to solidify commitment. This is where an Open Source Program Office (OSPO) becomes key. It serves as a means for organizations to support their objectives and address challenges related to open source.
 
-Below are common situations where an organization, which needs to manage open source integral to its digital/IT strategy and infrastructure, can encounter issues. When ignored or neglected, these issues can lead to mid-term to long-term innovation bottlenecks and security vulnerabilities.
+> 💡 OSPOs are all about Integration, not Isolation
+
+### Supply Chain and Open Source
+
+Sometimes, organizational stakeholders may assume that they do not use open source projects because their end product is proprietary. However, a closer examination of the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) often reveals that such proprietary software contains open source dependencies or other artifacts that form the baseline. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This, in turn, would affect the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue
+
+Below are common situations where an organization, aiming to manage open source for integration into its digital/IT strategy and technology infrastructure, may encounter issues. If ignored or neglected, these issues can lead to mid-term and long-term innovation bottlenecks and security vulnerabilities.
 
 - **Vulnerability Management:** keeping track of the open source usage (software, hardware, etc) by the organization and performing risk assessments on the identified projects. By identifying key projects within the organization, they can prioritize securing them by tracking common vulnerabilities and exposures.
 
@@ -33,13 +39,15 @@ Below are common situations where an organization, which needs to manage open so
   
 To fully overcome these and other challenges, organizations must be equipped to manage open source operations on both cultural and practical levels. The *how* of accomplishing this is often through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments.
 
+> 💡 OSPOs foster cross-functional collaboration
+
 But how exactly can an OSPO enable cross-functional collaboration? Why and how does this cross-functional collaboration aid in achieving the organization's goals? Additionally, why is this cross-functional collaboration essential for the creation and long-term sustainability of an OSPO within the organization?
 
 ### The value of an OSPO
 
 To understand the value of an [OSPO](https://ospoglossary.todogroup.org/ospo-definition/), it is important for the reader to understand the reasons for (1) Establishing an OSPO and (2) Sustaining it over the long term.
 
-In this book, the section on _Starting an OSPO_ is aimed at organizations that are taking their first steps toward creating an OSPO. This means that even if they already have personnel dedicated to dealing with open source tasks from time to time, they still lack a structured and specialized unit (or units) within their organization. On the other hand, the section on _Sustaining an OSPO_ is more relevant to individuals in organizations that have already established specialized units, covering aspects such as strategy, compliance, community involvement, and governance
+In this book, the section on _starting an OSPO_ is aimed at organizations that are taking their first steps toward creating an OSPO. This means that even if they already have personnel dedicated to dealing with open source tasks from time to time, they still lack a structured and specialized unit (or units) within their organization. On the other hand, the section on _sustaining an open source through an OSPO_ is more relevant to individuals in organizations that have already established specialized units, covering aspects such as strategy, compliance, community involvement, and governance
 
 > In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. This responsibility may evolve and become more complex over time, but it is definitely not a temporary task with a predetermined completion point.
 
@@ -49,7 +57,7 @@ _[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.co
 
 ### The reasons behind starting an OSPO
 
-The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
+Integrating open source into an organization's infrastructure and operations is a vast field that encompasses various angles and objectives. The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
 
 - Building standardized processes around open source
 - Learn how to approach the open source community
@@ -59,9 +67,11 @@ The [business value of the OSPO report](https://www.linuxfoundation.org/research
 - Improving development velocity
 - Mitigating Security Risks
 
-### The reasons behind sustaining an OSPO
+### The reasons behind sustaining open source operations through an OSPO
 
-Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
+Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source (directly or indirectly) at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
+
+> 💡 _Open Source is a silent critical need_
 
 An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open-source software, as well as improving the sustainability of open-source projects.
 
@@ -104,7 +114,7 @@ Source: Khalil Khalaf - The Pros and Cons of Open Source Software
 
 > Note: You may have noticed that in this book, when referring to open source, we also include other kinds of open initiatives beyond software, such as hardware, data, etc.
 
-## Assessing value of open source usage (also called consumption)
+## Assessing the value of open source usage (also called consumption)
 
 `✅ Assessment`
 
@@ -201,6 +211,8 @@ An OSPO has a technical focus and forgets about open source culture
 
 `📚 Continue Here`
 
+- [Open source and the software supply chain - John Mark Walker](https://opensource.com/article/16/12/open-source-software-supply-chain)
+- [Strategy: End Game for FINOS Maturity Model - Victor Lu](https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit#slide=id.g1ed9ae7029f_0_29)
 - [Securing the Software Supply Chain: The Role of OSPOs - Jessica Marz](https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html)
 - [Simple Frequently Asked Questions OSPO Guide - OSPO SWG Japan](https://qiita.com/owada-k/items/017d1b98d0e437766bd0)
 - [The Business Value of the OSPO Report - Linux Foundation](https://www.linuxfoundation.org/research/business-value-of-ospo)
