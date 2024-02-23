@@ -101,7 +101,7 @@ including for security automation and reporting, such as the integration of scor
 
 ## Resources (TBD)
 
-- Materials that we have shared durign the calls or related to this chapter
-- Materials that we have shared durign the calls or related to this chapter
-- Materials that we have shared durign the calls or related to this chapter
+- Materials that we have shared during the calls or related to this chapter
+- Materials that we have shared during the calls or related to this chapter
+- Materials that we have shared during the calls or related to this chapter
 
