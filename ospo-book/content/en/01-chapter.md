@@ -13,7 +13,7 @@ weight: 30
 
 Open source has become an integral part of modern organizations, offering a range of benefits, including lower costs, increased collaboration, and access to a vast pool of talent and resources. However, with the growing importance of open source, organizations need to be equipped to manage their open source operations effectively, in order to realize these benefits.
 
-Creating an Open Source Program Office (OSPO) can accelerate a company's or organization's open source journey from mindset change to efficient policies and workflows. An OSPO is a dedicated team or department within an organization that is responsible for managing the organization's open source operations, including the development, distribution, and use of open source software, and harmonizing and integrating these with product development.
+Creating an Open Source Program Office (OSPO) can accelerate an organization's open source integration as part of its IT infrastructure and culture through policies, workflows, and continuous staff support, becoming the open source arm for all the organization's units. An OSPO is a dedicated team or department within an organization that is responsible for managing the organization's open source operations, including the development, distribution, and use of open source software, and harmonizing and integrating these with product development.
 In this book, we will guide organizations through the process of creating and implementing an OSPO. The book provides:
 
 * Practical advice and best practices on how to streamline open source operations
