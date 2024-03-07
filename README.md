@@ -38,7 +38,7 @@ Ongoing in-person mini-summits co-organized by various communities involved in O
 
 This initiative aims to bring together the various communities involved in OSPO-specific topics to help organizations effectively implement OSPO Programs based on specific region needs.
 
-Existing OSPOlogy Live in Europe: https://todogroup.org/community/events/
+Existing OSPOlogy Live worldwide: https://todogroup.org/community/events/
 
 > If you are interested in organizing a OSPOlogy Live in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location, agenda draft and topic outline idea.
 
@@ -46,8 +46,9 @@ Existing OSPOlogy Live in Europe: https://todogroup.org/community/events/
 
 Framework for in-person OSPO local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
 
-Existing OSPO Local Meetups in Europe:
+Existing OSPO Local Meetups worldwide:
 
+* [China](https://community.linuxfoundation.org/ospo-local-meetup-china-zh-cn-speaking/)
 * [Helsinki](https://community.linuxfoundation.org/ospo-local-meetup-helsinki/)
 * [Japan](https://community.linuxfoundation.org/ospo-local-meetup-japan-japanese-speaking/)
 * [LATAM](https://community.linuxfoundation.org/ospo-local-meetup-latam-spanish-speaking/)
