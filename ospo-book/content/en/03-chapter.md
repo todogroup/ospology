@@ -61,7 +61,7 @@ The structure used in this book to represent these areas is shaped as a flower d
 
 > If an organization's primary objective is profitability, customer satisfaction becomes a linchpin in the corporate strategy – a focal point for both CEOs and CFOs. For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open-source realm that can propel the organization toward its strategic objectives
 >
-> Victor Lu - [Strategy - End Game for FINOS Maturity Model](https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit?usp=sharing)
+> Victor Lu and Rob Moffat Presentation - [Strategy - End Game for FINOS Maturity Model](https://osr.finos.org/docs/presentations/strategy)
 
 The people behind an OSPO achieve this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
 The OSPO's strategy focuses on aligning the organization's open source usage (consumption) and contributions across its projects, products, services, or internal infrastructure to its overall organization objectives.
