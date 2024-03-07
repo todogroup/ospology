@@ -25,6 +25,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Kate Stewart
 * Masae Shida
 * Masayuki Kuwata
+* Maurice Hendriks
 * Remy D
 * Rob Moffat
 * Seo Yeon Lee
