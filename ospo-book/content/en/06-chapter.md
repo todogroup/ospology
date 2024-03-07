@@ -40,7 +40,7 @@ The underfunding of crucial projects like Django, and the broader issue of maint
 The potential for integrating OSS training within government contracts is seen as a means to provide both funding for OSS organizations and valuable training for employees. This represents an approach to leveraging existing procurement processes to support OSS sustainability.
 
 
-# Building an Open Source Foundation for Container Capabilities
+# OSPOs for Container Capabilities
 
 Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8620412) and based on the adoption of open source software (OSS) for container orchestration, particularly Kubernetes, and its implications for IT strategy in organizations.
 
