@@ -1,11 +1,11 @@
 ---
 title: "Recent Developments & Outlook"
 status: Completed
-weight: 35
+weight: 25
 ---
 Both organizations and the open source ecosystem are confronted with new challenges and opportunities, driven by regulatory changes, evolving licensing models, and increased public sector engagement. This chapter delves into these challenges within the open source, shedding light on common situations and pain points that are shaping the future of how organizations integrate open source in their IT operations and Technology Stack.
 
-# Sustainability of Stewards in OSS
+## Sustainability of Stewards in OSS
 
 Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8619964) and based on the CRA Definition of Steward.
 
@@ -40,7 +40,7 @@ The underfunding of crucial projects like Django, and the broader issue of maint
 The potential for integrating OSS training within government contracts is seen as a means to provide both funding for OSS organizations and valuable training for employees. This represents an approach to leveraging existing procurement processes to support OSS sustainability.
 
 
-# OSPOs for Container Capabilities
+## OSPOs for Container Capabilities
 
 Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8620412) and based on the adoption of open source software (OSS) for container orchestration, particularly Kubernetes, and its implications for IT strategy in organizations.
 
@@ -63,7 +63,7 @@ The criteria for integrating additional OSS capabilities into commercial Kuberne
 Ongoing discussion on the maturity and reliability of OSS for meeting enterprise needs for speed, robustness, and reliability. It has been acknowledged that while commercial vendors might offer support, success is not guaranteed. The necessity for organizations to have skilled teams capable of navigating the complexities of container orchestration and Kubernetes to maintain operational resilience was stressed.
 
 
-# Sustainable IT
+## Sustainable IT
 `🏛 Social-Gov-Oriented` 
 `📈 Business-Oriented`
 Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/439#discussioncomment-8630343) and based on what constitutes sustainability, especially in terms of its impact on the climate.
@@ -96,3 +96,8 @@ To address these challenges, the participants form the roundtable proposed sever
   - Set clear sustainability benchmarks for agencies to encourage the adoption of green practices by simplifying the transition.
 - Advocate for a reevaluation of the current demand for computing power to identify areas where reductions are feasible and beneficial.
   - Implement dashboarding and raise awareness at all organizational levels to foster a culture of sustainability.
+ 
+
+## Resources
+
+- [OSPOlogyLive Apeldoorn Knowledge Archive](https://github.com/todogroup/ospology/tree/main/ospology-live/2024-february-apeldoorn)
