@@ -3,7 +3,7 @@ title: "Recent Developments & Outlook"
 status: Completed
 weight: 35
 ---
-Both organizaitons and the open source ecosystem are confronted with new challenges and opportunities, driven by regulatory changes, evolving licensing models, and increased public sector engagement. This chapter delves into these challenges within the open source, shedding light on common situations and pain points that are shaping the future of how organizations integrate open source in their IT operations and Technology Stack.
+Both organizations and the open source ecosystem are confronted with new challenges and opportunities, driven by regulatory changes, evolving licensing models, and increased public sector engagement. This chapter delves into these challenges within the open source, shedding light on common situations and pain points that are shaping the future of how organizations integrate open source in their IT operations and Technology Stack.
 
 ## Sustainability of Stewards in OSS
 
@@ -39,4 +39,23 @@ The underfunding of crucial projects like Django, and the broader issue of maint
 The potential for integrating OSS training within government contracts is seen as a mean to provide both funding for OSS organizations and valuable training for employees. This represents an approach to leveraging existing procurement processes to support OSS sustainability.
 
 
+## Building an Open Source Foundation for Container Capabilities
 
+Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8620412) and based on the adoption of open source software (OSS) for container orchestration, particularly Kubernetes, and its implications for IT strategy in organizations.
+
+### OSPOs working with Container Hosting Infrastructure Teams
+
+Teams dedicated to this infrastructure, focusing on aspects such as image repositories and platform enablement, collaborate closely with OSPOs to support container infrastructure and capabilities. Initiatives like the Cloud Platform Engineering Team (CPET) has beem highlighted for their efforts in publishing self-built operators, such as the Platform as a Service (PaaS) Operator, which automates tasks like initiating namespaces or projects on Kubernetes platforms.
+
+#### Commercial vs. Open Source for Kubernetes Deployment
+
+A central point of debate was the choice between adhering to premium advisors' recommendations for using commercial services for Kubernetes deployment versus exploring open source alternatives. Given the wide array of Kubernetes distributions, this decision involves complex considerations. The discussion emphasized the importance of finding a middle ground that appreciates the advantages of OSS while also recognizing the ethical imperative to contribute to its sustainability.
+
+### Choosing Additional OSS Capabilities
+`🏛 Social-Gov-Oriented`
+
+The criteria for integrating additional OSS capabilities into commercial Kubernetes platforms include the popularity of the OSS, the contributor community's size, vendor support, adherence to standards such as OpenTelemetry, and alignment with the Cloud Native Computing Foundation (CNCF) ecosystem. Concerns are raised about copyright control and the potential pitfalls of centralized code ownership.
+
+### Maturity and Reliability of OSS for Enterprise Use
+
+Ongoing discussion on the maturity and reliability of OSS for meeting enterprise needs for speed, robustness, and reliability. It has been acknowledged that while commercial vendors might offer support, success is not guaranteed. The necessity for organizations to have skilled teams capable of navigating the complexities of container orchestration and Kubernetes to maintain operational resilience was stressed.
