@@ -185,5 +185,4 @@ There is a lack of consistency in how open source understanding and value is per
 - [Participating in open source communities](https://todogroup.org/resources/guides/participating-in-open-source-communities/)
 - [A guide to outbound open source software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/)
 - [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
-- [Open Source maturity model](https://www.finos.org/blog/open-source-maturity-model-launch)
  
