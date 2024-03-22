@@ -19,23 +19,37 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 developing and disseminating educational materials, strategically allocating resources, managing risks through comprehensive assessments of the tech stack, sponsoring and engaging with open source communities and foundations, measuring technical debt in projects, and facilitating coordination 
 across various organizational divisions to align both technical and non-technical objectives.
 
-- **Personalized Technical Support:** Involves answering questions on all aspects of open source, including license compliance, selecting open source software, and interactions with vendors. It also includes engaging with the community and partners, securing sponsorships, and organizing open source events.
+- **Personalized Technical Support:** Involves answering questions on all aspects of open source, including license
+  compliance, selecting open source software, and interactions with vendors. It also includes engaging with the
+  community and partners, securing sponsorships, and organizing open source events.
   
-- **Automation tools:** Efficiency in process automation is key because policies alone may not always be effective as they are not always followed. Managers are usually seeking effective options for automation tooling,
-including for security automation and reporting, such as the integration of scorecards.
+- **Automation tools:** Efficiency in process automation is key because policies alone may not always be effective as
+  they are not always followed. Managers are usually seeking effective options for automation tooling, including for
+  security automation and reporting, such as the integration of scorecards.
 
-- **Documentation, Training, and Education:** Crucial to ensure that individuals are qualified to assess projects. Developing training materials and documentation and aiding teams to produce these across different departments are key tasks.
+- **Documentation, Training, and Education:** Crucial to ensure that individuals are qualified to assess projects.
+  Developing training materials and documentation and aiding teams to produce these across different departments are key
+  tasks.
 
 - **Resource Allocation:** Requires a strategic approach to prioritize effectively.
 
-- **Risk Management:** Involves assessing the risks the organization faces. Obtaining a comprehensive view of the organization's tech stack, such as generating SBOMs, and considering software from vendors, legacy software, and proprietary software is crucial. This is more about a business assessment perspective rather than just data gathering. Decisions need to be made on whether to optimize SBOMs or to allocate time to other areas.
+- **Risk Management:** Involves assessing the risks the organization faces. Obtaining a comprehensive view of the
+  organization's tech stack, such as generating SBOMs, and considering software from vendors, legacy software, and
+  proprietary software is crucial. This is more about a business assessment perspective rather than just data gathering.
+  Decisions need to be made on whether to optimize SBOMs or to allocate time to other areas.
 
-- **Sponsoring Open Source Communities and Foundations:** Providing insights into the dynamics and complexities of open source governance and models is part of this.
+- **Sponsoring Open Source Communities and Foundations:** Providing insights into the dynamics and complexities of open
+  source governance and models is part of this.
 
 - **Measuring Technical Debt:** In open source projects requires understanding maturity and governance models.
 
-- **Coordinate with Various Parts of the Organization:** Map interactions with teams based on the OSPO flower diagram, distinguishing between technical questions (engineering) and non-technical questions (business, design team).
+- **Coordinate with Various Parts of the Organization:** Map interactions with teams based on the OSPO flower diagram,
+  distinguishing between technical questions (engineering) and non-technical questions (business, design team).
 
+- **Advise on open source consumpiton** define a set of advices about how the company should select what open source is
+  consumed and how the consumption is made. Advices can be purely technical or considerations based on open source
+  project health and practices, like the
+  [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
 
 ## Assessing Daily Operations
 
@@ -56,10 +70,15 @@ provide to the organization, the scope of engagement with open source in terms o
 
 ## Recommendations (TBD)
 
-### Scenario #11
-- Scope: 
+### The OSPO should have secured resources for strategic contributions
 
-- Recommendation:
+- Scope: If the company has strategic targets related to open source, its OSPO should be capable to control resources to
+  drive the execution of the strategy.
+
+- Recommendation: To ensure the continuity of contributions needed for the strategy execution the OSPO should either:
+    - Have a set of dedicated open source developers
+    - Have a budget for company internal development resources asigned to startegic OSPO tasks
+    - Have a budget to hire external developers to work on the startegic OSPO tasks 
 
 ### Scenario #12
 
