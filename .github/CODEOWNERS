@@ -1,2 +1,2 @@
 # add ospology-book-reviewers team to pull request that changes any file within the english book content
-/ospo-book/content/en/*.md     @todogroup/ospology-book-reviewers
+/ospo-book/content/en/*.md     @todogroup/teams/ospology-book-reviewers
