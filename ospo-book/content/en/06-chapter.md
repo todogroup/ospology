@@ -90,7 +90,7 @@ To address these challenges, the participants from the roundtable proposed sever
   - Implement continuous monitoring of power usage and workload distribution to reduce idle time for machines.
   - Improve reporting and feedback mechanisms focused on energy consumption to support informed policy-making.
 
-- Elevating Sustainability as a Policy Objective:
+- Elevating sustainability as a policy objective:
   - Embed sustainability considerations into annual reports and accountability frameworks to underscore its significance.
   - Champion sustainability as a critical agenda item for government officials and agencies.
 
