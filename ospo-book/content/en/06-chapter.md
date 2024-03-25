@@ -78,7 +78,7 @@ A core challenge highlighted was the difficulty in defining what precisely const
 - The potential of optimizing code and power usage, alongside fostering collaboration, to significantly advance sustainability goals.
 - The invaluable role of open source software in facilitating the sharing of algorithms and knowledge, thereby improving the efficiency of resource use.
 
-To address these challenges, the participants form the roundtable proposed several key strategies for enhancing sustainability in IT:
+To address these challenges, the participants from the roundtable proposed several key strategies for enhancing sustainability in IT:
 
 - Recognizing and rewarding government efforts that promote sustainability.
 - Advocating for the standardization of sustainable hardware use across governmental bodies.
