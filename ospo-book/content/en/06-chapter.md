@@ -84,7 +84,7 @@ To address these challenges, the participants form the roundtable proposed sever
 
 ### Recommendations
 
-- Addressing the Lack of Concrete Data:
+- Addressing the lack of concrete data:
   - Implement continuous monitoring of power usage and workload distribution to reduce idle time for machines.
   - Improve reporting and feedback mechanisms focused on energy consumption to support informed policy-making.
 
