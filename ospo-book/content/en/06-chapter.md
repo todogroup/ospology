@@ -3,7 +3,7 @@ title: "Recent Developments & Outlook"
 status: Completed
 weight: 60
 ---
-Both organizations and the open source ecosystem are confronted with new challenges and opportunities, driven by regulatory changes, evolving licensing models, and increased public sector engagement. This chapter delves into these challenges within the open source, shedding light on common situations and pain points that are shaping the future of how organizations integrate open source in their IT operations and Technology Stack.
+Both organizations and the open source ecosystem are confronted with new challenges and opportunities, driven by regulatory changes, evolving licensing models, and increased public sector engagement. This chapter delves into the open source aspects of these challenges, shedding light on common situations and pain points that are shaping the future of how organizations integrate open source in their operations and technology stack.
 
 ## Sustainability of Stewards in OSS
 
