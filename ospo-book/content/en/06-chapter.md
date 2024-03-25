@@ -1,5 +1,5 @@
 ---
-title: "Recent Developments & Outlook"
+title: "Recent Developments and Outlook"
 status: Completed
 weight: 60
 ---
