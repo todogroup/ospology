@@ -7,7 +7,7 @@ Both organizations and the open source ecosystem are confronted with new challen
 
 ## Sustainability of Stewards in OSS
 
-Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8619964) and based on the CRA Definition of Steward.
+Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion](https://github.com/todogroup/ospology/discussions/438#discussioncomment-8619964) and based on the CRA (Cyber Resilience Act) definition of Steward.
 
 ### Government Funding Challenges
 `🏛 Social-Gov-Oriented`
