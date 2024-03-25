@@ -17,7 +17,7 @@ An ongoing challenge in governments is the inherent difficulty governments face 
 ### The Commons Dilemma
 `🏛 Social-Gov-Oriented`
 
-The tragedy of the commons is notably present in the OSS world, where disproportionate consumption by certain users exacerbates sustainability issues. Discussions suggested the need to strengthen infrastructure support to mitigate these disparities and ensure a more balanced contribution and consumption (also called usage) model within the OSS community.
+The tragedy of the commons is notably present in the open source world, where disproportionate consumption by certain users exacerbates sustainability issues. Discussions suggested the need to strengthen infrastructure support to mitigate these disparities and ensure a more balanced contribution and consumption model within the open source  community.
 
 ### Community Norms and Funding Strategies
 `🏛 Social-Gov-Oriented`
