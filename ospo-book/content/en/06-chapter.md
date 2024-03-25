@@ -22,7 +22,7 @@ The tragedy of the commons is notably present in the open source world, where di
 ### Community Norms and Funding Strategies
 `🏛 Social-Gov-Oriented`
 
-Establishing community norms around the costs associated with SBOM delivery and compliance has been proposed as an idea. This could involve suggesting a donation model based on organization size to account for the rising costs of compliance. Additionally, the role of risk mitigation as a motivation for organizations to invest in OSS was discussed, alongside the potential for government agencies to contribute indirectly to OSS projects through third parties.
+Establishing community norms around the costs associated with SBOM delivery and compliance has been proposed as an idea. This could involve suggesting a donation model based on organization size to account for the rising costs of compliance. Additionally, the role of risk mitigation as a motivation for organizations to invest in open source was discussed, alongside the potential for government agencies to contribute indirectly to open source projects through third parties.
 
 ### Policy and Funding Initiatives
 `🏛 Social-Gov-Oriented`
