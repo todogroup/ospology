@@ -37,7 +37,7 @@ The underfunding of crucial projects like Django, and the broader issue of maint
 ### Training and Education as Funding Avenues
 `🏛 Social-Gov-Oriented`
 
-The potential for integrating OSS training within government contracts is seen as a means to provide both funding for OSS organizations and valuable training for employees. This represents an approach to leveraging existing procurement processes to support OSS sustainability.
+The potential for integrating training about open source within government contracts is seen as a means to provide both funding for open source organizations and valuable training for employees. This represents an approach to leveraging existing procurement processes to support open source sustainability.
 
 
 ## OSPOs for Container Capabilities
