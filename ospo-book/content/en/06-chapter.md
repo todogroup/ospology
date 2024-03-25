@@ -27,7 +27,7 @@ Establishing community norms around the costs associated with SBOM delivery and 
 ### Policy and Funding Initiatives
 `🏛 Social-Gov-Oriented`
 
-The possibility of the EU mandating open source as a requirement for Horizon funding suggests a growing recognition of the value of OSS at the policy level. There is an ongoing discussion on strategic funding models, like the German sovereign tech fund, and the potential for government roles in supporting OSS.
+The possibility of the EU mandating open source as a requirement for Horizon funding suggests a growing recognition of the value of open source at the policy level. There is an ongoing discussion on strategic funding models, like the German sovereign tech fund, and the potential for government roles in supporting open source.
 
 ### Challenges in OSS Sustainability
 `📈 Business-Oriented`
