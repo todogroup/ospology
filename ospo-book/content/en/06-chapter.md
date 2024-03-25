@@ -29,7 +29,7 @@ Establishing community norms around the costs associated with SBOM delivery and 
 
 The possibility of the EU mandating open source as a requirement for Horizon funding suggests a growing recognition of the value of open source at the policy level. There is an ongoing discussion on strategic funding models, like the German sovereign tech fund, and the potential for government roles in supporting open source.
 
-### Challenges in OSS Sustainability
+### Challenges in open source Sustainability
 `📈 Business-Oriented`
 
 The underfunding of crucial projects like Django, and the broader issue of maintainers being underpaid or volunteering, underscores the sustainability challenges within OSS. The critical role of vulnerability management and the need for corporate contributions to OSS have been highlighted as areas requiring attention and action.
