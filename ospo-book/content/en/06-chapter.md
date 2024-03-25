@@ -12,7 +12,7 @@ Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion]
 ### Government Funding Challenges
 `🏛 Social-Gov-Oriented`
 
-An ongoing challenge in governments is the inherent difficulty governments face in allocating funds for resources that are available for free. There is a strategic interest from governments to support OSS, but hurdles exist, including the potential complications arising from direct financial requests. This underscores the need for exploring alternative support infrastructures for stewardship organizations without directly soliciting government funding.
+An ongoing challenge in governments is the inherent difficulty governments face in allocating funds for resources that are available for free. There is a strategic interest from governments to support open source software, but hurdles exist, including the potential complications arising from direct financial requests. This underscores the need for exploring alternative support infrastructures for stewardship organizations without directly soliciting government funding.
 
 ### The Commons Dilemma
 `🏛 Social-Gov-Oriented`
