@@ -94,7 +94,7 @@ To address these challenges, the participants from the roundtable proposed sever
   - Embed sustainability considerations into annual reports and accountability frameworks to underscore its significance.
   - Champion sustainability as a critical agenda item for government officials and agencies.
 
-- Overcoming Resistance to Change:
+- Overcoming resistance to change:
   - Set clear sustainability benchmarks for agencies to encourage the adoption of green practices by simplifying the transition.
 - Advocate for a reevaluation of the current demand for computing power to identify areas where reductions are feasible and beneficial.
   - Implement dashboarding and raise awareness at all organizational levels to foster a culture of sustainability.
