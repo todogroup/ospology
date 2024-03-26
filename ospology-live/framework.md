@@ -24,40 +24,36 @@
 
 OSPOlogy Live is a series of conferences designed as interactive lectures and breakout rooms that aim to connect open source program office (OSPO) professionals from both local and international spheres. The events facilitate the exchange of knowledge and information on existing projects within open source communities, as well as provide a platform to discuss emerging trends and collaborate on best practices in OSPOs tailored to the specific needs of each region.
 
-* Current efforts are being done in Europe, wiht the aim to expando to other countries in upcomming years.
+* Current efforts are being done in Europe, with the aim to expand to other countries in upcoming years.
 
 ## Problem statement
 
-The OSPO movement is expanding across industries and regions of all types and sizes. Due to the wide range of responsibilities and ways to operate, OSPO professionals usually find it difficult when it comes to implementing OSPO best practices, policies, processes, or tools for their open source management efforts.
+Due to the wide range of responsibilities and ways to operate, OSPO professionals usually find it difficult when it comes to implement open source best practices, policies, processes, or tools to integrate open source operations as part of their  organization's IT strategy and tech stack.
 
 ## OSPOlogyLive Framework
 
-We are introducing a new framework for hybrid small-scale conference targeted to discuss important topics for OSPOs. This format provides a more intimate and interactive setting for participants to engage in discussions, share knowledge, and build relationships with like-minded professionals.
+We are introducing a new framework for hybrid, small-scale mini-summit targeted to discuss important topics for OSPOs based on specific region needs. This format provides a more intimate and interactive setting for participants to engage in discussions, share knowledge, and build relationships with like-minded professionals.
 
-This way, people can talk openly about their organization's open source challenges and work together on shared solutions. The workshop initiative aims to bring together the various communities involved in OSPO-specific topics to help organizations effectively implement OSPO Programs based on specific region needs.
-
-Topics range from safely using open source to license compliance, sustainability, contributing back to the community, and more. For the full list of OSPO-specific topics please see [https://ospomindmap.todogroup.org/](https://ospomindmap.todogroup.org/).
-
-### The workshop framework
+This way, people can talk openly about their organization's open source challenges and work together on shared solutions. Topics range from safely using open source to license compliance, sustainability, contributing back to the community, and more. For the full list of OSPO-specific topics please see [https://ospomindmap.todogroup.org/](https://ospomindmap.todogroup.org/).
 
 In a nutshell, the framework defines the following small-scale conference:
 
 - Follows an unconference style meaning it's a participants-driven meeting
-- Aim is to share openly and learn from each other under Chatham house rule and connect OSPOs with various open source communities involved in the open source activities that matter to them (e.g. os policies, tooling, standards, and community building)
+- Aim is to share openly and learn from each other under Chatham House Rules and connect OSPOs with various open source communities involved in the open source activities that matter to them (e.g. os policies, tooling, standards, and community building)
 - It is a 2-day in-person event, part prepared presentations, part hands-on workshop, and of course, there is space for networking.
-- Is under Linux Foundation policies and code of conduct
-- Participants can register their interest to receive an invite via [Linux Foundation&#39;s community platform](https://community.linuxfoundation.org/todo-group-europe/) as seats are limited.
-- Location is to be provided by one of the participants for free
+- Follows Linux Foundation antitrust policies and code of conduct
+- Participants can register their interest to receive an invite via [Linux Foundation's community platform](https://community.linuxfoundation.org/ospology-european-chapter/) as seats are limited.
+- Location is to be provided by one of the participants (host) for free
 - Each participant pays for their own food, travel, and lodging. Lunch and dinners may be free if workshop organizers find sponsors.
-- Linux Foundation and TODO group can help with promoting the workshops via various communication channels (social media, mailing lists, newsletters, etc.).
+- Linux Foundation, TODO group can help with promoting the workshops via various communication channels (social media, mailing lists, newsletters, etc.).
 
-### Unconference style
+### Unconference and Featured Roundtable Sessions
 
-Typically at an unconference, the agenda of the workshop part is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space.
+Roundtables are a format of open forum discussions designed to illuminate common questions and challenges in a particular field. They serve as a collaborative platform where participants can come together to explore solutions, share best practices, and collectively overcome obstacles. In these sessions, the meeting notes are taken to ensure anonymity. These notes are then shared in the OSPOlogyLive repository under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license, ensuring that the knowledge and ideas developed are freely available for everyone to reuse and build upon.
 
-OSPOlogyLive are not fully an unconference as the first day is a series of prepared presentations so you know the sessions before joining (1 or 2 will be participants chosen). For Day 2 the workshop is the unconference part where participants vote on topics to be worked on that day. Participants may be asked to submit their topic before the workshop to accelerate/simplify the voting process.
+Roundtable sessions are led by community participants. These sessions are divided into two categories: Featured Roundtable Sessions and Unconference Roundtables. Featured Roundtable Sessions are pre-defined topics. In the unconference Roundtables, the topics for these sessions are elected by the attendees on the same day, allowing for the exploration of current and emerging issues that are most relevant to the participants.
 
-### Suggested agenda sections
+### Suggested Agenda Sections
 
 Every OSPOlogyLive is slightly different bassed on the micro-conference theme and region needs. However, these are some common areas that a OSPOlogy host and organizers can start discussing when defining an OSPOlogy Live session:
 
@@ -91,7 +87,7 @@ To ensure that the event meets our project direction and values, we require a fo
 
 * Size and Industry Diversity: We are looking for hosts that represent a diverse range of organizaiton sizes (small, medium and large) and industries to provide a well-rounded perspective on open source.
 
-* OSPO Preferred Choice: Hosts with an Open Source Program Office (OSPO) are preferred, as they demonstrate a commitment to open source.
+* OSPO Preferred Choice: Hosts with an Open Source Program Office (OSPO) are preferred because they demonstrate a commitment to adopting a holistic approach to open source within the organization, encompassing security, community health, compliance, culture, as well as how to effectively integrate open source as part of the organization's IT Strategy and Tech Stack
 
 * Easy Accessibility: Hosts should be located in an easily accessible location to ensure that attendees can travel to and from the event with ease.
 
@@ -131,7 +127,7 @@ The OSPOlogy Live organizing team is responsible for a variety of tasks, includi
 
 **1️⃣ How many OSPOlogyLive micro-conferences happens every year?**
 
-We hold a maximum number of three (3) OSPOlogyLive micro-conferences per year in various European countries, each focusing on specific OSPO responsibilities.
+We hold a maximum number of 3-4 OSPOlogyLive micro-conferences per year in various European countries, each focusing on specific OSPO responsibilities.
 
 **2️⃣ Can I host multiple OSPOlogyLive micro-conferences in the same country?**
 
@@ -163,5 +159,12 @@ Scope of OSPO Local Meetups:
 Here's what you need to do:
 
 * Be a representative from an open source community, project, or foundation involved in the OSPO movement (e.g., adoption, day-to-day operations, etc).
-* Submit an OSPO Associates request to use our logo brand in future OSPOlogyLive micro-conferences. You can find more information about the OSPO Associates program at todogroup.org/associates.
-* Wait for our OSPOlogyLive organizers to review and approve your request. Approval will happen if 2/3 of current OSPOlogy Live organizers approves.
+* Actively participate in the OSPOlogyLive sync meetings with the hosts and stay updated on mailing list conversations and discussions.
+* Submit an OSPO Associates request to use OSPOlogyLive brand in future mini-summit editions. You can find more information about the OSPO Associates program at https://todogroup.org/about/associates/.
+* Wait for our OSPOlogyLive organizers to review and approve your request. Approval will happen if 2/3 of active OSPOlogyLive organizers approve.
+
+Benefits:
+
+* Benefit from cross-community collaboration, with other projects assisting the adoption and development of OSPOs across organizations.
+* Participate in the planning, design, and approval processes of micro-conferences.
+* Promote your open source initiative/project and brand within the OSPOlogyLive network

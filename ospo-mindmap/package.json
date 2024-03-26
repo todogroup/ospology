@@ -3,9 +3,11 @@
   "description": "The OSPO Mind Map schemes the main Open Source program Office's responsibilities, roles, behavior and team size within the Ecosystem.",
   "scripts": {
     "prebuild": "mkdir -p Public/",
-    "build": "npm run build:en -- --no-open && npm run build:jp -- --no-open",
+    "build": "npm run build:en -- --no-open && npm run build:jp -- --no-open && npm run build:cn -- --no-open",
     "build:en": "markmap Content/ospomindmap.md --output Public/index.html",
+    "build:cn": "markmap Content/ospomindmap_zh_cn.md --output Public/cn.html",
     "build:jp": "markmap Content/ospomindmap_jp.md --output Public/jp.html",
+    "build:tw": "markmap Content/ospomindmap_zh_tw.md --output Public/tw.html",
     "dev": "npm run build:en -- --watch"
   },
   "dependencies": {

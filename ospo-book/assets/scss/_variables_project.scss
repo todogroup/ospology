@@ -1,0 +1,38 @@
+/**
+* Project Variables
+*
+* This theme is used to overide the variables in themes/docsy/assets/scss/_variables.scss
+*
+* It's loaded BEFORE all other styles.
+*
+* Custom theme styles should be placed in assets/scss/_styles_project.scss - not in this file.
+*
+*/
+
+$primary: #fff;
+$primary-300: #0046a8;
+$link-color: #0060e6;
+$link-hover-color: #0046a8;
+$primary-highlight: #2fd9c3;
+$secondary: #e7e7e7;
+$black: #000;
+$gray-700: #747474;
+$gray-900: #464646;
+$link-hover-decoration: underline;
+$body-color: #002250;
+$td-enable-google-fonts: false;
+$td-sidebar-tree-root-color: $primary;
+$td-sidebar-bg-color: #f4f4f4;
+$navbar-dark-color: $black;
+$navbar-dark-hover-color: $gray-900;
+$navbar-dark-active-color: $black;
+$navbar-dark-disabled-color: $black;
+$headings-font-weight: 700;
+$font-weight-normal: 300;
+
+
+// font-stack.
+$font-family-base: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
+	Ubuntu, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,700&display=swap');

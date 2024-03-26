@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://glossary.todogroup.org/*"
+  to = "https://ospoglossary.todogroup.org/"
+  status = 301
+  force = true
