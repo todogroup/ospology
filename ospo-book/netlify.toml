@@ -1,6 +1,7 @@
 [build]
 publish = "public"
 command = "make production-build"
+ignore = "exit 1"
 
 [build.environment]
 NODE_VERSION = "18.16.1"
