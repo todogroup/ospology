@@ -48,7 +48,7 @@ Content has been curated from the [OSPOlogyLive Apeldoorn Roundtable Discussion]
 
 ### OSPOs working with Container Hosting Infrastructure Teams
 
-Teams dedicated to this infrastructure, focusing on aspects such as image repositories and platform enablement, collaborate closely with OSPOs to support container infrastructure and capabilities. Initiatives like the Cloud Platform Engineering Team (CPET) has been highlighted for their efforts in publishing self-built operators, such as the Platform as a Service (PaaS) Operator, which automates tasks like initiating namespaces or projects on Kubernetes platforms.
+Teams dedicated to this infrastructure, focusing on aspects such as image repositories and platform enablement, collaborate closely with OSPOs to support container infrastructure and capabilities. Initiatives like [Container Platform Enable Team (CPET), a team at the Dutch Tax Administration's Generieke Facilities unit](https://striive.com/nl/opdrachten/capgemini-nederland-bv---yf/lead-transformatie/capgemini-nederland-bv---yf/senior-openshift-engineer---belastingdienst/31e003f6-1a1a-4321-961b-5a1c217c8930), have been highlighted for their efforts in publishing self-built operators, such as the [Project as a Service (PaaS) Operator](https://tweakers.net/plan/4002/de-belastingdienst-als-it-werkgever-cloud-native-wordt-de-standaard.html), which automates tasks like initiating namespaces or projects on Kubernetes platforms.
 
 #### Commercial vs. Open Source for Kubernetes Deployment
 
