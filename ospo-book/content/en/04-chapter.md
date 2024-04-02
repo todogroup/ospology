@@ -6,7 +6,6 @@ weight: 60
 
 
 * [Introduction](#introduction)
-  * Defining day-to-day Operations
 * [Assessing Daily Operations](#assessing-maturity-of-open-source-program-office) - `✅ Assessment`
 * [Recommendations](#recommendations) - `💡 Recommendations`
 * [Resources](#resources) - `📚 Continue Here`
@@ -16,11 +15,7 @@ weight: 60
 Understanding the day-to-day activities of those managing open source operations within an organization is crucial for several reasons. First and foremost, it sheds light on the fundamental tasks that an OSPO must focus on to ensure the organization's 
 technology strategy and aefforts aligns with open source best practices. This knowledge helps to streamline engineering processes and maintain compliance with open source licenses and security measures.
 
-Moreover, it highlights the diverse types of values and key assets (e.g. risk management, resource allocation, training) that an OSPO brings to an organization across their different responsibilities. This way, an organization can better support its OSPO and an OSPO can better support their organization's teams.
-
-# Defining day-to-day Operations
-
-day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including providing personalized technical support on licensing and software selection, leveraging automation tools for process efficiency and security, 
+OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including providing personalized technical support on licensing and software selection, leveraging automation tools for process efficiency and security, 
 developing and disseminating educational materials, strategically allocating resources, managing risks through comprehensive assessments of the tech stack, sponsoring and engaging with open source communities and foundations, measuring technical debt in projects, and facilitating coordination 
 across various organizational divisions to align both technical and non-technical objectives.
 
