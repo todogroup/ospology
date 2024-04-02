@@ -31,7 +31,7 @@ The possibility of the EU mandating open source as a requirement for Horizon Eur
 
 Note: Horizon Europe is the EU’s key funding programme for research and innovation.
 
-### Challenges in open source Sustainability
+### Challenges in Open Source Sustainability
 `📈 Business-Oriented`
 
 The underfunding of crucial projects like Django, and the broader issue of maintainers being underpaid or volunteering, underscores the sustainability challenges within the open source ecosystem. The critical role of vulnerability management and the need for corporate contributions to open source have been highlighted as areas requiring attention and action.
