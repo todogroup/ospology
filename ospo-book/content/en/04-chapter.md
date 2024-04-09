@@ -54,18 +54,41 @@ provide to the organization, the scope of engagement with open source in terms o
 | **Business Assessment on Risk Management** | Assess risks that the organization is facing, including an overview of the tech stack.                                                                                                                                                                                                                                                             | Assistance in evaluating which open source projects to use and how to prioritize resources effectively.                                                                                                                                                                                   | E.g., business assessment to determine whether optimizing SBOMs or focusing on other areas is more beneficial (dealing with vendor-supplied software, legacy software, proprietary software).                                                                                                   | E.g., business assessment to determine whether optimizing SBOMs or focusing on other areas is more beneficial (dealing with vendor-supplied software, legacy software, proprietary software).                                                                                                  | N/A                                                                                                                                                                                                                                        |
 
 
-## Recommendations (TBD)
+## Recommendations
+
+`💡Recommendations`
 
 ### Scenario #11
-- Scope: 
 
-- Recommendation:
+Social Engineering Attack on Upstream xz/liblzma: A social engineering attack targeted the xz/liblzma, an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for Open Source Program Offices (OSPOs) lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+
+> Recommendation
+>
+> 1. SBOMs Compliance Ready: Ensure that all software components are documented through Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
+> 
+> 2. Automation Security Checks: Implement automated security checks, such as the OpenSSF Security Scorecard, to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
+> 
+> 3. Having a Computer Emergency Response Team (CERT) within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the > > severity of incidents.
+> 
+> 4. Scorecard Management: Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
+> 
+> 5. Automated Feedback Loops: Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
 
 ### Scenario #12
 
-- Scope:
+OSPOs face the challenge of navigating license changes and assessing software trustworthiness. As projects like Redis have shown, altering license terms can have significant implications for use, distribution, and contribution. These changes needs clear communication and understanding of the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The Almalinux Foundation presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
 
-- Recommendation:
+> Recommendation
+>
+> 1. Educational Initiatives on License Implications: Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open-source projects.
+>
+> 2. Explicit License Terms: Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
+> 
+> 3. Software Trust Rating System: Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
+> 
+> 4. Encourage Foundation Hosted Projects: Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like Almalinux to illustrate the benefits of this approach, such as increased trust and community support.
+> 
+> 5. Stakeholder Engagement in License Decisions: Engage a broad range of stakeholders, including developers, legal advisors, and end-users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
 
 ## Resources (TBD)
 
