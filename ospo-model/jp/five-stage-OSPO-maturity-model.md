@@ -1,15 +1,15 @@
 # 組織のための OSPO モデルの分類
 
-これは活発な文書であることを期待しています。目標は、OSPO モデルの分類を構築し、さまざまな組織での学習と実装を促進する主要な構成要素 (パターン) を特定することです。
+本文書では OSPO モデルについて分類体系を作り、さまざまな組織で学びや実装が促進できるよう重要なコンポーネント (やパターン) を明確にすることを目指しています。継続的にアップデートされ鮮度が保たれることが期待された文書でもあります。
 
-コミュニティは、「5段階の OSPO 成熟度モデル」から、特定の業種や地域のニーズにより適合するサブバージョンを貢献することができます。
+コミュニティの皆さんも、「5段階の OSPO 成熟度モデル」に特定の業種や地域のニーズにフィットした形でコントリビューションすることができます。
 
-> 貢献したい場合は、PR を出してください。
+> コントリビューションの際は、PR（プルリクエスト） を出してください。
 
 
 ## OSPO モデル 1 - 5 段階の OSPO 成熟度モデル
 
-> 詳細な調査は、[OSPO の進化](https://www.linuxfoundation.jp/publications/2022/05/the-evolution-of-the-open-source-program-office-ospo/) でご覧いただけます。
+> 詳細な調査は、[OSPO の進化](https://www.linuxfoundation.jp/publications/2022/05/the-evolution-of-the-open-source-program-office-ospo/) でご覧いただけます。原文は[こちら](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo)
 >
 > OSPO の特性、構造、役割の詳細については、[A Deep Dive Into OSPO](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/) を参照してください。
 
