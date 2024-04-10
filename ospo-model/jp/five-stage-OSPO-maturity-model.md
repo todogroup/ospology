@@ -9,7 +9,7 @@
 
 ## OSPO モデル 1 - 5 段階の OSPO 成熟度モデル
 
-> 詳細な調査は、[The evolution of the OSPO](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo) でご覧いただけます。（日本語翻訳版：「[OSPO の進化](https://www.linuxfoundation.jp/publications/2022/05/the-evolution-of-the-open-source-program-office-ospo/)」）
+> 詳細な調査は、[The evolution of the OSPO](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo) （日本語翻訳版：「[OSPO の進化](https://www.linuxfoundation.jp/publications/2022/05/the-evolution-of-the-open-source-program-office-ospo/)」）でご覧いただけます。
 >
 > OSPO の特性、構造、役割の詳細については、[A Deep Dive Into OSPO](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/) （日本語翻訳版：「[深層考察：『オープンソース プログラム オフィス』](https://www.linuxfoundation.jp/publications/2022/11/a-deep-dive-into-open-source-program-offices/)」）で確認ください。
 
