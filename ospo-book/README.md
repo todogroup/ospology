@@ -22,10 +22,10 @@ Open source software is increasingly being adopted by organizations of all sizes
 The guide will be aimed at organizations of all sizes and industries, including those just starting their open source journey as well as those looking to streamline and improve their existing open source operations. It will provide practical, actionable advice and real-world examples to help organizations streamline their open source operations and achieve their goals.
 ## 🙋‍♀️ Project Teams
 
-|      | General   | Infra Team       | Doc Team         | Review Team                 |
+|      | General   | Infra Team       | Content Team         | Review Team                 |
 |-----------|-----------|------------------|------------------|-----------------------------|
-| **Chair (2024)** | Ana Jimenez      | Chris Abraham    |     Ana Jimenez                     | Help wanted 
-| **Co-chair (2024)** |Help wanted             | Help wanted               | Help wanted                          |
+| **Chair (2024)** | @anajsana    | @cjyabraham  |    @CsatariGergely                   | @alice-sowerby
+| **Co-chair (2024)** | @jerpelea           | @anajsana, @koozz, @CsatariGergely            | @jimjag , @anajsana                        | @zhiqiang-yu 
 | **Description** | moderates monthly calls, prepares agenda items and checks progress done | team involved in project infrastructure and website development | team involved in content creation | team involved in reviewing existing content and references |
 
 
@@ -101,4 +101,4 @@ cd ospo-book
 npm install
 ```
 
-Then run the site using `hugo server`.
+Then run the site using `npm run serve`. To have the site run locally with a functioning local search, run `npm run serve:with-pagefind`.

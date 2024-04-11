@@ -5,5 +5,4 @@ level: error
 tokens:
   - XXX
   - FIXME
-  - TODO
   - NOTE

@@ -5,22 +5,18 @@ ignorecase: true
 tokens:
   - adult
   - africa
-  - african
   - allah
   - amateur
-  - american
   - angie
   - angry
   - arab
   - arabs
   - aroused
-  - asian
   - assassin
   - assassinate
   - assassination
   - assault
   - attack
-  - australian
   - babies
   - backdoor
   - backseat
@@ -50,14 +46,12 @@ tokens:
   - buffy
   - burn
   - butt
-  - canadian
   - cancer
   - catholic
   - catholics
   - cemetery
   - childrens
   - chin
-  - chinese
   - christ
   - christian
   - church
@@ -98,9 +92,6 @@ tokens:
   - escort
   - ethiopian
   - ethnic
-  - execute
-  - executed
-  - execution
   - executioner
   - explosion
   - failed
@@ -120,7 +111,6 @@ tokens:
   - funeral
   - fungus
   - gay
-  - german
   - gin
   - girls
   - gun
@@ -149,7 +139,6 @@ tokens:
   - israels
   - itch
   - jade
-  - japanese
   - jerry
   - jew
   - jewish
@@ -162,7 +151,6 @@ tokens:
   - killing
   - kills
   - kimchi
-  - knife
   - laid
   - latin
   - lesbian
@@ -172,7 +160,6 @@ tokens:
   - lotion
   - lucifer
   - mad
-  - mexican
   - mideast
   - minority
   - moles
@@ -194,7 +181,6 @@ tokens:
   - premature
   - primetime
   - propaganda
-  - pros
   - que
   - rabbi
   - racial
