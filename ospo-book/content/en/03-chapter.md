@@ -144,9 +144,9 @@ It helps identify the specific areas where they need to concentrate their effort
 #### Stage 2
 
 - [ ] Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code.
-- [ ] Communicate to workers, policimakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking
-project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
-- [ ]  Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contirbuting code, field expertise, etc), to the degree that workers become highly active contributors.
+- [ ] Communicate to workers, policimakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
+- [ ] Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contirbuting code, field expertise, etc), to the degree that workers become highly active contributors.
+- [ ] Contributions are focused to a narrow buiness critical set of functionalities in open source projects, and they are sponsored by the organisation (contributions are not a hobby project of individual employees)
 
 
 #### Stage 3
