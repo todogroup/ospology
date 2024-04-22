@@ -2,8 +2,7 @@
 
 https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-malmo/
 
-- [Download the Program in PDF](https://github.com/todogroup/ospology/files/14914999/OSPOlogyLive.Malmo_finalAgenda.pdf)
-
+- [Download the Program in PDF](https://github.com/todogroup/ospology/files/15063863/OSPOlogyLive.Malmo_finalAgenda-1.pdf)
 
 ## 👩‍🏫 Presentations
 
