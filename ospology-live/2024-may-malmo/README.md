@@ -9,6 +9,7 @@ https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chap
 Links to slides will be added to this list once speakers submit them through GH Discussions
 
 - [Health Check-ups on Open Source Software Projects - Johan LINÅKER (RISE) ](https://github.com/todogroup/ospology/discussions/484)
+- [OSPO and InnerSource Metrics with CHAOSS - Ana Jiménez (Linux Foundation) and Sean Goggins (University of Missouri)](https://github.com/todogroup/ospology/discussions/484)
 
 ## 📝 Roundtable Summary Notes
 
