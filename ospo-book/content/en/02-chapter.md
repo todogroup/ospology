@@ -29,14 +29,14 @@ Below are common situations where an organization, aiming to manage open source 
 - **Complexity of the open source supply chain:** Its widespread distribution, collaborative efforts that are often decentralized, and the anonymity of its contributors make it challenging for organizations to accurately assess risks and comprehend the security and quality standards of the software, hardware, data, etc.
 
 - **Tension between the need to ship product features and the need to contribute back to open source:** Open source contributions may take a back seat when dealing with multiple day-to-day tasks.
-  
-- **Collaboration with the community and industry:** Having the organization provide resources whether that's coding, expertise, or money donations as incentives for fixing common vulnerabilities and exposures that can occur in the projects the organization relies on ([see Log4Shell real vulnerability example](https://en.wikipedia.org/wiki/Log4Shell)) in a timely fashion, as well as collaborations with industry working groups foster cooperative efforts to address security concerns holistically. 
+
+- **Collaboration with the community and industry:** Having the organization provide resources whether that's coding, expertise, or money donations as incentives for fixing common vulnerabilities and exposures that can occur in the projects the organization relies on ([see Log4Shell real vulnerability example](https://en.wikipedia.org/wiki/Log4Shell)) in a timely fashion, as well as collaborations with industry working groups foster cooperative efforts to address security concerns holistically.
 
 - **Procurement processes with never-ending steps:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
 - **Lack of consciousness about organizational responsibility:** Due to the way open source was taught in the past, engineering-based tools, or even the engineering jargon used, the concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making.
 
-  
+
 To fully overcome these and other challenges, organizations must be equipped to manage open source operations on both cultural and practical levels. The *how* of accomplishing this is often through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments.
 
 > 💡 OSPOs foster cross-functional collaboration
@@ -90,7 +90,7 @@ The different roles and pillars of support of an OSPO shared below can help read
 
 ![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
 
-### [Apendix A] A perspective of open source in public administrations
+### [Appendix A] A perspective of open source in public administrations
 
 We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
 Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
@@ -107,7 +107,7 @@ The European Commission's Open Source Program Office (OSPO) has launched a new p
 
 ### [Appendix B] A broader view of open source
 
-By extending the concept of _open_ to encompass (for instance) open research, design, or access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where terms other than open source are sometimes used instead, such as [open technology](https://www.researchgate.net/publication/254920512_Open_Technology#pf7) or open work. However, since these terms are not as well-known among organizations, many of them still use open source as a term to indicate activities beyond software. 
+By extending the concept of _open_ to encompass (for instance) open research, design, or access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where terms other than open source are sometimes used instead, such as [open technology](https://www.researchgate.net/publication/254920512_Open_Technology#pf7) or open work. However, since these terms are not as well-known among organizations, many of them still use open source as a term to indicate activities beyond software.
 
 ![opensourceswiss-knife](https://github.com/todogroup/ospology/assets/43671777/402151df-1c98-42e3-99cc-c1377ff8ca60)
 Source: Khalil Khalaf - The Pros and Cons of Open Source Software

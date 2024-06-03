@@ -17,7 +17,7 @@ weight: 50
 ## Introduction
 
 In this chapter, we will share recommendations on ways to create a solid foundation for building a stable and strong OSPO, capable of covering the open source-related tasks and responsibilities on a
-day-to-day basis (These tasks will be further explained in the next chapter). We will cover the core concepts necessary to get started with a minimum viable OSPO. This includes strategic aspects and 
+day-to-day basis (These tasks will be further explained in the next chapter). We will cover the core concepts necessary to get started with a minimum viable OSPO. This includes strategic aspects and
 areas of work.
 
 
@@ -120,7 +120,7 @@ Regarding the organization's engagement, there are already various models availa
 * Community contribution
 * Leadership
 
-On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/) assists organizations in gauging their progress in establishing a mature OSPO. 
+On the other hand, [the OSPO maturity model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/) assists organizations in gauging their progress in establishing a mature OSPO.
 It helps identify the specific areas where they need to concentrate their efforts and improve their practices and its creation might come at any level of the open source journey of an organization.
 
 
@@ -132,7 +132,7 @@ It helps identify the specific areas where they need to concentrate their effort
 - [ ] Create and publish a common set of values and principles around open source usage, contribution and creation as an organization
 - [ ] Define program branding (e.g., OSPO, open source initiative, head of open source operations).
 - [ ] Define structure, budget and necessary cross-functional staff to get started
-- [ ] Define an action plan for the upcomming years
+- [ ] Define an action plan for the upcoming years
 
 #### Stage 1
 
@@ -144,9 +144,9 @@ It helps identify the specific areas where they need to concentrate their effort
 #### Stage 2
 
 - [ ] Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code.
-- [ ] Communicate to workers, policimakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
-- [ ] Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contirbuting code, field expertise, etc), to the degree that workers become highly active contributors.
-- [ ] Contributions are focused to a narrow buiness critical set of functionalities in open source projects, and they are sponsored by the organisation (contributions are not a hobby project of individual employees)
+- [ ] Communicate to workers, policymakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
+- [ ] Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contributing code, field expertise, etc), to the degree that workers become highly active contributors.
+- [ ] Contributions are focused to a narrow business critical set of functionalities in open source projects, and they are sponsored by the organisation (contributions are not a hobby project of individual employees)
 
 
 #### Stage 3
@@ -185,4 +185,4 @@ There is a lack of consistency in how open source understanding and value is per
 - [Participating in open source communities](https://todogroup.org/resources/guides/participating-in-open-source-communities/)
 - [A guide to outbound open source software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/)
 - [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
- 
+
