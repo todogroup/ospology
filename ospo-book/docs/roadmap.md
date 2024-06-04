@@ -5,7 +5,7 @@
 This document provides an overview of the current development plans. Please note that plans are subject to change as new information becomes available.
 We will do our best to keep this document up to date, but please understand that it may not reflect the latest changes at all times.
 
-Thank you for your interest in our development plans. If you have any questions or feedback, please don't hesitate to reach out to us by sending an email to our [mailing list](https://lists.todogroup.org/g/ospo-book-project/).
+Thank you for your interest in our development plans. If you have any questions or feedback, please don't hesitate to reach out to us by sending an email to our [mailing list](https://lists.todogroup.org/g/WG-ospo-book-project/).
 
 ### Short-term plan
 

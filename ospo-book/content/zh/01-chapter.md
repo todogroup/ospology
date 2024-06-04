@@ -107,7 +107,7 @@ Assessing open source adoption is critical because it sets the foundation for su
 
 #### Understand knowledge sharing through the eyes of an OSPO
 
-> RE ML discussion: <https://lists.todogroup.org/g/ospo-book-project/message/5>
+> RE ML discussion: <https://lists.todogroup.org/g/WG-ospo-book-project/message/5>
 
 If the organization decides to establish an OSPO (as an entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
 
@@ -119,7 +119,7 @@ If the organization decides to establish an OSPO (as an entity) or integrate OSP
 
 * Looking outside: representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
 
-As an example, the following [diagram](https://lists.todogroup.org/g/ospo-book-project/message/5) illustrates the various players in a business-oriented OSPO and the different methods of interaction, communication, and knowledge transmission.
+As an example, the following [diagram](https://lists.todogroup.org/g/WG-ospo-book-project/message/5) illustrates the various players in a business-oriented OSPO and the different methods of interaction, communication, and knowledge transmission.
 
 <img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
 
