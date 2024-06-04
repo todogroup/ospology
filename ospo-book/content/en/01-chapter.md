@@ -117,7 +117,7 @@ This section examines the cross-functional collaboration of an OSPO from four di
 
 * Looking upward: If proposing the creation of an OSPO, managing expectations and aligning with executives' technology needs is necessary.
 
-* Looking sideways: Collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is essential.collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is necessary.
+* Looking sideways: Collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is essential.
 
 * Looking outside: Representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
 
