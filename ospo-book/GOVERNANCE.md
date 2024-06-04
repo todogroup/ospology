@@ -7,7 +7,7 @@ Hi there! 👋 Thanks for your interest in contributing to the OSPO Book project
 
 ### 1. 🕵️‍♀️ Observers
 
-The OSPO Book Project is for everyone. Anyone can join the [public mailing list](https://lists.todogroup.org/g/ospo-book-project/messages), ask questions and propose ideas for the community to discuss by opening an issue.
+The OSPO Book Project is for everyone. Anyone can join the [public mailing list](https://lists.todogroup.org/g/WG-ospo-book-project/messages), ask questions and propose ideas for the community to discuss by opening an issue.
 
 ### 2. 🧑‍💻 Contributors
 

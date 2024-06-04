@@ -135,7 +135,7 @@ This is an example of the activities an organization will perform at the consume
 
 `✅ Assessment`
 
-Despite an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/ospo-book-project/message/18))
+Despite an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18))
 
 ## Step one: Assess open source activity engagement
 

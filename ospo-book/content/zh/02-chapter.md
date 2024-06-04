@@ -89,7 +89,7 @@ In Chapter 1 we already introduced how open source has become increasingly signi
 
 `✅ Assessment`
 
-Despite an organizations might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a methodology to communicate the value of contributing to open source and going beyond, which the OSPO can develop and use when working with the different teams that engages with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/ospo-book-project/message/18))
+Despite an organizations might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a methodology to communicate the value of contributing to open source and going beyond, which the OSPO can develop and use when working with the different teams that engages with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18))
 
 - Step one: Get familiar with the consumer-participation-contribution-leadership open source involvement model. [This report by Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source) explains the different stages (from consumer to leader involvement)
 
