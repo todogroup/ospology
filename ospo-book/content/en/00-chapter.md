@@ -6,7 +6,13 @@ weight: 20
 
 ## What is this book about?
 
-This book serves as a source of knowledge for people working at Open Source Program Offices (OSPOs) and for any person that wants to better understand the role of OSPOs within an organization, aiding them in gaining a better understanding of their key role to establish and managing open source strategy and operations. It offers practical recommendations on various aspects, ranging from building an open source  strategy, to effectively engaging with external open source communities. Additionally, the book includes an introduction to assessing an organization's readiness for implementing an OSPO.
+Open source is a reality for all organizations dealing with software in some way, not only for software vendors, but also for any organization addressing digital transformation. So managing open source becomes a requirement for most businesses.
+
+One well established way to manage open source is the pattern of the Open Source Program Office (OSPO). Many companies and other organizations have adopted this pattern and there is a wealth of knowledge and experience on how to do this well. Following the spirit of open source a lot of that is shared openly in the community. This book follows this spirit.
+
+This book serves as a source of knowledge for any person that wants to better understand how OSPOs can address the need to manage open source in an organization. It also aids people working at Open Source Program Offices (OSPOs) in gaining a better understanding of their key role to establish and managing open source strategy and operations. It offers practical recommendations on various aspects, ranging from building an open source strategy, to effectively engaging with external open source communities.
+
+Additionally, the book includes an introduction to getting started with implementing an OSPO.
 
 ## What’s not in this book
 
