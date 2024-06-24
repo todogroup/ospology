@@ -20,9 +20,11 @@ Organizations of various types – including end-user companies, software vendor
 
 ### Supply Chain and Open Source
 
-Sometimes, organizational stakeholders may assume that they do not use open source projects because their end product is proprietary. However, a closer examination of the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) often reveals that such proprietary software contains open source dependencies or other artifacts that form the baseline. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This, in turn, would affect the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue
+Sometimes, organizational stakeholders may assume that their product isn't using any open source projects because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This, affect the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
 
-Below are common situations where an organization, aiming to manage open source for integration into its digital/IT strategy and technology infrastructure, may encounter issues. If ignored or neglected, these issues can lead to mid-term and long-term innovation bottlenecks and security vulnerabilities.
+#### Common challenges when managing open source integration
+
+Organizations may encounter issues when managing open source components that are integrated into their technology infrastructure. If these issues are ignored or neglected, they can lead to mid-term and long-term innovation bottlenecks and security vulnerabilities. It’s important to understand the unique factors that make open source different.
 
 - **Vulnerability Management:** keeping track of the open source usage (software, hardware, etc) by the organization and performing risk assessments on the identified projects. By identifying key projects within the organization, they can prioritize securing them by tracking common vulnerabilities and exposures.
 
