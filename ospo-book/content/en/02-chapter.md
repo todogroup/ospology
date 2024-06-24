@@ -1,5 +1,5 @@
 ---
-title: "The Value of Open Source Program Offices"
+title: "2 - The Value of Open Source Program Offices"
 status: Completed
 weight: 40
 ---
@@ -14,9 +14,9 @@ weight: 40
 
 ## Open Source is all about Integration
 
-Organizations of various types—including end-user companies, software vendors, universities, and public administrations—maintain a relationship with open source. To responsibly manage not only software but also hardware, content, and other aspects of technology, organizations must engage with open source. This involves finding ways to integrate such culture and operations into their IT strategy and technology and AI stacks. Establishing an organizational structure is a crucial first step to solidify commitment. This is where an Open Source Program Office (OSPO) becomes key. It serves as a means for organizations to support their objectives and address challenges related to open source.
+Organizations of various types – including end-user companies, software vendors, universities, and public administrations – maintain a relationship with open source. To responsibly manage software and hardware, content, and other aspects of technology, organizations must engage with open source. This involves finding ways to integrate such culture and operations into their IT strategy and technology and AI stacks. Establishing an organizational structure is a crucial first step to solidify commitment. This is where an Open Source Program Office (OSPO) becomes important. It helps organizations to achieve their objectives and overcome challenges related to open source.
 
-> 💡 OSPOs are all about Integration, not Isolation
+> 💡 OSPOs put the focus on _integration_, not _isolation_
 
 ### Supply Chain and Open Source
 
