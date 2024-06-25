@@ -45,29 +45,31 @@ To fully overcome these challenges, organizations must invest in properly managi
 
 But how exactly can an OSPO enable cross-functional collaboration? Why and how does this cross-functional collaboration aid in achieving the organization's goals? Additionally, why is this cross-functional collaboration essential for the creation and long-term sustainability of an OSPO within the organization?
 
-### The value of an OSPO
+### OSPO value perception
 
-To understand the value of an [OSPO](https://ospoglossary.todogroup.org/ospo-definition/), it is important for the reader to understand the reasons for (1) Establishing an OSPO and (2) Sustaining it over the long term.
+In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. More and more organizations are integrating open source into their regular structures and functions and there is an open question related to whether the OSPO would become an intermediate step to achieve this.
 
-In this book, the section on _starting an OSPO_ is aimed at organizations that are taking their first steps toward creating an OSPO. This means that even if they already have personnel dedicated to dealing with open source tasks from time to time, they still lack a structured and specialized unit (or units) within their organization. On the other hand, the section on _sustaining an open source through an OSPO_ is more relevant to individuals in organizations that have already established specialized units, covering aspects such as strategy, compliance, community involvement, and governance
+The answer depends on how you view the OSPO. Beyond the multiple structures the term "OSPO" can imply, it is fundamentally about its people. If we consider the OSPO as a group of open source subject matter experts providing support, knowledge, and management for this integration, this talent must be not only maintained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
 
-> In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. This responsibility may evolve and become more complex over time, but it is definitely not a temporary task with a predetermined completion point.
+In an ideal scenario, open source knowledge, technical expertise, and culture should be integrated as any other employee skill. However, the reality is that this is far from true. Currently, it is challenging to find open source experts who can effectively bridge the gap between open source communities and specific work units (e.g., security, legal, business).
+
+What might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
 
 ![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
 
-_[Source:OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
+_[Source: OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
 ### The reasons behind starting an OSPO
 
-Integrating open source into an organization's infrastructure and operations is a vast field that encompasses various angles and objectives. The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by Open Source leaders across different industries and organization sizes.
+Integrating open source into an organization's infrastructure and operations is a vast field that encompasses various angles and objectives. The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by open source leaders across different industries and organization sizes.
 
 - Building standardized processes around open source
-- Learn how to approach the open source community
-- Embracing the Sustainability of Open Source Projects
-- Managing Compliance
+- Learning how to approach the open source community
+- Embracing the Sustainability of open source Projects
+- Managing compliance
 - Expanding access to open knowledge
 - Improving development velocity
-- Mitigating Security Risks
+- Mitigating security risks
 
 ### The reasons behind sustaining open source operations through an OSPO
 
@@ -79,20 +81,21 @@ An OSPO needs to be an ongoing initiative within an organization in order to evo
 
 The different roles and pillars of support of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
 
-- **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers do not have to consider the business implications of different open source engagement models every time they try to solve a problem
+- **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers do not have to consider the business implications of different open source engagement models every time they try to solve a problem.
 
-- **Acts as a Facilitator:** The OSPO also plays a sort of translation role between
-  Organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
+- **Acts as a Facilitator:** The OSPO also plays a sort of translation role between the organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
 
-- **Acts as an Advocate:** OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones
+- **Acts as an Advocate:** OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
 
 - **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
 
-- **Acts as a Gatekeeper:** OSPOs can help enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
+- **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
 
 ![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
 
-### [Appendix A] A perspective of open source in public administrations
+### Interlude
+
+#### A perspective of open source in public administrations
 
 We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
 Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
@@ -107,9 +110,13 @@ Public sector organizations face unique challenges when it comes to managing the
 
 The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. Check `📚 Continue Here` at the end of this chapter.
 
-### [Appendix B] A broader view of open source
+#### A broader view of open source
 
 By extending the concept of _open_ to encompass (for instance) open research, design, or access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where terms other than open source are sometimes used instead, such as [open technology](https://www.researchgate.net/publication/254920512_Open_Technology#pf7) or open work. However, since these terms are not as well-known among organizations, many of them still use open source as a term to indicate activities beyond software.
+
+For an OSPO it can be a challenge where to put boundaries on what topics to cover and to focus on. While values and general procedures are similar for different topics put under the umbrella of open, other aspects can differ significantly, such as legal or technical questions. The OSPO should strike a balance here and be clear about what it has the resources and expertise to cover and what it has to delegate to other parts of the organization. It still will be a point of contact.
+
+For example, many people will not see a difference between open data and open source software and approach the OSPO for questions about open data. However, many organizations will have specific functions and roles for data governance the OSPO can then refer to. 
 
 ![opensourceswiss-knife](https://github.com/todogroup/ospology/assets/43671777/402151df-1c98-42e3-99cc-c1377ff8ca60)
 Source: Khalil Khalaf - The Pros and Cons of Open Source Software
