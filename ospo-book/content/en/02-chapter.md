@@ -127,7 +127,7 @@ Source: Khalil Khalaf - The Pros and Cons of Open Source Software
 
 `✅ Assessment`
 
-Organizations may underestimate how much they already depend on the usage (also called consumption) of open source. There are some studies which analyze usage of open source software in the industry. The [Synopsys Open Source Security and Risk Analysis Report 2022](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html) for example finds that the average software project consists to 78% of open source software.
+Organizations may underestimate how much they already depend on the usage (also called consumption) of open source. Several studies analyze the usage of open source software in the industry. For example, the [Synopsys Open Source Security and Risk Analysis Report 2024](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf) finds that the average software project consists of 77% open source software. Additionally, a [Harvard Business School study](https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf) estimates that the supply-side value of widely-used open source software is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a [study by OpenForum Europe](https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/) estimates that open source software contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
 
 Assess this value for your own organization by taking steps such as:
 
