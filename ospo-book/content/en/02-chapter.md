@@ -144,11 +144,13 @@ This is an example of the activities an organization will perform at the consume
 
 `✅ Assessment`
 
-Despite an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18))
+Although an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18)).
+
+It is important to be clear that the following steps are not mandatory, but a set of recommended guidelines that organizations can adapt to assess the value of open source contributions.
 
 ## Step one: Assess open source activity engagement
 
-Get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
+Get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address the organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
 
 For instance, a typical maturity model of corporate open source adoption looks like this (see this example by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
 
