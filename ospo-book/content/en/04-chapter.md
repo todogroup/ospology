@@ -103,7 +103,7 @@ The contributors to this book have identified challenges in implementing the min
 
 ### Scenario #11
 
-Social Engineering Attack on Upstream xz/liblzma: A social engineering attack targeted the xz/liblzma, an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for Open Source Program Offices (OSPOs) lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+Social Engineering Attack on Upstream xz/liblzma: A social engineering attack targeted the xz/liblzma, an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. See ([more details](https://research.swtch.com/xz-timeline)). The challenge for Open Source Program Offices (OSPOs) lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
 
 > Recommendation
 >
