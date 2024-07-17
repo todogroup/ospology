@@ -59,21 +59,11 @@ What might change in the coming years is the centralized view of the OSPO. This 
 
 _[Source: OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-### The reasons behind starting an OSPO
+### Reasons and Value of Investing in a Resilient OSPO
 
-Integrating open source into an organization's infrastructure and operations is a vast field that encompasses various angles and objectives. The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by open source leaders across different industries and organization sizes.
+In a world governed by software, open source objectives offer solutions to the mission-critical problems organizations wish to address, whether social-economic (governments, NGOs) or technological (companies). Integrating open source into an organization's infrastructure and operations encompasses various objectives, such as risk management, innovation, and the sustainability of the open source communities they rely on. To achieve effective integration, organizations need the right staff to operate and the necessary talent to manage such operations. This is where the mission of an OSPO (Open Source Program Office) comes into play. Go to “tips on how to get started with an OSPO” sub-section to see some practical advice on when starting to staff an OSPO.
 
-- Building standardized processes around open source
-- Learning how to approach the open source community
-- Embracing the Sustainability of open source Projects
-- Managing compliance
-- Expanding access to open knowledge
-- Improving development velocity
-- Mitigating security risks
-
-### The reasons behind sustaining open source operations through an OSPO
-
-Stopping the work of an OSPO could have significant negative impacts on those organizations that use open source (directly or indirectly) at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
+On the other hand, stopping the work of an OSPO could have significant negative impacts on those organizations that use open source (directly or indirectly) at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 
 > 💡 _Open Source is a silent critical need_
 
@@ -92,6 +82,22 @@ The different roles and pillars of support of an OSPO shared below can help read
 - **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
 
 ![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
+
+
+#### Tips on how to get started with an OSPO
+
+The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by open source leaders across different industries and organization sizes.
+
+- Building standardized processes around open source
+- Learning how to approach the open source community
+- Embracing the Sustainability of open source Projects
+- Managing compliance
+- Expanding access to open knowledge
+- Improving development velocity
+- Mitigating security risks
+
+
+
 
 ### Interlude
 
