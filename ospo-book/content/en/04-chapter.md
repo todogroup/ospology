@@ -1,5 +1,5 @@
 ---
-title: "A Deep Dive into Day-to-Day Operations"
+title: "4 - Day-to-Day Operations"
 status: Completed
 weight: 60
 ---
