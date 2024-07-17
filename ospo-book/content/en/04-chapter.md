@@ -12,12 +12,9 @@ weight: 60
 
 # Introduction
 
-Understanding the day-to-day activities of those managing open source operations within an organization is crucial for several reasons. First and foremost, it sheds light on the fundamental tasks that an OSPO must focus on to ensure the organization's 
-technology strategy and aefforts aligns with open source best practices. This knowledge helps to streamline engineering processes and maintain compliance with open source licenses and security measures.
+Understanding the day-to-day activities of those managing open source operations within an organization is important for several reasons. First and foremost, it sheds light on the fundamental tasks that an OSPO must focus on to ensure the organization's technology strategy and efforts align with open source best practices. This knowledge helps to streamline engineering processes and maintain compliance with open source licenses and security measures.
 
-OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including providing personalized technical support on licensing and software selection, leveraging automation tools for process efficiency and security, 
-developing and disseminating educational materials, strategically allocating resources, managing risks through comprehensive assessments of the tech stack, sponsoring and engaging with open source communities and foundations, measuring technical debt in projects, and facilitating coordination 
-across various organizational divisions to align both technical and non-technical objectives.
+OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
 
 - **Personalized Technical Support:** Involves answering questions on all aspects of open source, including license
   compliance, selecting open source software, and interactions with vendors. It also includes engaging with the
