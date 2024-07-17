@@ -129,7 +129,7 @@ Source: Khalil Khalaf - The Pros and Cons of Open Source Software
 
 > Note: You may have noticed that in this book, when referring to open source, we also include other kinds of open initiatives beyond software, such as hardware, data, etc.
 
-## Assessing the value of open source usage (also called consumption)
+## Assessing the value of open source usage
 
 `✅ Assessment`
 
@@ -142,23 +142,22 @@ Assess this value for your own organization by taking steps such as:
 - Assess value by evaluating what costs would occur by using alternative proprietary solutions and components
 - Take factors such as speed of innovation or engineering agility into account
 
-This is an example of the activities an organization will perform at the consumer stage in the open source maturity model. This naturally leads to the next step to the participant stage:
-
-![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
-
-## Assessing value of open source contributions
+## Communication with decision makers to share the value of open source contributions
 
 `✅ Assessment`
 
-Although an organization might be aware of the general problems, responsibility and benefits that contributing to open source provides, identifying specific key motivators to move people to take action (create activity) and prioritize open source is a tough task. In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18)).
+In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18)).
 
 It is important to be clear that the following steps are not mandatory, but a set of recommended guidelines that organizations can adapt to assess the value of open source contributions.
 
-## Step one: Assess open source activity engagement
+### How do you assess open source activity engagement?
 
-Get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address the organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
+A good practice can be to make use of a maturity model to better map the different activities and present them to decision-makers. Thus, we recomend to get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address the organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
 
-For instance, a typical maturity model of corporate open source adoption looks like this (see this example by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
+There is a wide variety of open source maturity models –for governments, NGOs, Enterprises– with versions and subversions. In this book, we briefly share two of the most common ones used for open source adoption:
+
+#### Maturity Model 1 - Open source enggement adoption by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
+
 
 * Denial - No or unconscious use of open source
 * Consumption / Usage - Passive use of open source software
@@ -168,7 +167,11 @@ For instance, a typical maturity model of corporate open source adoption looks l
 
 ![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
 
-## Step two: Identify  and categorize the benefits of open source activities for your organization
+#### Maturity Model 2 - Five stages or corporate open source adoption talk by [Carl-Eric](https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/)
+
+![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
+
+## How do you identify  and categorize the benefits of open source activities for your organization?
 
 Once you have a certain familiarity with open source adoption models, the next natural question to ask is _What are the benefits of open source activities for the organization?_
 
@@ -181,14 +184,14 @@ The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenC
 > You can find a summary of their work in both Japanese and English [in this Qiita article written by one of its members](https://qiita.com/owada-k/items/017d1b98d0e437766bd0)
 
 
-## Step three: Initiate conversations and define unique motivators
+## How do you initiate conversations outside the OSPO and define unique motivators?
 
-Have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value
+Have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
 
-## Step four: Map motivators with different activity types across the organization
+## How do you map motivators with different activity types across the organization?
 
 Create a second division that categorizes each of these unique motivators according to the different stages within the previously mentioned OSPO model, or a similar model as referenced in step 2.
-As an example, below is a possible categorization, proposed by one of the contributors to this book
+As an example, below is a possible categorization, proposed by one of the contributors to this book.
 
 <img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
 
@@ -199,29 +202,29 @@ As an example, below is a possible categorization, proposed by one of the contri
 In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
 
 ### Scenario #5
-There is a lack of understanding about open source practices across the organization
+There is a lack of understanding about open source practices across the organization.
 
 > Recommendation: Promote organizational-wide understanding of open source practices through the OSPO by offering educational workshops, creating accessible resources, and establishing open source
 > champions in different departments to foster a culture of open source literacy
 
 ### Scenario #6
-An OSPO is seen as a Sales Profit or Marketing Tool
+An OSPO is seen as a Sales Profit or Marketing Tool.
 
 > Recommendation: Ensure that the OSPO is recognized as an integral part of the organization's digital, software, or IT strategy, rather than as a sales profit or marketing tool.
 > Emphasize its role in fostering open source best practices, contributing to technological innovation, and supporting the overall organization's IT / Digital development plan.
 
 ### Scenario #7
-An OSPO is seen as an added value and not as direct support for the core organization’s areas and functions
+An OSPO is seen as an added value and not as direct support for the core organization’s areas and functions.
 
 > Recommendation: Highlight how the people behind the OSPO with expertise in open source can enhance key business processes, drive innovation, and directly support strategic objectives,
 > thereby integrating it as an essential component of the organization's operational framework
 
 ### Scenario #8
-An OSPO struggles with gaining executive support and buy-in
+An OSPO struggles with gaining executive support and buy-in.
 > Recommendation: communicate the strategic value of open source through the OSPO, showcasing tangible benefits through case studies or success stories, and aligning its initiatives with key organizational priorities.
 
 ### Scenario #9
-An OSPO has a technical focus and forgets about open source culture
+An OSPO has a technical focus and forgets about open source culture.
 > Recommendation: Embrace the full spectrum of open source culture, which includes transparency, diversity, and cooperation. Encourage the organization to foster an environment where these values are actively promoted and practiced
 
 ## Resources
