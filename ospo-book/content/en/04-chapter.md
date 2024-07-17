@@ -72,6 +72,16 @@ The contributors to this book have identified challenges in implementing the min
 | Introduce tools for license compliance                                                                                     |                                                                                                                                                    | Automation is essential to be able to address risks with a reasonable amount of effort. Appropriate tools help with that.                                                                                                                                                                                                                                                                                            |
 | Clarify how to support open source software                                                                                |                                                                                                                                                    | For using open source software in production scenarios, appropriate support is necessary. For open source there are several options, buying it from a vendor or a service provider, doing the support yourself with the help of the community (being responsible here what to expect from a community), or also going with the risk of not having support for scenarios where the risk of not having support is low. |
 
+| Participant Stage |
+| --- |
+
+
+| Activities                                     | Value for OSPO | Value for Org                                                                                                     |
+| ---------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Financially supporting open source communities |                | Contribute to stability of ecosystem, the organization relies on                                                  |
+| Memberships in open source organizations       |                | Engaging in the communities the organization relies on. Supporting the ecosystem.                                 |
+| Trying InnerSource                             |                | Practicing open source methodologies in the protected space of the organization. Introducing open source culture. |
+
 ## Recommendations (TBD)
 
 ### The OSPO should have secured resources for strategic contributions
