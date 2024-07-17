@@ -82,23 +82,56 @@ The contributors to this book have identified challenges in implementing the min
 | Memberships in open source organizations       |                | Engaging in the communities the organization relies on. Supporting the ecosystem.                                 |
 | Trying InnerSource                             |                | Practicing open source methodologies in the protected space of the organization. Introducing open source culture. |
 
-## Recommendations (TBD)
+| Contributor Stage |
+| --- |
 
-### The OSPO should have secured resources for strategic contributions
+| Activities                             | Value for OSPO | Value for Org                                                                                                                                                      |
+| -------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Create contribution policy and process |                | Having clear procedures how the organization can do open source contributions in a legally safe way, for open source projects, the organization, and its employees |
+| Qualification of contributors          |                | Making sure that contributors have the knowledge and skills they need to act on behalf of the company in the public space of an open source project.               |
 
-- Scope: If the company has strategic targets related to open source, its OSPO should be capable to control resources to
-  drive the execution of the strategy.
+| Leadership Stage |
+| --- |
 
-- Recommendation: To ensure the continuity of contributions needed for the strategy execution the OSPO should either:
-    - Have a set of dedicated open source developers
-    - Have a budget for company internal development resources asigned to startegic OSPO tasks
-    - Have a budget to hire external developers to work on the startegic OSPO tasks 
+| Activities                                                                  | Value for OSPO | Value for Org                                                                                                                                                               |
+| --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Open sourcing previously proprietary projects                               |                | Get the benefits of strategic involvement in and with open source                                                                                                           |
+| Establish an “upstream first” policy                                        |                | Lead open source projects and make them part of the primary value creation of the organization                                                                              |
+| Supporting autonomy of contributors and maintainers of open source projects |                | Having people being dedicated to only open source work, the organization can strategically strengthen important open source projects in the most organic and effective way. |
+
+## Recommendations
+
+### Scenario #11
+
+Social Engineering Attack on Upstream xz/liblzma: A social engineering attack targeted the xz/liblzma, an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for Open Source Program Offices (OSPOs) lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+
+> Recommendation
+>
+> 1. SBOMs Compliance Ready: Ensure that all software components are documented through Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
+> 
+> 2. Automation Security Checks: Implement automated security checks, such as the OpenSSF Security Scorecard, to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
+> 
+> 3. Having a Computer Emergency Response Team (CERT) within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the > > severity of incidents.
+> 
+> 4. Scorecard Management: Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
+> 
+> 5. Automated Feedback Loops: Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
 
 ### Scenario #12
 
-- Scope:
+OSPOs face the challenge of navigating license changes and assessing software trustworthiness. As projects like Redis have shown, altering license terms can have significant implications for use, distribution, and contribution. These changes needs clear communication and understanding of the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The Almalinux Foundation presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
 
-- Recommendation:
+> Recommendation
+>
+> 1. Educational Initiatives on License Implications: Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open-source projects.
+>
+> 2. Explicit License Terms: Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
+> 
+> 3. Software Trust Rating System: Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
+> 
+> 4. Encourage Foundation Hosted Projects: Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like Almalinux to illustrate the benefits of this approach, such as increased trust and community support.
+> 
+> 5. Stakeholder Engagement in License Decisions: Engage a broad range of stakeholders, including developers, legal advisors, and end-users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
 
 ## Resources (TBD)
 
