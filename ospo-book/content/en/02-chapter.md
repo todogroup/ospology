@@ -20,7 +20,7 @@ Organizations of various types – including end-user companies, software vendor
 
 ### Supply Chain and Open Source
 
-Sometimes, organizational stakeholders may assume that their product isn't using any open source projects because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This, affect the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
+Sometimes, organizational stakeholders may assume that their product isn't using any open source projects because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This affects the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
 
 #### Common challenges when managing open source integration
 
