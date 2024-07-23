@@ -156,7 +156,7 @@ A good practice can be to make use of a maturity model to better map the differe
 
 There is a wide variety of open source maturity models –for governments, NGOs, Enterprises– with versions and subversions. In this book, we briefly share two of the most common ones used for open source adoption:
 
-#### Maturity Model 1 - Open source enggement adoption by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
+#### Maturity Model 1 - Open source engagement adoption by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
 
 
 * Denial - No or unconscious use of open source
