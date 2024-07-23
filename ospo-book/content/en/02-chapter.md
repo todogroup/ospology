@@ -47,7 +47,7 @@ But how exactly can an OSPO enable cross-functional collaboration? Why and how d
 
 ### OSPO value perception
 
-In both sections, the emphasis is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. More and more organizations are integrating open source into their regular structures and functions and there is an open question related to whether the OSPO would become an intermediate step to achieve this.
+The emphasis in this section is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. More and more organizations are integrating open source into their regular structures and functions and there is an open question related to whether the OSPO would become an intermediate step to achieve this.
 
 The answer depends on how you view the OSPO. Beyond the multiple structures the term "OSPO" can imply, it is fundamentally about its people. If we consider the OSPO as a group of open source subject matter experts providing support, knowledge, and management for this integration, this talent must be not only maintained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
 
