@@ -164,6 +164,9 @@ There is a wide variety of open source maturity models –for governments, NGOs,
 * Participation - Engagement with open source communities
 * Contribution - Pragmatic contributions to open source projects
 * Leadership - Strategic involvement with open source to drive business value
+* Participation - Engagement with open source communities
+* Contribution - Pragmatic contributions to open source projects
+* Leadership - Strategic involvement with open source to drive business value
 
 ![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
 
