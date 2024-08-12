@@ -43,7 +43,7 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 - **Coordinate with Various Parts of the Organization:** Map interactions with teams based on the OSPO flower diagram,
   distinguishing between technical questions (engineering) and non-technical questions (business, design team).
 
-- **Advise on open source consumpiton** define a set of advices about how the company should select what open source is
+- **Advise on open source consumption** define a set of advices about how the company should select what open source is
   consumed and how the consumption is made. Advices can be purely technical or considerations based on open source
   project health and practices, like the
   [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
