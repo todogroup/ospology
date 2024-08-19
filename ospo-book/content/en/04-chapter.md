@@ -22,7 +22,7 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
   compliance, selecting open source software, and interactions with vendors. It also includes engaging with the
   community and partners, securing sponsorships, and organizing open source events.
   
-- **Automation tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management and tracking of open source components.  Automation is useful in many areas of open source including licence compliance, and security.
+- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management and tracking of open source components.  Automation is useful in many areas of open source including licence compliance, and security.
 
 - **Documentation, Training, and Education:** An OSPO can play a leading role in ensuring that individuals are qualified to assess open source projects for use in the organization. Developing training materials and documentation and/or aiding teams to produce these across different departments are key
   tasks.
@@ -35,13 +35,13 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 
 - **Measuring Technical Debt:** Providing knowledge on how to measure the technical debt on an open source project helps to determine the risks associated with the project and, when done in collaboration with the project community, is a form of educational advocacy to help projects improve and sustain themselves.
 
-- **Coordinate with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram (Chapter 3) for help mapping interactions.
+- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram (Chapter 3) for help mapping interactions.
 
-- **Give Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
+- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
 
 ## Assessing Daily Operations using the OSPO MindMap
 
-### Getting started with OSPO MindMap
+### Getting Started with OSPO MindMap
 
 To get an overview of the potential activities of an OSPO we offer you the OSPO Mind Map. The OSPO Mind Map outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
 
