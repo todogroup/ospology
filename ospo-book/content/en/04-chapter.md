@@ -9,7 +9,7 @@ weight: 60
   - [Assessing Daily Operations using the OSPO MindMap](#assessing-daily-operations-using-the-ospo-mindmap) - `✅ Assessment`
     - [Getting started with OSPO MindMap](#getting-started-with-ospo-mindmap)
     - [OSPO MindMap Limitations](#ospo-mindmap-limitations)
-  - [Recommendations](#recommendations)
+  - [Recommendations](#recommendations) - `💡 Recommendations`
     - [Scenario #10](#scenario-10)
     - [Scenario #11](#scenario-11)
   - [Resources (TBD)](#resources-tbd) - `📚 Continue Here`
