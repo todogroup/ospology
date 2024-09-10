@@ -43,7 +43,7 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 
 ### Getting Started with OSPO MindMap
 
-To get an overview of the potential activities of an OSPO we offer you the OSPO Mind Map. The OSPO Mind Map outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
+To get an overview of the potential activities of an OSPO we offer you the [OSPO Mind Map](https://todogroup.org/resources/mindmap/). The OSPO Mind Map outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
 
 ### OSPO MindMap Limitations
 
