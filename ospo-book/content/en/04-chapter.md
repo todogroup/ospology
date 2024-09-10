@@ -12,7 +12,7 @@ weight: 60
   - [Recommendations](#recommendations)
     - [Scenario #10](#scenario-10)
     - [Scenario #11](#scenario-11)
-  - [Resources (TBD)](#resources-tbd)
+  - [Resources (TBD)](#resources-tbd) - `📚 Continue Here`
 
 # Introduction
 
