@@ -59,12 +59,12 @@ The structure used in this book to represent these areas is shaped as a flower d
 
 #### Creating and Implementing an Open Source Strategy
 
-> If an organization's primary objective is profitability, customer satisfaction becomes a linchpin in the corporate strategy – a focal point for both CEOs and CFOs. For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open-source realm that can propel the organization toward its strategic objectives
+> If an organization's primary objective is profitability, customer satisfaction becomes a linchpin in the corporate strategy – a focal point for both CEOs and CFOs. For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open source realm that can propel the organization toward its strategic objectives
 >
 > Victor Lu and Rob Moffat Presentation - [Strategy - End Game for FINOS Maturity Model](https://osr.finos.org/docs/presentations/strategy)
 
 The people behind an OSPO achieve this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement.
-The OSPO's strategy focuses on aligning the organization's open source usage (consumption) and contributions across its projects, products, services, or internal infrastructure to its overall organization objectives.
+The OSPO's strategy focuses on aligning the organization's open source usage (consumption), contributions and compliance activities across its projects, products, services, or internal infrastructure to its overall organization objectives.
 
 A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it. A good practice is to [document this strategy in an open source strategy document](https://todogroup.org/resources/guides/setting-an-open-source-strategy/).
 
@@ -115,7 +115,7 @@ It's important for readers to recognize the distinction between measuring an org
 
 Regarding the organization's engagement, there are already various models available that help assess the maturity of open source involvement. Examples include Ibrahim's Enterprise Open Source Involvement Stages and the FINOS' [Open Source Maturity Model](https://www.finos.org/blog/open-source-maturity-model-launch). To simplify this topic for this book, these models can be summarized into four main stages:
 
-* Software usage (also called consumption)
+* Open source usage (also called consumption)
 * Community participation
 * Community contribution
 * Leadership
@@ -125,7 +125,7 @@ It helps identify the specific areas where they need to concentrate their effort
 
 
 ### Simple checklist
-[This checklist](https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md) offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+[The TODO OSPO checklist](https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md) offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
 
 #### Pre-stages
 
@@ -133,6 +133,7 @@ It helps identify the specific areas where they need to concentrate their effort
 - [ ] Define program branding (e.g., OSPO, open source initiative, head of open source operations).
 - [ ] Define structure, budget and necessary cross-functional staff to get started
 - [ ] Define an action plan for the upcoming years
+- [ ] Define communication plan about OSPO activities to the organisation
 
 #### Stage 1
 
@@ -143,11 +144,11 @@ It helps identify the specific areas where they need to concentrate their effort
 
 #### Stage 2
 
+- [ ] Define compliance process for contributions and interactions with open source communities 
 - [ ] Lay out best practices in interacting with OSS projects such as how to request features, file bug reports, and contribute basic code.
-- [ ] Communicate to workers, policymakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical OSS projects).
-- [ ] Incentivize developers and non-developers (lawyers, project managers, etc) to participate on open source projects critical to their operations (contributing code, field expertise, etc), to the degree that workers become highly active contributors.
+- [ ] Communicate to workers, policymakers and other open source stakeholders the importance of contributing to and not merely consuming (also called usage) to open source (including advocating for and driving event sponsorships, booking project leads and maintainers as speakers or panelists in public coding forums, and securing organizational resources to mission-critical open source projects).
+- [ ] Incentivize developers and non-developers (lawyers, project managers, technical writers, etc) to participate in open source projects critical to their operations (contributing code, field expertise, documentation, etc), to the degree that workers become highly active contributors.
 - [ ] Contributions are focused to a narrow business critical set of functionalities in open source projects, and they are sponsored by the organisation (contributions are not a hobby project of individual employees)
-
 
 #### Stage 3
 

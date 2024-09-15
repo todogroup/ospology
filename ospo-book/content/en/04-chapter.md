@@ -1,5 +1,5 @@
 ---
-title: "4 - Day-to-Day Operations"
+title: "Day-to-Day Operations"
 status: Completed
 weight: 60
 ---
@@ -22,20 +22,19 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
   compliance, selecting open source software, and interactions with vendors. It also includes engaging with the
   community and partners, securing sponsorships, and organizing open source events.
   
-- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management and tracking of open source components.  Automation is useful in many areas of open source including licence compliance, and security.
+- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management and tracking of open source components. Automation is useful in many areas of open source including licence compliance, and security.
 
-- **Documentation, Training, and Education:** An OSPO can play a leading role in ensuring that individuals are qualified to assess open source projects for use in the organization. Developing training materials and documentation and/or aiding teams to produce these across different departments are key
-  tasks.
+- **Documentation, Training, and Education:** An OSPO can play a leading role in ensuring that individuals are qualified to assess open source projects for use in the organization and contributte to critical open source projects for the organization. Developing training materials and documentation and/or aiding teams to produce these across different departments are key tasks.
 
 - **Resource Allocation:** There can be a lot of areas that an OSPO can offer value to an organization. Therefore, prioritizing work and allocating resources strategically and tactically is an important activity that will improve the OSPO's impact. 
 
-- **Risk Management:** OSPOs are well-placed to take a holistic view on the risk that the organization faces when using open source projects. It is useful for the OSPO to assess the risks by obtaining a comprehensive view of the organization's tech stack. This may include generating SBOMs which allow the OSPO to  consider the risks in software from vendors, legacy software, and proprietary software as well as in open source. This is more about a business assessment perspective rather than just data gathering, as risk can only be managed, not eliminated. Optimizing SBOMs is about balancing risks against benefits.  
+- **Risk Management:** OSPOs are well-placed to take a holistic view on the risk that the organization faces when using open source projects. It is useful for the OSPO to assess the risks by obtaining a comprehensive view of the organization's tech stack. This may include generating SBOMs which allow the OSPO to consider the risks in software from vendors, legacy software, and proprietary software as well as in open source. This is more about a business assessment perspective rather than just data gathering, as risk can only be managed, not eliminated. Optimizing SBOMs is about balancing risks against benefits.  
 
 - **Sponsoring Open Source Communities and Foundations:** Your organization depends on open source. The projects in open source are only as healthy as their communities, and you can invest your time and money in supporting communities either directly or through Foundations. These relationships need to be understood and managed with care to achieve outcomes that will benefit the projects and your organization. Sometimes money is not the best fix for a problem, and fostering a closer partnership and providing development, marketing, or programmatic support is more useful. 
 
 - **Measuring Technical Debt:** Providing knowledge on how to measure the technical debt on an open source project helps to determine the risks associated with the project and, when done in collaboration with the project community, is a form of educational advocacy to help projects improve and sustain themselves.
 
-- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram (Chapter 3) for help mapping interactions.
+- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the [OSPO flower diagram in Chapter 3](../03-chapter/#the-ospo-flower-diagram) for help mapping interactions.
 
 - **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
 
@@ -94,13 +93,13 @@ The contributors to this book have identified challenges in implementing the min
 
 ### Scenario #10
 
-Social Engineering Attack on Upstream xz/liblzma: A [social engineering attack targeted the xz/liblzma](https://research.swtch.com/xz-timeline), an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for Open Source Program Offices (OSPOs) lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+Social Engineering Attack on Upstream xz/liblzma: A [social engineering attack targeted the xz/liblzma](https://research.swtch.com/xz-timeline), an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
 
 > Recommendation
 >
-> 1. SBOMs Compliance Ready: Ensure that all software components are documented through Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
+> 1. SBOMs Compliance Ready: Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
 > 
-> 2. Automation Security Checks: Implement automated security checks, such as the OpenSSF Security Scorecard, to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
+> 2. Automation Security Checks: Implement automated security checks, such as the [OpenSSF Scorecard](https://scorecard.dev/), to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
 > 
 > 3. Having a Computer Emergency Response Team (CERT) within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
 > 
@@ -114,7 +113,7 @@ Licence changes on an Open Source project. OSPOs face the challenge of navigatin
 
 > Recommendation
 >
-> 1. Educational Initiatives on License Implications: Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open-source projects.
+> 1. Educational Initiatives on License Implications: Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open source projects.
 >
 > 2. Explicit License Terms: Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
 > 
