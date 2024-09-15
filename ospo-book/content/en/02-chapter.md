@@ -1,5 +1,5 @@
 ---
-title: "2 - The Value of Open Source Program Offices"
+title: "The Value of Open Source Program Offices"
 status: Completed
 weight: 40
 ---
@@ -20,17 +20,17 @@ Organizations of various types – including end-user companies, software vendor
 
 ### Supply Chain and Open Source
 
-Sometimes, organizational stakeholders may assume that their product isn't using any open source projects because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This affects the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
+Sometimes, organizational stakeholders may assume that their product isn't using any open source components because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This affects the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
 
 #### Common challenges when managing open source integration
 
 Organizations may encounter issues when managing open source components that are integrated into their technology infrastructure. If these issues are ignored or neglected, they can lead to mid-term and long-term innovation bottlenecks and security vulnerabilities. It’s important to understand the unique factors that make open source different.
 
-- **Vulnerability management can be hard:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
+- **Vulnerability management can be hard:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization and to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
 
 - **It can take a lot of work to understand the complexity of the open source supply chain:** The open source landscape is large and decentralized, and it can be hard to identify who the contributors to individual projects are and to perform risk assessments on the identified projects. These factors can make it challenging for organizations to accurately assess risks and to comprehend the security and quality standards of the software, hardware, data, etc.
 
-- **There can be a tension between the need to ship product features and the need to contribute back to open source:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products mean that open source contributions may take a back seat when things get busy.
+- **There can be a tension between the need to ship product features and the need to contribute back to open source:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products mean that open source contributions may take a back seat when things get busy. Even it is known that contributing features and bugfixes to upstream is less effort on long term than to maintain a fork of the project oprganisations often optimize for short term benefits and do not spend the extra effort to upstream the changes.
 
 - **It takes time and planning to collaborate effectively with the community and industry:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities ([see Log4Shell real vulnerability example](https://en.wikipedia.org/wiki/Log4Shell)). It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organization strategy and provides value to the open source projects is a good way to be a helpful community member. 
 
@@ -61,13 +61,13 @@ _[Source: OSPOs, key lever for open source sustainability](https://speakerdeck.c
 
 ### Reasons and Value of Investing in a Resilient OSPO
 
-In a world governed by software, open source projects offer solutions to the mission-critical problems organizations wish to address, whether social-economic (governments, NGOs) or technological (companies). Integrating open source into an organization's infrastructure and operations encompasses various objectives, such as risk management, innovation, and the sustainability of the open source communities they rely on. To achieve effective integration, organizations need the right staff to operate and the necessary talent to manage such operations. This is where the mission of an OSPO (Open Source Program Office) comes into play. Go to “tips on how to get started with an OSPO” sub-section to see some practical advice on when starting to staff an OSPO.
+In a world governed by software, open source projects offer solutions to the mission-critical problems organizations wish to address, whether social-economic (governments, NGOs) or technological (companies). Integrating open source into an organization's infrastructure and operations encompasses various objectives, such as risk management, innovation, and the sustainability of the open source communities they rely on. To achieve effective integration, organizations need the right staff to operate and the necessary talent to manage such operations. This is where the mission of an OSPO comes into play. Go to “[tips on how to get started with an OSPO](#tips-on-how-to-get-started-with-an-ospo)” sub-section to see some practical advice on when starting to staff an OSPO.
 
 On the other hand, stopping the work of an OSPO could have significant negative impacts on those organizations that use open source (directly or indirectly) at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
 
 > 💡 _Open Source is a silent critical need_
 
-An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open-source software, as well as improving the sustainability of open-source projects.
+An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open source software, as well as improving the sustainability of open source projects.
 
 The different roles and pillars of support of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
 
@@ -90,14 +90,11 @@ The [business value of the OSPO report](https://www.linuxfoundation.org/research
 
 - Building standardized processes around open source
 - Learning how to approach the open source community
-- Embracing the Sustainability of open source Projects
+- Embracing the Sustainability of open source projects
 - Managing compliance
 - Expanding access to open knowledge
 - Improving development velocity
 - Mitigating security risks
-
-
-
 
 ### Interlude
 
@@ -138,7 +135,7 @@ Organizations may underestimate how much they already depend on the usage (also 
 Assess this value for your own organization by taking steps such as:
 
 - Collect information about open source software used by your development and operations teams
-- Get clarity about composition of commercial software you buy or services you use, ask vendors for what open source software they use, e.g. by requesting Software Bill of Materials (SBOMs)
+- Get clarity about the software composition of commercial software you buy or services you use, ask vendors for what open source software they use, e.g. by requesting Software Bill of Materials (SBOMs)
 - Assess value by evaluating what costs would occur by using alternative proprietary solutions and components
 - Take factors such as speed of innovation or engineering agility into account
 
@@ -164,17 +161,20 @@ There is a wide variety of open source maturity models –for governments, NGOs,
 * Participation - Engagement with open source communities
 * Contribution - Pragmatic contributions to open source projects
 * Leadership - Strategic involvement with open source to drive business value
-* Participation - Engagement with open source communities
-* Contribution - Pragmatic contributions to open source projects
-* Leadership - Strategic involvement with open source to drive business value
 
 ![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
 
 #### Maturity Model 2 - Five stages or corporate open source adoption talk by [Carl-Eric](https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/)
 
+* Accidental - open source is used by the organisation without knowing that it is used
+* Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
+* Directed - active participation incritical open source projects
+* Collaborate - open source collaboration is used as a tool to create business value
+* Prevail - open source is used to influence strategic areas of the business and technology
+
 ![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
 
-## How do you identify  and categorize the benefits of open source activities for your organization?
+## How do you identify and categorize the benefits of open source activities for your organization?
 
 Once you have a certain familiarity with open source adoption models, the next natural question to ask is _What are the benefits of open source activities for the organization?_
 

@@ -25,31 +25,33 @@ reach their full potential.
 ### Segments Definition & Diagram
 
 * `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises,
-that are primarily focused on creating business value through the use of open source software.
+  that are primarily focused on creating business value through the use of open source software.
 
   * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
 
 * `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities
-or schools, that are focused on using open source to support teaching, research, and learning
-activities.
+  or schools, that are focused on using open source to support teaching, research, and learning
+  activities.
 
   * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
 
-* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are likely to collaborate
-with `educational-oriented` types.
+* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are
+  likely to collaborate with `educational-oriented` types.
 
   * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
 
 * `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are
-focused on using open source to achieve social or public policy objectives (e.g serving
-citizens).
+  focused on using open source to achieve social or public policy objectives (e.g serving
+  citizens).
 
-  * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
+  * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security /
+    Transparency
 
-* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated
-to use open source to create positive social change.
+* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or
+  foundations that are dedicated to use open source to create positive social change.
 
-  * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
+  * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid /
+    Environmental Protection / Sustainable Development
 
 ![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
 
