@@ -10,6 +10,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Alin Jerpelea
 * Ana Jiménez Santamaría
 * Annania Melaku
+* Alice Sowerby
 * Carlos Maltzhan
 * Chris Aniszczyk
 * Chris Xie
@@ -20,6 +21,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Gil Yehuda
 * Hiro Fukuchi
 * Ildiko Vancsa
+* Jan van den Berg
 * Jiri Marek
 * Jonas van den Bogaard
 * Kate Stewart
