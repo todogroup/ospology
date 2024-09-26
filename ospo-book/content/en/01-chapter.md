@@ -17,7 +17,7 @@ Creating an Open Source Program Office (OSPO) can accelerate an organization's o
 In this book, we will guide organizations through the process of creating and implementing an OSPO. The book provides:
 
 * Practical advice and best practices on how to streamline open source operations
-* Recommendations to ensure that organizations can maximize the benefits of open source while being good open source citizens.
+* Recommendations to ensure that organizations can maximize the benefits of open source while being good open source citizens and follow related regulations.
 
 The book is structured in a user-friendly and practical manner, with a focus on providing actionable advice and steps that organizations can take to create and implement an OSPO. The book will cover a range of topics, including:
 
@@ -38,7 +38,7 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 [WHO] OSPOs are composed of people (open source specialists) wearing different hats:
 
-* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/units, establishing new processes and workflows, and adopting new tools and technologies.
 
 * Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
 
@@ -80,7 +80,7 @@ Below, people will find a checklist to assess and better understand their possib
 
 Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes.
 
-* **☑️ Open Source Software (or open works) Usage:** Evaluate the level of open source software usage within your organization. Are there any specific open source projects that are widely used? Are there any projects that are critical to the organization's operations?
+* **☑️ Open Source Software Usage:** Evaluate the level of open source software usage within your organization. Are there any specific open source projects that are widely used? Are there any projects that are critical to the organization's operations?
 
 * **☑️ Knowledge and Understanding of Open Source:** Evaluate the level of knowledge and understanding of open source within your organization. Are the different actors that will be or are currently involved in open source familiar with open source licensing models and requirements? Do they understand the benefits and risks of using open source software?
 
@@ -94,7 +94,7 @@ Assessing open source adoption is critical because it sets the foundation for su
 
   * How would you define 'open source'?
   * What does 'open source' mean for you and your organization?
-  * How much open-source software is already being used in the organization?
+  * How much open source software is already being used in the organization?
   * How would you define the 'open source culture' within your organization?
   * What are the organization's goals and objectives for using open source?
   * How is open source software currently being used (usage) within the organization?
