@@ -14,7 +14,7 @@ Knowing little to nothing about important open source projects is no longer a vi
 
 ## Measuring and Communicating Impact
 
-Beyond helping understand one open source project or a collection of projects, metrics can also play an important role in communicating impact. Finding consistent and meaningful ways to communicate impact is important for any organization unit, including open source program offices. Following the goal-question-metric approach used in the CHAOSS project, we present four goals that open source program offices can consider, alongside associated questions that can provide insight to the associated goals. Stemming from these goals and questions, we recommend a series of metric-related guides to provide specific recommendations within an organization.
+Beyond helping understand one open source project or a collection of projects, metrics can also play an important role in communicating impact. Finding consistent and meaningful ways to communicate impact is important for any organization unit, including open source program offices. Following the goal-question-metric approach used in the CHAOSS project, we present four goals that open source program offices can consider, alongside associated questions that can provide insight to the associated goals. Stemming from these goals and questions, we recommend a series of metric-related CHAOSS [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to provide specific recommendations within an organization.
 
 Open source projects bring together companies with diverse skill sets and backgrounds, collaborating and sharing experiences to drive technological innovation, cultivate new talents, and improve overall development skills and competitiveness. Through open source projects, companies can directly engage with users, understand their needs, and update and refine products in a timely manner. Active and influential open source projects can also attract potential users and increase product exposure and market share. Additionally, users can become part of the development community, participating in product development and testing, promoting mutual communication and collaboration. 
 
@@ -24,7 +24,7 @@ Open source projects provide a platform for companies to communicate and share t
 
 Beyond helping understand one open source project or a collection of projects, metrics can also play an important role in communicating impact. Finding consistent and meaningful ways to communicate impact is important for any organization unit, including open source program offices. Following approaches used in the CHAOSS project, we present four goals that open source program offices can consider concerning open source project engagement. Stemming from these goals, we recommend a series of metric-related considerations that could prove pertinent to specific organizational concerns. 
 
-![Communicating Impact Image]()
+![Communicating Impact Image](https://github.com/todogroup/ospology/blob/main/ospo-book/static/images/CHAOSS.Health.Impacts.png)
    
 #### Goal 1: Partner Impact
 
@@ -35,15 +35,7 @@ Open source project work is premised on collaboration, a collaboration that ofte
 * How are other companies involved in our pull requests?
 * What is the composition of involved companies as our vendors, rivals, and customers? 
 
-#### Goal 2: Ecosystem Impact
-
-Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required. Key questions to consider regarding ecosystem impact include: 
-
-* What percentage of our suppliers provide open source software bills of material?
-* What is the long-term viability of the open source projects we rely on?
-* What is the risk to the ecosystem if an open source project becomes unviable?
-
-#### Goal 3: Community Impact
+#### Goal 2: Community Impact
 
 There are ways that an organization can support community engagement by employees (e.g., contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization -- including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community. Key questions to consider regarding community impact include: 
 
@@ -51,7 +43,15 @@ There are ways that an organization can support community engagement by employee
 * What percentage of employee issues are closed without conversation?
 * How many of our employees have maintainer or leadership roles in key open source projects?
 * Have upstream contributions helped modernize tech skills for employees?
-* Which projects do our employees make over 50% of the contributions? 
+* Which projects do our employees make over 50% of the contributions?
+
+#### Goal 3: Ecosystem Impact
+
+Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required. Key questions to consider regarding ecosystem impact include: 
+
+* What percentage of our suppliers provide open source software bills of material?
+* What is the long-term viability of the open source projects we rely on?
+* What is the risk to the ecosystem if an open source project becomes unviable?
 
 #### Goal 4: Organizational Impact
 
@@ -65,7 +65,7 @@ Engagement with open source communities includes working in the upstream to effe
 
 ## A Case of Organizational Impact: Open Source Use and Intake
 
-Measurement of open source projects helps your OSPO go beyond just communicating impact by taking steps to improve projects in ways that reduce your risk and make their use even more impactful for your organization. As part of an OSPO’s open source strategy, you can consider improvements that will allow you to show even greater impact for your efforts in future years. These improvements can be in open source projects that stem from within your organization and in the important upstream projects where your employees contribute. The CHAOSS project has a series of Practitioner Guides that can help you address the prior goals and questions and demonstrate impact by increasing contributor sustainability, improving responsiveness, and expanding organization participation. 
+Measurement of open source projects helps your OSPO go beyond just communicating impact by taking steps to improve projects in ways that reduce your risk and make their use even more impactful for your organization. As part of an OSPO’s open source strategy, you can consider improvements that will allow you to show even greater impact for your efforts in future years. These improvements can be in open source projects that stem from within your organization and in the important upstream projects where your employees contribute. The CHAOSS project has a series of [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) that can help you address the prior goals and questions and demonstrate impact by increasing contributor sustainability, improving responsiveness, and expanding organization participation. 
 
 As an example of organizational impact, Linåker et al. (2024) conducted a study that explored how open source intake processes could be constructed to accommodate considerations of open source project health-related measures. Analyzing the health of open source projects is a critical practice for organizations to ensure the robustness and reliability of their software systems, both when considering the intake of new open source components, and in monitoring existing dependencies already integrated and deployed in production. If the level of upstream open source project health is insufficient, an alternative sourcing decision needs to be considered (e.g., adopt another open source solution or build something from scratch), or if possible and strategically motivated, contribute and engage in the concerned open source project to improve its health.
 
@@ -91,6 +91,8 @@ Continuous training and follow-ups are critical to implementing a health assessm
 The case study of Linåker et al. (2024) presents organizations with a valuable approach for proactively identifying potential health issues of open source projects that they rely on. Findings can be used as practical guidance and complement when consulting existing sources such as the CHAOSS project and the OpenSSF scorecard project. Applying the approach Linåker et al., (2024) for diagnosing symptoms early and applying necessary treatments, organizations can mitigate risks and ensure their OSS dependencies' long-term viability and security. This proactive approach enhances the stability and reliability of software products and contributes to the overall sustainability of the open source ecosystem.
 
 ## Resources
+CHAOSS Practitioner Guides. Available at: https://chaoss.community/about-chaoss-practitioner-guides/
+
 Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.
 
 Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI: https://doi.org/10.1145/3555051.3555067
