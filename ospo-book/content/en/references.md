@@ -17,16 +17,16 @@ This section will provide organizations with a comprehensive list of the existin
 
 ## Adding resources: Required format
 
-* Changes to this file is done via PR (read the CONTIRBUTING.md from this project to learn more)
+* Changes to this file is done via PR (read the [CONTRIBUTING.md](../../CONTRIBUTING.md) from this project to learn more)
 * Add your link in the following section `resources list` with a title and exact chapter (if any) where this resource is referenced. (check content/ folder to learn more)
 
 ## Resources list (WIP)
 
 | Source | Title and Link |
 |--------|----------------|
-| Guide | [Concise Guide for Evaluating Open Source Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
-| Guide | [Concise Guide for Developing More Secure Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
-| Guide | [Guide to implementing a coordinated vulnerability disclosure process for open source projects](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme)
+| Guide | [Concise Guide for Evaluating Open Source Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
+| Guide | [Concise Guide for Developing More Secure Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
+| Guide | [Guide to implementing a coordinated vulnerability disclosure process for open source projects](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme)
 | Guide | [How to Create an Open Source Program](https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/)
 | Guide | [Measuring Your Open Source Program](https://todogroup.org/resources/guides/measuring-your-open-source-programs-success/)
 | Guide | [Tools for Managing Your Open Source Program](https://todogroup.org/resources/guides/tools-for-managing-open-source-programs/)
@@ -70,11 +70,11 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | [The Evolution of the Open Source Program Office (OSPO)](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo)
 | Case Study | [Autodesk OSPO](https://todogroup.org/resources/case-studies/autodesk/)
 | Case Study | [Capital One - OSPO in regulated environments](https://todogroup.org/resources/case-studies/capitalone/)
-| Case Study | [Porsche - OSPOs in Automotiv](https://todogroup.org/resources/case-studies/porsche/)
+| Case Study | [Porsche - OSPOs in Automotive](https://todogroup.org/resources/case-studies/porsche/)
 | Case Study | [Comcast](https://todogroup.org/resources/case-studies/comcast/)
 | Case Study | [Dropbox](https://todogroup.org/resources/case-studies/dropbox/)
 | Case Study | [Meta](https://todogroup.org/resources/case-studies/facebook/)
-| Case Study | [Microsof](https://todogroup.org/resources/case-studies/microsoft/)
+| Case Study | [Microsoft](https://todogroup.org/resources/case-studies/microsoft/)
 | Case Study | [National Instruments](https://todogroup.org/resources/case-studies/ni/)
 | Case Study | [Porsche](https://todogroup.org/resources/case-studies/porsche/)
 | Case Study | [Red Hat](https://todogroup.org/resources/case-studies/redhat/)
@@ -89,7 +89,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Article | [The Dutch OSPO](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/dutch-digitalisation-minister-announces-ospo-creation)
 | Article | [The OSPO – A New Tool for Digital Government](https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/)
 | Standard | [Standard for Public Code](https://standard.publiccode.net/)
-| Specification | [OpenChain Security Assurance Specification](https://www.openchainproject.org/security-assurance)
+| Specification | [OpenChain Security Assurance Specification](https://www.openchainproject.org/security-assurance)
 | Specification | [OpenChain ISO/IEC 5230:2020](https://www.openchainproject.org/license-compliance)
 | Book | [The Open Source Way 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 | Book | [VM (Vicky) Brasseur: Forge Your Future with Open Source](https://www.oreilly.com/library/view/forge-your-future/9781680506389/f_0000.xhtml)

@@ -26,7 +26,7 @@ Content contributors are expected to:
 
 * Review Chapter PRs for accurate information within a specific topic
 * Review issues and provide feedback and guide them when needed
-* Attend Contributors's calls at least two times per year (invites are sent via [OSPO Book Mailing List](https://lists.todogroup.org/g/ospo-book-project))
+* Attend Contributors's calls at least two times per year (invites are sent via [OSPO Book Mailing List](https://lists.todogroup.org/g/WG-ospo-book-project))
 
 ### 3. 👩‍⚖️ Maintainers
 
