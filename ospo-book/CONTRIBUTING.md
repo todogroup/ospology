@@ -1,6 +1,6 @@
 ## Contributing to this Guide
 
-We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please [sign up for our mailing list](https://lists.todogroup.org/g/ospo-book-project)and share your feedback there.
+We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please [sign up for our mailing list](https://lists.todogroup.org/g/WG-ospo-book-project) and share your feedback there.
 
 ### 🐣 Newcomers 
 
@@ -10,7 +10,7 @@ Below is a list of resources that will help you become familiar with the process
 - **[Chapters](./chapters)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
 - **[Docs](./docs)** includes the questions for interviews, aspirational roadmap for this year and a release checklist
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
+If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/WG-ospo-book-project) . The introduction can include a brief bio, your location, and how you would like to contribute to the project.
 
 ### 💚 Making Submissions
 

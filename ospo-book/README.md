@@ -46,13 +46,13 @@ Below is a list of resources that will help you become familiar with the process
 - **[Chapters](chapters)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
 - **[Docs](docs)** includes the questions for interviews, aspirational roadmap for this year and a release checklist
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
+If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/WG-ospo-book-project). The introduction can include a brief bio, your location, and how you would like to contribute to the project.
 
 Content Contributors can help on multiple chapters or focus on one only. All these contributions are equally important and help foster a thriving community. The titles of each chapter are a rough draft to get started. The community refines and improves them through the OSPO Book Mailing list discussions, PR reviews and contributor's calls conversations.
 
 ## 💬 Communication Channels
 
-* Mailing List with interested contributors: [Join ospo-book-project](https://lists.todogroup.org/g/ospo-book-project)
+* Mailing List with interested contributors: [Join ospo-book-project](https://lists.todogroup.org/g/WG-ospo-book-project)
 * One monthly sync call ( AMER/ EMEA and APAC/EMEA-friendly timezone) with agenda to follow up: Sent via mailing list
 
 ## 💚 Community Needs
