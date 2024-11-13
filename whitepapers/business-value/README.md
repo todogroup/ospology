@@ -11,6 +11,9 @@
 While the engineering-driven approach to open source is well-covered,a business-driven approach is less discussed but crucial for organizations to understand how open source can drive both innovation and financial value.
 This initiative was initiated as part of the TODO Group’s Touchpoint calls to create a guide to address the gap in knowledge and strategic guidance around open source adoption from a business-driven perspective.
 
+<img width="858" alt="image4" src="https://github.com/user-attachments/assets/ad063fa7-ad6f-4d64-a1b8-ce4f39c13b8e">
+
+
 Full proposal can be found [here](https://github.com/todogroup/ospology/discussions/481).
 Apporved proposal and rationale can be found [here](https://github.com/todogroup/governance/blob/main/resolutions/approved/2024-08-05.md)
 
@@ -31,21 +34,21 @@ Magnus presentation at FOSSNorth |   | How to properly budget or allocate resou
 Mozilla archetypes and Heather Meeker’s frameworks |   |   |   |   |  
 
 > To learn more about outline updates please visit the dedicated GH Discussions repo [here](https://github.com/todogroup/ospology/discussions/481)
-## What's next?
 
-Plan to move forward in the next TODO Europe Chapter Call. This is scheduled for next September, Thursday 26th from 1pm to 2pm CEST, and you are more than welcome to join and invite your peers interested to contribute to this initiative.
 
-Proposed areas to cover in this section are:
+## How can people contribute to date?
 
-- Recap on the outline that participants worked on in the past call
+We are using TODO Touchpoints to allow people to share 5-minute presentations on potential content to include. If you’d like to participate, please consider joining the upcoming touchpoint call on the last Thursday of November 28th
 
-    Glossary and Background
-    Existing frameworks and models
-    Engineering Driven vs. Business Driven Open Source
-    Misconceptions and Challenges
-    Communicating Engineering Benefits to Business Value
-    Case Studies and Success Stories
-    Future work and conclusion
+### Action Items for Next Call - Nov 28th
+
+- Define working repo Process / Roadmap / File issues by the community (Harmony)
+- Open an Issue to include a new chapter title: "Transparent manageable risks in Open Source vs. Closed Source"  (Ana)
+- Review new PRs or Issues (All)
+
+## Where to find more info
+
+If you would like to catch up on motivation, interested participants involved, past discussions, and presentations shared, please read this GH Discussion thread. The Last comment is the most updated version to date
 
 - Define workstreams/cluster of tasks and give them an order/priority. Make sure there are “owners” for each workstream
 - Discuss if further follow-ups should be done in these meetings or need to allocate specific catch up calls/official working group under TODO
