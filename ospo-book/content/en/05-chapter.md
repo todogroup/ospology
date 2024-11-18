@@ -6,7 +6,7 @@ weight: 70
 
 ## Introduction
 
-Metrics for metrics sake benefit no one. The average age of issues is 10.3 days. The total number of pull requests was 121 last month. We had 3 new companies join our community over the past 15 days. Without context, these metrics provide no insight, yet we are driven to reach for metrics to provide insight into our complex open source engagements. 
+Metrics for metrics sake benefit no one. Consider these metrics: The average age of issues is 10.3 days. The total number of pull requests was 121 last month. We had 3 new companies join our community over the past 15 days. Without context, these metrics provide no insight, yet we are driven to reach for metrics to provide insight into our complex open source engagements. 
 
 There are a number of reasons why we need insights into open source projects. an organization built from open source would like to track contributions back to key projects. an organization that participates in an open source ecosystem wants to recognize potential failures and provide stabilizing resources as needed. an organization wants to do their part to ensure the longevity of open source software, in particular, the software that is meaningful to their business. And, of course, an organization needs to remain compliant with upstream license requirements and attend to security issues that can impact the ways they work.
 
