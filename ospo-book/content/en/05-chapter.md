@@ -10,7 +10,7 @@ Metrics for metrics sake benefit no one. Consider these metrics: The average age
 
 There are a number of reasons why we need insights into open source projects. Some example reasons are: An organization built from open source would like to track contributions back to key projects. An organization that participates in an open source ecosystem wants to recognize potential failures and provide stabilizing resources as needed. An organization wants to do their part to ensure the longevity of open source software, in particular, the software that is meaningful to their business. And, of course, an organization needs to remain compliant with upstream license requirements and attend to security issues that can impact the ways they work.
 
-Knowing little to nothing about important open source projects is no longer a viable option, and open source community metrics can play an important part to gain insights into the projects we care about. In this chapter, we consider how community metrics can be placed in context and how this placement improves insight to drive better strategic decisions throughout an organization.
+In the past, it may have been possible to get away with knowing little to nothing about important open source projects. This is no longer a viable option, however, so as we get to know the open source projects we care about we can use open source community metrics to help us. In this chapter, we consider how community metrics can be placed in context and how together they improve insight to drive better strategic decisions across an organization.
 
 ## Measuring and Communicating Impact
 
