@@ -81,7 +81,7 @@ In their study, Linåker and colleagues (2024) demonstrated how their health fra
 
 The proposed process' focus on semi-automating the health assessments, where open source components at the intake stage are manually inspected using standardized checklists with automated tool support as needed. Inspections need to be lightweight yet rigorous enough to capture the concerned health aspects of importance. A lightweight documentation process is also used to persist and index analysis for future follow-up, peer-review, and training.
 
-A quantitative screening and monitoring process is additionally required for open source components already integrated and deployed. This process should idealy be automated as large amounts of dependencies commonly exist, and manual overviews and inspections are not applicable. Tooling should ideally be customized and integrated into CI/CD pipelines or run on regular occasions.
+A quantitative screening and monitoring process is additionally required for open source components already integrated and deployed. This process should ideally be automated as a large number of dependencies commonly exist, and manual overviews and inspections are not practical. Tooling should ideally be customized and integrated into CI/CD pipelines or run on regular occasions.
 
 The quantitative screening should run high-level tests on dependencies tailored based on the type of ecosystem and dependencies and flag projects, directing attention where indicators together point towards potential open source project health issues. Concerned developers or analysts then follow up with manual inspections. For the tooling, open source projects such as CHAOSS’s GrimorieLab and Augur provide initial candidates to adopt and tailor based on internal needs.
 
