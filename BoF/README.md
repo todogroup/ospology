@@ -13,11 +13,12 @@ challenges and its value in driving security, innovation, and collaboration with
 
 > If you are part of an Open Source Project or Foundation that made use of this framework and wish to be listed as adopter, please open a PR and edit this section of the README.md file
 
-# Templates
+# Resources
 
-- [Objectives Docoument]()
-- [Structure Document]()
-- [Full PDF Example]()
+- [Template](./template.md)
+- [Code Of Conduct](./conduct.md)
+- [PDF Example](./example.pdf)
+- [Brand Guidelines and Attribution](./attribution.md)
 
 # Instructions for Use
 
