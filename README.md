@@ -13,13 +13,14 @@
 
 ---
 
-## What is OSPOlogy?  
+# What is OSPOlogy?  
 
-OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.  
+OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our collective resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.
 
-## Forum  
 
-The official forum facilitates discussions on open source management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.  
+## Forum 
+
+The official forum (OSPOlogy GH Discussions) facilitates discussions on open source management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.  
 
 ## Activities and Frameworks  
 
