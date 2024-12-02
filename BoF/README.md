@@ -11,7 +11,7 @@ challenges and its value in driving security, innovation, and collaboration with
 - [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/experiences/#open-source-program-office-bof)
 - 2025 List - Coming Soon
 
-> If you are part of a Open Source Project or Foundation that made use of this framework and wish to be listed as adopter, please open a PR and edit this section of the README.md file
+> If you are part of an Open Source Project or Foundation that made use of this framework and wish to be listed as adopter, please open a PR and edit this section of the README.md file
 
 # Templates
 
@@ -21,7 +21,7 @@ challenges and its value in driving security, innovation, and collaboration with
 
 # Instructions for Use
 
-OSPOlogy BoF framework is designed to help any conference organizers implement a structured discussion session focused on open source management.
+OSPOlogy BoF framework is designed to help any conference organizers implement a semi-structured discussion session under an integrated, consistent, Linux Foundation brand (OSPOlogy) focused on open source management.
 Conference Organizers are welcome to use the OSPOlogy BoF template and adapt this framework to their specific needs, provided proper attribution is given under the CC BY 4.0 license.
 
 Please credit the original creators by linking to the official repository: https://github.com/todogroup/ospology/.
