@@ -3,85 +3,62 @@
 [![Newsletter](https://badgen.net/badge/OSPONews/Newsletter/green)](https://todogroup.org/community/osponews/)
 [![OSPOlogy](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
 
-# 📖 OSPOlogy: The Study of OSPOs
+# 📖 OSPOlogy - The Study of Open Source Management  
 
-✨ **`OSPOlogy` hosts the study and open community communication to discuss the status of open source program offices across regions.**
+✨ **`OSPOlogy` is a platform for the study and open community dialogue about the state of open source management within organizations across various sectors.**  
 
-- 💚 [Our Mission](#our-mission)
-- 🦺 [Community](#community)
-- 🕵️‍♀️ [Popular Artifacts](#popular-artifacts)
+- 💚 [What is OSPOlogy](#what-is-ospology)  
+- 🦺 [Activities and Frameworks](#activities-and-frameworks)  
+- 🕵️‍♀️ [Resources](#resources)  
 
-## Our Mission
+---
 
-OSPOlogy is an initiative initiated by [TODO Group](https://todogroup.org/). The [TODO Group](https://todogroup.org) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community participants](https://todogroup.org/community), [General Members](https://todogroup.org/members) and OSPO Associates. Please note that community calls are done under OSPOlogy branding and content is stored in this repo.
+## What is OSPOlogy?  
 
-> Note: If you are supporting TODO as General Member, please visit the [General Member Onboarding guide](https://github.com/todogroup/governance/blob/main/onboarding/general-member.md#general-member-onboarding) to also join General Member Touchpoint calls.
+OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.  
 
-## Community
+## Forum  
 
-TODO has a community page with an onboarding list that shares the networking spaces and communication channels: https://todogroup.org/community. To participate in OSPO related discussions you can [submit questions](https://github.com/todogruop/ospology/discussions) or join the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew). 
+The official forum facilitates discussions on open source management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.  
 
-### 🔭 OSPOlogy Webinars and Group Discussions
+## Activities and Frameworks  
 
-The global and public monthly TODO Group and wider OSPO community's meetings. These meetings have featured OSPO-related topics with special guests and community discussions. All these meetings are recorded, edited, and recorder on [Youtube OSPOlogy Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA), so everyone across the globe can have access to it via: https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions.
+### Virtual  
 
-Everyone is welcome to attend the monthly TODO Group [OSPOlogy community meeting](https://community.linuxfoundation.org/todo-group/) hosted by the [Linux Foundation](https://linuxfoundation.org).
+#### 🔭 OSPOlogy Webinars (Archived)  
 
-### 🗺 Regional OSPOlogy Sync Call
+These webinars cover OSPO-related topics with special guests and community discussions. All sessions are recorded, edited, and available on the [OSPOlogy YouTube Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA). Explore the event page and past sessions here: [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions).  
 
-Location-based meetings with a slightly different structure than Global OSPOlogy Webinars. The community adds topics of matter into an agenda and we have discussions the entire hour. We currently have Europe Sync calls available in the community page calendar: https://todogroup.org/community/meetings/
+#### 🗺 OSPOlogy TODO Touchpoints  
 
+Regional meetings (AMER, EMEA, APAC) provide open agendas and office hours for collaboration. Meeting schedules are available on the [community calendar](https://todogroup.org/community/meetings/).  
 
-### ⭐️ OSPOlogyLive Mini-Summits
+### In-person  
 
-Ongoing in-person mini-summits co-organized by various communities involved in OSPO-specific topics. The aim is that people can talk openly about their organization's open source challenges and work together on shared solutions. 
+#### ⭐️ OSPOlogy *Live* and OSPOlogy Local Meetups  
 
-This initiative aims to bring together the various communities involved in OSPO-specific topics to help organizations effectively implement OSPO Programs based on specific region needs.
-
-Existing OSPOlogy Live worldwide: https://todogroup.org/community/events/
-
-> If you are interested in organizing a OSPOlogy Live in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location, agenda draft and topic outline idea.
-
-### 🙋‍♀️ OSPO Local Meetups:
-
-Framework for in-person OSPO local meetups. TODO Local Meetups aim to provide a forum for like-minded professionals to share knowledge and experience on OSPOs and Open Source Management within specific regions.
-
-Existing OSPO Local Meetups worldwide:
-
-* [China](https://community.linuxfoundation.org/ospo-local-meetup-china-zh-cn-speaking/)
-* [Helsinki](https://community.linuxfoundation.org/ospo-local-meetup-helsinki/)
-* [Japan](https://community.linuxfoundation.org/ospo-local-meetup-japan-japanese-speaking/)
-* [LATAM](https://community.linuxfoundation.org/ospo-local-meetup-latam-spanish-speaking/)
-
-> If you are interested in organizing a TODO Local Meetups in your region feel free to open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community.
+These frameworks support mini-summits or local meetups organized by [OSPO Regional Ambassadors](https://todogroup.org/community/ambassadors/). The goal is to create forums where professionals can share knowledge and experience on the application of open source management to specific industries, technologies, and regions.  
 
 
-## Popular Artifacts
+## Resources  
 
-### 📖 OSPO Book
+### 📖 OSPO Book  
 
-The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and/or create open source projects through open source professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role within organizations and provides resources built openly across various organizations for effectively managing an OSPO.
-[Contribution guidelines can be found in this folder](https://github.com/todogroup/ospology/tree/main/ospo-book).
+The OSPO Book includes resources developed collaboratively across organizations for effective open source management through OSPOs. Is intended for those organizations looking to develop strategies to use, contribute to, or create open source projects.
+[Find contribution guidelines here](https://github.com/todogroup/ospology/tree/main/ospo-book).  
 
-### 📭 Newsletter
+### 📭 Newsletter  
 
-The OSPO newsletter ships once a month on the last Tuesday of the month. Please consider [subscribing to the newsletter](https://todogroup.org/community/osponews/).
+The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/).  
 
-Contribute to the monthly newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Please review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).
+Contribute to the newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).  
 
-### 🧭 OSPO Mind Map
+### 🧭 OSPO Mind Map  
 
-The [OSPO Mind Map](https://ospomindmap.todogroup.org/) provides a schema that represents
-a general perspective of open source program office's responsibilities, roles, behavior, and team size with the ecosystem.
+The [OSPO Mind Map](https://ospomindmap.todogroup.org/) provides a visual representation of an OSPO’s responsibilities, roles, behaviors, and team size within the ecosystem.  
 
-Contributors are welcome to add improvements to the mindmap future versions on its dedicated [repository](https://github.com/todogroup/ospology/tree/main/ospo-mindmap).
+Contributors can propose updates for future versions in the [dedicated repository](https://github.com/todogroup/ospology/tree/main/ospo-mindmap).  
 
-## 💫 Show your support
+## 📝 License  
 
-We don't accept donations. Please give a ⭐️ if this project helped you!
-
-If your organization would like to help TODO Group and its mission, please consider supporting TODO as [General Member](https://todogroup.org/join/) or [OSPO Associate](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md).
-
-## 📝 License
-
-This [repository](https://github.com/todogroup/ospology) is licensed and made available by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
+This [repository](https://github.com/todogroup/ospology) is provided by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).  
