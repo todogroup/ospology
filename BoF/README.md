@@ -1,7 +1,7 @@
 
 
 OSPOlogy (BoF) Birds of a Feather (Formerly, OSPO BoF) is a framework consisting of semi-informal discussion sessions held at conferences, where participants with shared interests come together to discuss open source management and OSPO
-challenges and its value in driving security, innovation, and collaboration within different industries, specializations or technologies (e.g. Cloud Native, Energy, Automotive, Security etc).
+challenges and its strategic value in security, innovation, and collaboration within different industries, specializations or technologies (e.g. Cloud Native, Energy, Automotive, Security etc).
 
 
 ## Adopter List
