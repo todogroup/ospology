@@ -1,5 +1,5 @@
 # Steps to Contribute to OSS Whitepaper! 
-This is basically an Overview of what this document should entail. 
+This document provides an overview of the different ways individuals can contribute as co-creators of the whitepaper, as well as the different roles they can take on.
 
 The Contribution.md file provides a step by step process of how contributors will work on the OSS in business whitepaper, ensuring collective approval from everyone invloved. Contributions can be organized into three groups:
 
