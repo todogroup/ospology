@@ -1,7 +1,7 @@
 # Steps to Contribute to OSS Whitepaper! 
 This is basically an Overview of what this document should entail. 
 
-The Contribution.md file will serve as a guide, providing the needed step by step process of how contributors will collaboratively work on the OSS in business whitepaper, ensuring collective approval from everyone invloved. However given the large scope and extensive work required, I would recommend organising contributors into three groups: They include:
+The Contribution.md file provides a step by step process of how contributors will work on the OSS in business whitepaper, ensuring collective approval from everyone invloved. Contributions can be organized into three groups:
 
 - Group members: Contributors will be organised into groups based off interest and expertise aligned with the topics and section provided through the outline in the whitepaper. Each group will be led by a leader providing the required structure and ensuring accountability for progress.
 - Group Lead: A group lead will be responsible for cordinating efforts and facilitating the progress of it's memebers. Group leads will serve beyond just guidance for the contributors as they work on their respective sections before syncing through mini presentations during our calls. However, individuals interested in becoming group leads will have to meet set up basic requirements made by the working group before expressing their interest.  
