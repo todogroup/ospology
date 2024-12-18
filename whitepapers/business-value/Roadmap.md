@@ -1,4 +1,4 @@
-## OSS for Business Whitepaper Roadmap! 
+## OSS for Business Whitepaper Roadmap
 
 More Context for reviewing purposes.\
 Contributors working on the OSS in Business Whitepaper will require a roadmap that will provide additional guidance, establish an estimated timeline and track milestones achieved overtime. This roadmap will be made publicly accessible and linked to the readme.md and Contribution.md files.\
