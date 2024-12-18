@@ -1,6 +1,7 @@
 ## OSS for Business Whitepaper Roadmap
 
-More Context for reviewing purposes.\
+> More Context for reviewing purposes
+
 Contributors working on the OSS in Business Whitepaper can use this roadmap that establishes an estimated timeline and track milestones achieved overtime. This roadmap is linked to the readme.md file.
 The roadmap file entails the following details in a structured format with the tag of the group leads responsible for specific sections.
 
@@ -15,17 +16,21 @@ The roadmap file entails the following details in a structured format with the t
 
 # Suggested Format for Each Section
 
-When adding content to the working repository, please use Markdown. Each section should correspond to a column shown in our [outline](https://github.com/todogroup/ospology/tree/main/whitepapers/business-value#initial-outline) and have its own separate Markdown file. If the Markdown file has not been created yet, please submit a PR with the new file using the exact name shown below.
+When adding content to this working repository, please use Markdown. Each section should correspond to a column shown in our [outline](https://github.com/todogroup/ospology/tree/main/whitepapers/business-value#initial-outline) and have its own separate Markdown file. If the Markdown file has not been created yet, please submit a PR with the new file using the exact name shown below.
 
 File Location  `ospology / whitepapers / business-value /`
-📁 ..
-├── README.md 
-├── glossary.md
-├── engineering-vs-business-driven.md 
-├── misconceptions-challenges.md
-├── communicating-engineering-to-business-value.md
-├── business-case-studies.md
-├── future-work.md
+
+📁 .. <br>
+├── README.md <br>
+├── glossary.md <br>
+├── engineering-vs-business-driven.md <br>
+├── misconceptions-challenges.md <br>
+├── communicating-engineering-to-business-value.md <br>
+├── business-case-studies.md <br>
+├── future-work.md <br>
+
+To populate content on each markdown file, you can use this suggested format:
+
  <summary><h2> Engineering Driven vs Business Driven in Open Source </h2></summary>
  
 - Overview
@@ -33,7 +38,8 @@ File Location  `ospology / whitepapers / business-value /`
 - Business Drvien Projects
 - Comparisons
 - Conclusions
-   > Started: 12th January || To be Completed: 20th January || Lead by: @harmonyelendu.
+
+> Started: 12th January || To be Completed: 20th January || Lead by: @harmonyelendu.
 
 
 With this structure there will be clear direction for everyone invloved, including the public while serving as a progress check for various groups, group leads and the working group. At the end ensuring a successful completion of the OSS in Business Whitepaper within an estimated timeline.\
