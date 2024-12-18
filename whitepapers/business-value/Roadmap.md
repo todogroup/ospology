@@ -2,7 +2,7 @@
 
 More Context for reviewing purposes.\
 Contributors working on the OSS in Business Whitepaper will require a roadmap that will provide additional guidance, establish an estimated timeline and track milestones achieved overtime. This roadmap will be made publicly accessible and linked to the readme.md and Contribution.md files.\
-The roadmap file will entail the following details in a structured format with tag of group leads responsible for specific sections.\
+The roadmap file entails the following details in a structured format with the tag of the group leads responsible for specific sections.
 Suggested format: 
  <summary><h2> Engineering Driven vs Business Driven in Open Source </h2></summary>
  
