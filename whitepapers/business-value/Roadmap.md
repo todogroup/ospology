@@ -26,4 +26,4 @@ Suggested format:
 
 With this structure there will be clear direction for everyone invloved, including the public while serving as a progress check for various groups, group leads and the working group. At the end ensuring a successful completion of the OSS in Business Whitepaper within an estimated timeline.\
 
-Please note: I'm available for more information or clarity if needed. 
+> Please note: I'm available for more information or clarity if needed. 
