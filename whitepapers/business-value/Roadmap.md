@@ -13,7 +13,19 @@ The roadmap file entails the following details in a structured format with the t
 | 🗂️ | Resource Aggregation      | September - October 2025 | <ul><li>Schedule a special working group meeting with all chairs and project managers to finalize resource aggregation and merge all sections into a comprehensive whitepaper.</li><li>Share a draft version of the whitepaper (not proofread) with the SC for final review.</li></ul> |
 | 🗂️ | Proofreading & Design     | October - December 2025 | <ul><li>Transfer the whitepaper to a Google Doc for the LF staff to proofread and design, ensuring adherence to TODO brand guidelines.</li><li>LF staff coordinate the distribution of the final whitepaper PDF across LF communication channels.</li></ul> |
 
-Suggested format: 
+# Suggested Format for Each Section
+
+When adding content to the working repository, please use Markdown. Each section should correspond to a column shown in our [outline](https://github.com/todogroup/ospology/tree/main/whitepapers/business-value#initial-outline) and have its own separate Markdown file. If the Markdown file has not been created yet, please submit a PR with the new file using the exact name shown below.
+
+File Location  `ospology / whitepapers / business-value /`
+📁 ..
+├── README.md 
+├── glossary.md
+├── engineering-vs-business-driven.md 
+├── misconceptions-challenges.md
+├── communicating-engineering-to-business-value.md
+├── business-case-studies.md
+├── future-work.md
  <summary><h2> Engineering Driven vs Business Driven in Open Source </h2></summary>
  
 - Overview
