@@ -5,9 +5,6 @@ weight: 40
 ---
 
 - [Introduction](#introduction)
-  - The Value of an OSPO
-  - Reasons Behind Starting an OSPO
-  - Reasons Behind Sustaining an OSPO
 - [Assessing Value of Open Source Activity](#assessing-value-of-open-source-activity) - `✅ Assessment`
 - [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources) - `📚 Continue Here`
