@@ -3,6 +3,7 @@ title: "Chapter 5: Measuring and Communicating Impact by your OSPO"
 status: Completed
 weight: 70
 ---
+> This chapter has been developed through the collective expertise of [CHAOSS open source project](https://chaoss.community/) and participants from the CHAOSS [OSPO Metrics Working Group](https://github.com/chaoss/wg-ospo), with support from the TODO Group.
 
 ## Introduction
 
