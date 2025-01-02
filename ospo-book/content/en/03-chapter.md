@@ -5,7 +5,7 @@ weight: 50
 ---
 
 * [Introduction](#introduction)
-* [Assessing maturity of open source program office](#assessing-maturity-of-open-source-program-office) - `✅ Assessment`
+* [Maturity of Open Source Program Office](#maturity-of-open-source-program-office) - `✅ Assessment`
 * [Recommendations](#recommendations) - `💡 Recommendations`
 * [Resources](#resources) - `📚 Continue Here`
 
@@ -94,7 +94,7 @@ Organizations are subject to various external regulators that influence and shap
 
 For open source to be successful and sustainable within an organization, it is crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications of open source and its community. Thus, it is recommended that the OSPO consider ways to develop a plan for approaching and communicating with regulators, clearly defining the roles they will play in the policymaking process.
 
-## Assessing Maturity of Open Source Program Office
+## Maturity of Open Source Program Office
 
 `✅ Assessment`
 
