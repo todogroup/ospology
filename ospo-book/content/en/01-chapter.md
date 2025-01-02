@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Open Source Program Offices"
+title: "Chapter 1: Introduction to Open Source Program Offices"
 status: Completed
 weight: 30
 ---
