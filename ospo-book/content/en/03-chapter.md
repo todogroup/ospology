@@ -5,11 +5,6 @@ weight: 50
 ---
 
 * [Introduction](#introduction)
-  * Ingredients for a Minimum Viable OSPO
-    * The OSPO Flower Diagram
-    * Design an open source strategy
-    * Fostering open source integration within the organization
-    * Collaboration with external regulators
 * [Assessing maturity of open source program office](#assessing-maturity-of-open-source-program-office) - `✅ Assessment`
 * [Recommendations](#recommendations) - `💡 Recommendations`
 * [Resources](#resources) - `📚 Continue Here`
