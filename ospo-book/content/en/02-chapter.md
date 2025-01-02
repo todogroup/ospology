@@ -1,5 +1,5 @@
 ---
-title: "The Value of Open Source Program Offices"
+title: "Chapter 2: The Value of Open Source Program Offices"
 status: Completed
 weight: 40
 ---
