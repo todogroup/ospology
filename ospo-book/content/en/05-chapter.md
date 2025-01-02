@@ -6,7 +6,7 @@ weight: 70
 
 - [Introduction](#introduction)
 - [A Case of Organizational Impact](#a-case-of-organizational-impact) - `✅ Assessment`
-- Resources - `📚 Continue Here`
+- [Resources](#resources) - `📚 Continue Here`
   
 
 ## Introduction
@@ -103,6 +103,6 @@ The case study of Linåker et al. (2024) presents organizations with a valuable 
 `📚 Continue Here`
 
 - [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)
-- [Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.
+- Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.
 - [Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI](https://doi.org/10.1145/3555051.3555067)
 - Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
