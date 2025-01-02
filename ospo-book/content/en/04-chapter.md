@@ -6,13 +6,9 @@ weight: 60
 
 
 - [Introduction](#introduction)
-  - [Assessing Daily Operations using the OSPO MindMap](#assessing-daily-operations-using-the-ospo-mindmap) - `✅ Assessment`
-    - [Getting started with OSPO MindMap](#getting-started-with-ospo-mindmap)
-    - [OSPO MindMap Limitations](#ospo-mindmap-limitations)
-  - [Recommendations](#recommendations) - `💡 Recommendations`
-    - [Scenario #10](#scenario-10)
-    - [Scenario #11](#scenario-11)
-  - [Resources (TBD)](#resources-tbd) - `📚 Continue Here`
+- [Daily Operations using the OSPO MindMap and Activity Engagement Models](#assessing-daily-operations-using-the-ospo-mindmap-and-activity-engagement-models) - `✅ Assessment`
+- [Recommendations](#recommendations) - `💡 Recommendations`
+- [Resources](#resources-tbd) - `📚 Continue Here`
 
 # Introduction
 
@@ -38,7 +34,7 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 
 - **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
 
-## Assessing Daily Operations using the OSPO MindMap
+## Daily Operations Using the OSPO MindMap and Activity Engagement Models
 
 ### Getting Started with OSPO MindMap
 
@@ -123,9 +119,15 @@ Licence changes on an Open Source project. OSPOs face the challenge of navigatin
 > 
 > 5. Stakeholder Engagement in License Decisions: Engage a broad range of stakeholders, including developers, legal advisors, and end users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
 
-## Resources (TBD)
+## Resources
 
-- Materials that we have shared during the calls or related to this chapter
-- Materials that we have shared during the calls or related to this chapter
-- Materials that we have shared during the calls or related to this chapter
+- [OSPO Mind Map](https://todogroup.org/resources/mindmap/)
+- [A Guide to Enterprise Open Source](https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf)
+- [A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf)
+- [Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide)
+- [OpenSSF Scorecard](https://github.com/ossf/scorecard)
+- [Software Bill of Materials (SBOMs)](https://www.ntia.gov/SBOM)
+- [Computer Emergency Response Team (CERT)](https://www.cisa.gov/uscert/)
+- [Redis License Change](https://www.theregister.com/2024/03/22/redis_changes_license/)
+- [AlmaLinux OS Foundation](https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/)
 
