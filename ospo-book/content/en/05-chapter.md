@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: Measuring and Communicating Impact by your OSPO"
-status: In Progress/In Review
-weight: 70
+status: Completed
+weight: 50
 ---
 
 ## Introduction
