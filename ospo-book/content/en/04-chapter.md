@@ -1,5 +1,5 @@
 ---
-title: "Day-to-Day Operations"
+title: "Chapter 4: Day-to-Day Operations"
 status: Completed
 weight: 60
 ---
