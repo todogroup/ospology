@@ -10,7 +10,6 @@ strategic vision and commitment around open source through an OSPO.
 
 Use cases will be added as more organizations contribute to expanding this list.
 
-* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf)
-* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf)
-* Coming Soon: UC Santa Cruz End-user Journey Report
+* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Use-case`
+* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Use-case`
 
