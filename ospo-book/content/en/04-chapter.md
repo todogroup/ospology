@@ -10,7 +10,7 @@ weight: 60
 - [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources-tbd) - `📚 Continue Here`
 
-# Introduction
+## Introduction
 
 OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
 
