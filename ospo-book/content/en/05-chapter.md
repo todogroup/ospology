@@ -29,7 +29,7 @@ Open source projects provide a platform for companies to communicate and share t
 
 Beyond giving us an understanding of an open source project (or a collection of projects), metrics play an important role in communicating impact. Following the goal-question-metric approach used in the CHAOSS project, we present four goals that open source program offices can consider, alongside associated questions that can provide insight to the associated goals. Stemming from these goals and questions, we recommend a series of metric-related CHAOSS [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to provide specific recommendations within an organization.
 
-![Communicating Impact Image](https://github.com/todogroup/ospology/blob/main/ospo-book/static/images/CHAOSS.Health.Impacts.png)
+<img width="750" alt="CHAOSS Health Impacts" src="https://github.com/user-attachments/assets/f13b8fd0-8342-4a90-b5cb-d533c6454801" />
    
 **Goal 1: Partner Impact**
 
