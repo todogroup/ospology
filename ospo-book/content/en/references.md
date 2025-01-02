@@ -24,6 +24,7 @@ This section will provide organizations with a comprehensive list of the existin
 
 | Source | Title and Link |
 |--------|----------------|
+| Guide | [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)
 | Guide | [Concise Guide for Evaluating Open Source Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
 | Guide | [Concise Guide for Developing More Secure Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
 | Guide | [Guide to implementing a coordinated vulnerability disclosure process for open source projects](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme)
@@ -57,11 +58,14 @@ This section will provide organizations with a comprehensive list of the existin
 | Handbook | [Good Governance Initiative](https://ospo.zone/ggi/)
 | Mind Map | [OSPO Mind Map](https://ospomindmap.todogroup.org/)
 | Study | [How to Evaluate Open Source Software](https://dwheeler.com/oss_fs_eval.html)
+| Study | [How to characterize the health of an Open Source Software project?](https://doi.org/10.1145/3555051.3555067)
 | Study | [The state of the OSPO 2018](https://github.com/todogroup/osposurvey)
 | Study | [The state of the OSPO 2019](https://github.com/todogroup/osposurvey)
 | Study | [The state of the OSPO 2020](https://github.com/todogroup/osposurvey)
 | Study | [The state of the OSPO 2021](https://github.com/todogroup/osposurvey)
 | Study | [The state of the OSPO 2022](https://github.com/todogroup/osposurvey)
+| Study | [The state of the OSPO and Open Source Management 2023](https://www.linuxfoundation.org/research/ospo-2023)
+| Study | [The state of the OSPO and Open Source Management 2024](https://www.linuxfoundation.org/research/ospo-2024)
 | Study | [The Evolution of the OSPO](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
 | Study | [Understanding the Open Source Development Model](https://derkling.matbug.net/_media/docs:lf_os_dev_model.pdf)
 | Study | [Artificial Intelligence and Data in Open Source](https://www.linuxfoundation.org/research/artificial-intelligence-and-data-in-open-source)
@@ -84,7 +88,7 @@ This section will provide organizations with a comprehensive list of the existin
 | Case Study | [Rochester Institute of Technology OSPO](https://www.rit.edu/news/rit-creates-openrit-university-wide-initiative-all-things-open)
 | Case Study | [Trinity College Dublin OSPO](https://ospoplusplus.org/resource/trinity-college-dublin-ospo/)
 | Case Study | [Johns Hopkins University OSPO](https://ospoplusplus.org/resource/johns-hopkins-university-ospo/)
-| Case Study |  [University of California Santa Cruz OSPO](https://ospoplusplus.org/resource/ospo-uc-santa-cruz/)
+| Case Study | [University of California Santa Cruz OSPO](https://ospoplusplus.org/resource/ospo-uc-santa-cruz/)
 | Presentation | [How Government OSPOs Deliver Value for Citizens at Scale](https://youtu.be/uX1ULoGR6lg)
 | Article | [The Dutch OSPO](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/dutch-digitalisation-minister-announces-ospo-creation)
 | Article | [The OSPO – A New Tool for Digital Government](https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/)
