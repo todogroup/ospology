@@ -1,5 +1,5 @@
 ---
-title: "Foundations and Essential Elements"
+title: "Chapter 3: Foundations and Essential Elements"
 status: Completed
 weight: 50
 ---
