@@ -4,7 +4,7 @@ status: Completed
 weight: 40
 ---
 
-- [Open Source is All About Integration](#open-source-is-all-about-integration)
+- [Introduction](#introduction)
   - The Value of an OSPO
   - Reasons Behind Starting an OSPO
   - Reasons Behind Sustaining an OSPO
@@ -12,7 +12,7 @@ weight: 40
 - [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources) - `📚 Continue Here`
 
-## Open Source is all about Integration
+## Introduction
 
 Organizations of various types – including end-user companies, software vendors, universities, and public administrations – maintain a relationship with open source. To responsibly manage software and hardware, content, and other aspects of technology, organizations must engage with open source. This involves finding ways to integrate such culture and operations into their IT strategy and technology and AI stacks. Establishing an organizational structure is a crucial first step to solidify commitment. This is where an Open Source Program Office (OSPO) becomes important. It helps organizations to achieve their objectives and overcome challenges related to open source.
 
