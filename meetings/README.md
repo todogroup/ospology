@@ -1,16 +1,60 @@
-# OSPOlogy Monthly Meetings
+## OSPOlogy Touchpoints
 
-1. [What are OSPOlogy Monthly Meetings?](#what-are-ospology-monthly-meetings)
+TODO Touchpoints are collaborative sessions designed to foster a safe and open environment for the community to share experiences and explore best practices in open source program management. These sessions also explore its impact and relationship with cross-disciplinary themes, including security, AI infrastructure, compliance, community health, business strategy, and more.  
+
+Each Touchpoint features a presentation by professionals with experience or a direct connection to open source management or OSPOs, followed by an open discussion under Chatham House Rules to encourage the exchange of ideas among attendees.  
+
+Presentations can take various forms, such as:  
+- A slide deck previously presented at a conference  
+- A new tool or initiative your team is developing and would like feedback on  
+- A hot topic or challenge aimed at sparking meaningful conversation  
+
+## Format
+
+Touchpoints are offered in two different timeframes to ensure geographic availability:  
+- **APAC & EMEA Touchpoints**: Thursdays, 12:00 PM GMT  
+- **AMER & EMEA Touchpoints**: Mondays, 5:00 PM GMT  
+
+Exact dates are flexible and depend on guest availability. However, we aim to organize at least one session per month for each geographic meeting.  
+
+### Sessions can include:  
+
+- **OSPO News**: A list of articles highlighting trends and best practices in open source management for organizations
+- **Guest Presentation**: A session led by an invited speaker(s)
+- **Working Group Updates**: Updates provided by working group chairs
+- **Open Forum and Q&A**: A discussion and question-and-answer session held under Chatham House Rules
+
+During the open forum, we strive to ensure that at least one member of the Steering Committee—composed of experienced open source managers from various organizations—joins to participate and moderate the discussion.  
+
+
+## Planning
+
+We maintain a folder listing all in-progress and confirmed sessions[here](). Additionally, confirmed sessions are shared in [TODO Group Community Calendar](https://todogroup.org/community/meetings/)  
+
+> If you are interested in presenting at a touchpoint, please email `steering-committee (at) todogroup.org` to lock in your session details, providing a short title and description and desired day and time to present
+
+## Coming Soon - Program Committee
+
+The Steering Committee is exploring options to officially establish a dedicated committee under TODO to oversee Touchpoint program planning and moderation. If you are interested in being part of the PC, you can contact `streering-committee (at) todogorup.org` for more information.
+
+
+---
+
+# Archieved (2021 - 2023)
+
+## OSPOlogy Webinars
+
+1. [What are OSPOlogy Webinars](#what-are-ospology-webinars)
 2. [Event Page and past sessions](#event-page-and-past-sessions)
 3. [OSPOlogy Planning](#ospology-planning)
 
 
-## What are OSPOlogy Monthly Meetings?
+## What are OSPOlogy Webinars
 
 OSPOlogy community meetings are public monthly meetings of the TODO Group and wider OSPO community, everyone is welcome to attend and participate.
 The community is welcome to participate in the several activities of the planning process:
 
-**🙋 Bring topics of interest to the wider OSPO community**
+**🙋 Bring topics of interest to the OSPO community**
 
 Some examples include:
 
@@ -59,16 +103,4 @@ https://community.linuxfoundation.org/todo-group/
 
 * [NEXT: January 18 2023 - OSPOlogy: How OSPOs Manage Change In Enterprises For Open Source Adoption](https://community.linuxfoundation.org/events/details/lfhq-todo-group-ospology-presents-how-ospos-manage-change-in-enterprises-for-open-source-adoption/)
 
-## OSPOlogy Planning
 
-**OSPOlogy CFP**
-
-If you have a story to share, please add your topic to the following [CFP form](https://github.com/todogroup/ospology/issues/new/choose).
-
-OSPOlogy happens monthly (except in August and December). Usually, OSPOlogy sessions are scheduled the **first Wednesday of the month** at 15:00pm UTC. The OSPOlogy guest might request a different Wednesday during the month if necessary.
-
-> 🕐 Need help with UTC timezone conversions? Check out [worldtimebuddy.com](https://www.worldtimebuddy.com/)
-
-**Governance Guidelines**
-
-Learn how to become an OSPOlogy maintainer at [governance.md](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md)
