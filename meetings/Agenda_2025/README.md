@@ -4,7 +4,7 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 
 | **Date**             | **Region**       | **Time (GMT)** | **Speaker** | **Topic**                              | **Tag**   |
 |-----------------------|------------------|----------------|-------------|----------------------------------------|-----------|
-| Thursday, February 13 | EMEA & APAC      | 12:00 PM       | Alin Jepelea, Sony | SBOM implementation journey for the Apache NuttX RTOS | `OSPO-Compliance` |
+| Thursday, February 13 | EMEA & APAC      | 12:00 PM       | Alin Jepelea, Sony | [SBOM implementation journey for the Apache NuttX RTOS](./Feb-13.md) | `OSPO-Compliance` |
 | Monday, February 10   | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
 | Thursday, February 27 | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
 | Monday, February 24   | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
