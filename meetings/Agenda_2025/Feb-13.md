@@ -15,12 +15,12 @@ The presentation will highlight the collaborative community effort for license c
 Alin believes that many open source projects will follow a similar path and will need support from companies to meet upcoming legal requirements.  
 
 ### Full Agenda  
-- **Welcome** by Volunteer (5 mins)  
+- **Welcome** by Ana Jimenez (5 mins)  
 - **Guest Presentation**:  
   *SBOM Journey for an Open Source Project - Apache NuttX RTOS*, Alin Jepelea (15 mins + 5 mins Q&A)  
 - **Working Group Updates**:  
-  - OSS in Business  
-  - OSPO Book (15 mins)  
+  - OSS in Business updates by Harmony Elendu
+  - OSPO Book by TBA (15 mins)  
 - **Open Forum** under Chatham House Rules (20 mins)  
 
 ---
