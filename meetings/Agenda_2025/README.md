@@ -5,9 +5,8 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | **Date**             | **Region**       | **Time (GMT)** | **Speaker** | **Topic**                              | **Tag**   |
 |-----------------------|------------------|----------------|-------------|----------------------------------------|-----------|
 | Thursday, February 13 | EMEA & APAC      | 12:00 PM       | Alin Jepelea, Sony | [SBOM implementation journey for the Apache NuttX RTOS](./Feb-13.md) | `OSPO-Compliance` |
-| Monday, February 10   | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
 | Thursday, February 27 | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
-| Monday, February 24   | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
+| Monday, February 24   | AMER & EMEA      | 5:00 PM        | Sujata Tibrewala, former at ByteDance | How to use Open Source to Grow your organization | `OSPO-Business` |
 | Thursday, March 12    | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
 | Monday, March 9       | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
 | Thursday, March 26    | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
