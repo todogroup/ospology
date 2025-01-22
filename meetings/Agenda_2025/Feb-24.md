@@ -28,5 +28,5 @@ how success in open source is more than just code and what is good for community
 ---
 
 ### Other Meeting Details  
-- **Meeting ID**: TBA
-- **Meeting Passcode**: TBA 
+- **Meeting ID**: 92834339067
+- **Meeting Passcode**: 144654
