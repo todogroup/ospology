@@ -2,7 +2,7 @@
 
 📅 **Date**: Thursday, February 24  
 ⏰ **Time**: 18:00 PM GMT  
-🎤 **Guest**: Sujata Tibrewala, LF Edge Governing Board member and former OSPO at ByteDance
+🎤 **Guest**: Sujata Tibrewala, LF Edge Governing Board member
 
 💡 **Topic**: How to use Open Source to Grow your organization 
 
@@ -19,7 +19,7 @@ how success in open source is more than just code and what is good for community
 ### Full Agenda  
 - **Welcome** by Ana Jimenez (5 mins)  
 - **Guest Presentation**:  
-  *How to use Open Source to Grow your organization* (15 mins + 5 mins Q&A)  
+  *How to use Open Source to Grow your organization - Justify the Business Value* (15 mins + 5 mins Q&A)  
 - **Working Group Updates**:  
   - OSS in Business updates by TBA
   - OSPO Book by TBA (15 mins)  
