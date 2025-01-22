@@ -7,7 +7,7 @@
 💡 **Topic**: How to use Open Source to Grow your organization 
 
 ### RSVP  
-RSVP is required before the meeting starts. **[Sign up here]()**  
+RSVP is required before the meeting starts. **[Sign up here](https://zoom-lfx.platform.linuxfoundation.org/meeting/92834339067?password=712f761e-15b9-44de-9935-08cd108d6a42)**  
 
 ### Guest Presentation Details  
 
