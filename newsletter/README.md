@@ -1,4 +1,18 @@
 # OSPO Newsletter
+
+## 2024
+
+| Issue 29 - 34 |
+| --- |
+| [OSPO Newsletter 29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md) |
+| [OSPO Newsletter 30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-27.md) |
+| [OSPO Newsletter 31](https://github.com/todogroup/ospology/blob/main/newsletter/2024-03-26.md) |
+| [OSPO Newsletter 32](https://github.com/todogroup/ospology/blob/main/newsletter/2024-04-30.md) |
+| [OSPO Newsletter 33](https://github.com/todogroup/ospology/blob/main/newsletter/2024-05-28.md) |
+| [OSPO Newsletter 34](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md) |
+
+## 2021 - 2023
+
 | # Issue 1 - 10 | # Issue 11 - 20 | # Issue 21 - 30
 | --- | --- | --- |
 |[OSPO Newsletter 1](https://ospo-news.ghost.io/ospo-news-from-the-todo-group/)|[OSPO Newsletter 11](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-11/)|[OSPO Newsletter 21](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-21/)|
@@ -12,9 +26,20 @@
 |[OSPO Newsletter 9](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-9/)|[OSPO Newsletter 19](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-19/)|
 |[OSPO Newsletter 10](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-10/)| [OSPO Newsletter 20](https://ospo-news.ghost.io/ospo-newsletter-20/) |
 
+# OSPO Newsletters 2024
+
+| Issue 29 - 34 |
+| --- |
+| [OSPO Newsletter 29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md) |
+| [OSPO Newsletter 30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-27.md) |
+| [OSPO Newsletter 31](https://github.com/todogroup/ospology/blob/main/newsletter/2024-03-26.md) |
+| [OSPO Newsletter 32](https://github.com/todogroup/ospology/blob/main/newsletter/2024-04-30.md) |
+| [OSPO Newsletter 33](https://github.com/todogroup/ospology/blob/main/newsletter/2024-05-28.md) |
+| [OSPO Newsletter 34](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md) |
+
 ## How to Contribute to OSPONews
 
-The content that is sent through OSPONews via [Ghost](https://ospo-news.ghost.io/) is created by and for the OSPO Community using the `yyyy-mm-dd.md` files within this repository. to get started, just edit any of the sections in the `yyyy-mm-dd.md` file and open a PR. 
+The content that is sent through OSPO News via [LF Newsletter Platform](https://todogroup.org/community/osponews/) is created by and for the OSPO Community using the `yyyy-mm-dd.md` files within this repository. to get started, just edit any of the sections in the `yyyy-mm-dd.md` file and open a PR. 
 
 Some examples of contributions to the newsletter are:
 
