@@ -2,7 +2,7 @@
 
 ## 2024
 
-| Issue 29 - 34 |
+| Issue 29 - 35 |
 | --- |
 | [OSPO Newsletter 29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md) |
 | [OSPO Newsletter 30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-27.md) |
@@ -10,6 +10,8 @@
 | [OSPO Newsletter 32](https://github.com/todogroup/ospology/blob/main/newsletter/2024-04-30.md) |
 | [OSPO Newsletter 33](https://github.com/todogroup/ospology/blob/main/newsletter/2024-05-28.md) |
 | [OSPO Newsletter 34](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md) |
+| [OSPO Newsletter 35](https://github.com/todogroup/ospology/blob/main/newsletter/2024-12-20.md) |
+
 
 ## 2021 - 2023
 
@@ -26,16 +28,6 @@
 |[OSPO Newsletter 9](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-9/)|[OSPO Newsletter 19](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-19/)|
 |[OSPO Newsletter 10](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-10/)| [OSPO Newsletter 20](https://ospo-news.ghost.io/ospo-newsletter-20/) |
 
-# OSPO Newsletters 2024
-
-| Issue 29 - 34 |
-| --- |
-| [OSPO Newsletter 29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md) |
-| [OSPO Newsletter 30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-27.md) |
-| [OSPO Newsletter 31](https://github.com/todogroup/ospology/blob/main/newsletter/2024-03-26.md) |
-| [OSPO Newsletter 32](https://github.com/todogroup/ospology/blob/main/newsletter/2024-04-30.md) |
-| [OSPO Newsletter 33](https://github.com/todogroup/ospology/blob/main/newsletter/2024-05-28.md) |
-| [OSPO Newsletter 34](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md) |
 
 ## How to Contribute to OSPONews
 
