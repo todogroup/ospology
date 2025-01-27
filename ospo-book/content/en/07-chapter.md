@@ -4,8 +4,7 @@ status: Completed
 weight: 90
 ---
 
-Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can 
-open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
+Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
 
 * Alin Jerpelea
 * Ana Jiménez Santamaría
