@@ -33,8 +33,7 @@ Organizations may encounter issues when managing open source components that are
 
 - **Your organization’s procurement may never be fully met when you adopt open source components:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
-- **Your colleagues may lack understanding of open source::** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
-
+- **Your colleagues may lack understanding of open source:** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
 
 To fully overcome these challenges, organizations must invest in properly managing open source operations on both cultural and practical levels. The *how* of accomplishing this is often through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments.
 

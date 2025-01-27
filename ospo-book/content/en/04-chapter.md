@@ -4,7 +4,6 @@ status: Completed
 weight: 60
 ---
 
-
 - [Introduction](#introduction)
 - [Daily Operations using the OSPO MindMap and Activity Engagement Models](#assessing-daily-operations-using-the-ospo-mindmap-and-activity-engagement-models) - `✅ Assessment`
 - [Recommendations](#recommendations) - `💡 Recommendations`
@@ -14,19 +13,17 @@ weight: 60
 
 OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
 
-- **Direct Open Source Support:** Involves answering questions on all aspects of open source, including license
-  compliance, selecting open source software, and interactions with vendors. It also includes engaging with the
-  community and partners, securing sponsorships, and organizing open source events.
+- **Direct Open Source Support:** Involves answering questions on all aspects of open source, including license compliance, selecting open source software, and interactions with vendors. It also includes engaging with the community and partners, securing sponsorships, and organizing open source events.
   
-- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management and tracking of open source components. Automation is useful in many areas of open source including licence compliance, and security.
+- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers will not always follow policy and therefore want effective options to automate use, management, and tracking of open source components. Automation is useful in many areas of open source including license compliance and security.
 
 - **Documentation, Training, and Education:** An OSPO can play a leading role in ensuring that individuals are qualified to assess open source projects for use in the organization and contribute to critical open source projects for the organization. Developing training materials and documentation and/or aiding teams to produce these across different departments are key tasks.
 
-- **Resource Allocation:** There can be a lot of areas that an OSPO can offer value to an organization. Therefore, prioritizing work and allocating resources strategically and tactically is an important activity that will improve the OSPO's impact. 
+- **Resource Allocation:** There can be a lot of areas that an OSPO can offer value to an organization. Therefore, prioritizing work and allocating resources strategically and tactically is an important activity that will improve the OSPO's impact.
 
-- **Risk Management:** OSPOs are well-placed to take a holistic view on the risk that the organization faces when using open source projects. It is useful for the OSPO to assess the risks by obtaining a comprehensive view of the organization's tech stack. This may include generating SBOMs which allow the OSPO to consider the risks in software from vendors, legacy software, and proprietary software as well as in open source. This is more about a business assessment perspective rather than just data gathering, as risk can only be managed, not eliminated. Optimizing SBOMs is about balancing risks against benefits.  
+- **Risk Management:** OSPOs are well-placed to take a holistic view of the risk that the organization faces when using open source projects. It is useful for the OSPO to assess the risks by obtaining a comprehensive view of the organization's tech stack. This may include generating SBOMs which allow the OSPO to consider the risks in software from vendors, legacy software, and proprietary software as well as in open source. This is more about a business assessment perspective rather than just data gathering, as risk can only be managed, not eliminated. Optimizing SBOMs is about balancing risks against benefits.
 
-- **Sponsoring Open Source Communities and Foundations:** Your organization depends on open source. The projects in open source are only as healthy as their communities, and you can invest your time and money in supporting communities either directly or through Foundations. These relationships need to be understood and managed with care to achieve outcomes that will benefit the projects and your organization. Sometimes money is not the best fix for a problem, and fostering a closer partnership and providing development, marketing, or programmatic support is more useful. 
+- **Sponsoring Open Source Communities and Foundations:** Your organization depends on open source. The projects in open source are only as healthy as their communities, and you can invest your time and money in supporting communities either directly or through Foundations. These relationships need to be understood and managed with care to achieve outcomes that will benefit the projects and your organization. Sometimes money is not the best fix for a problem, and fostering a closer partnership and providing development, marketing, or programmatic support is more useful.
 
 - **Measuring Technical Debt:** Providing knowledge on how to measure the technical debt on an open source project helps to determine the risks associated with the project and, when done in collaboration with the project community, is a form of educational advocacy to help projects improve and sustain themselves.
 
@@ -130,4 +127,3 @@ Licence changes on an Open Source project. OSPOs face the challenge of navigatin
 - [Computer Emergency Response Team (CERT)](https://www.cisa.gov/uscert/)
 - [Redis License Change](https://www.theregister.com/2024/03/22/redis_changes_license/)
 - [AlmaLinux OS Foundation](https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/)
-
