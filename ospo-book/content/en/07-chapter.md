@@ -30,6 +30,7 @@ open a Pull Request (PR) at any time to add their names to the list if they have
 * Maurice Hendriks
 * Remy D
 * Rob Moffat
+* Ryan Fallon
 * Seo Yeon Lee
 * Shane Coughlan
 * Shilla Saebi
