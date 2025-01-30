@@ -29,7 +29,7 @@ During the open forum, we strive to ensure that at least one member of the Steer
 
 ## Planning
 
-We maintain a folder listing all in-progress and confirmed sessions[here](). Additionally, confirmed sessions are shared in [TODO Group Community Calendar](https://todogroup.org/community/meetings/)  
+We maintain a folder listing all in-progress and confirmed sessions [here](). Additionally, confirmed sessions are shared in [TODO Group Community Calendar](https://todogroup.org/community/meetings/)  
 
 > If you are interested in presenting at a touchpoint, please email `steering-committee (at) todogroup.org` to lock in your session details, providing a short title and description and desired day and time to present
 
