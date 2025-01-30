@@ -17,7 +17,6 @@
 
 OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our collective resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.
 
-
 ## Forum 
 
 The official forum (OSPOlogy GH Discussions) facilitates discussions on open source management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.  
@@ -25,7 +24,7 @@ The official forum (OSPOlogy GH Discussions) facilitates discussions on open sou
 ## Activities and Frameworks  
 
 > [!note]  
-> By using OSPOlogy frameworks and attributing the brand, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication
+> By using OSPOlogy frameworks and attributing the brand, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication.
 
 ### Virtual  
 
@@ -34,7 +33,7 @@ The official forum (OSPOlogy GH Discussions) facilitates discussions on open sou
 These webinars cover OSPO-related topics with special guests and community discussions. All sessions are recorded, edited, and available on the [OSPOlogy YouTube Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA). Explore the event page and past sessions here: [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions). 
 
 > [!warning]
-> Since 2024, OSPOlogy Webinars are no longer active and these are being replaced with OSPOlogy TODO Touchpoints 
+> Since 2024, OSPOlogy Webinars are no longer active and these are being replaced with OSPOlogy TODO Touchpoints.
 
 #### 🗺 OSPOlogy TODO Touchpoints  
 
@@ -44,28 +43,27 @@ Regional meetings (AMER, EMEA, APAC) provide open agendas and office hours for c
 
 #### ⭐️ OSPOlogy Birds of a Feather (BoF)
 
-Formerly called OSPO BoFs, is a framework consisting of semi-informal discussion sessions held at conferences, where participants with shared interests come together to discuss open source management and OSPO challenges and its strategic value in security, innovation, and collaboration within different industries, specializations, or technologies (e.g. Cloud Native, Energy, Automotive, Security etc). Current adopter includes the Cloud Native Computing Foundation (CNCF)
+Formerly called OSPO BoFs, this framework consists of semi-informal discussion sessions held at conferences, where participants with shared interests come together to discuss open source management and OSPO challenges and its strategic value in security, innovation, and collaboration within different industries, specializations, or technologies (e.g. Cloud Native, Energy, Automotive, Security, etc.). Current adopters include the Cloud Native Computing Foundation (CNCF).
 
 > [!important]
-> Framework used for [OSPOlogy BoF](https://github.com/todogroup/ospology/tree/main/BoF)
+> Framework used for [OSPOlogy BoF](https://github.com/todogroup/ospology/tree/main/BoF).
 
 #### ⭐️ OSPOlogy *Live* and OSPOlogy Local Meetups  
 
 These frameworks support mini-summits or local meetups organized by [OSPO Regional Ambassadors](https://todogroup.org/community/ambassadors/). The goal is to create forums where professionals can share knowledge and experience on the application of open source management to specific industries, technologies, and regions.  
 
 > [!important]
-> Framework used for [OSPOlogy Local Meetups](https://github.com/todogroup/ospology/tree/main/local-meetups)
+> Framework used for [OSPOlogy Local Meetups](https://github.com/todogroup/ospology/tree/main/local-meetups).
 > 
-> Framework used for [OSPOlogy Live](https://github.com/todogroup/ospology/tree/main/ospology-live)
-
+> Framework used for [OSPOlogy Live](https://github.com/todogroup/ospology/tree/main/ospology-live).
 
 ## Resources
 
-Resources hosted under OSPOlogy brand and supported by TODO Community
+Resources hosted under the OSPOlogy brand and supported by the TODO Community.
 
 ### 📖 OSPO Book
 
-The OSPO Book includes resources developed collaboratively across organizations for effective open source management through OSPOs. Is intended for those organizations looking to develop strategies to use, contribute to, or create open source projects.
+The OSPO Book includes resources developed collaboratively across organizations for effective open source management through OSPOs. It is intended for those organizations looking to develop strategies to use, contribute to, or create open source projects.
 [Find contribution guidelines here](https://github.com/todogroup/ospology/tree/main/ospo-book).  
 
 ### 📭 Newsletter  
@@ -82,4 +80,4 @@ Contributors can propose updates for future versions in the [dedicated repositor
 
 ## 📝 License  
 
-This [repository](https://github.com/todogroup/ospology) is provided by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).  
+This [repository](https://github.com/todogroup/ospology) is provided by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
