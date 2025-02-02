@@ -32,15 +32,15 @@ Due to the wide range of responsibilities and ways to operate, OSPO professional
 
 ## OSPOlogyLive Framework
 
-We are introducing a new framework for hybrid, small-scale mini-summit targeted to discuss important topics for OSPOs based on specific region needs. This format provides a more intimate and interactive setting for participants to engage in discussions, share knowledge, and build relationships with like-minded professionals.
+We are introducing a new framework for hybrid or in-person, small-scale mini-summit targeted to discuss important topics for open source management and strategy within organizations based on specific region needs. This format provides a more intimate and interactive setting for participants to engage in discussions, share knowledge, and build relationships with like-minded professionals.
 
-This way, people can talk openly about their organization's open source challenges and work together on shared solutions. Topics range from safely using open source to license compliance, sustainability, contributing back to the community, and more. For the full list of OSPO-specific topics please see [https://ospomindmap.todogroup.org/](https://ospomindmap.todogroup.org/).
+This way, people can talk openly about their organization's open source challenges and work together on shared solutions. Topics range from safely using open source to license compliance, sustainability, contributing back to the community, and more.
 
 In a nutshell, the framework defines the following small-scale conference:
 
 - Follows an unconference style meaning it's a participants-driven meeting
-- Aim is to share openly and learn from each other under Chatham House Rules and connect OSPOs with various open source communities involved in the open source activities that matter to them (e.g. os policies, tooling, standards, and community building)
-- It is a 2-day in-person event, part prepared presentations, part hands-on workshop, and of course, there is space for networking.
+- Aim is to share openly and learn from each other under Chatham House Rules and connect open source managers, OSPO leaders, and other open source stakeholders within organizations with various open source communities involved in the open source activities that matter to them (e.g. os policies, tooling, standards, and community building)
+- It is a 2-day in-person event, part prepared expert-led panel discussions, part hands-on workshop, and of course, there is space for networking.
 - Follows Linux Foundation antitrust policies and code of conduct
 - Participants can register their interest to receive an invite via [Linux Foundation's community platform](https://community.linuxfoundation.org/ospology-european-chapter/) as seats are limited.
 - Location is to be provided by one of the participants (host) for free
@@ -55,17 +55,17 @@ Roundtable sessions are led by community participants. These sessions are divide
 
 ### Suggested Agenda Sections
 
-Every OSPOlogyLive is slightly different bassed on the micro-conference theme and region needs. However, these are some common areas that a OSPOlogy host and organizers can start discussing when defining an OSPOlogy Live session:
+Every OSPOlogyLive session is slightly different based on the micro-conference theme and regional needs. However, these are some common areas that an OSPOlogy host and organizers can start discussing when defining an OSPOlogy Live session:
 
-* OSPO Use Cases: This section will consist of expert-led panels or talks that share experiences and case studies from specific OSPOs. The aim is to provide insights and inspiration from successful OSPOs to help others improve their own programs.
+* **Use Cases:** This section will feature expert-led panels or talks sharing experiences and case studies from specific organizations engaging in open source. The aim is to provide insights and inspiration from successful open source integration within organizations' technology stack, strategy, organizatinonal units, and processes, helping other organizations onboard and advance in their open source engagements with Open Source Program Offices (OSPO)
 
-* Project Activity Trends: This section will highlight specific activities within [INSERT PROJECT NAME], such as outcomes of recent open soruce community & project activities. The aim is to give people insights into various topics the communities are working on that help in OSPO day-today-operations and/or adoption and gather feedback and contributions from the audience.
+* **Project Activity Trends:** This section will highlight key activities within open source projects that are of high interest to organizations engaging in open source (e.g., standards, SBOMs, community health, open source strategy best practices, etc.). The goal is to give attendees insights into various community-driven initiatives that impact OSPO day-to-day operations and adoption, while also gathering feedback and contributions from the audience.
 
-* Shared Challenges Assessment: In this section, we will identify shared challenges and pain points on the OSPO mind map, and let the audience vote for the areas of interest to form working groups. The focus areas can be specific activities within OSPO responsibilities, and the goal is to encourage collaboration and problem-solving.
+* **Shared Challenges Assessment:** In this section, we will identify common challenges and pain points related to OSPO responsibilities. Attendees will have the opportunity to vote on areas of interest to form working groups, fostering collaboration and problem-solving.
 
-* Breakout Sessions: During the breakout sessions, participants will define goals and identify pain points related to their chosen focus area. Each breakout group aims to capture their challenges and document their experiences and solutions if possible, to share with the wider OSPO community.
+* **Breakout Sessions / Roundtables:** These sessions will allow participants to define goals and identify challenges related to their chosen focus area, enabling deeper discussions and actionable outcomes.
 
-* Networking / Social 
+* **Networking / Social:** An opportunity for attendees to connect, exchange ideas, and build relationships within the community.
 
 ## Key actors, Host selection criteria and requirements
 
