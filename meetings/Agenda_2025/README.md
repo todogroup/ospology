@@ -10,8 +10,8 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Thursday, March 13    | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
 | Monday, March 10      | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
 | Thursday, March 27    | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
-| Monday, March 24      | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
-| Thursday, April 10    | EMEA & APAC      | 12:00 PM       | Yuichi Nakamura, Hitachi| [How to collaborate with LF to accelerate OSS strategy](./Apr-10.md)| `Collaboration`|
+| Monday, March 24      | AMER & EMEA      | 5:00 PM        | Yaya Xia, Ant Group | [OSPO strategy and practices based on data-driven methods](./Mar-24.md)| `Strategy`|
+| Thursday, April 10    | EMEA & APAC      | 12:00 PM       | Yuichi Nakamura, Hitachi| [How to collaborate with LF to accelerate OSS strategy](./Apr-10.md)| `Stategy`|
 | Monday, April 7       | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
 | Thursday, April 24    | EMEA & APAC      | 12:00 PM       | TBA         | TBA                                    | TBA       |
 | Monday, April 21      | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       |
