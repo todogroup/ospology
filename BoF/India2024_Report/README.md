@@ -1,38 +1,38 @@
-- [About This Report]()
+[About This Report]()
 
-- [Methodology]()
+[Methodology]()
 
-- [Background]()
- - Cloud Expansion and Adoption of Cloud-Native Architectures
- - Open Source Software Adoption
- - Global Adoption and Perceived Benefits
- - Regional Insights
- - India’s Ascending Role in the OSS Ecosystem
- - Government Initiatives and Investments
+[Background]()
+  - Cloud Expansion and Adoption of Cloud-Native Architectures
+  - Open Source Software Adoption
+  - Global Adoption and Perceived Benefits
+  - Regional Insights
+  - India’s Ascending Role in the OSS Ecosystem
+  - Government Initiatives and Investments
   
-- [Discovered Challenges in the India Market]()
+[Discovered Challenges in the India Market]()
 
- - Security
- - Collaboration - From Consumers to Core Contributors and Leaders
- - Starting and Structuring Open Source Management Units
- - Managing OSS Best Practices
- - Product Roadmap / Engineering
+  - Security
+  - Collaboration - From Consumers to Core Contributors and Leaders
+  - Starting and Structuring Open Source Management Units
+  - Managing OSS Best Practices
+  - Product Roadmap / Engineering
   
-- [Recommendations]()
+[Recommendations]()
   
- - How might we address critical update event vulnerabilities in Open Source projects?
- - How might we overcome networking issues that hinder productivity and collaboration?
- - How might we enhance the process of sharing ideas effectively?
- - How might we structure the OSPO in the most efficient way? How might we launch an OSPO with the right guidance and support?
- - How might we standardize Open Source best practices in our company, including how employees engage with OSS projects and communities?
- - How might we increase traction toward incubating projects like Kubernetes?
- - How might we encourage companies to contribute more to Open Source?
- - How might we navigate the challenges of moving away from upstream development, and why do we choose to fork?
- - How might we align different expectations from Open Source projects to avoid major bottlenecks?
+  - How might we address critical update event vulnerabilities in Open Source projects?
+  - How might we overcome networking issues that hinder productivity and collaboration?
+  - How might we enhance the process of sharing ideas effectively?
+  - How might we structure the OSPO in the most efficient way? How might we launch an OSPO with the right guidance and support?
+  - How might we standardize Open Source best practices in our company, including how employees engage with OSS projects and communities?
+  - How might we increase traction toward incubating projects like Kubernetes?
+  - How might we encourage companies to contribute more to Open Source?
+  - How might we navigate the challenges of moving away from upstream development, and why do we choose to fork?
+  - How might we align different expectations from Open Source projects to avoid major bottlenecks?
    
-- [Bibliography]()
-- [Appendix A]()
-- [Co-Creators of the Report]()
+[Bibliography]()
+[Appendix A]()
+[Co-Creators of the Report]()
 
 ## Contributor List
 
