@@ -1,8 +1,8 @@
-[About This Report](./About.md)
+⭐️ [About This Report](./About.md)
 
-[Methodology](./About.md)
+📊 [Methodology](./About.md)
 
-[Background](./Background.md)
+📚 [Background](./Background.md)
   - Cloud Expansion and Adoption of Cloud-Native Architectures
   - Open Source Software Adoption
     - Global Adoption and Perceived Benefits
@@ -10,7 +10,7 @@
     - India’s Ascending Role in the OSS Ecosystem
   - Government Initiatives and Investments
   
-[Discovered Challenges in the India Market](./Challenges.md)
+🚧 [Discovered Challenges in the India Market](./Challenges.md)
 
   - Security
   - Collaboration - From Consumers to Core Contributors and Leaders
@@ -18,7 +18,7 @@
   - Managing OSS Best Practices
   - Product Roadmap / Engineering
   
-[Recommendations]()
+✅ [Recommendations]()
   
   - How might we address critical update event vulnerabilities in Open Source projects?
   - How might we overcome networking issues that hinder productivity and collaboration?
@@ -30,11 +30,13 @@
   - How might we navigate the challenges of moving away from upstream development, and why do we choose to fork?
   - How might we align different expectations from Open Source projects to avoid major bottlenecks?
    
-[Bibliography]()
-[Appendix A]()
-[Co-Creators of the Report]()
+📋[Bibliography]()
 
-## Contributor List
+🗂️[Appendix](./Apendix.md)
+
+---
+
+## 🙋‍♀️🙋🙋‍♂️ Contributor List
 
 This is a live document, and we welcome new contributors to help improve the content of this report. If you have contributed, please open a PR in this README to add your name to the list.
 
