@@ -1,13 +1,13 @@
-[About This Report]()
+[About This Report](./About.md)
 
-[Methodology]()
+[Methodology](./About.md)
 
-[Background]()
+[Background](./Background.md)
   - Cloud Expansion and Adoption of Cloud-Native Architectures
   - Open Source Software Adoption
-  - Global Adoption and Perceived Benefits
-  - Regional Insights
-  - India’s Ascending Role in the OSS Ecosystem
+    - Global Adoption and Perceived Benefits
+    - Regional Insights
+    - India’s Ascending Role in the OSS Ecosystem
   - Government Initiatives and Investments
   
 [Discovered Challenges in the India Market]()
