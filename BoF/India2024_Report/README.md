@@ -10,7 +10,7 @@
     - India’s Ascending Role in the OSS Ecosystem
   - Government Initiatives and Investments
   
-[Discovered Challenges in the India Market]()
+[Discovered Challenges in the India Market](./Challenges.md)
 
   - Security
   - Collaboration - From Consumers to Core Contributors and Leaders
