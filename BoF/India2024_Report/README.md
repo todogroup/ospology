@@ -30,7 +30,7 @@
   - How might we navigate the challenges of moving away from upstream development, and why do we choose to fork?
   - How might we align different expectations from Open Source projects to avoid major bottlenecks?
    
-📋[Bibliography]()
+📋[Bibliography](./Bibliography.md)
 
 🗂️[Appendix](./Apendix.md)
 
