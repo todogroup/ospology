@@ -1,33 +1,20 @@
 # OSPO Newsletter
 
-## 2024
-
-| Issue 29 - 35 |
-| --- |
-| [OSPO Newsletter 29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md) |
-| [OSPO Newsletter 30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-27.md) |
-| [OSPO Newsletter 31](https://github.com/todogroup/ospology/blob/main/newsletter/2024-03-26.md) |
-| [OSPO Newsletter 32](https://github.com/todogroup/ospology/blob/main/newsletter/2024-04-30.md) |
-| [OSPO Newsletter 33](https://github.com/todogroup/ospology/blob/main/newsletter/2024-05-28.md) |
-| [OSPO Newsletter 34](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md) |
-| [OSPO Newsletter 35](https://github.com/todogroup/ospology/blob/main/newsletter/2024-12-20.md) |
-
-
-## 2021 - 2023
-
-| # Issue 1 - 10 | # Issue 11 - 20 | # Issue 21 - 30
-| --- | --- | --- |
-|[OSPO Newsletter 1](https://ospo-news.ghost.io/ospo-news-from-the-todo-group/)|[OSPO Newsletter 11](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-11/)|[OSPO Newsletter 21](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-21/)|
-|[OSPO Newsletter 2](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-2/)|[OSPO Newsletter 12](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-12/)|[OSPO Newsletter 22](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-22/)|
-|[OSPO Newsletter 3](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-3/)|[OSPO Newsletter 13](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-13/)|[OSPO Newsletter 23](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-23/)|
-|[OSPO Newsletter 4](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-4/)|[OSPO Newsletter 14](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-14/)|[OSPO Newsletter 24](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-23-2/)|
-|[OSPO Newsletter 5](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-5/)|[OSPO Newsletter 15](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-15/)|[OSPO Newsletter 25](https://ospo-news.ghost.io/osponews-from-the-todo-group-issue-25/)|
-|[OSPO Newsletter 6](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-6/)|[OSPO Newsletter 16](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-16/)|[OSPO Newsletter 26](https://email.linuxfoundation.org/osponews-issue-26)|
-|[OSPO Newsletter 7](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-7/)|[OSPO Newsletter 17](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-17/)|[OSPO Newsletter 27](https://email.linuxfoundation.org/osponews-issue27)|
-|[OSPO Newsletter 8](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-8/)|[OSPO Newsletter 18](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-18/)|[OSPO Newsletter 28](https://email.linuxfoundation.org/osponews-issue28)|
-|[OSPO Newsletter 9](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-9/)|[OSPO Newsletter 19](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-19/)|
-|[OSPO Newsletter 10](https://ospo-news.ghost.io/ospo-news-from-the-todo-group-issue-10/)| [OSPO Newsletter 20](https://ospo-news.ghost.io/ospo-newsletter-20/) |
-
+| **Issue** | **Link**                                                                                               | **Issue** | **Link**                                                                                               | **Issue** | **Link**                                                                                               |
+|-----------|--------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------|
+| Issue 1   | [2021-07-26](https://github.com/todogroup/ospology/blob/main/newsletter/2021-07-26.md)                 | Issue 14  | [2022-08-30](https://github.com/todogroup/ospology/blob/main/newsletter/2022-08-30.md)                 | Issue 27  | [2023-10-31](https://github.com/todogroup/ospology/blob/main/newsletter/2023-10-31.md)                 |
+| Issue 2   | [2021-08-30](https://github.com/todogroup/ospology/blob/main/newsletter/2021-08-30.md)                 | Issue 15  | [2022-09-26](https://github.com/todogroup/ospology/blob/main/newsletter/2022-09-26.md)                 | Issue 28  | [2023-12-20](https://github.com/todogroup/ospology/blob/main/newsletter/2023-12-20.md)                 |
+| Issue 3   | [2021-09-27](https://github.com/todogroup/ospology/blob/main/newsletter/2021-09-27.md)                 | Issue 16  | [2022-10-25](https://github.com/todogroup/ospology/blob/main/newsletter/2022-10-25.md)                 | Issue 29  | [2024-01-30](https://github.com/todogroup/ospology/blob/main/newsletter/2024-01-30.md)                 |
+| Issue 4   | [2021-10-26](https://github.com/todogroup/ospology/blob/main/newsletter/2021-10-26.md)                 | Issue 17  | [2022-11-29](https://github.com/todogroup/ospology/blob/main/newsletter/2022-11-29.md)                 | Issue 30  | [2024-02-29](https://github.com/todogroup/ospology/blob/main/newsletter/2024-02-29.md)                 |
+| Issue 5   | [2021-11-30](https://github.com/todogroup/ospology/blob/main/newsletter/2021-11-30.md)                 | Issue 18  | [2022-12-30](https://github.com/todogroup/ospology/blob/main/newsletter/2022-12-30.md)                 | Issue 31  | [2024-03-31](https://github.com/todogroup/ospology/blob/main/newsletter/2024-03-31.md)                 |
+| Issue 6   | [2021-12-28](https://github.com/todogroup/ospology/blob/main/newsletter/2021-12-28.md)                 | Issue 19  | [2023-01-31](https://github.com/todogroup/ospology/blob/main/newsletter/2023-01-31.md)                 | Issue 32  | [2024-06-07](https://github.com/todogroup/ospology/blob/main/newsletter/2024-06-07.md)                 |
+| Issue 7   | [2022-01-31](https://github.com/todogroup/ospology/blob/main/newsletter/2022-01-31.md)                 | Issue 20  | [2023-02-27](https://github.com/todogroup/ospology/blob/main/newsletter/2023-02-27.md)                 | Issue 33  | [2024-06-27](https://github.com/todogroup/ospology/blob/main/newsletter/2024-06-27.md)                 |
+| Issue 8   | [2022-02-22](https://github.com/todogroup/ospology/blob/main/newsletter/2022-02-22.md)                 | Issue 21  | [2023-03-29](https://github.com/todogroup/ospology/blob/main/newsletter/2023-03-29.md)                 | Issue 34  | [2024-09-03](https://github.com/todogroup/ospology/blob/main/newsletter/2024-09-03.md)                 |
+| Issue 9   | [2022-03-29](https://github.com/todogroup/ospology/blob/main/newsletter/2022-03-29.md)                 | Issue 22  | [2023-04-25](https://github.com/todogroup/ospology/blob/main/newsletter/2023-04-25.md)                 | Issue 35  | [2024-11-07](https://github.com/todogroup/ospology/blob/main/newsletter/2024-11-07.md)                 |
+| Issue 10  | [2022-04-26](https://github.com/todogroup/ospology/blob/main/newsletter/2022-04-26.md)                 | Issue 23  | [2023-05-30](https://github.com/todogroup/ospology/blob/main/newsletter/2023-05-30.md)                 | Issue 36  | [2024-12-20](https://github.com/todogroup/ospology/blob/main/newsletter/2024-12-20.md)                 |
+| Issue 11  | [2022-05-31](https://github.com/todogroup/ospology/blob/main/newsletter/2022-05-31.md)                 | Issue 24  | [2023-07-25](https://github.com/todogroup/ospology/blob/main/newsletter/2023-07-25.md)                 | Issue 37  | [2025-01-28](https://github.com/todogroup/ospology/blob/main/newsletter/2025-01-28.md)                 |
+| Issue 12  | [2022-06-28](https://github.com/todogroup/ospology/blob/main/newsletter/2022-06-28.md)                 | Issue 25  | [2023-08-29](https://github.com/todogroup/ospology/blob/main/newsletter/2023-08-29.md)                 | Issue 38  | [2025-02-27](https://github.com/todogroup/ospology/blob/main/newsletter/2025-02-27.md)                 |
+| Issue 13  | [2022-07-26](https://github.com/todogroup/ospology/blob/main/newsletter/2022-07-26.md)                 | Issue 26  | [2023-08-29](https://github.com/todogroup/ospology/blob/main/newsletter/2023-08-29.md)                 | Issue 39  | [2025-03-27](https://github.com/todogroup/ospology/blob/main/newsletter/2025-03-27.md)                 |
 
 ## How to Contribute to OSPONews
 
