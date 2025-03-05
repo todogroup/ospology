@@ -2,8 +2,7 @@
 
 https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-amsterdam/
 
-- [Download the Program in PDF](https://github.com/user-attachments/files/18708939/OSPOlogyLiveAMS25_PDFAgenda-4.pdf)
-
+- [Download the Program in PDF](https://github.com/user-attachments/files/19088143/OSPOlogyLiveAMS25_PDFAgenda-5.pdf)
 
 ## 👩‍🏫 Presentations
 
