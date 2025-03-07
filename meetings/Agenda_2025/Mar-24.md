@@ -7,7 +7,7 @@
 💡 **Topic**: OSPO strategy and practices based on data-driven methods
 
 ### RSVP  
-RSVP is required before the meeting starts. **[Sign up here]()**  
+RSVP is required before the meeting starts. **[Sign up here](https://zoom-lfx.platform.linuxfoundation.org/meeting/98765326589?password=ee204ef0-4d72-4f4c-812f-873492fcb111)**  
 
 ### Guest Presentation Details  
 
