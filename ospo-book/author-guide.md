@@ -8,7 +8,9 @@ Guidance on how to write content for the OSPO Book and prepare it for submission
 
 ## Use markdown
 
-Markdown helps in writing content in a formatted way while making it easier to denote lists, headings, etc, without learning complex syntax. A beginner's guide for using basic markdown can be found [here](https://daringfireball.net/projects/markdown/basics). Markdown Syntax can be found [here](https://daringfireball.net/projects/markdown/syntax). When uploading to GitHub, the format needs to **stay** the same, i.e. it only needs to be in Markdown.
+Markdown helps you to write content in a formatted way while making it easier to create lists, headings, etc, without learning complex syntax.  Book content must be in Markdown format at the point you add it to the `todogroup/ospology` repository on GitHub. For more information about Markdown, see:
+* [A beginner's guide for using basic markdown](https://daringfireball.net/projects/markdown/basics).
+* [Markdown Syntax reference](https://daringfireball.net/projects/markdown/syntax).
 
 ## Run pre-commit checks locally
 
