@@ -10,7 +10,12 @@ Whitepaper
 deliverables
 libre
 
+# Licenses
+CC BY 4.0
+MIT
+
 # Author names
+Alice
 Alin
 Aniszczyk
 Annania
@@ -48,6 +53,7 @@ Scheerder
 Seo
 Shida
 Shilla
+Sowerby
 Supriya
 Takanori
 Ulises
