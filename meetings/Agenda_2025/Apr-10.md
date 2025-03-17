@@ -6,7 +6,7 @@
 💡 **Topic**: How to collaborate with LF to accelerate OSS strategy  
 
 ### RSVP  
-RSVP is required before the meeting starts. **[Sign up here]()**  
+RSVP is required before the meeting starts. **[Sign up here](https://zoom-lfx.platform.linuxfoundation.org/meeting/96647744193?password=2eca0a51-4ed2-485e-a954-f7a55bebf9b2)**  
 
 ### Guest Presentation Details  
 
