@@ -9,10 +9,12 @@
 ### RSVP
 
 RSVP is required before the meeting starts. Sign up [here]()
-Guest Presentation Details
 
-This topic explores how data-driven methods can enhance Ant Group's OSPO strategies. It introduces practices that support the incubation of open-source projects and the cultivation of open-source talent within and outside the company. By offering contribution-based evaluation metrics, data insights, and tools, combined with operational program mechanisms, Ant Group's OSPO fosters an engineering culture, aids project growth, and strengthens the company's tech brand.
-Full Agenda
+### Guest Presentation Details
+
+TOYOTA's OSPO was established in January 2024. Over the past year, we have visualized the communities that interest engineers within the company and the automotive industry. Based on this, we have identified key activities to focus on and have worked to revitalize these activities. In this session, I will summarize our activities in 2024 and introduce our plans for 2025.
+
+### Full Agenda
 
 - Welcome by Ana Jimenez (5 mins)
 - Guest Presentation: TOYOTA OSPO in One Year and Next Journey (15 mins + 5 mins Q&A)
@@ -21,7 +23,7 @@ Full Agenda
    -  OSPO Book updates by Alice or Fernando (3 mins)
 - Open Forum under Chatham House Rules (30 mins)
 
-Other Meeting Details
+### Other Meeting Details
 
 - Meeting ID:
 - Meeting Passcode:
