@@ -10,7 +10,7 @@ RSVP is required before the meeting starts. **[Sign up here](https://zoom-lfx.pl
 
 ### Guest Presentation Details  
 
-Hitachi OSPO is promoting both business and OSS community contribution. Yuichi will show examples of collaboration with LF leaders and staffs to launch new activities.  
+Hitachi OSPO is promoting both business and OSS community contributions. Yuichi will show examples of collaboration with LF leaders and staff to launch new activities.  
 
 ### Full Agenda  
 - **Welcome** by Ana Jimenez (5 mins)  
