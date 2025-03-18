@@ -1,2 +1,12 @@
 # add ospology-book-reviewers team to pull request that changes any file within the english book content
-/ospo-book/content/en/*.md     @todogroup/book-reviewers
+/ospo-book/content/en/*.md           @todogroup/book-reviewers
+
+# add ospology-book-infra to pull requests regarding spellcheck infra
+/.vale.ini                           @todogroup/ospology-book-infra
+/.vale.tmpl                          @todogroup/ospology-book-infra
+/.vale                               @todogroup/ospology-book-infra
+/.github/workflows/review-docs.yaml  @todogroup/ospology-book-infra
+
+# secure the repository
+/CODEOWNERS                          @anajsana
+/.github/settings.yml                @anajsana
