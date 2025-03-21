@@ -35,5 +35,5 @@ The translation files are located within a dedicated directory in the project st
  - **Context is Crucial:** Understand the context of each phrase or word within the website. A single English word can have multiple translations depending on how it's used.
  - **Maintain Consistency:** Ensure consistency in your terminology throughout the translation. If you translate a term one way, stick with that translation across all files.
  - **Use Natural Language:** Aim for translations that sound natural and idiomatic. Avoid overly literal translations that might sound awkward.
- - **Respect Formatting:** Pay attention to any formatting within the original English text (e.g., bold, italics). Preserve this formatting in your translations where appropriate.
+ - **Respect Formatting:** Pay attention to any formatting within the original English text (e.g. bold, italics). Preserve this formatting in your translations where appropriate.
  - **Handle Placeholders:** Some strings might contain placeholders (e.g., `%s`, `{}`). Ensure these placeholders are correctly placed and handled in your translations.
