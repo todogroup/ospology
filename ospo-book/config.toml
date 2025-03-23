@@ -65,6 +65,12 @@ languageName ="中文(Chinese)"
 contentDir = "content/zh"
 weight = 2
 
+[languages.pt-br]
+title = "OSPO Book"
+languageName ="Português (Brasil)"
+contentDir = "content/pt-br"
+weight = 3
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
