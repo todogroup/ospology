@@ -1,0 +1,19 @@
+{
+  "name": "OSPOlogy",
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "features": {
+    "ghcr.io/shinepukur/devcontainer-features/vale:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "chrischinchilla.vale-vscode"
+      ],
+      "settings": {
+        "vale.enableSpellcheck": true,
+        "vale.readabilityProblemLocation": "both",
+        "vale.valeCLI.path": "/usr/bin/vale"
+      }
+    }
+  }
+}
