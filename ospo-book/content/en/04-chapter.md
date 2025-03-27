@@ -5,6 +5,7 @@ weight: 60
 ---
 
 - [Introduction](#introduction)
+- [Security](#security)
 - [Daily Operations using the OSPO MindMap and Activity Engagement Models](#assessing-daily-operations-using-the-ospo-mindmap-and-activity-engagement-models) - `✅ Assessment`
 - [Recommendations](#recommendations) - `💡 Recommendations`
 - [Resources](#resources-tbd) - `📚 Continue Here`
@@ -30,6 +31,19 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 - **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the [OSPO flower diagram in Chapter 3](../03-chapter/#the-ospo-flower-diagram) for help mapping interactions.
 
 - **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
+
+## Security
+
+Before we discuss daily operations, it's important to provide a few comments about security. In some ways, security is simply a requirement like any other requirement. However, many software developers and their managers received inadequate training and education about security. In addition, security is about countering intelligent adversaries, and it's generally an emergent property (it isn't usually isolated to a single place). Open source software has a *potential* security advantage (it has an "open design" and undergo mass peer review), not all potentials are realized.
+
+Managers of software developers (open or closed source) should have at some training in how to manage development of *secure* software. Those who haven't may want to take the free [Open Source Security Foundation (OpenSSF)](https:;//openssf.org) course [*Security for Software Development Managers (LFD125)*](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/).
+
+Anyone who develops software that may deployed in the European Union (EU), or manages those developers, needs to learn the basics of the EU Cyber Resilience Act (CRA). If you have not, you may want to take the free OpenSSF course *Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)*.
+
+Anyone who develops software should take a course in how to develop secure software. Those who have not may want to take the free OpenSSF course [*Developing Secure Software (LFD121)*](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/). They may also want to consult other resources from the [OpenSSF](https:;//openssf.org), in particular:
+
+* [Concise Guide for Developing More Secure Software](https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software)
+* [Concise Guide for Evaluating Open Source Software](https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software)
 
 ## Daily Operations Using the OSPO MindMap and Activity Engagement Models
 
