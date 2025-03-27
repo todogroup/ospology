@@ -8,5 +8,5 @@
 /.github/workflows/review-docs.yaml  @todogroup/ospology-book-infra
 
 # secure the repository
-/CODEOWNERS                          @anajsana
-/.github/settings.yml                @anajsana
+/.github/CODEOWNERS                  @todogroup/steering-committee @anajsana
+/.github/settings.yml                @todogroup/steering-committee @anajsana
