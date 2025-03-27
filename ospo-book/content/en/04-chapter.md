@@ -34,7 +34,7 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 
 ## Security
 
-Before we discuss daily operations, it's important to provide a few comments about security. In some ways, security is simply a requirement like any other requirement. However, many software developers and their managers received inadequate training and education about security. In addition, security is about countering intelligent adversaries, and it's generally an emergent property (it isn't usually isolated to a single place). Open source software has a *potential* security advantage (it has an "open design" and undergo mass peer review), not all potentials are realized.
+Before we discuss daily operations, it's important to provide a few comments about security. In some ways, security is simply a requirement like any other requirement. However, many software developers and their managers received inadequate training and education about security. In addition, security is about countering intelligent adversaries, and it's generally an emergent property (it isn't usually isolated to a single place). Open source software has a *potential* security advantage (it can undergo mass peer review and better meets a security principle called "open design"), however, not all potentials are realized.
 
 Managers of software developers (open or closed source) should have at some training in how to manage development of *secure* software. Those who haven't may want to take the free [Open Source Security Foundation (OpenSSF)](https:;//openssf.org) course [*Security for Software Development Managers (LFD125)*](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/).
 
