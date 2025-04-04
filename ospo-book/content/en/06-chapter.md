@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Measuring and Communicating Impact by your OSPO"
+title: "Chapter 6: Measuring and Communicating Impact by your OSPO"
 status: Completed
 weight: 70
 ---
