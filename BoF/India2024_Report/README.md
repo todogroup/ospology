@@ -30,9 +30,11 @@
   - How might we navigate the challenges of moving away from upstream development, and why do we choose to fork?
   - How might we align different expectations from Open Source projects to avoid major bottlenecks?
    
-📋[Bibliography](./Bibliography.md)
+📋 [Bibliography](./Bibliography.md)
 
-🗂️[Appendix](./Apendix.md)
+🗂️ [Appendix](./Apendix.md)
+
+📑 [Report PDF](./Report.pdf)
 
 ---
 
@@ -44,11 +46,11 @@ This is a live document, and we welcome new contributors to help improve the con
 - Lenka Bočincová, Community Architect, Red Hat
 - Ansh Arora, Program Manager, FOSS United
 - Apoorva Paliwal, Engineering Manager Infrastructure and FinOps
-- Madhur Jain, add Role, Canonical
-- Prabhulingamma
+- Madhur Jain, Software Engineering, Canonical
 - Vaishali Rawat, Community Engineer, GadflyAI
 - Rahul Dang, Technical Product Manager, Capgemini Engineering
-- Vipul Gupta,add Role, Balena
+- Vipul Gupta, Senior Software Engineer, Balena
+- Justin W. Wheeler, Fedora Community Architect, Red Hat
 - Satyam Bhardwaj, Software Engineer in OSPO, Mirantis
 - Swarnim Arun, Software Developer, Cedana AI
 - Ana Jiménez Santamaría, Project Manager, TODO Group
