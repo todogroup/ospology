@@ -9,7 +9,7 @@ challenges and its strategic value in security, innovation, and collaboration wi
 |                                          Organization                                                   |                                        Conference                                                    |
 |                                              ---                                                        |                                            ---                                                       |
 | <img src="https://github.com/user-attachments/assets/0f53c089-14a8-4b3a-b0c3-e3077b021979" width="150"> | [KubeCon + CloudNativeCon Europe 2024](https://kccnceu2024.sched.com/event/1a9q9/ospo-bof-happy-hour)|
-|                                                                                                         | [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/experiences/#open-source-program-office-bof)|
+| <img src="https://github.com/user-attachments/assets/0f53c089-14a8-4b3a-b0c3-e3077b021979" width="150">  | [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/experiences/#open-source-program-office-bof)|
 |                                                                                                         | 2025 List - Coming Soon |
 
 > If you are part of an Open Source Project or Foundation that made use of this framework and wish to be listed as adopter, please open a PR and edit this section of the README.md file
