@@ -44,7 +44,16 @@ weight: 10
 * Identify common scenarios and recommendations.
 * Present a use case highlighting specific OSPO responsibilities.
 
-## Chapter 5: Measuring the success and impact of your OSPO
+## Chapter 5: Managing Open Source Security
+
+> 🎯 Expected discussion topics to be covered:
+
+* Discuss the importance of OSPOs in securing the open source software supply chain.
+* Explore training and education for developers and managers on secure software development practices.
+* Outline key steps for developing secure software and for selecting and using open source software securely.
+* Describe ways to assess the security of open source software, including tools and best practices.
+
+## Chapter 6: Measuring the success and impact of your OSPO
 
 > 🎯 Expected discussion topics to be covered:
 
@@ -53,10 +62,6 @@ weight: 10
 * Introduce the Goal-Question-Metric (GQM) approach for assessing OSPO success and the work done in CHAOSS.
 * Identify common scenarios and recommendations.
 * Present a use case showcasing the successful measurement of OSPO impact in the organization and open source projects & communities.
-
-## Chapter 6: Community Proposal topics
-
-> 🎯 Expected discussion topics to be covered:
 
 Under discussion:
 
