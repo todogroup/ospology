@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Security"
+title: "Chapter 5: Managing Open Source Security"
 status: Completed
 weight: 60
 ---
