@@ -5,231 +5,248 @@ weight: 40
 ---
 
 - [Introduction](#introduction)
-- [Assessing Value of Open Source Activity](#assessing-value-of-open-source-activity) - `✅ Assessment`
-- [Recommendations](#recommendations) - `💡 Recommendations`
-- [Resources](#resources) - `📚 Continue Here`
+- [How Could Your OSPO Add Value?](#how-could-your-ospo-add-value)
+  - [If You Make Software](#if-you-make-software)
+    - [How the OSPO Helps](#how-the-ospo-helps)
+  - [If You Deliver Public Services](#if-you-deliver-public-services)
+    - [How the OSPO Helps](#how-the-ospo-helps-1)
+  - [As a Cultural Influence](#as-a-cultural-influence)
+    - [How the OSPO Helps](#how-the-ospo-helps-2)
+  - [As an Intermediate Step to a Decentralized Open Source Management Model](#as-an-intermediate-step-to-a-decentralized-open-source-management-model)
+- [Applying This to Your Organization](#applying-this-to-your-organization)
+  - [Assess the Value of Open Source Use](#assess-the-value-of-open-source-use)
+  - [Consider what Value Your OSPO Might Bring in the Future](#consider-what-value-your-ospo-might-bring-in-the-future)
+  - [Communicate with Stakeholders](#communicate-with-stakeholders)
+- [Examples of the OSPO's value](#examples-of-the-ospos-value)
+  - [Managing a Vulnerability in the Software Supply Chain](#managing-a-vulnerability-in-the-software-supply-chain)
+    - [How the OSPO Helps](#how-the-ospo-helps-3)
+  - [Managing a Licence Change in the Software Supply Chain](#managing-a-licence-change-in-the-software-supply-chain)
+    - [How the OSPO Helps](#how-the-ospo-helps-4)
+- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
+  - [Problem](#problem)
+  - [Recommendation](#recommendation)
+  - [Problem](#problem-1)
+  - [Recommendation](#recommendation-1)
+  - [Problem](#problem-2)
+  - [Recommendation](#recommendation-2)
+  - [Problem](#problem-3)
+  - [Recommendation](#recommendation-3)
+- [Footnotes and Resources](#footnotes-and-resources)
+  - [Footnotes](#footnotes)
+  - [Resources](#resources)
 
 ## Introduction
 
-Organizations of various types – including end-user companies, software vendors, universities, and public administrations – maintain a relationship with open source. To responsibly manage software and hardware, content, and other aspects of technology, organizations must engage with open source. This involves finding ways to integrate such culture and operations into their IT strategy and technology and AI stacks. Establishing an organizational structure is a crucial first step to solidify commitment. This is where an Open Source Program Office (OSPO) becomes important. It helps organizations to achieve their objectives and overcome challenges related to open source.
+Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source compenents. 
 
-> 💡 OSPOs put the focus on _integration_, not _isolation_
+For many organizations, it's worth considering how actively managing their relationship with open source can bring benefits and reduce risks.  As mentioned in the previous chapter, this involves understanding the current use of open source and then assessing how this could be managed better to support organizational goals.
 
-### Supply Chain and Open Source
+This chapter will help you to understand the possible areas where managing open source through an OSPO can bring value to your organization. This will be different for every organization, so knowing your organization's strategy and goals is important.
 
-Sometimes, organizational stakeholders may assume that their product isn't using any open source components because their end product is proprietary. However, when you look at the [entire software supply chain](https://opensource.com/article/16/12/open-source-software-supply-chain) you can see that your proprietary software contains open source dependencies or artifacts. If the contributors working on those open source projects were to leave, the project could become obsolete or a target for security vulnerabilities. This affects the proprietary software the organization uses or sells, directly impacting its reputation, performance, or revenue.
+The work of an OSPO is to understand where open source can bring value to its organization, and to actively manage or oversee all related activities.
 
-#### Common challenges when managing open source integration
+## How Could Your OSPO Add Value?
 
-Organizations may encounter issues when managing open source components that are integrated into their technology infrastructure. If these issues are ignored or neglected, they can lead to mid-term and long-term innovation bottlenecks and security vulnerabilities. It’s important to understand the unique factors that make open source different.
+### If You Make Software
+ This is a common and relatively comprehensive use case for an OSPO. Other organizations may only need to consider a subset of these issues.
 
-- **Vulnerability management can be hard:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization and to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
+Sometimes, organizational stakeholders assume that their product isn't using any open source components because their end product is not open source. However, when you look at the entire software supply chain you can see that your nearly all software contains open source dependencies or artifacts. If the contributors working on those open source projects decided to leave, the project could become obsolete or a target for security vulnerabilities. This affects any software the organization uses or sells, and could directly impact its reputation, performance, or revenue.
 
-- **It can take a lot of work to understand the complexity of the open source supply chain:** The open source landscape is large and decentralized, and it can be hard to identify who the contributors to individual projects are and to perform risk assessments on the identified projects. These factors can make it challenging for organizations to accurately assess risks and to comprehend the security and quality standards of the software, hardware, data, etc.
+An OSPO can help by understanding and actively managing use of open source compenents in your software. 
 
-- **There can be a tension between the need to ship product features and the need to contribute back to open source:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products mean that open source contributions may take a back seat when things get busy. Even it is known that contributing features and bugfixes to upstream is less effort on long term than to maintain a fork of the project oprganisations often optimize for short term benefits and do not spend the extra effort to upstream the changes.
+#### How the OSPO Helps
 
-- **It takes time and planning to collaborate effectively with the community and industry:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities ([see Log4Shell real vulnerability example](https://en.wikipedia.org/wiki/Log4Shell)). It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organization strategy and provides value to the open source projects is a good way to be a helpful community member. 
+- **Managing Vulnerabilities:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization and to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
 
-- **Your organization’s procurement may never be fully met when you adopt open source components:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
+- **Understanding Risks in the Supply Chain:** The open source landscape is large and decentralized, and it can be hard to identify who the contributors to individual projects are and to perform risk assessments on the identified projects. These factors can make it challenging for organizations to accurately assess risks and to comprehend the security and quality standards of the software, hardware, data, etc.
 
-- **Your colleagues may lack understanding of open source:** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
+- **Building Healthy Relationships with Key Open Source Projects:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products mean that open source contributions may take a back seat when things get busy. Even it is known that contributing features and bugfixes to upstream is less effort on long term than to maintain a fork of the project oprganisations often optimize for short term benefits and do not spend the extra effort to upstream the changes.
 
-To fully overcome these challenges, organizations must invest in properly managing open source operations on both cultural and practical levels. The *how* of accomplishing this is often through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments.
+- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organization strategy and provides value to the open source projects is a good way to be a helpful community member. 
 
-> 💡 OSPOs foster cross-functional collaboration
+- **Bridging the Gap Between Regulated Processes and Open Source Processes:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
-But how exactly can an OSPO enable cross-functional collaboration? Why and how does this cross-functional collaboration aid in achieving the organization's goals? Additionally, why is this cross-functional collaboration essential for the creation and long-term sustainability of an OSPO within the organization?
+- **Improving Open Source Literacy to Ensure a High-Benefit, Low-Risk Approach:** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
 
-### OSPO value perception
+To get the most benefit from open source, and to reduce the risks, organizations must invest in properly managing open source operations on both cultural and practical levels. This is often accomplished through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments. The OSPO operates as a center of excellence. 
 
-The emphasis in this section is on the different responsibilities of an OSPO to help manage open source as an ongoing activity and be well integrated into all organization's units. More and more organizations are integrating open source into their regular structures and functions and there is an open question related to whether the OSPO would become an intermediate step to achieve this.
+### If You Deliver Public Services
 
-The answer depends on how you view the OSPO. Beyond the multiple structures the term "OSPO" can imply, it is fundamentally about its people. If we consider the OSPO as a group of open source subject matter experts providing support, knowledge, and management for this integration, this talent must be not only maintained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
+#### How the OSPO Helps
 
-In an ideal scenario, open source knowledge, technical expertise, and culture should be integrated as any other employee skill. However, the reality is that this is far from true. Currently, it is challenging to find open source experts who can effectively bridge the gap between open source communities and specific work units (e.g., security, legal, business).
+We see that more public sector organizations are realising the value of an Open Source Programme Office to achieve their digital policy goals to better serve their citizens, and to transform their organizations toward achieving these goals.
 
-What might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
+Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
 
-![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
+- **Improving Compliance:** An OSPO helps to ensure that their open source operations are compliant with relevant laws and regulations, including data privacy laws, procurement regulations, and transparency requirements. This helps organizations to avoid costly legal and regulatory challenges, and to maintain their reputation as responsible public sector organizations.
 
-_[Source: OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
+- **Increasing Collaboration:** An OSPO helps to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
 
-### Reasons and Value of Investing in a Resilient OSPO
+- **Improving Resource Allocation:** An OSPO helps to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
 
-In a world governed by software, open source projects offer solutions to the mission-critical problems organizations wish to address, whether social-economic (governments, NGOs) or technological (companies). Integrating open source into an organization's infrastructure and operations encompasses various objectives, such as risk management, innovation, and the sustainability of the open source communities they rely on. To achieve effective integration, organizations need the right staff to operate and the necessary talent to manage such operations. This is where the mission of an OSPO comes into play. Go to “[tips on how to get started with an OSPO](#tips-on-how-to-get-started-with-an-ospo)” sub-section to see some practical advice on when starting to staff an OSPO.
+- **Improving Service Delivery:** An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens, and to meet the changing needs of their communities.
 
-On the other hand, stopping the work of an OSPO could have significant negative impacts on those organizations that use open source (directly or indirectly) at any level, including loss of open source expertise, increased security and legal risks, reduced community engagement, and damage to reputation.
+The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. See the Resources section at the end of the chapter for a URL. 
 
-> 💡 _Open Source is a silent critical need_
+### As a Cultural Influence
 
-An OSPO needs to be an ongoing initiative within an organization in order to evolve its culture and open source knowledge, helping the organization to contribute to and build more secure open source software, as well as improving the sustainability of open source projects.
+In a world governed by software, Open Source Program Offices (OSPOs) serve as powerful cultural catalysts within organizations. Beyond simply managing technical integration of open source solutions, OSPOs fundamentally transform organizational culture by fostering open collaboration, transparency, and innovation. 
 
-The different roles and pillars of support of an OSPO shared below can help readers understand why it should be viewed as a critical area to maintain and nurture within an organization, rather than just a pet project with an expiration date.
+As organizations increasingly rely on open source for mission-critical problems — whether social, economic, or technological — the OSPO's cultural influence becomes essential in reshaping mindsets and workflows. This cultural shift enables organizations to move beyond viewing open source as merely a resource to extract value from, toward becoming active, contributing members of the broader open source ecosystem. By embedding open source values and practices throughout an organization, OSPOs cultivate internal champions, establish collaborative norms, and nurture a culture where knowledge sharing thrives. 
+
+This cultural transformation not only supports risk management and innovation but ensures the sustainability of the open source communities they depend on. Without an OSPO's ongoing cultural influence, organizations risk losing open source expertise, increasing security and legal vulnerabilities, reducing community engagement, and damaging reputation. 
+
+Open Source is a silent critical need, and an OSPO's cultural impact is vital to evolve organizational culture and knowledge, helping to build more secure and sustainable open source software.
+
+#### How the OSPO Helps
 
 - **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers do not have to consider the business implications of different open source engagement models every time they try to solve a problem.
 
 - **Acts as a Facilitator:** The OSPO also plays a sort of translation role between the organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
 
-- **Acts as an Advocate:** OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
+- **Acts as an Advocate:** OSPOs can promote the use of open source and its best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
 
 - **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
 
 - **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
 
+
 ![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
 
+### As an Intermediate Step to a Decentralized Open Source Management Model
 
-#### Tips on how to get started with an OSPO
+OSPOs help manage open source as an ongoing activity and work to integrate it well into all an organization's units. Some organizations are going a step further to take ownership of the full management of open source within their regular structures and functions. There is an open question related to whether the OSPO would become an intermediate step to achieve this.
 
-The [business value of the OSPO report](https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by open source leaders across different industries and organization sizes.
+The answer depends on how you view the OSPO. Beyond the multiple different structures an OSPO can have, it is fundamentally about its people. An OSPO is a group of open source subject matter experts providing support, knowledge, and management relating to all open source activities. These people must be not only retained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
 
-- Building standardized processes around open source
-- Learning how to approach the open source community
-- Embracing the Sustainability of open source projects
-- Managing compliance
-- Expanding access to open knowledge
-- Improving development velocity
-- Mitigating security risks
+In an ideal scenario, open source knowledge, technical expertise, and culture should be integrated as any other employee skill. However, the reality is that this is a long way from happening. Currently, it is challenging to find open source experts who can effectively bridge the gap between open source communities and specific work units (e.g., security, legal, business), let alone enough people to place in every part of the business. 
 
-### Interlude
+However, what might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
 
-#### A perspective of open source in public administrations
+![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
 
-We can see that [more public sector organizations are realising the value of an Open Source Programme Office](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government) to not only achieve their digital policy goals to better serve their citizens but also to transform their organizations toward achieving these goals.
-Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
+_[Source: OSPOs, key lever for open source sustainability][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-- Improved Compliance: An OSPO helps to ensure that their open source operations are compliant with relevant laws and regulations, including data privacy laws, procurement regulations, and transparency requirements. This helps organizations to avoid costly legal and regulatory challenges, and to maintain their reputation as responsible public sector organizations.
 
-- Increased Collaboration: An OSPO helps to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
+## Applying This to Your Organization
+### Assess the Value of Open Source Use
 
-- Better Resource Allocation: An OSPO helps to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology, and to drive innovation and growth.
-
-- Improved Service Delivery: An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens, and to meet the changing needs of their communities.
-
-The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. Check `📚 Continue Here` at the end of this chapter.
-
-#### A broader view of open source
-
-By extending the concept of _open_ to encompass (for instance) open research, design, or access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where terms other than open source are sometimes used instead, such as [open technology](https://www.researchgate.net/publication/254920512_Open_Technology#pf7) or open work. However, since these terms are not as well-known among organizations, many of them still use open source as a term to indicate activities beyond software.
-
-For an OSPO it can be a challenge where to put boundaries on what topics to cover and to focus on. While values and general procedures are similar for different topics put under the umbrella of open, other aspects can differ significantly, such as legal or technical questions. The OSPO should strike a balance here and be clear about what it has the resources and expertise to cover and what it has to delegate to other parts of the organization. It still will be a point of contact.
-
-For example, many people will not see a difference between open data and open source software and approach the OSPO for questions about open data. However, many organizations will have specific functions and roles for data governance the OSPO can then refer to. 
-
-![opensourceswiss-knife](https://github.com/todogroup/ospology/assets/43671777/402151df-1c98-42e3-99cc-c1377ff8ca60)
-Source: Khalil Khalaf - The Pros and Cons of Open Source Software
-
-> Note: You may have noticed that in this book, when referring to open source, we also include other kinds of open initiatives beyond software, such as hardware, data, etc.
-
-## Assessing the value of open source usage
-
-`✅ Assessment`
-
-Organizations may underestimate how much they already depend on the usage (also called consumption) of open source. Several studies analyze the usage of open source software in the industry. For example, the [Synopsys Open Source Security and Risk Analysis Report 2024](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf) finds that the average software project consists of 77% open source software. Additionally, a [Harvard Business School study](https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf) estimates that the supply-side value of widely-used open source software is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a [study by OpenForum Europe](https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/) estimates that open source software contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
+Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of open source software in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024*[2] finds that the average software project consists of 77% open source software. Additionally, a *Harvard Business School study*[3] estimates that the supply-side value of widely-used open source software is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe[4] estimates that open source software contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
 
 Assess this value for your own organization by taking steps such as:
 
-- Collect information about open source software used by your development and operations teams
-- Get clarity about the software composition of commercial software you buy or services you use, ask vendors for what open source software they use, e.g. by requesting Software Bill of Materials (SBOMs)
-- Assess value by evaluating what costs would occur by using alternative proprietary solutions and components
-- Take factors such as speed of innovation or engineering agility into account
+- Collecting information about what open source software is used by your development and operations teams.
+- Getting a clear view of what open source components are in the commercial software you buy or services you use, ask vendors for what open source software they use, e.g. by requesting Software Bill of Materials (SBOMs).
+- Assessing the cost savings of current open source use by evaluating what it would cost if you had to replace it with commercial alternatives.
+- Evaluating how using existing open source components can increase the speed of innovation or engineering agility.
 
-## Communication with decision makers to share the value of open source contributions
+### Consider what Value Your OSPO Might Bring in the Future
+The value of an OSPO to your organization may increase over time as strategy and goals of your organization change. Your OSPO should regularly review its value to the organization, and plan to increase its maturity level if needed. More information about OSPO maturity is available in Chapter 3 where the topic of Maturity Models is introduced.
 
-`✅ Assessment`
+### Communicate with Stakeholders
+When communicating the value of your OSPO to your organization, the best route forward is to present the top 2-3 areas of value that are most clearly aligned to organizational strategy. There may be many other areas where the OSPO adds value but research shows that a long list of benefits can weaken the business case rather than strengthen it (you can search for the "Weak Argument Effect" online for more information).  Work on a clear, compelling short value proposition that will cut through, and use it as an anchor for presenting the OSPO in all situations. 
 
-In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18)).
+Don't rely on general "good practice" arguments. Though these may be based in truth, they are not usually very compelling and don't help to build strong buy-in across the organization. 
 
-It is important to be clear that the following steps are not mandatory, but a set of recommended guidelines that organizations can adapt to assess the value of open source contributions.
-
-### How do you assess open source activity engagement?
-
-A good practice can be to make use of a maturity model to better map the different activities and present them to decision-makers. Thus, we recomend to get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address the organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
-
-There is a wide variety of open source maturity models –for governments, NGOs, Enterprises– with versions and subversions. In this book, we briefly share two of the most common ones used for open source adoption:
-
-#### Maturity Model 1 - Open source engagement adoption by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
+Don't rely on the value of your OSPO meeting speculative future needs. It's great to be prepared, but unless there is a clear initiative that is about to start which your OPSO can help with, it's better to focus on the value you can deliver here and now. 
 
 
-* Denial - No or unconscious use of open source
-* Consumption / Usage - Passive use of open source software
-* Participation - Engagement with open source communities
-* Contribution - Pragmatic contributions to open source projects
-* Leadership - Strategic involvement with open source to drive business value
+## Examples of the OSPO's value
+To illustrate how your OSPO may deliver value to your organization, some example stories can be a great way to build buy-in. Here are two examples where an OSPO could be vitally important:
 
-![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
+### Managing a Vulnerability in the Software Supply Chain
 
-#### Maturity Model 2 - Five stages or corporate open source adoption talk by [Carl-Eric](https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/)
+For example: a social engineering attack targeted the xz/liblzma[5], an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
 
-* Accidental - open source is used by the organisation without knowing that it is used
-* Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
-* Directed - active participation incritical open source projects
-* Collaborate - open source collaboration is used as a tool to create business value
-* Prevail - open source is used to influence strategic areas of the business and technology
+ #### How the OSPO Helps
 
-![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
+ 1. **SBOMs Compliance Ready:** Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
 
-## How do you identify and categorize the benefits of open source activities for your organization?
+1. **Automation Security Checks:** Implement automated security checks, such as the OpenSSF Scorecard[6], to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation. 
+   
+2.  **Having a Computer Emergency Response Team (CERT)** within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
 
-Once you have a certain familiarity with open source adoption models, the next natural question to ask is _What are the benefits of open source activities for the organization?_
+3. **Scorecard Management:** Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
 
-The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, meets on the fourth Friday of every month. The group has been developing a simple frequently asked questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
+4. **Automated Feedback Loops:** Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
 
-![benefits-of-oss](https://github.com/todogroup/ospology/assets/43671777/73acdc21-058e-406c-b01f-967074d25c1b)
+### Managing a Licence Change in the Software Supply Chain
 
-![ospo-role](https://github.com/todogroup/ospology/assets/43671777/8dbcf056-446c-489d-9b40-07fc2a8c331c)
+ OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When projects like Redis change their terms[7] it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The AlmaLinux OS Foundation[8] presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
 
-> You can find a summary of their work in both Japanese and English [in this Qiita article written by one of its members](https://qiita.com/owada-k/items/017d1b98d0e437766bd0)
+#### How the OSPO Helps
+
+1. **Educational Initiatives on License Implications:** Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open source projects.
+2. **Explicit License Terms:** Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
+3. **Software Trust Rating System:** Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
+4. **Encourage Foundation Hosted Projects:** Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like AlmaLinux to illustrate the benefits of this approach, such as increased trust and community support.
+5. **Stakeholder Engagement in License Decisions:** Engage a broad range of stakeholders, including developers, legal advisors, and end users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
 
 
-## How do you initiate conversations outside the OSPO and define unique motivators?
-
-Have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
-
-## How do you map motivators with different activity types across the organization?
-
-Create a second division that categorizes each of these unique motivators according to the different stages within the previously mentioned OSPO model, or a similar model as referenced in step 2.
-As an example, below is a possible categorization, proposed by one of the contributors to this book.
-
-<img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
-
-## Recommendations
-
-`💡 Recommendations`
+## Possible Problems and how to Overcome Them
 
 In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
 
-### Scenario #5
+### Problem
 There is a lack of understanding about open source practices across the organization.
 
-> Recommendation: Promote organizational-wide understanding of open source practices through the OSPO by offering educational workshops, creating accessible resources, and establishing open source
-> champions in different departments to foster a culture of open source literacy
+### Recommendation
+It can be hard to demonstrate the value of the OSPO if there is a poor understanding of open source in the organization. Focusing on speaking about your key areas of value, and using the power of stories will help you to quickly build understanding in the organization. Sharing real-world stories about how your organization is using open source, and sharing cautionary tales about times an OSPO saved an organization from a risk can help to educate people through easily-repeated narratives. 
 
-### Scenario #6
-An OSPO is seen as a Sales Profit or Marketing Tool.
+As time goes by, you can start to promote better organizational-wide understanding of open source practices by offering educational workshops, creating accessible resources, and establishing open source champions in different departments to foster a culture of open source literacy. 
 
-> Recommendation: Ensure that the OSPO is recognized as an integral part of the organization's digital, software, or IT strategy, rather than as a sales profit or marketing tool.
-> Emphasize its role in fostering open source best practices, contributing to technological innovation, and supporting the overall organization's IT / Digital development plan.
+-----
 
-### Scenario #7
-An OSPO is seen as an added value and not as direct support for the core organization’s areas and functions.
 
-> Recommendation: Highlight how the people behind the OSPO with expertise in open source can enhance key business processes, drive innovation, and directly support strategic objectives,
-> thereby integrating it as an essential component of the organization's operational framework
+### Problem
+The OSPO's value is seen as a sales profit or marketing tool.
 
-### Scenario #8
-An OSPO struggles with gaining executive support and buy-in.
-> Recommendation: communicate the strategic value of open source through the OSPO, showcasing tangible benefits through case studies or success stories, and aligning its initiatives with key organizational priorities.
+### Recommendation
+Because the OSPO has a role in supporting relationships with open source communities and partners, it can be natural for sales and marketing to see some value to them in this engagement. 
 
-### Scenario #9
-An OSPO has a technical focus and forgets about open source culture.
-> Recommendation: Embrace the full spectrum of open source culture, which includes transparency, diversity, and cooperation. Encourage the organization to foster an environment where these values are actively promoted and practiced
+As an OSPO you can only fulfil your responsiblities by building trust with third parties over time. Set boundaries with sales ans marketing and say "no" to things that might reduce your reputation in the ecosystem. Work on building internal understanding of the OSPO as an integral part of the organization's digital, software, or IT strategy, and highlight work that fosters open source best practices, contributes to technological innovation, and supports the overall organization's goals.
 
-## Resources
+-----
 
-`📚 Continue Here`
 
+### Problem
+The OSPO's value is seen as secondary or discretionary, and not as critical for the organization’s core functions.
+
+### Recommendation 
+The cause of this problem is either that the OSPO is not aligned with the organizations needs, or that the OSPO is not communicating its value well. Review the OSPO's value, and plan your communications to highlight how the OSPO enhances key business processes, drives innovation, and directly support strategic objectives, thereby integrating it as an essential component of the organization's operational framework.
+
+-----
+
+
+### Problem
+The OSPO struggles with gaining executive support and buy-in.
+
+### Recommendation
+Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague,  or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numeric reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
+
+
+## Footnotes and Resources
+### Footnotes
+[1] Source: OSPOs, key lever for open source sustainability: https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability 
+
+Business value of the OSPO report: https://www.linuxfoundation.org/research/business-value-of-ospo 
+
+[2] Synopsys Open Source Security and Risk Analysis Report 2024: https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf
+
+[3] Harvard Business School study: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+
+[4] Study by OpenForum Europe: https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/ 
+
+[5] Social engineering attack targeted the xz/liblzma: https://research.swtch.com/xz-timeline
+
+[6] OpenSSF Scorecard: https://scorecard.dev/
+
+[7] Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
+
+[8] AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
+
+### Resources
+-  Log4Shell real vulnerability example: https://en.wikipedia.org/wiki/Log4Shell
 - [Open source and the software supply chain - John Mark Walker](https://opensource.com/article/16/12/open-source-software-supply-chain)
 - [Strategy: End Game for FINOS Maturity Model - Victor Lu](https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit#slide=id.g1ed9ae7029f_0_29)
 - [Securing the Software Supply Chain: The Role of OSPOs - Jessica Marz](https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html)
@@ -241,3 +258,4 @@ An OSPO has a technical focus and forgets about open source culture.
 - [Open Source Security and Risk Analysis Report 2022 - Synopsys](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html)
 - [Open Technology - Scheerder, Jeroen & Koymans](https://www.researchgate.net/publication/254920512_Open_Technology#pf7)
 - [The Pros and Cons of Open Source Software - Khalil Khalaf](https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95)
+
