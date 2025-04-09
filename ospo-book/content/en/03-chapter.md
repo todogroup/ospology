@@ -182,3 +182,86 @@ There is a lack of consistency in how open source understanding and value is per
 - [A guide to outbound open source software](https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/)
 - [A deep dive into OSPO](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 
+## TO INCLUDE (from chapter 2)
+
+In this section, we will assess a 4-step process for communicating the value of contributing to open source and going beyond, which the OSPO can use when working with the different teams that engage with open source. (Source: [ospo-book mailing list discussion](https://lists.todogroup.org/g/WG-ospo-book-project/message/18)).
+
+It is important to be clear that the following steps are not mandatory, but a set of recommended guidelines that organizations can adapt to assess the value of open source contributions.
+
+### How do you assess open source activity engagement?
+
+A good practice can be to make use of a maturity model to better map the different activities and present them to decision-makers. Thus, we recomend to get familiar with maturity models of open source adoption. These levels describe how open source is used in an increasingly effective fashion to drive value and address the organization's needs. One of the distinguishing factors for the different maturity levels is how open source contribution and creation are handled in an organization.
+
+There is a wide variety of open source maturity models –for governments, NGOs, Enterprises– with versions and subversions. In this book, we briefly share two of the most common ones used for open source adoption:
+
+#### Maturity Model 1 - Open source engagement adoption by [Dr. Ibrahim H](https://www.linuxfoundation.org/research/guide-to-enterprise-open-source)):
+
+
+* Denial - No or unconscious use of open source
+* Consumption / Usage - Passive use of open source software
+* Participation - Engagement with open source communities
+* Contribution - Pragmatic contributions to open source projects
+* Leadership - Strategic involvement with open source to drive business value
+
+![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
+
+#### Maturity Model 2 - Five stages or corporate open source adoption talk by [Carl-Eric](https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/)
+
+* Accidental - open source is used by the organisation without knowing that it is used
+* Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
+* Directed - active participation incritical open source projects
+* Collaborate - open source collaboration is used as a tool to create business value
+* Prevail - open source is used to influence strategic areas of the business and technology
+
+![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
+
+## How do you identify and categorize the benefits of open source activities for your organization?
+
+Once you have a certain familiarity with open source adoption models, the next natural question to ask is _What are the benefits of open source activities for the organization?_
+
+The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, meets on the fourth Friday of every month. The group has been developing a simple frequently asked questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
+
+![benefits-of-oss](https://github.com/todogroup/ospology/assets/43671777/73acdc21-058e-406c-b01f-967074d25c1b)
+
+![ospo-role](https://github.com/todogroup/ospology/assets/43671777/8dbcf056-446c-489d-9b40-07fc2a8c331c)
+
+> You can find a summary of their work in both Japanese and English [in this Qiita article written by one of its members](https://qiita.com/owada-k/items/017d1b98d0e437766bd0)
+
+
+## How do you initiate conversations outside the OSPO and define unique motivators?
+
+Have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
+
+## How do you map motivators with different activity types across the organization?
+
+Create a second division that categorizes each of these unique motivators according to the different stages within the previously mentioned OSPO model, or a similar model as referenced in step 2.
+As an example, below is a possible categorization, proposed by one of the contributors to this book.
+
+<img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
+
+
+
+#### Tips on how to get started with an OSPO
+
+The [business value of the OSPO report https://www.linuxfoundation.org/research/business-value-of-ospo) explains some of the reasons shared by open source leaders across different industries and organization sizes.
+
+- Building standardized processes around open source
+- Learning how to approach the open source community
+- Embracing the Sustainability of open source projects
+- Managing compliance
+- Expanding access to open knowledge
+- Improving development velocity
+- Mitigating security risks
+
+#### A broader view of open source
+
+By extending the concept of _open_ to encompass (for instance) open research, design, or access, we can identify additional benefits that these practices bring to organizations. This broader view of openness is gaining traction in academic and public sectors, where terms other than open source are sometimes used instead, such as [open technology](https://www.researchgate.net/publication/254920512_Open_Technology#pf7) or open work. However, since these terms are not as well-known among organizations, many of them still use open source as a term to indicate activities beyond software.
+
+For an OSPO it can be a challenge where to put boundaries on what topics to cover and to focus on. While values and general procedures are similar for different topics put under the umbrella of open, other aspects can differ significantly, such as legal or technical questions. The OSPO should strike a balance here and be clear about what it has the resources and expertise to cover and what it has to delegate to other parts of the organization. It still will be a point of contact.
+
+For example, many people will not see a difference between open data and open source software and approach the OSPO for questions about open data. However, many organizations will have specific functions and roles for data governance the OSPO can then refer to. 
+
+![opensourceswiss-knife](https://github.com/todogroup/ospology/assets/43671777/402151df-1c98-42e3-99cc-c1377ff8ca60)
+Source: Khalil Khalaf - The Pros and Cons of Open Source Software
+
+> Note: You may have noticed that in this book, when referring to open source, we also include other kinds of open initiatives beyond software, such as hardware, data, etc.
