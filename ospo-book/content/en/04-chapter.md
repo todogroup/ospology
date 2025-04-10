@@ -5,13 +5,25 @@ weight: 60
 ---
 
 - [Introduction](#introduction)
-- [Daily Operations using the OSPO MindMap and Activity Engagement Models](#assessing-daily-operations-using-the-ospo-mindmap-and-activity-engagement-models) - `✅ Assessment`
-- [Recommendations](#recommendations) - `💡 Recommendations`
-- [Resources](#resources-tbd) - `📚 Continue Here`
+- [Understanding Activities](#understanding-activities)
+  - [The OSPO MindMap](#the-ospo-mindmap)
+  - [Activities by Maturity Stage](#activities-by-maturity-stage)
+    - [STAGE: Consumer](#stage-consumer)
+    - [STAGE: Participant](#stage-participant)
+    - [STAGE: Contributor](#stage-contributor)
+    - [STAGE: Leadership](#stage-leadership)
+- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
+  - [Problem](#problem)
+  - [Recommendation](#recommendation)
+- [Footnotes and Resources](#footnotes-and-resources)
+  - [Footnotes](#footnotes)
+  - [Resources](#resources)
 
 ## Introduction
 
-OSPO day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
+Once you have your strategy, you need a plan. Your plan will be to create and execute on a set of regular activities that deliver your strategy. This chapter will help you understand what the range of an OSPO’s activities are, and what value each one delivers to your org. 
+
+An OSPO's day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
 
 - **Direct Open Source Support:** Involves answering questions on all aspects of open source, including license compliance, selecting open source software, and interactions with vendors. It also includes engaging with the community and partners, securing sponsorships, and organizing open source events.
   
@@ -27,22 +39,21 @@ OSPO day-to-day operations encompass a broad spectrum of activities aimed at enh
 
 - **Measuring Technical Debt:** Providing knowledge on how to measure the technical debt on an open source project helps to determine the risks associated with the project and, when done in collaboration with the project community, is a form of educational advocacy to help projects improve and sustain themselves.
 
-- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the [OSPO flower diagram in Chapter 3](../03-chapter/#the-ospo-flower-diagram) for help mapping interactions.
+- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram in Chapter 3 for help mapping interactions.
 
-- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the [Secure Supply Chain Consumption Framework (S2C2F)](https://github.com/ossf/s2c2f/blob/main/specification/Secure_Supply_Chain_Consumption_Framework_(S2C2F).pdf).
+- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the *Secure Supply Chain Consumption Framework (S2C2F)*[1].
 
-## Daily Operations Using the OSPO MindMap and Activity Engagement Models
+## Understanding Activities
 
-### Getting Started with OSPO MindMap
+### The OSPO MindMap
 
-To get an overview of the potential activities of an OSPO we offer you the [OSPO Mind Map](https://todogroup.org/resources/mindmap/). The OSPO Mind Map outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
+The OSPO MindMap [2] is once again a useful tool. You can use it to get an overview of the potential activities of an OSPO. The OSPO MindMap outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO. As always, this is an input to your work, not a fixed plan to follow. You should adapt it to your needs.
 
-### OSPO MindMap Limitations
 
-The contributors to this book have identified challenges in implementing the mind map, particularly in filtering responsibilities based on the organization's level of open source engagement. Because of this, the aim of this chapter is to provide an in-depth classification of these activities, grouped by levels of open source engagement. This book uses Ibrahim H.'s open source activity engagement model — previously seen in Chapter 2 — as it is relatively simple, and is not focused on corporate structures.
+### Activities by Maturity Stage
+ In the following table, Ibrahim H.'s open source activity engagement model (previously seen in Chapter 2) is used as a map for listing and exploring activities in an OSPO.
 
-| Consumer / User Stage |
-| --- |
+#### STAGE: Consumer
 
 | Activities                                                                                                                 | Value for the OSPO                                                                                                                                     | Value for the  Organization                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,9 +66,7 @@ The contributors to this book have identified challenges in implementing the min
 | Introduce tools for license compliance                                                                                     |                           Provide structure and visibility for licence compliance within the organization, which helps inform management strategy.                                                                                                                         | Automation is essential to be able to address risks with a reasonable amount of effort and measure effectiveness of efforts to improve compliance.                                                                                                                                                                                                                                                                                            |
 | Clarify how to support open source software                                                                                |      Ensure that open source software is adopted with appropriate understanding of how it can be supported.                                                                                                                                               | The organization should be aware of the hidden costs of using open source software in production scenarios. External support for open source components can sometimes be bought from a vendor or a service provider. Alternatively, other options are to managed the support yourself with the help of the community (being realistic in considering what a community can be expected to support), or going with the risk of not having support which may be appropriate for scenarios where the risk is low. |
 
-| Participant Stage |
-| --- |
-
+#### STAGE: Participant
 
 | Activities                                     | Value for the OSPO | Value for the Organization                                                                                                     |
 | ---------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -65,16 +74,14 @@ The contributors to this book have identified challenges in implementing the min
 | Membership of open source organizations       | Membership benefits such as co-marketing, event discounts.  | Engagement with the communities the organization relies on. Potential influence and access to strategically useful information. Supporting the ecosystem.                                 |
 | Trying InnerSource                             | Staff in the organization will get hands-on experience with open source methodologies, which builds awareness, understanding, and advocacy.  | The organization will build skills in its workforce that will contribute to better use of, and engagement with, open source projects.  |
 
-| Contributor Stage |
-| --- |
+#### STAGE: Contributor
 
 | Activities                             | Value for the OSPO | Value for the  Organization                                                                                                                                                      |
 | -------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Create contribution policy and process | Managing open source contributions becomes easier. | Having clear procedures means that the organization can offer open source contributions in a legally safe way, for open source projects, the organization, and its employees. |
 | Qualification of contributors          | Contributors require less oversight and make good ambassadors. | Skilled contributors make better contributions into publicly-visible projects. This means less risk to the organization.               |
 
-| Leadership Stage |
-| --- |
+#### STAGE: Leadership
 
 | Activities                                                                  | Value for the OSPO | Value for the Organization                                                                                                                                                               |
 | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,48 +89,23 @@ The contributors to this book have identified challenges in implementing the min
 | Establish an “upstream first” policy                                        | Offering the organization a way to get more value for the same, or smaller, amount of effort. | The organization can support or even lead open source projects and make them part of the primary value creation of the organization without losing its competitive differences, and while benefiting from the contributions of a whole community.                                                                              |
 | Supporting autonomy of contributors and maintainers of open source projects | In-house experts in open source are valuable to the OSPO. | Employing people who are dedicated to only open source work means the organization can strategically strengthen important open source projects in the most organic and effective way. |
 
-## Recommendations
+## Possible Problems and how to Overcome Them
+### Problem
+The new OSPO is very slow to make recognizable progress, and doubts about the need for an OSPO creep in.
 
-### Scenario #10
+### Recommendation
+As with all new ventures, it's really important to create and maintain a focus on delivering meaningful impact in the short and long term. Short term impact reassures stakeholders that the OSPO is needed and competent, and gives OSPO staff confidence. Long term impact creates sustainable value for the organization and embeds the OSPO securely in the organization. Try to identify something important that can be delivered within the first 3-6 months, while also working on longer term projects that will deliver in 6-12 months, 12-24 months and 2-5 years. Keep the list of active projects short at first to ensure that they are delivered with quality and on time. As confidence in the OSPO grows, it puts you in a stronger position to ask for more resource if you have a strong track record of delivering value.
 
-Social Engineering Attack on Upstream xz/liblzma: A [social engineering attack targeted the xz/liblzma](https://research.swtch.com/xz-timeline), an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+## Footnotes and Resources
 
-> Recommendation
->
-> 1. SBOMs Compliance Ready: Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
-> 
-> 2. Automation Security Checks: Implement automated security checks, such as the [OpenSSF Scorecard](https://scorecard.dev/), to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
-> 
-> 3. Having a Computer Emergency Response Team (CERT) within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
-> 
-> 4. Scorecard Management: Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
-> 
-> 5. Automated Feedback Loops: Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
+### Footnotes
+[1] Secure Supply Chain Consumption Framework (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
 
-### Scenario #11
+[2] OSPO Mind Map https://todogroup.org/resources/mindmap/
 
-Licence changes on an Open Source project. OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When [projects like Redis change their terms](https://www.theregister.com/2024/03/22/redis_changes_license/) it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The [AlmaLinux OS Foundation](https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/) presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
-
-> Recommendation
->
-> 1. Educational Initiatives on License Implications: Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open source projects.
->
-> 2. Explicit License Terms: Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
-> 
-> 3. Software Trust Rating System: Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
-> 
-> 4. Encourage Foundation Hosted Projects: Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like AlmaLinux to illustrate the benefits of this approach, such as increased trust and community support.
-> 
-> 5. Stakeholder Engagement in License Decisions: Engage a broad range of stakeholders, including developers, legal advisors, and end users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
-
-## Resources
-
-- [OSPO Mind Map](https://todogroup.org/resources/mindmap/)
-- [A Guide to Enterprise Open Source](https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf)
-- [A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf)
-- [Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide)
-- [OpenSSF Scorecard](https://github.com/ossf/scorecard)
-- [Software Bill of Materials (SBOMs)](https://www.ntia.gov/SBOM)
-- [Computer Emergency Response Team (CERT)](https://www.cisa.gov/uscert/)
-- [Redis License Change](https://www.theregister.com/2024/03/22/redis_changes_license/)
-- [AlmaLinux OS Foundation](https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/)
+### Resources 
+- A Guide to Enterprise Open Source: https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf
+- A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges: https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf
+- OpenSSF Scorecard: https://github.com/ossf/scorecard
+- Software Bill of Materials (SBOMs): https://www.ntia.gov/SBOM
+- Computer Emergency Response Team (CERT): https://www.cisa.gov/uscert/
