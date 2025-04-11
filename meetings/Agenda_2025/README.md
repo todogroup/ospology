@@ -5,7 +5,7 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | **Date**             | **Region**       | **Time (GMT)** | **Speaker** | **Topic**                              | **Tag**   | **Recording**  |
 |-----------------------|------------------|----------------|-------------|----------------------------------------|-----------| ------------- |
 | Thursday, February 13 | EMEA & APAC      | 12:00 PM       | Alin Jepelea, Sony | [SBOM implementation journey for the Apache NuttX RTOS](./Feb-13.md) | `Compliance` | [🧑‍💻🍿](https://youtu.be/Aj84quEIEug?si=Phg2wnGqWOSDw4p3)| 
-| Thursday, February 27 | EMEA & APAC      | 12:00 PM       | Nico Rikken, Alliander | [Automated Checks Before Publishing Open Source](./Feb-27.md)    | `Compliance`  | The video is cooking up!🧑‍🍳 |
+| Thursday, February 27 | EMEA & APAC      | 12:00 PM       | Nico Rikken, Alliander | [Automated Checks Before Publishing Open Source](./Feb-27.md)    | `Compliance`  | [🧑‍💻🍿](https://youtu.be/02SV2k1eZgg?si=Ug7REOEqxYMSIvHX) |
 | Monday, February 24   | AMER & EMEA      | 5:00 PM        | Sujata Tibrewala, LF Edge Governing Board | [How to use Open Source to Grow your organization](./Feb-24.md) | `Business` | [🧑‍💻🍿](https://youtu.be/sZsSXv31e-4?si=CbvOaFSSxxiTQgsf) | 
 | Monday, March 24      | AMER & EMEA      | 5:00 PM        | Yaya Xia, Ant Group | [OSPO strategy and practices based on data-driven methods](./Mar-24.md)| `Strategy`| The video is cooking up!🧑‍🍳 | 
 | Thursday, April 10    | EMEA & APAC      | 11:00 PM       | Yuichi Nakamura, Hitachi| [How to collaborate with LF to accelerate OSS strategy](./Apr-10.md)| `Strategy`| | 
