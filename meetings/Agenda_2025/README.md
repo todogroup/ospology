@@ -12,7 +12,7 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Thursday, April 24    | EMEA & APAC      | 11:00 PM       | Masato Endo, Toyota | [TOYOTA OSPO in One Year and Next Journey](./Apr-24.md)| `Business`| | 
 | Monday, April 21      | AMER & EMEA      | 4:00 PM        | TBA         | TBA                                    | TBA       | |
 | Thursday, May 15      | EMEA & APAC      | 11:00 PM       | TBA         | TBA                                    | TBA       | |
-| Monday, May 12        | AMER & EMEA      | 4:00 PM        | Brittany Istenes, Fannie Mae | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  |  |
+| Monday, May 12        | AMER & EMEA      | 4:00 PM        | Brittany Istenes | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  |  |
 | Thursday, May 29      | EMEA & APAC      | 11:00 PM       | TBA         | TBA                                    | TBA       | |
 | Monday, May 26        | AMER & EMEA      | 4:00 PM        | TBA         | TBA                                    | TBA       | |
 | Thursday, June 12     | EMEA & APAC      | 11:00 PM       | TBA         | TBA                                    | TBA       | |
