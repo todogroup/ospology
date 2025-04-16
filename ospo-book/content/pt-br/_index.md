@@ -3,21 +3,28 @@ title: OSPO Book
 status: Completed
 ---
 
-# Boas Vindas ao <br/>OSPO Book
+# Welcome to the <br/>OSPO Book
 
-O livro serve como uma fonte de conhecimento para organizações que desenvolvem estratégias para usar, contribuir e/ou criar projetos open source com a ajuda de profissionais que trabalham em Open Source Program Offices (OSPOs). Ele ajuda a obter uma melhor compreensão do papel do OSPO e fornece recursos [desenvolvidos abertamente por um grupo de colaboradores](https://ospobook.todogroup.org/07-chapter/) com profundo conhecimento em estratégia, comunidade e gerenciamento de open source. Isso inclui a configuração de políticas, processos e estratégias sobre como usar, contribuir e criar projetos de open source essenciais para os produtos ou serviços da organização, bem como supervisionar as operações do dia a dia.
+The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and/or create open source projects with the help of  professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role and provides resources developed openly by a group of contributors [^1] with deep knowledge in open source strategy, community and management. This includes setting up policies, processes, and strategies on how to use, contribute to, and create open source projects critical to the organization's products or services, as well as overseeing day-to-day operations.
 
-* Por que as organizações podem ou não precisar de um OSPO.
-* Avaliar o quão pronta está uma organização para implementar um OSPO.
-* O papel dos OSPOs em diferentes tipos de organizações.
-* Cenários difíceis comuns e recomendações.
-* Recomendações práticas nas operações do dia a dia, que vão desde a formulação de políticas de open source até o envolvimento efetivo com comunidades externas de open source.
+* Why organizations may or may not need an OSPO.
+* Assessing an organization's readiness for implementing an OSPO.
+* The role of OSPOs in different types of organizations.
+* Common difficult scenarios and recommendations.
+* Practical recommendations in day-to-day operations, ranging from formulating open source policies to effectively engaging with external open source communities.
 
-<p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Casas coloridas com pessoas"></p>
+<p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Colorful houses with people"></p>replies
 
-À medida que você explora o conteúdo deste livro, nós o encorajamos a usá-lo em sua organização. E se você tiver alguma sugestão de conteúdo adicional que devemos incluir, não hesite em abrir uma issue ou incluir novo conteúdo abrindo um PR (Pull Request) usando os links na barra lateral!
 
-## Licença
+As you explore the content of this book, we encourage you to use it within your organization. And if you have any suggestions for additional content that we should include, please don't hesitate to open an issue or include new content by visiting our GitHub repo [^2].
 
-Todas as contribuições de código estão sob a licença Apache 2.0
-A documentação é distribuída sob CC BY 4.0
+## License
+
+All code contributions are under the Apache 2.0 license
+Documentation is distributed under CC BY 4.0
+
+## Footnotes
+
+[^1]: Book contributors: https://ospobook.todogroup.org/07-chapter/
+
+[^2]: OSPO Book repo https://github.com/todogroup/ospology/tree/main/ospo-book

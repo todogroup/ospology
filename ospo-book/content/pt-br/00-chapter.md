@@ -1,30 +1,36 @@
 ---
-title: "Sobre o que é este livro?"
+title: "What's this book about?"
 status: Completed
 weight: 20
 ---
 
-## Sobre o que é este livro?
+## What's This Book About?
 
-Open source é uma realidade para todas as organizações que lidam com software de alguma forma, não apenas para fornecedores de software, mas também para qualquer organização que esteja lidando com a transformação digital. Portanto, gerenciar open source se torna um requisito para a maioria das empresas.
+Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
 
-Uma maneira bem estabelecida de gerenciar open source é o padrão de Open Source Program Office (OSPO). Muitas empresas e outras organizações adotaram esse padrão, e há um vasto conhecimento e experiência sobre como fazer bem isso. Seguindo o espírito de open source, muito disso é compartilhado abertamente na comunidade.
+One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
 
-Este livro serve como fonte de conhecimento para qualquer pessoa que queira compreender melhor como os OSPOs podem atender à necessidade de gerenciar open source em uma organização. Também ajuda as pessoas que trabalham em Open Source Program Offices (OSPOs) a obter uma melhor compreensão do seu papel fundamental no estabelecimento e gerenciamento de estratégias e operações de open source. Ele oferece recomendações práticas sobre vários aspectos, desde a construção de uma estratégia de open source até o envolvimento eficaz com comunidades externas de open source.
+This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
 
-Além disso, o livro inclui uma introdução para começar a implementar um OSPO.
+* Building an open source strategy.
+* Setting up an OSPO.
+* Managing day-to-day operations.
+* Collaborating effectively with external open source communities.
 
-## O que não está neste livro
+## What’s Not in This Book
 
-Este livro não tem como objetivo fornecer orientação sobre o desenvolvimento de software open source ou se aprofundar em seus aspectos técnicos.
+This book doesn't focus on how to develop open source software or explain technical details in depth.
 
-Além disso, não pretende oferecer orientação sobre a implantação, uso e contribuição para projetos específicos de software open source, pois isso está fora do escopo do livro.
+It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
 
-## Quem deve ler este livro?
+## Who Should Read This Book?
 
-Este livro é destinado a qualquer pessoa que queira entender melhor o papel dos OSPOs dentro de uma organização.
-Exemplos mais específicos incluem:
+This book is for anyone who wants to understand the role of OSPOs within an organization.
 
-* Executivos, formuladores de políticas e tomadores de decisão que são responsáveis por estabelecer, supervisionar, financiar ou patrocinar um OSPO dentro de uma organização.
-* Gerentes e líderes de programas open source que são responsáveis por coordenar e gerenciar as atividades de open source de uma organização e o engajamento com comunidades open source.
-* Profissionais jurídicos e de compliance que são responsáveis por gerenciar questões legais relacionadas ao software open source, incluindo licenciamento e propriedade intelectual.
+More specifically, it will be useful for:
+
+* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+
+* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+
+* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.

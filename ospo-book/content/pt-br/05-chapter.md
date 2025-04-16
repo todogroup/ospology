@@ -1,108 +1,125 @@
 ---
-title: "Chapter 5: Measuring and Communicating Impact by your OSPO"
+title: "Chapter 5: Managing Open Source Security"
 status: Completed
-weight: 70
+weight: 60
 ---
 
 - [Introduction](#introduction)
-- [A Case of Organizational Impact](#a-case-of-organizational-impact) - `✅ Assessment`
-- [Resources](#resources) - `📚 Continue Here`
-  
+- [Training and Education](#training-and-education)
+- [Key Steps](#key-steps)
+- [Applying This to Your Organization](#applying-this-to-your-organization)
+- [Resources and Footnotes](#resources-and-footnotes)
 
 ## Introduction
 
-> This chapter has been developed through the collective expertise of [CHAOSS open source project](https://chaoss.community/) and participants from the CHAOSS [OSPO Metrics Working Group](https://github.com/chaoss/wg-ospo), with support from the TODO Group.
+> NOTE: This chapter has been developed through the expertise of Open Source Security Foundation (OpenSSF) representatives, with support from the TODO Group
 
-Metrics for metrics' sake benefit no one. Consider these metrics: The average age of issues is 10.3 days. The total number of pull requests was 121 last month. We had 3 new companies join our community over the past 15 days. Without context, these metrics provide no insight, yet we are driven to reach for metrics to provide insight into our complex open source engagements. 
+Open source software is an important part of the software supply chain. Because of this, it's part of an OSPO’s responsibility to help secure the OSS supply chain. This includes tasks such as:
 
-There are several reasons why we need insights into open source projects. Some example reasons are: An organization built from open source would like to track contributions back to key projects. An organization that participates in an open source ecosystem wants to recognize potential failures and provide stabilizing resources as needed. An organization wants to do its part to ensure the longevity of open source software, in particular, the software that is meaningful to their business. And, of course, an organization needs to remain compliant with upstream license requirements and attend to security issues that can impact the ways they work.
+- Helping development teams assess the security of the OSS they use in products.
+- Encouraging development teams to contribute to upstream open source projects to help improve their security.
+- Following secure software development best practices in open source projects that the company maintains, contributes to, or leads.
 
-In the past, it may have been possible to get away with knowing little to nothing about important open source projects. This is no longer a viable option, however, so as we get to know the open source projects we care about we can use open source community metrics to help us. In this chapter, we consider how community metrics can be placed in context and how together they improve insight to drive better strategic decisions across an organization.
+This chapter includes useful resources to help OSPOs and open source developers apply secure software development and supply chain best practices - both in the software they use and the software they create.
 
-### Measuring and Communicating Impact
+In some ways, security is just like any other requirement. However, many software developers and their managers haven't received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
 
-Open source program offices (OSPOs), like any organizational unit, need consistent and meaningful ways to communicate impact. Metrics can help. Open source projects bring together companies with diverse skill sets and backgrounds, collaborating and sharing experiences to drive technological innovation, cultivate new talents, and improve overall development skills and competitiveness. Through open source projects, companies can directly engage with users, understand their needs, and update and refine products in a timely manner. Active and influential open source projects can also attract potential users and increase product exposure and market share. Additionally, users can become part of the development community, participating in product development and testing, promoting mutual communication and collaboration. 
+Fixing security problems later is often expensive. It's better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It’s important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of “open design” — but these benefits don’t happen automatically.
 
-Open source projects provide a platform for companies to communicate and share technical knowledge, troubleshoot solutions, build best practices, and access necessary resources and technical support to accelerate product development and optimization. Communicating impact can be an important way to tie open source community metrics to key organization performance indicators. This playbook is meant to help companies take important steps toward tying open source community metrics to demonstrable impact. 
+## Training and Education
 
-#### Communicating Impact
+Many software developers and managers don’t know what they need to know about security. This lack of knowledge often causes problems. Here are some key areas to understand, along with links to free OpenSSF courses that can help. These specific courses aren't required, but it's important that everyone involved in software development gets the right training.
 
-Beyond giving us an understanding of an open source project (or a collection of projects), metrics play an important role in communicating impact. Following the goal-question-metric approach used in the CHAOSS project, we present four goals that open source program offices can consider, alongside associated questions that can provide insight into the associated goals. Stemming from these goals and questions, we recommend a series of metric-related CHAOSS [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to provide specific recommendations within an organization.
+Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven’t been trained yet, they can take the free Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)* [^1].
 
-<img width="750" alt="CHAOSS Health Impacts" src="https://github.com/user-attachments/assets/f13b8fd0-8342-4a90-b5cb-d533c6454801" />
-   
-**Goal 1: Partner Impact**
+Developers should take a course on secure software development. This includes how to build secure software during planning, design, coding, testing, and release. Developers also need to know how to evaluate third-party software. They should understand common vulnerabilities (like those in the OWASP Top Ten for web apps [^2] and CWE Top 25 for general software [^3]) and how to avoid them. They should also know how to secure development environments and respond to vulnerability reports. If they haven't had this training, they can take the free OpenSSF course Developing Secure Software (LFD121) [^4].
 
-Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet does not necessarily have the resources or inclination to produce alone. Open source projects bring together organization members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users. Key questions regarding partner impact include: 
+Both developers and managers must understand any laws or regulations they need to follow. For example, anyone involved in software that may be used in the European Union (EU) should understand the EU Cyber Resilience Act (CRA). This includes knowing what the CRA applies to, the different roles it defines (such as manufacturer or open source steward), and the legal responsibilities it creates. Because the CRA covers a wide range and includes strong penalties, those who need to understand it can take the free OpenSSF course Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) [^5].
 
-* What other companies are involved in our open source projects of interest?
-* What other companies are involved in our pull requests?
-* How are other companies involved in our pull requests?
-* What is the composition of involved companies as our vendors, rivals, and customers? 
+## Key Steps
 
-**Goal 2: Community Impact**
+**For developing your own software:**
 
-There are ways that an organization can support community engagement by employees (e.g., contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization -- including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community. Key questions to consider regarding community impact include: 
+1. Review the OpenSSF Concise Guide for Developing More Secure Software, which links to practical resources [^6].
 
-* What percentage of employee contributions are merged?
-* What percentage of employee issues are closed without conversation?
-* How many of our employees have maintainer or leadership roles in key open source projects?
-* Have upstream contributions helped modernize tech skills for employees?
-* Which projects do our employees make over 50% of the contributions?
+1. Work to meet the OpenSSF Baseline, a short list of security checks [^7].
 
-**Goal 3: Ecosystem Impact**
+1. Earn an OpenSSF Best Practices badge for your project. Start with “passing” and plan to achieve “silver” or “gold” over time [^8].
 
-Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required. Key questions to consider regarding ecosystem impact include: 
+1. Improve your OpenSSF Scorecard score. While this is often used to evaluate other projects, it can also help you measure your own [^9].
 
-* What percentage of our suppliers provide open source software bills of material?
-* What is the long-term viability of the open source projects we rely on?
-* What is the risk to the ecosystem if an open source project becomes unviable?
+**Most modern software reuses other software. Choose and use open source components carefully:**
 
-**Goal 4: Organizational Impact**
+1. Use the Concise Guide for Evaluating Open Source Software [^10].
 
-Engagement with open source communities includes working in the upstream to effectively use open source software in organizational products. In this, there is a need to monitor the intake of open source software for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities. Key questions to consider regarding organization impact include: 
+1. Double-check software names to avoid “typosquatting” attacks (where malicious packages have names similar to trusted ones).
 
-* What characteristics does an organization inspect related to inbound open source software? 
-* What product-level software and infrastructure contains open source software dependencies? 
-* How is OSPO strategy aligned with organizational strategy and departmental objectives?
-* How often is OPSO strategy used to guide business decision making processes?
-* How does the use of open source influence organizational value?
+1. Use the OpenSSF Scorecard to evaluate software before using it [^9].
 
-## A Case of Organizational Impact
 
-### Open Source Use and Intake
+**Protect your environments, including development, build, test, and distribution:**
 
-Measurement of open source projects helps your OSPO go beyond just communicating impact by taking steps to improve projects in ways that reduce your risk and make their use even more impactful for your organization. As part of an OSPO’s open source strategy, you can consider improvements that will allow you to show even greater impact for your efforts in future years. These improvements can be in open source projects that stem from within your organization and in the important upstream projects where your employees contribute. The CHAOSS project has a series of [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) that can help you address the prior goals and questions and demonstrate impact by increasing contributor sustainability, improving responsiveness, and expanding organization participation. 
+1. Use multi-factor authentication (MFA) to make it harder for attackers to gain access.
+1. Secure your build environment. See OpenSSF SLSA for more guidance [^11].
 
-As an example of organizational impact, Linåker et al. (2024) conducted a study that explored how open source intake processes could be constructed to accommodate considerations of open source project health-related measures. Analyzing the health of open source projects is a critical practice for organizations to ensure the robustness and reliability of their software systems, both when considering the intake of new open source components, and in monitoring existing dependencies already integrated and deployed in production. If the level of upstream open source project health is insufficient, an alternative sourcing decision needs to be considered (e.g., adopt another open source solution or build something from scratch), or if possible and strategically motivated, contribute and engage in the concerned open source project to improve its health.
+**Use automated tools in your continuous integration (CI) pipeline to catch security issues early:**
 
-### The Many Facets of Open Source Project Health
+1. Use multiple types of tools, as each may find different problems, see the Guide to Security Tools [^12].
 
-Analyzing the health of an open source project is, however, a complex task. A survey of literature highlights 107 different health-related concerns ranging across social and technical issues, both in project-centric and ecosystem-wide contexts (Linåker et al., 2022). Through interviews with 17 industry and community experts, the 107 different indicators were condensed into a framework of 21 health aspects considering community productivity and stability, orchestration, and production processes and outputs. For each of the 21 aspects, several attributes were defined to help break down and enable the analysis of a concerned aspect regarding the health of an open source project.
+1. For new projects (“green field”), enable all security checks. For older projects (“brown field”), start with the most important checks so the reports are manageable
 
-Interviewees stressed that organizations need to be aware of the type and traits of the open source project being analyzed, as these factors may influence how the different health aspects of the health framework potentially should be applied and evaluated. Factors included the life cycle, complexity, and governance concentration of the open source project and its strategic importance to the organization analyzing the project as part of its intake process. When introducing open source project health assessments, organizations need to consider these factors and accordingly only compare between open source projects with similar traits (e.g., complexity and life-cycle stage) (Lumbard et al., 2023).
+1. Enable tools that detect known vulnerabilities in reused components
 
-As highlighted by a majority of the interviewees, each organization needs to answer the question of what aspects and attributes to use and how to consider the various types and traits of open source projects, as they each faced unique risks and challenges based on their specific context, such as industry, market, and technology. Further, as collecting and analyzing all data points is a cumbersome and costly process, there needs to be prioritization of what aspects and attributes to consider when designing health assessments as part of the intake process.
+Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [^13].
 
-### Implementing Health Assessments in Practice
+## Applying This to Your Organization
 
-In their study, Linåker and colleagues (2024) demonstrated how their health framework can be tailored through the application at a large international automotive manufacturer. They narrowed down health attributes to a questionnaire and designed a candidate process suited to the company's needs based on interviews, focus groups and trials within the company.
+Improving the security of OSS in your organization isn't just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone’s responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
 
-The proposed process' focus on semi-automating the health assessments, where open source components at the intake stage are manually inspected using standardized checklists with automated tool support as needed. Inspections need to be lightweight yet rigorous enough to capture the concerned health aspects of importance. A lightweight documentation process is also used to persist and index analysis for future follow-up, peer-review, and training.
+Security practices should be part of everyday development work, not something separate. For example, instead of running security checks only once in a while, make tools like scorecards and vulnerability scans part of your regular CI/CD pipeline. This helps make security a normal and expected part of how your team builds software.
 
-A quantitative screening and monitoring process is additionally required for open source components already integrated and deployed. This process should ideally be automated as a large number of dependencies commonly exist, and manual overviews and inspections are not practical. Tooling should ideally be customized and integrated into CI/CD pipelines or run on regular occasions.
+Training and education should happen regularly, not just once. Developers and managers should be encouraged to learn the basics of secure software development. This can include free OpenSSF courses and other programs. Make sure your teams know that learning about security is important and will be recognized. This builds long-term interest and responsibility.
 
-The quantitative screening should run high-level tests on dependencies tailored based on the type of ecosystem and dependencies and flag projects, directing attention where indicators together point towards potential open source project health issues. Concerned developers or analysts then follow up with manual inspections. For the tooling, open source projects such as CHAOSS’s GrimorieLab and Augur provide initial candidates to adopt and tailor based on internal needs.
+It also helps to be open about security progress. Encourage teams to track and share their progress on goals like earning Best Practices badges or improving their Scorecard results. This creates a positive environment where teams help each other and improve together, instead of feeling blamed when something goes wrong.
 
-Continuous training and follow-ups are critical to implementing a health assessment process. Workshops for introducing checklists and analysis processes are suggested, as well as recurrent feedback sessions for presenting analyses of OSS projects, thereby encouraging discussions, knowledge-sharing, and a critical mindset. Ideally, the health assessment is integrated as a standard practice in software development and Q&A.
+Lastly, support continuous improvement. Security isn't something you finish — it’s always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
 
-The case study of Linåker et al. (2024) presents organizations with a valuable approach for proactively identifying potential health issues of open source projects that they rely on. Findings can be used as practical guidance and complement when consulting existing sources such as the CHAOSS project and the OpenSSF scorecard project. Applying the approach Linåker et al., (2024) for diagnosing symptoms early and applying necessary treatments, organizations can mitigate risks and ensure their OSS dependencies' long-term viability and security. This proactive approach enhances the stability and reliability of software products and contributes to the overall sustainability of the open source ecosystem.
+By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the OSS it builds and uses.
 
-## Resources
+## Resources and Footnotes
 
-`📚 Continue Here`
+### Resources
 
-- [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)
-- Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.
-- [Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI](https://doi.org/10.1145/3555051.3555067)
-- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
+- OpenSSF: https://openssf.org
+- OWASP: https://owasp.org/
+- CWE: https://cwe.mitre.org/index.html
+
+### Footnotes
+
+[^1]: Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)*
+ https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/.
+
+[^2]: OWASP Top Ten for web apps: https://owasp.org/www-project-top-ten/
+
+[^3]: CWE Top 25 for general software: https://cwe.mitre.org/top25/
+
+[^4]: OpenSSF course Developing Secure Software (LFD121): https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
+
+[^5]: https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/
+
+[^6]: Concise Guide for Developing More Secure Software: https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software
+
+[^7]: https://baseline.openssf.org/
+
+[^8]: OpenSSF Best Practices badge https://www.bestpractices.dev/
+
+[^9]: OpenSSF Scorecard: https://github.com/ossf/scorecard
+
+[^10]: Concise Guide for Evaluating Open Source Software: https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software
+
+[^11]: OpenSSF SLSA: https://slsa.dev/
+
+[^12]: Guide to Security Tools: https://github.com/ossf/wg-security-tooling/blob/main/guide.md#readme
+
+[^13]: OpenSSF Guide to implementing a coordinated vulnerability disclosure process:
+https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme
