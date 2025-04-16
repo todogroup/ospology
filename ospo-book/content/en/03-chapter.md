@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Creating your OSPO"
+title: "Chapter 3: Creating Your OSPO"
 status: Completed
 weight: 50
 ---
