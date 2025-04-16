@@ -16,6 +16,7 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Christine Abernathy
 * Cornelius Schumacher
 * David A. Wheeler
+* Fernando Eugenio Correa
 * Gergely Csatari
 * Gil Yehuda
 * Hiro Fukuchi
