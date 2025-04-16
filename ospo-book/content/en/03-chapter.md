@@ -4,10 +4,13 @@ status: Completed
 weight: 50
 ---
 
-* [Introduction](#introduction)
-* [Maturity of Open Source Program Office](#maturity-of-open-source-program-office) 
-* [Recommendations](#recommendations) 
-* [Resources](#resources)
+- [Introduction](#introduction)
+- [Starting with Strategy](#starting-with-strategy)
+- [Designing your OSPO](#designing-your-ospo)
+- [Using Maturity Models for OSPOs](#using-maturity-models-for-ospos)
+- [Applying This to Your Organization](#applying-this-to-your-organization)
+- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
+- [Footnotes and Resources](#footnotes-and-resources)
 
 ## Introduction
 
@@ -24,7 +27,7 @@ Lastly, this chapter will introduce maturity mondel as a way of understanding wh
 ### How to Develop Strategy
 > For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open source realm that can propel the organization toward its strategic objectives.
 >
-> Victor Lu and Rob Moffat Presentation - Strategy - End Game for FINOS Maturity Model[1]
+> Victor Lu and Rob Moffat Presentation - Strategy - End Game for FINOS Maturity Model [1]
 
  An OSPO achieves this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source use, contributions and compliance activities to its overall organization objectives across its projects, products, services, and internal infrastructure.
 
@@ -32,7 +35,7 @@ A strategy creates a high-level consensus on concrete topics and their impact on
 
 Things to consider when creating your strategy:
 
-1.  **Create a strategy document:** A good practice is to document this strategy in an open source strategy document[2]. This guide takes you through the process step-by-step. 
+1.  **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [2]. This guide takes you through the process step-by-step. 
 2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source. 
 3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [3] explains all essential information on OSPO structures and operations.
 4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
@@ -93,7 +96,7 @@ For open source to be successful and sustainable within an organization, it is c
 
 ### An Introduction to Maturity Models
 
-An organization's engagement with Open Source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit, and to have conversations about whether it's in the right place.
+An organization's engagement with open source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit, and to have conversations about whether it's in the right place.
 
 There are many different open source maturity models. Some are general, some are specialised. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
 
@@ -107,7 +110,7 @@ Each of these maturity models is slightly different, but they all classify open 
 
 
 * Denial - No or unconscious use of open source
-* Consumption / Usage - Passive use of open source software
+* Consumption / Usage - Passive use of OSS
 * Participation - Engagement with open source communities
 * Contribution - Pragmatic contributions to open source projects
 * Leadership - Strategic involvement with open source to drive business value
@@ -152,7 +155,7 @@ Here are some highlights from their work to inspire you:
 ![ospo-role](https://github.com/todogroup/ospology/assets/43671777/8dbcf056-446c-489d-9b40-07fc2a8c331c)
 ![benefits-of-oss](https://github.com/todogroup/ospology/assets/43671777/73acdc21-058e-406c-b01f-967074d25c1b)
 
-> NOTE: You can find a summary of their work in both Japanese and English in a  Qiita article written by one of its members [9]
+> NOTE: You can find a summary of their work in both Japanese and English in a Qiita article written by one of its members [9]
 
 While planning the OSPO it is very helpful have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
 
@@ -197,10 +200,9 @@ Ensure that you take the time to identify all your stakeholders and understand t
 
 ### Resources
 
- - TODO guide to outbound open source software: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/
+ - TODO guide to outbound OSS: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/
  - TODO guide to participating in open source communities: https://todogroup.org/resources/guides/participating-in-open-source-communities/
 - DevOps uses Capability, not Maturity: https://octopus.com/blog/devops-uses-capability-not-maturity
 - Porsche Open Source Website https://opensource.porsche.com/
 - The Evolution of the OSPO https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
 - OSPO 101 training module - OSPO and your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
-- Setting an open source strategy: https://todogroup.org/resources/guides/setting-an-open-source-strategy/
