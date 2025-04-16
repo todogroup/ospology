@@ -35,6 +35,7 @@ Without context, these metrics provide no insight, so it's important to ensure t
 
 The CHAOSS project (Community Health Analytics for OSS) advocates for using the "goal-question-metric" because it is a structured method for deriving metrics that align with organizational goals. It involves three key steps:
 
+
 #### Goals
 Identify and understand your organizational goals. These can vary significantly but typically include objectives like recruiting talent or enhancing community engagement.
 
@@ -242,8 +243,6 @@ Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get s
 https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf 
 
 ### Resources
-CHAOSS Project: https://chaoss.community/ 
-
-OpenSSF Scorecard: https://github.com/ossf/scorecard
-
-CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
+- CHAOSS Project: https://chaoss.community/ 
+- OpenSSF Scorecard: https://github.com/ossf/scorecard
+- CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
