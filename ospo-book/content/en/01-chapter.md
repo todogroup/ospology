@@ -148,14 +148,15 @@ None.
 
 ### Resources
 
-* OSPO definition [https://github.com/todogroup/ospodefinition.org](https://github.com/todogroup/ospodefinition.org)[Source of the diagram](https://lists.todogroup.org/g/WG-ospo-book-project/message/5)
-* ML discussion: <https://lists.todogroup.org/g/WG-ospo-book-project/message/5>
-* OSPO 101 Module 1 - Open Source Introduction: <https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1>
-* OSPO 101 Module 2 - Open Source Business Models: <https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2>
-* OSPO 101 Module 3 - Open Source management & your organization: <https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3>
-* OSPO easy FAQ - TODO Group and Open Chain Japan, Linux Foundation: <https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/>
-* How to create an OSPO - TODO Group, Linux Foundation: <https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/>
-* OSPO Definition - TODO Group, Linux Foundation: <https://ospoglossary.todogroup.org/ospo-definition/>
-* The OSPO: A New Tool for Digital Government - Open Forum Europe: <https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf>
-* OSPO Adoption Landscape - TODO Group, Linux Foundation: <https://landscape.todogroup.org/>
-* Business Success with Open Source - VM (Vicky) Brasseur: <https://pragprog.com/titles/vbfoss/business-success-with-open-source/>
+* OSPO definition: https://github.com/todogroup/ospodefinition.org
+* Source of the diagram: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
+* ML discussion: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
+* OSPO 101 Module 1 - Open Source Introduction: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1
+* OSPO 101 Module 2 - Open Source Business Models: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2
+* OSPO 101 Module 3 - Open Source management & your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
+* OSPO easy FAQ - TODO Group and Open Chain Japan, Linux Foundation: https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/
+* How to create an OSPO - TODO Group, Linux Foundation: https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/
+* OSPO Definition - TODO Group, Linux Foundation: https://ospoglossary.todogroup.org/ospo-definition/
+* The OSPO: A New Tool for Digital Government - Open Forum Europe: https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf
+* OSPO Adoption Landscape - TODO Group, Linux Foundation: https://landscape.todogroup.org/
+* Business Success with Open Source - VM (Vicky) Brasseur: https://pragprog.com/titles/vbfoss/business-success-with-open-source/
