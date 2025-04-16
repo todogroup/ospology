@@ -66,7 +66,7 @@ Both developers and managers must understand any laws or regulations they need t
 1. Use multi-factor authentication (MFA) to make it harder for attackers to gain access.
 1. Secure your build environment. See OpenSSF SLSA for more guidance [11].
 
-Use automated tools in your continuous integration (CI) pipeline to catch security issues early:
+**Use automated tools in your continuous integration (CI) pipeline to catch security issues early:**
 
 1. Use multiple types of tools, as each may find different problems, see the Guide to Security Tools [12].
 
