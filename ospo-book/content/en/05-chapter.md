@@ -17,9 +17,7 @@ weight: 60
 Open source software is an important part of the software supply chain. Because of this, it is part of an OSPO’s responsibility to help secure the OSS supply chain. This includes tasks such as:
 
 - Helping development teams assess the security of the OSS they use in products.
-
 - Encouraging development teams to contribute to upstream open source projects to help improve their security.
-
 - Following secure software development best practices in open source projects that the company maintains, contributes to, or leads.
 
 This chapter includes useful resources to help OSPOs and open source developers apply secure software development and supply chain best practices - both in the software they use and the software they create.
@@ -36,7 +34,6 @@ Many software developers and managers don’t know what they need to know about 
 Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven’t been trained yet, they can take the free Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)* [1].
 
 Developers should take a course on secure software development. This includes how to build secure software during planning, design, coding, testing, and release. Developers also need to know how to evaluate third-party software. They should understand common vulnerabilities (like those in the OWASP Top Ten for web apps [2] and CWE Top 25 for general software [3]) and how to avoid them. They should also know how to secure development environments and respond to vulnerability reports. If they haven't had this training, they can take the free OpenSSF course Developing Secure Software (LFD121) [4].
-
 
 Both developers and managers must understand any laws or regulations they need to follow. For example, anyone involved in software that may be used in the European Union (EU) should understand the EU Cyber Resilience Act (CRA). This includes knowing what the CRA applies to, the different roles it defines (such as manufacturer or open source steward), and the legal responsibilities it creates. Because the CRA covers a wide range and includes strong penalties, those who need to understand it can take the free OpenSSF course Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) [5].
 
