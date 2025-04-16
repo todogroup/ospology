@@ -7,23 +7,22 @@ weight: 70
 - [Introduction](#introduction)
 - [Using Metrics to Communicate the Impact of Your OSPO](#using-metrics-to-communicate-the-impact-of-your-ospo)
 - [If You Manage Open Source Projects](#if-you-manage-open-source-projects)
-- [A Case of Organizational Impact](#a-case-of-organizational-impact)
-- [Case Study: Using Health Metrics to Guide Open Source Intake and Strategy](#case-study-using-health-metrics-to-guide-open-source-intake-and-strategy)
+- [If You Use Open Source Projects](#if-you-use-open-source-projects)
 - [Footnotes and Resources](#footnotes-and-resources)
   
 
 ## Introduction
 
-> NOTE: This chapter has been developed through the collective expertise of [CHAOSS open source project](https://chaoss.community/) and participants from the CHAOSS [OSPO Metrics Working Group](https://github.com/chaoss/wg-ospo), with support from the TODO Group.
+> NOTE: This chapter has been developed through the collective expertise of CHAOSS open source project and participants from the CHAOSS OSPO Metrics Working Group, with support from the TODO Group.
 
-Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work—they also provide deeper insight into the open source projects the organization depends on.
+Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
 
 In the past, it might have been acceptable to know little about key open source projects. But that’s no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we’ll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
 
 There are several reasons why organizations need visibility into open source projects. For example:
 * The organization is using open source and wants to track contributions to key projects.
 * The organization participates in an open source ecosystem and needs to identify potential risks and offer support where necessary.
-* The organization wants to contribute to the sustainability of open source software—especially the software that’s critical to its business.
+* The organization wants to contribute to the sustainability of OSS — especially the software that’s critical to its business.
 * The organization must stay compliant with upstream license requirements and respond to security issues that could affect operations.
 
 ### The Goal-Question-Metric framework
@@ -89,7 +88,7 @@ Evaluate how employee engagement in open source communities reflects organizatio
 
 **Commentary**
 
-There are ways that an organization can support community engagement by employees (e.g., contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization -- including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community. 
+There are ways that an organization can support community engagement by employees (e.g., contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization - including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community. 
 
 **Questions**
 * What percentage of employee contributions are merged?
@@ -113,7 +112,7 @@ Monitor and contribute to the health and resilience of open source ecosystems to
 Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required. 
 
 **Questions**
-* What percentage of our suppliers provide open source software bills of material?
+* What percentage of our suppliers provide OSS bills of material?
 * What is the long-term viability of the open source projects we rely on?
 * What is the risk to the ecosystem if an open source project becomes unviable?
 
@@ -129,11 +128,11 @@ Align open source engagement with internal governance, security, and product dev
 
 **Commentary**
 
-Engagement with open source communities includes working in the upstream to effectively use open source software in organizational products. In this, there is a need to monitor the intake of open source software for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities. 
+Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities. 
 
 **Questions**
-* What characteristics does an organization inspect related to inbound open source software? 
-* What product-level software and infrastructure contains open source software dependencies? 
+* What characteristics does an organization inspect related to inbound OSS? 
+* What product-level software and infrastructure contains OSS dependencies? 
 * How is OSPO strategy aligned with organizational strategy and departmental objectives?
 * How often is OPSO strategy used to guide business decision making processes?
 * How does the use of open source influence organizational value?
@@ -143,84 +142,108 @@ Engagement with open source communities includes working in the upstream to effe
 Consider what data are available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
 
 ## If You Manage Open Source Projects
-For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS [Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/) to guide you through identifying the right metrics for a selection of use cases.
+For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS Practitioner Guides [1]  to guide you through identifying the right metrics for a selection of use cases.
+
+## If You Use Open Source Projects
+For organizations that use open source projects and want to understand the health of these projects, the following information can help them consider what is right for them.
+
+### How OSPOs Can Navigate the Complexities of Open Source Project Health
+Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
+
+These health aspects focus on important areas such as:
+
+* Community productivity and stability.
+* Project orchestration and leadership.
+* Production processes and outputs.
+
+Each health aspect is further described using attributes—smaller, more detailed elements—that help organizations examine project health in a structured way.
+
+#### Matching the Framework to the Right Context
+The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they are analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
+
+* The life cycle stage of the project (e.g., early-stage vs. mature).
+* Its complexity (how big and technically demanding it is).
+* The governance model (how decisions are made and who makes them).
+
+The strategic value the project holds for the organization
+
+When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [3].
+
+#### Making Smart Choices About What to Measure
+Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
+
+* Decide which health aspects and attributes matter most based on their organization’s needs.
+* Prioritize efforts—it is too time-consuming and expensive to measure everything.
+* Focus on the data that provides the most useful insights for risk management and decision-making.
+
+Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they are part of a practical and scalable process that evolves with experience.
 
 
-## A Case of Organizational Impact
+### Case Study: How a Global Automotive Company Measures Open Source Project Health
 
-Absolutely! Here's a more scannable version of the case study, with subheadings and bullet points to improve readability and highlight key takeaways:
+#### A Practical Approach to Evaluating and Managing OSS Dependencies
 
----
+In 2024, Linåker and colleagues worked with a large international automotive company to create a simple and effective way to assess the health of open source software (OSS) projects [4]. Their case study shows how organizations can customize health checks to fit their needs and workflows.
 
-## Case Study: Using Health Metrics to Guide Open Source Intake and Strategy
+#### Building a Health Assessment Process
+The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company’s environment.
 
-### Introduction
-As OSPOs evolve, metrics become more than just communication tools — they guide improvements to the open source projects an organization relies on. 
+**Key features of the process:**
 
-#### Why Project Health Matters
+* Manual inspections at the intake stage using standardized checklists.
+* Automated tool support used when helpful.
+* Simple documentation to track findings for future reviews, follow-ups, and training.
 
-Open source project health is crucial for reducing risk, ensuring reliability, and making informed sourcing decisions. Health assessments can help organizations:
+The goal was to keep the process lightweight and efficient, while still capturing important health risks in open source projects.
 
-- Avoid risky or unmaintained dependencies  
-- Decide whether to adopt, contribute to, or replace a project  
-- Align open source use with internal engineering and business goals  
+#### Monitoring Projects Already in Use
+The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks were not practical.
 
-#### Building a Practical Health Framework
+Their proposed solution:
 
-A study by Linåker et al. (2024) condensed 107 health-related indicators into 21 key aspects, grouped under themes like:
+* Use automated tools to run regular health checks.
+* Customize tools based on the ecosystem and type of dependencies.
+* Flag risky projects so developers or analysts can do deeper inspections when needed.
 
-- **Community productivity and stability**
-- **Governance and orchestration**
-- **Development processes and outputs**
+Tools from the CHAOSS community, such as GrimoireLab and Augur, provide a good starting point. The company can adapt them to match its internal needs.
 
-Each aspect included specific attributes to support analysis tailored to a project’s complexity, lifecycle stage, and strategic relevance.
+#### Making Health Assessments Part of Daily Work
+To make the new process successful, the recommendations from the team focused on training and team involvement:
 
-### Example: Global Automotive Manufacturer
+* Hold workshops to introduce the checklists and tools.
+* Schedule regular feedback sessions to review real OSS projects.
+* Encourage discussion and knowledge-sharing across teams.
 
-The same study also showcases how one global automotive manufacturer used health assessments to strengthen its open source strategy.
+Over time, the company can make OSS health checks a normal part of its software development and quality assurance workflows.
 
-#### Implementing Health Checks in Practice
+#### What OSPOs Can Learn
+This case offers useful lessons for OSPOs that want to reduce risk and improve long-term OSS reliability.
 
-The organization implemented a lightweight, two-part process:
+**Key takeaways:**
 
-1. **Intake Health Checks**  
-   - Manual reviews using standardized checklists  
-   - Supported by semi-automated tooling  
-   - Tailored questions focused on key health indicators  
+* Start simple with manual checklists and a clear intake process.
+* Use automation for ongoing monitoring of large numbers of dependencies.
+* Integrate health checks into existing workflows.
+* Support the process with training, tools, and regular team discussions.
 
-2. **Ongoing Monitoring**  
-   - Automated scans of existing dependencies  
-   - CI/CD pipeline integration to flag issues early  
-   - Follow-up manual inspections as needed  
+By identifying problems early and responding quickly, organizations can reduce risks and make sure their open source software stays secure, stable, and sustainable.
 
-#### Supporting Tools & Resources
-
-To support their work, the organization leveraged open source tools like:
-
-- **CHAOSS GrimoireLab and Augur** for collecting and analyzing community metrics  
-- **OpenSSF Scorecards** for standardized security and project health checks  
-
-#### Enabling Organizational Buy-In
-
-- Regular workshops introduced teams to the process  
-- Feedback loops ensured continued refinement  
-- Health assessments were embedded in standard dev and QA practices  
-
-#### Outcomes and Lessons
-
-By operationalizing project health metrics, the OSPO:
-
-- Reduced risk from unmaintained or vulnerable dependencies  
-- Improved strategic alignment across teams  
-- Contributed to upstream sustainability where needed  
-
-This case highlights how metrics-driven intake processes help OSPOs move from reactive tracking to proactive strategy — benefiting both the organization and the wider open source ecosystem.
+Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get started or strengthen their approach.
 
 ## Footnotes and Resources
+### Footnotes
+[1] CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides/
+
+[2] Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
+
+[3] Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 
+
+[4] Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study. 
+https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf 
 
 ### Resources
+CHAOSS Project: https://chaoss.community/ 
 
-- [CHAOSS Practitioner Guides](https://chaoss.community/about-chaoss-practitioner-guides/)
-- Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.
-- [Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI](https://doi.org/10.1145/3555051.3555067)
-- Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532.
+OpenSSF Scorecard: https://github.com/ossf/scorecard
+
+CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
