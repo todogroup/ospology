@@ -33,7 +33,7 @@ Metrics for metrics' sake benefit no one. Consider these metrics:
 
 Without context, these metrics provide no insight, so it's important to ensure that you use a framework like "goal-question-metric" to give you metrics that support your goals instead of working against them. 
 
-CHAOSS advocates for using the GQM because it is a structured method for deriving metrics that align with organizational goals. It involves three key steps:
+The CHAOSS project (Community Health Analytics for OSS) advocates for using the "goal-question-metric" because it is a structured method for deriving metrics that align with organizational goals. It involves three key steps:
 
 #### Goals
 Identify and understand your organizational goals. These can vary significantly but typically include objectives like recruiting talent or enhancing community engagement.
