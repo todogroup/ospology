@@ -14,9 +14,9 @@ weight: 60
 
 > NOTE: This chapter has been developed through the expertise of Open Source Security Foundation (OpenSSF) representatives, with support from the TODO Group
 
-Open source software is an important part of the software supply chain. Because of this, it is part of an OSPO’s responsibility to help secure the open source software supply chain. This includes tasks such as:
+Open source software is an important part of the software supply chain. Because of this, it is part of an OSPO’s responsibility to help secure the OSS supply chain. This includes tasks such as:
 
-- Helping development teams assess the security of the open source software they use in products.
+- Helping development teams assess the security of the OSS they use in products.
 
 - Encouraging development teams to contribute to upstream open source projects to help improve their security.
 
@@ -26,71 +26,58 @@ This chapter includes useful resources to help OSPOs and open source developers 
 
 In some ways, security is just like any other requirement. However, many software developers and their managers have not received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
 
-Fixing security problems later is often expensive. It is better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It’s important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of “open design”—but these benefits don’t happen automatically.
+Fixing security problems later is often expensive. It is better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It’s important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of “open design” — but these benefits don’t happen automatically.
 
 
 ## Training and Education
 
 Many software developers and managers don’t know what they need to know about security. This lack of knowledge often causes problems. Here are some key areas to understand, along with links to free OpenSSF courses that can help. These specific courses are not required, but it is important that everyone involved in software development gets the right training.
 
-Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven’t been trained yet, they can take the free OpenSSF course Security for Software Development Managers (LFD125).
- Open Source Security Foundation ([OpenSSF](https://openssf.org)) course *[Security for Software Development Managers (LFD125)](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/).
+Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven’t been trained yet, they can take the free Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)* [1].
 
-Developers should take a course on secure software development. This includes how to build secure software during planning, design, coding, testing, and release. Developers also need to know how to evaluate third-party software. They should understand common vulnerabilities (like those in the OWASP Top Ten for web apps and CWE Top 25 for general software) and how to avoid them. They should also know how to secure development environments and respond to vulnerability reports. If they haven't had this training, they can take the free OpenSSF course Developing Secure Software (LFD121).
- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) (for web applications) and the [CWE Top 25](https://cwe.mitre.org/top25/) (across all software),  OpenSSF course *[Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
+Developers should take a course on secure software development. This includes how to build secure software during planning, design, coding, testing, and release. Developers also need to know how to evaluate third-party software. They should understand common vulnerabilities (like those in the OWASP Top Ten for web apps [2] and CWE Top 25 for general software [3]) and how to avoid them. They should also know how to secure development environments and respond to vulnerability reports. If they haven't had this training, they can take the free OpenSSF course Developing Secure Software (LFD121) [4].
 
 
-Both developers and managers must understand any laws or regulations they need to follow. For example, anyone involved in software that may be used in the European Union (EU) should understand the EU Cyber Resilience Act (CRA). This includes knowing what the CRA applies to, the different roles it defines (such as manufacturer or open source steward), and the legal responsibilities it creates. Because the CRA covers a wide range and includes strong penalties, those who need to understand it can take the free OpenSSF course Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001).
+Both developers and managers must understand any laws or regulations they need to follow. For example, anyone involved in software that may be used in the European Union (EU) should understand the EU Cyber Resilience Act (CRA). This includes knowing what the CRA applies to, the different roles it defines (such as manufacturer or open source steward), and the legal responsibilities it creates. Because the CRA covers a wide range and includes strong penalties, those who need to understand it can take the free OpenSSF course Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) [5].
 
 ## Key Steps
 
-For developing your own software:
+**For developing your own software:**
 
-1. Review the OpenSSF Concise Guide for Developing More Secure Software, which links to practical resources
+1. Review the OpenSSF Concise Guide for Developing More Secure Software, which links to practical resources [6].
 
-1. Work to meet the OpenSSF Baseline, a short list of security checks
+1. Work to meet the OpenSSF Baseline, a short list of security checks [7].
 
-1. Earn an OpenSSF Best Practices badge for your project. Start with “passing” and plan to achieve “silver” or “gold” over time
+1. Earn an OpenSSF Best Practices badge for your project. Start with “passing” and plan to achieve “silver” or “gold” over time [8].
 
-1. Improve your OpenSSF Scorecard score. While this is often used to evaluate other projects, it can also help you measure your own
+1. Improve your OpenSSF Scorecard score. While this is often used to evaluate other projects, it can also help you measure your own [9].
 
-[Concise Guide for Developing More Secure Software](https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software )
-[OpenSSF Baseline](https://baseline.openssf.org/)
-[OpenSSF Best Practices badge](https://www.bestpractices.dev/)
-[OpenSSF Scorecard](https://github.com/ossf/scorecard) 
+**Most modern software reuses other software. Choose and use open source components carefully:**
 
-Most modern software reuses other software. Choose and use open source components carefully. Here’s how:
+1. Use the Concise Guide for Evaluating Open Source Software [10].
 
-1. Use the Concise Guide for Evaluating Open Source Software
+1. Double-check software names to avoid “typosquatting” attacks (where malicious packages have names similar to trusted ones).
 
-2. Double-check software names to avoid “typosquatting” attacks (where malicious packages have names similar to trusted ones)
+1. Use the OpenSSF Scorecard to evaluate software before using it [9].
 
-3. Use the OpenSSF Scorecard to evaluate software before using it
 
-[Concise Guide for Evaluating Open Source Software](https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software)
-[OpenSSF Scorecard](https://github.com/ossf/scorecard)
-
-Protect your environments, including development, build, test, and distribution:
+**Protect your environments, including development, build, test, and distribution:**
 
 1. Use multi-factor authentication (MFA) to make it harder for attackers to gain access.
-2. Secure your build environment. See [OpenSSF SLSA](https://slsa.dev/) for more guidance.
+1. Secure your build environment. See OpenSSF SLSA for more guidance [11].
 
 Use automated tools in your continuous integration (CI) pipeline to catch security issues early:
 
-1. Use multiple types of tools, as each may find different problems (see the Guide to Security Tools)
+1. Use multiple types of tools, as each may find different problems, see the Guide to Security Tools [12].
 
 1. For new projects (“green field”), enable all security checks. For older projects (“brown field”), start with the most important checks so the reports are manageable
 
 1. Enable tools that detect known vulnerabilities in reused components
 
-
-[Guide to Security Tools](https://github.com/ossf/wg-security-tooling/blob/main/guide.md#readme).
-
-Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process.
-(https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme).
+Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [13].
 
 ## Applying This to Your Organization
-Improving the security of open source software in your organization is not just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone’s responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
+Improving the security of OSS in your organization is not just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone’s responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
 
 Security practices should be part of everyday development work, not something separate. For example, instead of running security checks only once in a while, make tools like scorecards and vulnerability scans part of your regular CI/CD pipeline. This helps make security a normal and expected part of how your team builds software.
 
@@ -98,17 +85,45 @@ Training and education should happen regularly, not just once. Developers and ma
 
 It also helps to be open about security progress. Encourage teams to track and share their progress on goals like earning Best Practices badges or improving their Scorecard results. This creates a positive environment where teams help each other and improve together, instead of feeling blamed when something goes wrong.
 
-Lastly, support continuous improvement. Security is not something you finish—it’s always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
+Lastly, support continuous improvement. Security is not something you finish — it’s always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
 
-By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the open source software it builds and uses.
+By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the OSS it builds and uses.
 
 
 ## Footnotes and Resources
 
 ### Footnotes
+[1] Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)*
+ https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/.
+
+[2] OWASP Top Ten for web apps: https://owasp.org/www-project-top-ten/
+
+[3] CWE Top 25 for general software: https://cwe.mitre.org/top25/
+
+[4] OpenSSF course Developing Secure Software (LFD121): https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
+
+[5] https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/ 
+
+[6] Concise Guide for Developing More Secure Software: https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software
+
+[7] https://baseline.openssf.org/
+
+[8] OpenSSF Best Practices badge https://www.bestpractices.dev/
+
+[9] OpenSSF Scorecard: https://github.com/ossf/scorecard 
+
+[10] Concise Guide for Evaluating Open Source Software: https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software
+
+[11] OpenSSF SLSA: https://slsa.dev/
+
+[12] Guide to Security Tools: https://github.com/ossf/wg-security-tooling/blob/main/guide.md#readme
+
+[13] OpenSSF Guide to implementing a coordinated vulnerability disclosure process:
+https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme
 
 ### Resources
-- Concise Guide for Developing More Secure Software: [https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software](https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software) 
-- Concise Guide for Evaluating Open Source Software: [https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software](https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software)
-- [Security for Software Development Managers (LFD125)](https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/)
-- [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
+OpenSSF: https://openssf.org
+
+OWASP: https://owasp.org/
+
+CWE: https://cwe.mitre.org/index.html
