@@ -122,8 +122,6 @@ By creating a culture of shared responsibility, adding security into everyday wo
 https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme
 
 ### Resources
-OpenSSF: https://openssf.org
-
-OWASP: https://owasp.org/
-
-CWE: https://cwe.mitre.org/index.html
+- OpenSSF: https://openssf.org
+- OWASP: https://owasp.org/
+- CWE: https://cwe.mitre.org/index.html
