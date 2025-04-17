@@ -8,7 +8,7 @@ weight: 30
 - [Applying This to Your Organization](#applying-this-to-your-organization)
 - [Conclusion](#conclusion)
 - [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Footnotes and Resources](#footnotes-and-resources)
+- [Resources and Footnotes](#resources-and-footnotes)
 
 ## Introduction
 
@@ -141,10 +141,7 @@ The OSPO is seen as a one-size-fits-all solution.
 ### Recommendation 
 Carefully assess the specific needs and objectives of your organization to determine if an OSPO is the right fit, tailoring its structure and functions to effectively align with your unique organizational goals and strategies. Share the mission of your OSPO, and demonstrate how your work delivers on that mission. 
 
-## Footnotes and Resources
-
-### Footnotes
-None.
+## Resources and Footnotes
 
 ### Resources
 
@@ -160,3 +157,6 @@ None.
 * The OSPO: A New Tool for Digital Government - Open Forum Europe: https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf
 * OSPO Adoption Landscape - TODO Group, Linux Foundation: https://landscape.todogroup.org/
 * Business Success with Open Source - VM (Vicky) Brasseur: https://pragprog.com/titles/vbfoss/business-success-with-open-source/
+
+### Footnotes
+None.

@@ -8,7 +8,7 @@ weight: 70
 - [Using Metrics to Communicate the Impact of Your OSPO](#using-metrics-to-communicate-the-impact-of-your-ospo)
 - [If You Manage Open Source Projects](#if-you-manage-open-source-projects)
 - [If You Use Open Source Projects](#if-you-use-open-source-projects)
-- [Footnotes and Resources](#footnotes-and-resources)
+- [Resources and Footnotes](#resources-and-footnotes)
   
 
 ## Introduction
@@ -143,13 +143,13 @@ Engagement with open source communities includes working in the upstream to effe
 Consider what data are available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
 
 ## If You Manage Open Source Projects
-For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS Practitioner Guides [1]  to guide you through identifying the right metrics for a selection of use cases.
+For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS Practitioner Guides [^1]  to guide you through identifying the right metrics for a selection of use cases.
 
 ## If You Use Open Source Projects
 For organizations that use open source projects and want to understand the health of these projects, the following information can help them consider what is right for them.
 
 ### How OSPOs Can Navigate the Complexities of Open Source Project Health
-Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
+Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [^2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
 
 These health aspects focus on important areas such as:
 
@@ -168,7 +168,7 @@ The experts interviewed emphasized that organizations must consider the type and
 
 The strategic value the project holds for the organization
 
-When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [3].
+When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [^3].
 
 #### Making Smart Choices About What to Measure
 Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
@@ -184,7 +184,7 @@ Instead of trying to measure everything at once, OSPOs should start small, learn
 
 #### A Practical Approach to Evaluating and Managing OSS Dependencies
 
-In 2024, Linåker and colleagues worked with a large international automotive company to create a simple and effective way to assess the health of open source software (OSS) projects [4]. Their case study shows how organizations can customize health checks to fit their needs and workflows.
+In 2024, Linåker and colleagues worked with a large international automotive company to create a simple and effective way to assess the health of open source software (OSS) projects [^4]. Their case study shows how organizations can customize health checks to fit their needs and workflows.
 
 #### Building a Health Assessment Process
 The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company’s environment.
@@ -231,18 +231,19 @@ By identifying problems early and responding quickly, organizations can reduce r
 
 Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get started or strengthen their approach.
 
-## Footnotes and Resources
-### Footnotes
-[1] CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides/
-
-[2] Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
-
-[3] Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 
-
-[4] Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study. 
-https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf 
+## Resources and Footnotes
 
 ### Resources
 - CHAOSS Project: https://chaoss.community/ 
 - OpenSSF Scorecard: https://github.com/ossf/scorecard
 - CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
+
+### Footnotes
+[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides/
+
+[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
+
+[^3]: Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 
+
+[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study. 
+https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf 
