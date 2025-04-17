@@ -8,7 +8,7 @@ weight: 60
 - [Common Activities](#common-activities)
 - [Applying This to Your Organization](#applying-this-to-your-organization)
 - [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Footnotes and Resources](#footnotes-and-resources)
+- [Resources and Footnotes](#resources-and-footnotes)
 
 ## Introduction
 
@@ -34,13 +34,13 @@ An OSPO's day-to-day operations encompass a broad spectrum of activities aimed a
 
 - **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram in Chapter 3 for help mapping interactions.
 
-- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the *Secure Supply Chain Consumption Framework (S2C2F)*[1].
+- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the *Secure Supply Chain Consumption Framework (S2C2F)*[^1].
 
 ## Applying This to Your Organization
 
 ### The OSPO MindMap
 
-The OSPO MindMap [2] is once again a useful tool. You can use it to get an overview of the potential activities of an OSPO. The OSPO MindMap outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO. As always, this is an input to your work, not a fixed plan to follow. You should adapt it to your needs.
+The OSPO MindMap [^2] is once again a useful tool. You can use it to get an overview of the potential activities of an OSPO. The OSPO MindMap outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO. As always, this is an input to your work, not a fixed plan to follow. You should adapt it to your needs.
 
 
 ### Activities by Maturity Stage
@@ -89,12 +89,7 @@ The new OSPO is very slow to make recognizable progress, and doubts about the ne
 ### Recommendation
 As with all new ventures, it's really important to create and maintain a focus on delivering meaningful impact in the short and long term. Short term impact reassures stakeholders that the OSPO is needed and competent, and gives OSPO staff confidence. Long term impact creates sustainable value for the organization and embeds the OSPO securely in the organization. Try to identify something important that can be delivered within the first 3-6 months, while also working on longer term projects that will deliver in 6-12 months, 12-24 months and 2-5 years. Keep the list of active projects short at first to ensure that they are delivered with quality and on time. As confidence in the OSPO grows, it puts you in a stronger position to ask for more resource if you have a strong track record of delivering value.
 
-## Footnotes and Resources
-
-### Footnotes
-[1] Secure Supply Chain Consumption Framework (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
-
-[2] OSPO Mind Map https://todogroup.org/resources/mindmap/
+## Resources and Footnotes
 
 ### Resources 
 - A Guide to Enterprise Open Source: https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf
@@ -102,3 +97,8 @@ As with all new ventures, it's really important to create and maintain a focus o
 - OpenSSF Scorecard: https://github.com/ossf/scorecard
 - Software Bill of Materials (SBOMs): https://www.ntia.gov/SBOM
 - Computer Emergency Response Team (CERT): https://www.cisa.gov/uscert/
+
+### Footnotes
+[^1]: Secure Supply Chain Consumption Framework (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
+
+[^2]: OSPO Mind Map https://todogroup.org/resources/mindmap/

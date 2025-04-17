@@ -9,7 +9,7 @@ weight: 40
 - [Applying This to Your Organization](#applying-this-to-your-organization)
 - [Examples of the OSPO's value](#examples-of-the-ospos-value)
 - [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Footnotes and Resources](#footnotes-and-resources)
+- [Resources and Footnotes](#resources-and-footnotes)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ This chapter will help you to understand the possible areas where managing open 
 
 The work of an OSPO is to understand where open source can bring value to its organization, and to actively manage or oversee all related activities.
 
-Every organization will have its own reasons for wanting to start an OSPO, some common reasons given in the *business value of the OSPO report* [1] are as follows:
+Every organization will have its own reasons for wanting to start an OSPO, some common reasons given in the *business value of the OSPO report* [^1] are as follows:
 
 - Building standardized processes around open source
 - Learning how to approach the open source community
@@ -117,7 +117,7 @@ _[Source: OSPOs, key lever for open source sustainability][1](https://speakerdec
 ## Applying This to Your Organization
 ### Assess the Value of Open Source Use
 
-Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [3] estimates that the supply-side value of widely-used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
+Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [^2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [^3] estimates that the supply-side value of widely-used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [^4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
 
 Assess this value for your own organization by taking steps such as:
 
@@ -142,13 +142,13 @@ To illustrate how your OSPO may deliver value to your organization, some example
 
 ### Managing a Vulnerability in the Software Supply Chain
 
-For example: a social engineering attack targeted the xz/liblzma [5], an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+For example: a social engineering attack targeted the xz/liblzma [^5], an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
 
  #### How the OSPO Helps
 
  1. **SBOMs Compliance Ready:** Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps in quickly identifying potentially compromised components once a vulnerability is disclosed.
 
-1. **Automation Security Checks:** Implement automated security checks, such as the OpenSSF Scorecard [6], to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation. 
+1. **Automation Security Checks:** Implement automated security checks, such as the OpenSSF Scorecard [^6], to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation. 
    
 2.  **Having a Computer Emergency Response Team (CERT)** within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
 
@@ -158,7 +158,7 @@ For example: a social engineering attack targeted the xz/liblzma [5], an essenti
 
 ### Managing a Licence Change in the Software Supply Chain
 
- OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When projects like Redis change their terms [7] it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The AlmaLinux OS Foundation [8] presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
+ OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When projects like Redis change their terms [^7] it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The AlmaLinux OS Foundation [^8] presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
 
 #### How the OSPO Helps
 
@@ -211,23 +211,7 @@ The OSPO struggles with gaining executive support and buy-in.
 Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague,  or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numeric reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
 
 
-## Footnotes and Resources
-### Footnotes
-[1] Business value of the OSPO report: https://www.linuxfoundation.org/research/business-value-of-ospo 
-
-[2] Synopsys Open Source Security and Risk Analysis Report 2024: https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf
-
-[3] Harvard Business School study: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
-
-[4] Study by OpenForum Europe: https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/ 
-
-[5] Social engineering attack targeted the xz/liblzma: https://research.swtch.com/xz-timeline
-
-[6] OpenSSF Scorecard: https://scorecard.dev/
-
-[7] Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
-
-[8] AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
+## Resources and Footnotes
 
 ### Resources
 -  Log4Shell real vulnerability example: https://en.wikipedia.org/wiki/Log4Shell
@@ -243,3 +227,19 @@ Executives require a particular type of communication. They need to have a clear
 - Open Technology - Scheerder, Jeroen & Koymans: https://www.researchgate.net/publication/254920512_Open_Technology#pf7
 - The Pros and Cons of Open Source Software - Khalil Khalaf: https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95
 
+### Footnotes
+[^1]: Business value of the OSPO report: https://www.linuxfoundation.org/research/business-value-of-ospo 
+
+[^2]: Synopsys Open Source Security and Risk Analysis Report 2024: https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf
+
+[^3]: Harvard Business School study: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+
+[^4]: Study by OpenForum Europe: https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/ 
+
+[^5]: Social engineering attack targeted the xz/liblzma: https://research.swtch.com/xz-timeline
+
+[^6]: OpenSSF Scorecard: https://scorecard.dev/
+
+[^7]: Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
+
+[^8]: AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
