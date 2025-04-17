@@ -95,8 +95,8 @@ Overall, gather input from stakeholders on these areas by asking the following q
   * How much OSS is already being used in the organization?
   * How would you define the 'open source culture' within your organization?
   * What are the organization's goals and objectives for using open source?
-  * How's OSS currently being used within the organization?
-  * How's OSS currently being created within the organization?
+  * How is OSS currently being used within the organization?
+  * How is OSS currently being created within the organization?
   * If any, what are the current policies and procedures for managing OSS within the organization?
   * What are the key legal and compliance considerations for using OSS within the organization?
   * What are the motivations for implementing an OSPO within the organization?
