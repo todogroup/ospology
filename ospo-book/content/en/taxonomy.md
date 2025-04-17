@@ -57,7 +57,7 @@ reach their full potential.
 
 ### Common Questions to Identify the Best Segment
 
-Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How's my organization structured?", "What's my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
+Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What's my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
 
 Regardless of the type of organization, OSPO leaders and teams need to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
 

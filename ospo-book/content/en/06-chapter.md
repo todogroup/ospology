@@ -135,13 +135,13 @@ Align open source engagement with internal governance, security, and product dev
 
 **Commentary**
 
-Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that's in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
+Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
 
 **Questions**
 
 * What characteristics does an organization inspect related to inbound OSS?
 * What product-level software and infrastructure contains OSS dependencies?
-* How's OSPO strategy aligned with organizational strategy and departmental objectives?
+* How is OSPO strategy aligned with organizational strategy and departmental objectives?
 * How often is OPSO strategy used to guide business decision making processes?
 * How does the use of open source influence organizational value?
 
