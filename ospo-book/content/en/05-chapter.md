@@ -14,7 +14,7 @@ weight: 60
 
 > NOTE: This chapter has been developed through the expertise of Open Source Security Foundation (OpenSSF) representatives, with support from the TODO Group
 
-Open source software is an important part of the software supply chain. Because of this, it is part of an OSPO’s responsibility to help secure the OSS supply chain. This includes tasks such as:
+Open source software is an important part of the software supply chain. Because of this, it's part of an OSPO’s responsibility to help secure the OSS supply chain. This includes tasks such as:
 
 - Helping development teams assess the security of the OSS they use in products.
 - Encouraging development teams to contribute to upstream open source projects to help improve their security.
@@ -22,14 +22,13 @@ Open source software is an important part of the software supply chain. Because 
 
 This chapter includes useful resources to help OSPOs and open source developers apply secure software development and supply chain best practices - both in the software they use and the software they create.
 
-In some ways, security is just like any other requirement. However, many software developers and their managers have not received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
+In some ways, security is just like any other requirement. However, many software developers and their managers haven't received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
 
-Fixing security problems later is often expensive. It is better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It’s important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of “open design” — but these benefits don’t happen automatically.
-
+Fixing security problems later is often expensive. It's better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It’s important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of “open design” — but these benefits don’t happen automatically.
 
 ## Training and Education
 
-Many software developers and managers don’t know what they need to know about security. This lack of knowledge often causes problems. Here are some key areas to understand, along with links to free OpenSSF courses that can help. These specific courses are not required, but it is important that everyone involved in software development gets the right training.
+Many software developers and managers don’t know what they need to know about security. This lack of knowledge often causes problems. Here are some key areas to understand, along with links to free OpenSSF courses that can help. These specific courses aren't required, but it's important that everyone involved in software development gets the right training.
 
 Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven’t been trained yet, they can take the free Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)* [^1].
 
@@ -74,7 +73,8 @@ Both developers and managers must understand any laws or regulations they need t
 Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [^13].
 
 ## Applying This to Your Organization
-Improving the security of OSS in your organization is not just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone’s responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
+
+Improving the security of OSS in your organization isn't just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone’s responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
 
 Security practices should be part of everyday development work, not something separate. For example, instead of running security checks only once in a while, make tools like scorecards and vulnerability scans part of your regular CI/CD pipeline. This helps make security a normal and expected part of how your team builds software.
 
@@ -82,19 +82,20 @@ Training and education should happen regularly, not just once. Developers and ma
 
 It also helps to be open about security progress. Encourage teams to track and share their progress on goals like earning Best Practices badges or improving their Scorecard results. This creates a positive environment where teams help each other and improve together, instead of feeling blamed when something goes wrong.
 
-Lastly, support continuous improvement. Security is not something you finish — it’s always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
+Lastly, support continuous improvement. Security isn't something you finish — it’s always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
 
 By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the OSS it builds and uses.
-
 
 ## Resources and Footnotes
 
 ### Resources
+
 - OpenSSF: https://openssf.org
 - OWASP: https://owasp.org/
 - CWE: https://cwe.mitre.org/index.html
 
 ### Footnotes
+
 [^1]: Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)*
  https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/.
 
@@ -104,7 +105,7 @@ By creating a culture of shared responsibility, adding security into everyday wo
 
 [^4]: OpenSSF course Developing Secure Software (LFD121): https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
 
-[^5]: https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/ 
+[^5]: https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/
 
 [^6]: Concise Guide for Developing More Secure Software: https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software
 
@@ -112,7 +113,7 @@ By creating a culture of shared responsibility, adding security into everyday wo
 
 [^8]: OpenSSF Best Practices badge https://www.bestpractices.dev/
 
-[^9]: OpenSSF Scorecard: https://github.com/ossf/scorecard 
+[^9]: OpenSSF Scorecard: https://github.com/ossf/scorecard
 
 [^10]: Concise Guide for Evaluating Open Source Software: https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software
 
