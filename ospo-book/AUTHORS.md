@@ -1,4 +1,4 @@
-Here is a list of Authors and Co-authors (contributors) of this project. 
+Here is a list of Authors and Co-authors (contributors) of this project.
 
 This list is updated every time a new release is published, but you can open a PR anytime adding your name to the list. A maintainer will later review your submission.
 
@@ -7,10 +7,12 @@ This list is updated every time a new release is published, but you can open a P
 # Contributors (Individuals)
 
 ## Maintainers
+
 - Ana Jiménez Santamaría
 - Chris Aniszczyk
 
 ## Core Contributors
+
 - Alin Jerpelea
 - Annania Melaku
 - Carlos Maltzhan
@@ -21,6 +23,7 @@ This list is updated every time a new release is published, but you can open a P
 - Gergely Csatari
 - Gil Yehuda
 - Hiro Fukuchi
+- Jan van den Berg
 - Jiri Marek
 - Jonas van den Bogaard
 - Kate Stewart

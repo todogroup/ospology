@@ -15,12 +15,12 @@ menu:
 
 This section will provide organizations with a comprehensive list of the existing literature and resources available on open source and OSPOs, making it easy for them to access the information and support they need to create and implement an OSPO successfully.
 
-## Adding resources: Required format
+## Adding Resources: Required Format
 
 * Changes to this file is done via PR (read the [CONTRIBUTING.md](../../CONTRIBUTING.md) from this project to learn more)
 * Add your link in the following section `resources list` with a title and exact chapter (if any) where this resource is referenced. (check content/ folder to learn more)
 
-## Resources list (WIP)
+## Resources List (WIP)
 
 | Source | Title and Link |
 |--------|----------------|
