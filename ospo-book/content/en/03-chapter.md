@@ -16,11 +16,11 @@ weight: 50
 
 OSPOs can be really diverse, so taking the time to design an OSPO that will deliver on your organization's goals is important.
 
-This chapter will first help you to idenify your strategy so you can have a basis for planning the work your should do, and how the OSPO should be structured.
+This chapter will first help you to idenify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
 
 It will then look at designing and building a stable and strong OSPO that's capable of covering the open source-related tasks and responsibilities needed by your organization.
 
-Lastly, this chapter will introduce maturity mondel as a way of understanding what's appropriate for your OSPO now and in the future as needs change.
+Lastly, this chapter will introduce maturity model as a way of understanding what's appropriate for your OSPO now and in the future as needs change.
 
 ## Starting With Strategy
 
@@ -36,7 +36,7 @@ A strategy creates a high-level consensus on concrete topics and their impact on
 
 Things to consider when creating your strategy:
 
-1.  **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
+1. **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
 2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source.
 3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] explains all essential information on OSPO structures and operations.
 4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [^4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
@@ -70,7 +70,7 @@ Depending on the complexity of your organization and the resources available to 
 ![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
 [ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
 
-* **Individual Contributors:** This petal represents the people who the OSPO will work with within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+* **Individual Contributors:** This petal represents the people who the OSPO will work within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
 * **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
 
@@ -129,6 +129,7 @@ Each of these maturity models is slightly different, but they all classify open 
 ![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
 
 #### Maturity Model 3 - The OSPO Maturity Model by The TODO Group [^7]
+
 * Stage 0: Adopting Open Source Ad Hoc
 * Stage 1: Providing OSS Compliance, Inventory, and Developer Education
 * Stage 2: Evangelizing OSS Use and Ecosystem Participation
