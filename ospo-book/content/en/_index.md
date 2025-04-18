@@ -5,7 +5,7 @@ status: Completed
 
 # Welcome to the <br/>OSPO Book
 
-The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and/or create open source projects with the help of  professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role and provides resources developed openly by a group of contributors [^1] with deep knowledge in open source strategy, community and management. This includes setting up policies, processes, and strategies on how to use, contribute to, and create open source projects critical to the organization's products or services, as well as overseeing day-to-day operations.
+The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and create open source projects with the help of professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role and provides resources developed openly by a group of contributors [^1] with deep knowledge in open source strategy, community and management. This includes setting up policies, processes, and strategies on how to use, contribute to, and create open source projects critical to the organization's products or services, as well as overseeing day-to-day operations.
 
 * Why organizations may or may not need an OSPO.
 * Assessing an organization's readiness for implementing an OSPO.
