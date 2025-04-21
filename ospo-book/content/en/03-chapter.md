@@ -38,14 +38,14 @@ Things to consider when creating your strategy:
 
 1. **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
 2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source.
-3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] explains all essential information on OSPO structures and operations.
+3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] that explains all essential information on OSPO structures and operations.
 4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [^4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
 
 ## Designing Your OSPO
 
 ### Identifying What Your OSPO Should Manage
 
-Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making informed open source-forward decisions. For instance, in a corporate field, an OSPO might look into the following areas and identify the role that open source plays on each situation:
+Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making informed open source forward decisions. For instance, in a corporate field, an OSPO might look into the following areas and identify the role that open source plays on each situation:
 
 ![organization-architecture](https://github.com/todogroup/ospology/assets/43671777/e722d9b0-04f7-4f0a-b645-fd369a2b56f9)
 
@@ -54,7 +54,7 @@ Since every organization is unique in its values, business drivers, and culture,
 * Which open source technology is and which will be important for your organization's goals and product roadmap?
 * Which open source projects directly and indirectly develop or influence these technologies and your organization's goals?
 * Which specific practices can best foster a sustainable open source ecosystem?
-* Which organization's processes have areas for improvement?
+* Which of the organization's processes have areas for improvement?
 * How can open source support those improvements?
 * How can you make workers champions for open source?
 * How can the message be effectively transmitted to management for their understanding?
@@ -84,7 +84,7 @@ Depending on the complexity of your organization and the resources available to 
 
 ### Collaborating With External Regulators
 
-External regulators aren't included in the flower diagram, as this is a specialist case.
+External regulators aren't included in the flower diagram, as this is a specialized case.
 
 Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
 
@@ -98,15 +98,15 @@ For open source to be successful and sustainable within an organization, it's cr
 
 ### An Introduction to Maturity Models
 
-An organization's engagement with open source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit, and to have conversations about whether it's in the right place.
+An organization's engagement with open source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit and to have conversations about whether it's in the right place.
 
-There are many different open source maturity models. Some are general, some are specialised. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
+There are many different open source maturity models. Some are general, some are specialized. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
 
 > NOTE: Maturity Models can be seen as a prescription for how OSPOs or open source engagement should develop. It can be tempting to think that it's always better to increase maturity. But, remember that you should consider what *level* of maturity is appropriate for your OSPO, or each function of your OSPO. Not every part needs to be highly developed. It may already deliver the value that's needed wihtout further development. If maturity models don't fit for your OSPO, consider using a capability model or something else that you prefer.
 
 ### Example Maturity Models
 
-Each of these maturity models is slightly different, but they all classify open source engagement from tactical and less intentional, to strategic and more intentional.
+Each of these maturity models is slightly different, but they all classify open source engagement from tactical and less intentional to strategic and more intentional.
 
 #### Maturity Model 1 - Open Source Engagement Adoption by Dr. Ibrahim H [^5]:
 
@@ -118,7 +118,7 @@ Each of these maturity models is slightly different, but they all classify open 
 
 ![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
 
-#### Maturity Model 2 - Five Stages or Corporate Open Source Adoption Talk by Carl-Eric [^6]:
+#### Maturity Model 2 - Five Stages of Corporate Open Source Adoption Talk by Carl-Eric [^6]:
 
 * Accidental - open source is used by the organisation without knowing that it's used
 * Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
@@ -150,7 +150,7 @@ The TODO OSPO checklist [^8] offers a simplified set of common milestones to bot
 
 Once you have a certain familiarity with open source maturity models, you can start to use one to build your strategy and create your plan.
 
-The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, has been developing a simple frequently asked questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
+The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, has been developing a simple Frequently Asked Questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
 
 Here are some highlights from their work to inspire you:
 
@@ -173,7 +173,7 @@ For example:
 
 ### Problem
 
-While creating the OSPO you are getting lots of questions and having to adapt your plan to take into account new information. It seems there is a lack of consistency in how open source understanding and value is perceived across the organization, leading to confusion and potential risks.
+While creating the OSPO you are getting lots of questions and having to adapt your plan to take into account new information. It seems there is a lack of consistency in how open source understanding and value are perceived across the organization, leading to confusion and potential risks.
 
 ### Recommendation
 
