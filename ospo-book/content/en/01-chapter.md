@@ -54,9 +54,9 @@ As an example, the following diagram illustrates the various players in a busine
 
 In the past, collaborative OSS development was primarily adopted by small groups of developers and enthusiasts, and there was little need for dedicated organizational units to manage open source activities. However, as this method has become more prevalent and critical to the operation of many organizations, the need for dedicated OSPOs has become more apparent.
 
-The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated significantly in the last decade. Most prominent technology infrastructure firms (for example Amazon, VMware, Cisco) and consumer technology companies (for example Apple, Google, Facebook) have created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated significantly in the last decade. Most prominent technology infrastructure firms (for example Amazon, VMware, Cisco) and consumer technology companies (for example Apple, Google, Meta (formerly Facebook)) have created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
 
-The term "OSPO" has become more mainstream and diverse in the last years, as more organizations from different sectors and regions created dedicated open source roles in their organization to manage open source operations and strategy. Recently, OSPOs are being formed in different regions (APAC, EMEA, AMER) and different types of organization, such as governments, enterprises, NGOs, and universities.
+The term "OSPO" has become more mainstream and diverse in the last few years, as more organizations from different sectors and regions have created dedicated open source roles in their organization to manage open source operations and strategy. Recently, OSPOs have being formed in different regions (APAC, EMEA, AMER) and different types of organization, such as governments, enterprises, NGOs, and universities.
 
 > NOTE: In this book we refer to the part of the organization managing open source as an OSPO, but depending on your organization you might use a different name. OSPOs vary depending on sector, region, organizational size, and many other factors. The name may exclude the term 'Program' to become 'Open Source Office' or you may use a completely different name such as 'Open Source Center of Competence', 'Open Source Steering Committee" or 'Open Source Software Team'.
 
@@ -72,7 +72,7 @@ While this is a book about OSPOs, it's important to note that establishing an OS
 
 ### Understand the Role of Open Source in your Organization
 
-The first step in assessing whether your organization needs an OSPO is to find out the current level of open source used, contributed, or produced in the organization. This information is important when you are thinking about how an OSPO can help your organization manage the risks and opportunities that come with open source. The OSPO can help to ensure that open source activities in your organization are effectively managed and aligned with strategic goals and objectives.
+The first step in assessing whether your organization needs an OSPO is to find out the current level of open source software used, contributed, or produced in the organization. This information is important when you are thinking about how an OSPO can help your organization manage the risks and opportunities that come with open source. The OSPO can help to ensure that open source activities in your organization are effectively managed and aligned with strategic goals and objectives.
 
 Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes.
 
