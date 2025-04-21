@@ -72,7 +72,7 @@ Understand how open source collaboration fosters strategic partnerships that can
 
 **Commentary**
 
-Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
+Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization's members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
 
 **Questions**
 
@@ -135,14 +135,14 @@ Align open source engagement with internal governance, security, and product dev
 
 **Commentary**
 
-Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
+Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organizational impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
 
 **Questions**
 
 * What characteristics does an organization inspect related to inbound OSS?
 * What product-level software and infrastructure contains OSS dependencies?
 * How is OSPO strategy aligned with organizational strategy and departmental objectives?
-* How often is OPSO strategy used to guide business decision making processes?
+* How often is OSPO strategy used to guide business decision making processes?
 * How does the use of open source influence organizational value?
 
 **Metrics**
@@ -171,13 +171,12 @@ Each health aspect is further described using attributes—smaller, more detaile
 
 #### Matching the Framework to the Right Context
 
-The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they're analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
+The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they are analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
 
 * The life cycle stage of the project (for example early stage vs. mature).
 * Its complexity (how big and technically demanding it is).
 * The governance model (how decisions are made and who makes them).
-
-The strategic value the project holds for the organization
+* The strategic value the project holds for the organization
 
 When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [^3].
 
@@ -189,7 +188,7 @@ Every organization has a different context—different markets, technologies, an
 * Prioritize efforts — it's too time-consuming and expensive to measure everything.
 * Focus on the data that provides the most useful insights for risk management and decision-making.
 
-Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they're part of a practical and scalable process that evolves with experience.
+Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they are part of a practical and scalable process that evolves with experience.
 
 ### Case Study: How a Global Automotive Company Measures Open Source Project Health
 
@@ -211,7 +210,7 @@ The goal was to keep the process lightweight and efficient, while still capturin
 
 #### Monitoring Projects Already in Use
 
-The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks weren't practical.
+The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks were not practical.
 
 Their proposed solution:
 
@@ -242,7 +241,7 @@ This case offers useful lessons for OSPOs that want to reduce risk and improve l
 * Integrate health checks into existing workflows.
 * Support the process with training, tools, and regular team discussions.
 
-By identifying problems early and responding quickly, organizations can reduce risks and make sure their open source software stays secure, stable, and sustainable.
+By identifying problems early and responding quickly, organizations can reduce risks and make sure their open source software remains secure, stable, and sustainable.
 
 Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get started or strengthen their approach.
 
@@ -256,11 +255,11 @@ Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get s
 
 ### Footnotes
 
-[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides/
+[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides.
 
-[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
+[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to Characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
 
-[^3]: Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
+[^3]: Lumbard, K., Germonprez, M., & Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
 
-[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study.
+[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview Survey and Case Study.
 https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf
