@@ -188,7 +188,7 @@ Every organization has a different context—different markets, technologies, an
 * Prioritize efforts — it's too time-consuming and expensive to measure everything.
 * Focus on the data that provides the most useful insights for risk management and decision-making.
 
-Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they are part of a practical and scalable process that evolves with experience.
+Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they're part of a practical and scalable process that evolves with experience.
 
 ### Case Study: How a Global Automotive Company Measures Open Source Project Health
 
