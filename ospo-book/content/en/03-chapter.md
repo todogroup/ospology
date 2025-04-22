@@ -84,7 +84,7 @@ Depending on the complexity of your organization and the resources available to 
 
 ### Collaborating With External Regulators
 
-External regulators aren't included in the flower diagram, as this is a specialized case.
+External regulators aren't included in the flower diagram, as this is a special case.
 
 Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
 
