@@ -210,7 +210,7 @@ The goal was to keep the process lightweight and efficient, while still capturin
 
 #### Monitoring Projects Already in Use
 
-The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks were not practical.
+The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks weren't practical.
 
 Their proposed solution:
 
