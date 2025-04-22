@@ -72,7 +72,7 @@ Understand how open source collaboration fosters strategic partnerships that can
 
 **Commentary**
 
-Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization's members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
+Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
 
 **Questions**
 
