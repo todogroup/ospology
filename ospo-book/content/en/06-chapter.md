@@ -171,7 +171,7 @@ Each health aspect is further described using attributes—smaller, more detaile
 
 #### Matching the Framework to the Right Context
 
-The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they are analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
+The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they're analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
 
 * The life cycle stage of the project (for example early stage vs. mature).
 * Its complexity (how big and technically demanding it is).
