@@ -38,7 +38,7 @@ Things to consider when creating your strategy:
 
 1. **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
 2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source.
-3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] that explains all essential information on OSPO structures and operations.
+3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] which explains all essential information on OSPO structures and operations.
 4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [^4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
 
 ## Designing Your OSPO
