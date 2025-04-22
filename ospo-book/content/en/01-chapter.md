@@ -72,7 +72,7 @@ While this is a book about OSPOs, it's important to note that establishing an OS
 
 ### Understand the Role of Open Source in your Organization
 
-The first step in assessing whether your organization needs an OSPO is to find out the current level of open source software used, contributed, or produced in the organization. This information is important when you are thinking about how an OSPO can help your organization manage the risks and opportunities that come with open source. The OSPO can help to ensure that open source activities in your organization are effectively managed and aligned with strategic goals and objectives.
+The first step in assessing whether your organization needs an OSPO is to find out the current level of open source resources used, contributed, or produced in the organization. This information is important when you are thinking about how an OSPO can help your organization manage the risks and opportunities that come with open source. The OSPO can help to ensure that open source activities in your organization are effectively managed and aligned with strategic goals and objectives.
 
 Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes.
 
