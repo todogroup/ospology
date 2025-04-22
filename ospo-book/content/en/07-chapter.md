@@ -36,6 +36,7 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Shilla Saebi
 * Stephanie Lieggi
 * Supriya Ashish Chitale
+* Swastik Baranwal
 * Takanori Suzuki
 * Ulises Gascon
 * Victor Lu
