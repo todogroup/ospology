@@ -2,7 +2,7 @@
 
 Below is the schedule of upcoming Touchpoint sessions. The agenda will be updated as new speakers, topics, and tags are confirmed.
 
-| **Date**             | **Region**       | **Time (GMT)** | **Speaker** | **Topic**                              | **Tag**   | **Recording**  |
+| **Date**             | **Region**       | **Time (GMT)** | **Speaker(s) or Moderator(s)** | **Topic**                              | **Tag**   | **Recording**  |
 |-----------------------|------------------|----------------|-------------|----------------------------------------|-----------| ------------- |
 | Thursday, February 13 | EMEA & APAC      | 12:00 PM       | Alin Jepelea, Sony | [SBOM implementation journey for the Apache NuttX RTOS](./Feb-13.md) | `Compliance` | [🧑‍💻🍿](https://youtu.be/Aj84quEIEug?si=Phg2wnGqWOSDw4p3)| 
 | Thursday, February 27 | EMEA & APAC      | 12:00 PM       | Nico Rikken, Alliander | [Automated Checks Before Publishing Open Source](./Feb-27.md)    | `Compliance`  | [🧑‍💻🍿](https://youtu.be/02SV2k1eZgg?si=Ug7REOEqxYMSIvHX) |
@@ -12,7 +12,7 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Thursday, April 24    | EMEA & APAC      | 12:00 PM       | Masato Endo, Toyota | [TOYOTA OSPO in One Year and Next Journey](./Apr-24.md)| `Business`| | 
 | Monday, May 12        | AMER & EMEA      | 5:00 PM        | Brittany Istenes | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  |  |
 | Thursday, May 29      | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
-| Monday, May 26        | AMER & EMEA      | 5:00 PM        | Emma Irwin | [Open Group Discussion on open source in AI and the role of OSPOs]()| `Emerging-Trends`  | |
+| Monday, May 26        | AMER & EMEA      | 5:00 PM        | Emma Irwin, Ibrahim Haddad | [Open Group Discussion on open source in AI and the role of OSPOs]()| `Emerging-Trends`  | |
 | Thursday, June 12     | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
 | Monday, June 9        | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       | |
 | Thursday, June 26     | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
