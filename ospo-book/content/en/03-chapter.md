@@ -45,7 +45,7 @@ Things to consider when creating your strategy:
 
 ### Identifying What Your OSPO Should Manage
 
-Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making informed open source forward decisions. For instance, in a corporate field, an OSPO might look into the following areas and identify the role that open source plays on each situation:
+To do a good job, an OSPO needs to understand how the organization works. Knowing the company's goals helps the OSPO make informed choices about using open source. For example, in a business setting, an OSPO might look at these areas to see how open source fits in::
 
 ![organization-architecture](https://github.com/todogroup/ospology/assets/43671777/e722d9b0-04f7-4f0a-b645-fd369a2b56f9)
 
