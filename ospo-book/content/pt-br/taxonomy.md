@@ -1,5 +1,5 @@
 ---
-title: "Taxonomia"
+title: "Taxonomy"
 status: Completed
 toc_hide: true
 menu:
@@ -16,7 +16,7 @@ The tag system used in the book aims to show the types of segments that the cont
 **Goal Alignment Definition:**
 Goal alignment refers to the process of aligning the goals and objectives of the OSPO
 with the overall mission and purpose of the organization and those entities that shape
-the organization (e.g. government laws).
+the organization (for example government laws).
 
 **Drivers of Motivation Definition:**
 Motivation is the driving force that fuels people and entities to achieve their goals and
@@ -55,16 +55,15 @@ reach their full potential.
 
 ![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
 
-
 ### Common Questions to Identify the Best Segment
 
-Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What is my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
+Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What's my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
 
 Regardless of the type of organization, OSPO leaders and teams need to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
 
-### Important considerations
+### Important Considerations
 
-It's worth noting that these tags are not meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
+It's worth noting that these tags aren't meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
 
 Identifiers:
 `📈 Business-Oriented`,
@@ -85,6 +84,6 @@ Provide evidence and examples about how open source leaders are doing across org
 
 Shares recommendations from real-world experiences from open source professionals in concrete scenarios. Identifier `💡 Recommendations`
 
-## 🧑‍🏫 "Continue here" Resources
+## 🧑‍🏫 "Continue Here" Resources
 
 Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 Resources`
