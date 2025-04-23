@@ -1,24 +1,36 @@
 ---
-title: "本书是关于什么的"
+title: "关于本书"
 status: Completed
 weight: 20
 ---
 
-## 本书是关于什么的？
+## What's This Book About?
 
-This book serves as a guide for Open Source Program Offices (OSPOs), aiding them in gaining a better understanding of their role within organizations and providing valuable insights into the optimal practices for establishing and effectively managing an OSPO. The book covers a wide range of topics, including why organizations may or may not need an OSPO, the role of OSPOs in different types of organizations (public, private, small, medium, large), the challenges, antipatterns associated with OSPOs, and the tools and processes required to establish and manage an effective OSPO. Additionally, the book includes a concise introduction to assessing an organization's preparedness for implementing an OSPO. It offers practical recommendations and step-by-step guidance on various aspects, ranging from formulating open source policies to effectively engaging with external open source communities.
+Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
 
-## 本书不会涉及的内容
+One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
 
-This book does not aim to provide guidance on open source software development or delve deeply into its technical aspects.
+This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
 
-Additionally, it does not intend to offer guidance on the deployment, usage, and contribution to specific open source software projects, as this falls outside the scope of the book.
+* Building an open source strategy.
+* Setting up an OSPO.
+* Managing day-to-day operations.
+* Collaborating effectively with external open source communities.
 
-## 谁应该阅读本书？
+## What’s Not in This Book
 
-This book is intended for any person that wants to better understand the role of OSPOs within an organization.
-More specific examples include:
+This book doesn't focus on how to develop open source software or explain technical details in depth.
 
-* Executives, policy-makers and decision-makers who are responsible for establishing, overseeing, funding or sponsoring an OSPO within an organization.
-* Open source program managers and leaders who are responsible for coordinating and managing an organization's open source activities and engagement with open source communities.
-* Legal and compliance professionals who are responsible for managing legal issues related to open source software, including licensing and intellectual property.
+It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
+
+## Who Should Read This Book?
+
+This book is for anyone who wants to understand the role of OSPOs within an organization.
+
+More specifically, it will be useful for:
+
+* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+
+* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+
+* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
