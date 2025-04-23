@@ -13,7 +13,7 @@ weight: 40
 
 ## Introduction
 
-Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source compenents.
+Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source components.
 
 For many organizations, it's worth considering how actively managing their relationship with open source can bring benefits and reduce risks. As mentioned in the previous chapter, this involves understanding the current use of open source and then assessing how this could be managed better to support organizational goals.
 
@@ -39,7 +39,7 @@ This is a common and relatively comprehensive use case for an OSPO. Other organi
 
 Sometimes, organizational stakeholders assume that their product isn't using any open source components because their end product isn't open source. However, when you look at the entire software supply chain you can see that nearly all software contains open source dependencies or artifacts. If the contributors working on those open source projects decided to leave, the project could become obsolete or a target for security vulnerabilities. This affects any software the organization uses or sells, and could directly impact its reputation, performance, or revenue.
 
-An OSPO can help by understanding and actively managing use of open source compenents in your software.
+An OSPO can help by understanding and actively managing use of open source components in your software.
 
 #### How the OSPO Helps
 
@@ -49,7 +49,7 @@ An OSPO can help by understanding and actively managing use of open source compe
 
 - **Building Healthy Relationships with Key Open Source Projects:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products mean that open source contributions may take a back seat when things get busy. Even when it's known that contributing features and bugfixes to upstream is less effort in the long term than to maintain a fork of the project, organisations often optimize for short term benefits and don't spend the extra effort to upstream the changes.
 
-- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organization strategy and provides value to the open source projects is a good way to be a helpful community member.
+- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or financial donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organization strategy and provides value to the open source projects is a good way to be a helpful community member.
 
 - **Bridging the Gap Between Regulated Processes and Open Source Processes:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
@@ -195,7 +195,7 @@ The OSPO's value is seen as a sales profit or marketing tool.
 
 Because the OSPO has a role in supporting relationships with open source communities and partners, it can be natural for sales and marketing to see some value to them in this engagement.
 
-As an OSPO you can only fulfil your responsiblities by building trust with third parties over time. Set boundaries with sales ans marketing and say "no" to things that might reduce your reputation in the ecosystem. Work on building internal understanding of the OSPO as an integral part of the organization's digital, software, or IT strategy, and highlight work that fosters open source best practices, contributes to technological innovation, and supports the overall organization's goals.
+As an OSPO you can only fulfil your responsibilities by building trust with third parties over time. Set boundaries with sales ans marketing and say "no" to things that might reduce your reputation in the ecosystem. Work on building internal understanding of the OSPO as an integral part of the organization's digital, software, or IT strategy, and highlight work that fosters open source best practices, contributes to technological innovation, and supports the overall organization's goals.
 
 -----
 
@@ -215,7 +215,7 @@ The OSPO struggles with gaining executive support and buy-in.
 
 ### Recommendation
 
-Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague,  or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numeric reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
+Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the organization brings. If the message is too detailed or vague,  or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numeric reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
 
 
 ## Resources and Footnotes
