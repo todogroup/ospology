@@ -1,36 +1,36 @@
 ---
-title: "What's this book about?"
+title: "Sobre o que é este livro?"
 status: Completed
 weight: 20
 ---
 
-## What's This Book About?
+## Sobre o que é este livro?
 
-Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
+O open source é uma realidade para todas as organizações que trabalham com software — e não apenas para empresas de software. Por isso, gerenciar ativamente o uso de open source está se tornando cada vez mais importante para muitas organizações.
 
-One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
+Uma das formas de gerenciar o open source é criar um Open Source Program Office (OSPO). Muitas empresas e organizações já adotaram essa abordagem e, atualmente, existe uma vasta experiência e conhecimento compartilhados sobre como fazê-lo com sucesso. No espírito do open source, grande parte desse conhecimento está aberta e disponível na comunidade.
 
-This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
+Este livro oferece uma introdução clara para quem deseja entender como os OSPOs ajudam as organizações a administrar o open source. Também é um recurso útil para pessoas que já trabalham em OSPOs e querem fortalecer seu papel na definição e gestão da estratégia e de operações de open source. O livro traz orientações práticas sobre temas como:
 
-* Building an open source strategy.
-* Setting up an OSPO.
-* Managing day-to-day operations.
-* Collaborating effectively with external open source communities.
+* Construção de uma estratégia para open source.
+* Criação de um OSPO.
+* Gestão das operações do dia a dia.
+* Colaboração eficaz com comunidades externas de open source.
 
-## What’s Not in This Book
+## O que não está neste livro
 
-This book doesn't focus on how to develop open source software or explain technical details in depth.
+Este livro não tem o objetivo de explicar como desenvolver software open source nem de se aprofundar em detalhes técnicos.
 
-It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
+Também não traz instruções passo a passo para usar, implantar ou contribuir com projetos específicos de software open source.
 
-## Who Should Read This Book?
+## Quem deve ler este  livro?
 
-This book is for anyone who wants to understand the role of OSPOs within an organization.
+Este livro é para qualquer pessoa que deseja entender o papel dos OSPOs dentro de uma organização.
 
-More specifically, it will be useful for:
+Mais especificamente, será útil para:
 
-* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+* **Executivos, formuladores de políticas e tomadores de decisão** que são responsáveis por criar, apoiar ou financiar um OSPO.
 
-* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+* **Gestores de Programas de Open Source e líderes de equipes** que coordenam atividades de open source e constroem relações com comunidades open source.
 
-* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
+* **Profissionais jurídicos e de compliance** que lidam com questões legais relacionadas ao open source, como licenciamento e propriedade intelectual.
