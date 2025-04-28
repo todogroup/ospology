@@ -12,10 +12,10 @@ Una forma de gestionar el open source es establecer una Open Source Program Offi
 
 Este libro proporciona una introducción clara para cualquier persona que quiera entender cómo los OSPOs ayudan a las organizaciones a gestionar el open source. También es un recurso útil para quienes ya trabajan en OSPOs y desean fortalecer su papel en la definición y gestión de la estrategia y operaciones de open source. El libro ofrece consejos prácticos sobre temas como:
 
-* Cómo construir una estrategia de open source.
-* Cómo establecer una OSPO.
-* Cómo gestionar las operaciones del día a día.
-* Cómo colaborar eficazmente con comunidades externas de open source.
+* Construcción de una estrategia de open source.
+* Establecimiento de una OSPO.
+* Gestión de las operaciones del día a día.
+* Colaboración eficaz con comunidades externas de open source.
 
 ## Qué no está en este libro
 
