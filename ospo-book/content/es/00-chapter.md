@@ -1,36 +1,36 @@
 ---
-title: "What's this book about?"
+title: "¿De qué trata este libro?"
 status: Completed
 weight: 20
 ---
 
-## What's This Book About?
+## ¿De qué trata este libro?
 
-Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
+El open source (código abierto) es una realidad para todas las organizaciones que trabajan con software, no solo para las empresas de software. Por eso, gestionar activamente el open source se está volviendo cada vez más importante para muchas organizaciones.
 
-One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
+Una forma de gestionar el open source es establecer una Open Source Program Office (OSPO). Muchas empresas y organizaciones han adoptado este enfoque y, actualmente, existe una gran cantidad de experiencia y conocimiento compartido sobre cómo hacerlo con éxito. En el espíritu del open source, gran parte de este conocimiento está disponible abiertamente en la comunidad.
 
-This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
+Este libro proporciona una introducción clara para cualquier persona que quiera entender cómo los OSPOs ayudan a las organizaciones a gestionar el open source. También es un recurso útil para quienes ya trabajan en OSPOs y desean fortalecer su papel en la definición y gestión de la estrategia y operaciones de open source. El libro ofrece consejos prácticos sobre temas como:
 
-* Building an open source strategy.
-* Setting up an OSPO.
-* Managing day-to-day operations.
-* Collaborating effectively with external open source communities.
+* Construcción de una estrategia de open source.
+* Establecimiento de una OSPO.
+* Gestión de las operaciones del día a día.
+* Colaboración eficaz con comunidades externas de open source.
 
-## What’s Not in This Book
+## Qué no está en este libro
 
-This book doesn't focus on how to develop open source software or explain technical details in depth.
+Este libro no se centra en cómo desarrollar software open source, ni explica detalles técnicos en profundidad.
 
-It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
+Tampoco ofrece instrucciones paso a paso para usar, desplegar o contribuir a proyectos específicos de software open source.
 
-## Who Should Read This Book?
+## ¿A quién va dirigido este libro?
 
-This book is for anyone who wants to understand the role of OSPOs within an organization.
+Este libro está dirigido a cualquier persona que quiera entender el papel de los OSPOs dentro de una organización.
 
-More specifically, it will be useful for:
+Más específicamente, será útil para:
 
-* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+* **Ejecutivos, encargados de políticas y responsables de la toma de decisiones** que sean responsables de establecer, apoyar o financiar una OSPO.
 
-* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+* **Gestores de Programas de Open Source y líderes de equipo** que coordinan actividades de open source y construyen relaciones con comunidades de open source.
 
-* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
+* **Profesionales legales y de cumplimiento** que manejan temas legales relacionados con el open source, como licencias y propiedad intelectual.
