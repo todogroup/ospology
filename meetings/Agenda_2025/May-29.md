@@ -7,7 +7,7 @@
 
 ### RSVP  
 
-- **[Sign up here]()**  
+- **[Sign up here](https://zoom-lfx.platform.linuxfoundation.org/meeting/93541812993?password=317ead99-1d92-43bb-a4e5-2c29915525f9)**  
 
 ### Guest Presentation Details  
 
