@@ -1,13 +1,13 @@
 ## AMER & EMEA Touchpoint  
 
-📅 **Date**: Monday, May 12
-⏰ **Time**: 5:00 PM GMT  
-🎤 **Guest**: Brittany Istenes, InnerSource Commons
-💡 **Topic**: Leverage InnerSource practices to drive open source 
+- 📅 **Date**: Monday, May 12
+- ⏰ **Time**: 5:00 PM GMT  
+- 🎤 **Guest**: Brittany Istenes, InnerSource Commons
+- 💡 **Topic**: Leverage InnerSource practices to drive open source 
 
 ### RSVP  
 
-- **[Sign up here]()**  
+- **[Sign up here](https://zoom-lfx.platform.linuxfoundation.org/meeting/93004122565?password=cc5bab8e-939b-4b95-94de-5f51e9f839a1)**  
 
 ### Guest Presentation Details  
 
