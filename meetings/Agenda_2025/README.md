@@ -15,7 +15,7 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Tuesday, May 27       | AMER & EMEA      | 5:00 PM        | Emma Irwin, Ibrahim Haddad | [Open Group Discussion on open source in AI and the role of OSPOs](./May-27.md)| `Emerging-Trends`  | |
 | Thursday, June 12     | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
 | Monday, June 9        | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       | |
-| Thursday, June 26     | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
+| Thursday, June 26     | EMEA & APAC      | 11:00 AM       | Gergely Csatári, Nokia   | The OpenChain telco SBOM Schema        | `Compliance` | |
 | Monday, June 23       | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       | |
 
 ### Notes:
