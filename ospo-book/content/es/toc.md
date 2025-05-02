@@ -4,26 +4,26 @@ status: Completed
 weight: 10
 ---
 
-## Chapter 1: Introduction to Open Source Program Offices
+## Capítulo 1: Introducción a las Open Source Program Offices
 
-This chapter introduces the concept of Open Source Program Offices (OSPOs), explaining what they are, where they come from, and why they matter. It includes guidance on assessing whether an organization is ready for an OSPO, along with common scenarios and early-stage recommendations.
+Este capítulo presenta el concepto de Open Source Program Offices (OSPOs), explicando qué son, de dónde provienen y por qué son importantes. Incluye orientación para evaluar si una organización está preparada para una OSPO, junto con escenarios comunes y recomendaciones para las primeras etapas.
 
-## Chapter 2: The Value of Open Source Program Offices
+## Capítulo 2: El Valor de las Open Source Program Offices
 
-This chapter explores why organizations choose to create OSPOs and why others continue to invest in them over time. The chapter highlights the benefits of open source across departments and teams, helping readers understand the broader impact OSPOs can have. Real-world examples show the practical value of an OSPO in action.
+Este capítulo explora por qué las organizaciones deciden crear OSPOs y por qué otras continúan invirtiendo en ellos a lo largo del tiempo. El capítulo destaca los beneficios del open source entre departamentos y equipos, ayudando a los lectores a entender el impacto más amplio que las OSPOs pueden tener. Ejemplos del mundo real demuestran el valor práctico de una OSPO en acción.
 
-## Chapter 3: Creating Your OSPO
+## Capítulo 3: Creando tu OSPO
 
-This chapter focuses on the key components needed to build a Minimum Viable OSPO, including reporting structures, team roles, and integration into the organization. It also offers a framework for developing an open source strategy and assessing progress using the OSPO Maturity Model. An example of how to use frameworks illustrates how an OSPO can plan to deliver value for its organization.
+Este capítulo se centra en los componentes clave necesarios para construir una OSPO Mínimamente Viable, incluyendo estructuras de reporte, roles del equipo e integración dentro de la organización. También ofrece un marco para desarrollar una estrategia de open source y evaluar el progreso usando el Modelo de Madurez OSPO. Un ejemplo de cómo utilizar estos marcos ilustra cómo una OSPO puede planificar la entrega de valor para su organización.
 
-## Chapter 4: Day-to-Day Operations
+## Capítulo 4: Operaciones Cotidianas
 
-Readers will learn about the typical responsibilities of an OSPO, based on resources like the OSPO MindMap. This chapter breaks down daily tasks and provides guidance on organizing open source work inside the organization.
+Los lectores aprenderán sobre las responsabilidades típicas de una OSPO, basándose en recursos como el OSPO MindMap. Este capítulo desglosa las tareas diarias y brinda orientación sobre cómo organizar el trabajo de open source dentro de la organización.
 
-## Chapter 5: Managing Open Source Security
+## Capítulo 5: Gestión de la Seguridad en Open Source
 
-Security is a critical concern for any organization using open source software. This chapter shows how OSPOs contribute to securing the software supply chain and training teams on best practices for safe development and usage. It also introduces tools and methods for evaluating the security of open source dependencies.
+La seguridad es una preocupación crítica para cualquier organización que utilice software open source. Este capítulo muestra cómo las OSPOs contribuyen a asegurar la cadena de suministro de software y capacitar a los equipos en las mejores prácticas para un desarrollo y uso seguro. También presenta herramientas y métodos para evaluar la seguridad de las dependencias open source.
 
-## Chapter 6: Using Metrics in your OSPO
+## Capítulo 6: Uso de Métricas en tu OSPO
 
-This chapter explains how to align an organization’s open source goals with useful metrics and how to measure the OSPO’s success over time. It introduces the goal-question-metric approach and highlights useful resources like the CHAOSS project. A use case shows how an organization has successfully developed an approach to understanding open source project health in its supply chain.
+Este capítulo explica cómo alinear los objetivos de open source de una organización con métricas útiles y cómo medir el éxito de la OSPO a lo largo del tiempo. Presenta el enfoque goal-question-metric (GQM) y destaca recursos importantes como el proyecto CHAOSS. Un caso de uso muestra cómo una organización ha desarrollado con éxito un enfoque para comprender la salud de los proyectos open source en su cadena de suministro.
