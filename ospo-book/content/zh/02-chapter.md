@@ -49,7 +49,7 @@ An OSPO can help by understanding and actively managing use of open source compo
 
 - **Building Healthy Relationships with Key Open Source Projects:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products means that open source contributions may take a back seat when things get busy. Even when it's known that contributing features and bugfixes to upstream is less effort in the long term than to maintain a fork of the project, organisations often optimize for short term benefits and don't spend the extra effort to upstream the changes.
 
-- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organizational strategy and provides value to the open source projects is a good way to be a helpful community member.
+- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or financial donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organizational strategy and provides value to the open source projects is a good way to be a helpful community member.
 
 - **Bridging the Gap Between Regulated Processes and Open Source Processes:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
 
@@ -215,7 +215,7 @@ The OSPO struggles with gaining executive support and buy-in.
 
 ### Recommendation
 
-Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague, or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numerical reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
+Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the organization brings. If the message is too detailed or vague, or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numerical reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
 
 
 ## Resources and Footnotes

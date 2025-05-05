@@ -16,7 +16,7 @@ weight: 50
 
 OSPOs can be really diverse, so taking the time to design an OSPO that will deliver on your organization's goals is important.
 
-This chapter will first help you to idenify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
+This chapter will first help you to identify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
 
 It will then look at designing and building a stable and strong OSPO that's capable of covering the open source-related tasks and responsibilities needed by your organization.
 
@@ -122,7 +122,7 @@ Each of these maturity models is slightly different, but they all classify open 
 
 * Accidental - open source is used by the organisation without knowing that it's used
 * Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
-* Directed - active participation incritical open source projects
+* Directed - active participation in critical open source projects
 * Collaborate - open source collaboration is used as a tool to create business value
 * Prevail - open source is used to influence strategic areas of the business and technology
 
