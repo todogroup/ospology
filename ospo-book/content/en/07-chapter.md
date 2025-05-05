@@ -10,7 +10,6 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Ana Jiménez Santamaría
 * Annania Melaku
 * Alice Sowerby
-* Ashley Wolf
 * Carlos Maltzhan
 * Chris Aniszczyk
 * Chris Xie
