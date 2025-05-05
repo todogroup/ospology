@@ -33,4 +33,4 @@ More specifically, it will be useful for:
 
 * **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
 
-* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
+* **Legal, security, and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
