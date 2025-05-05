@@ -15,6 +15,7 @@ This list is updated every time a new release is published, but you can open a P
 
 - Alin Jerpelea
 - Annania Melaku
+- Ashley Wolf
 - Carlos Maltzhan
 - Chris Xie
 - Christine Abernathy
