@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1: Introdução aos Escritórios de Programas de Open Source"
+title: "Capítulo 1: Introdução aos Open Source Program Offices"
 status: Completed
 weight: 30
 ---
@@ -57,7 +57,7 @@ O conceito de OSPO surgiu inicialmente no mundo corporativo há cerca de duas d�
 
 O termo “OSPO” tornou-se mais conhecido e amplo nos últimos anos, à medida que mais organizações de diferentes setores e regiões criaram funções dedicadas para gerenciar operações e estratégias open source. Recentemente, OSPOs vêm sendo formados em diversas regiões (APAC, EMEA, AMER) e tipos de organização, como governos, empresas, ONGs e universidades.
 
-> NOTA: Neste livro referimos à parte da organização que gerencia open source como um OSPO, mas dependendo da sua organização você pode usar outro nome. OSPOs variam conforme setor, região, porte organizacional e muitos outros fatores. O nome pode omitir o termo ‘Program’ e se tornar ‘Open Source Office’ (’Escritório de Open Source’), ou você pode usar um nome completamente diferente, como ‘Centro de Competência em Open Source’, ‘Comitê Diretor de Open Source’ ou ‘Time de Software Open Source’.
+> NOTA: Neste livro referimos à parte da organização que gerencia open source como um OSPO, mas dependendo da sua organização você pode usar outro nome. OSPOs variam conforme setor, região, porte organizacional e muitos outros fatores. O nome pode omitir o termo 'Program' e se tornar 'Open Source Office' ('Escritório de Open Source'), ou você pode usar um nome completamente diferente, como 'Centro de Competência em Open Source', 'Comitê Diretor de Open Source' ou 'Time de Software Open Source'.
 
 ## Aplicando Isso à Sua Organização
 
