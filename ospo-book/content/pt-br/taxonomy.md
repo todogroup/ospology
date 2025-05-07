@@ -45,7 +45,7 @@ Motivação é a força motriz que impulsiona pessoas e entidades a alcançarem 
 
 ### Perguntas Comuns para Identificar o Melhor Segmento
 
-Responder a perguntas como “O que minha organização faz?”, “Quais são a missão e os valores da minha organização?”, “Como minha organização está estruturada?”, “O que minha organização busca alcançar com open source?”, “Por que está investindo em open source?” e “O open source já está sendo utilizado e, se sim, como?” pode ajudar os leitores a identificar o segmento mais relevante para a natureza de sua organização. O Capítulo 1 oferece uma exploração mais profunda sobre a prontidão para open source.
+Responder a perguntas como “O que minha organização faz?”, “Quais são a missão e os valores da minha organização?”, “Como minha organização está estruturada?”, “O que minha organização busca alcançar com open source?”, “Por que está investindo em open source?” e “O open source já está sendo utilizado e, se sim, como?” pode ajudar os leitores a identificar o segmento mais relevante para a natureza de sua organização. O Capítulo 1 oferece uma exploração mais profunda sobre o quão pronta uma organizaçao está para open source.
 
 Independentemente do tipo de organização, os líderes e equipes da OSPO precisam entender os motivadores dos atores com os quais interagem e alinhar seus objetivos com a missão geral da organização.
 
@@ -62,7 +62,7 @@ Identificadores:
 
 ## ☑️ Checklists de Avaliação
 
-Avalie a prontidão para estabelecer um OSPO e a efetividade de um OSPO já existente. Identificador `☑️ Avaliação`
+Avalie a maturidade para estabelecer um OSPO e a efetividade de um OSPO já existente. Identificador `☑️ Avaliação`
 
 ## 🎙 Casos de Uso
 
