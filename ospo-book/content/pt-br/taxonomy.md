@@ -1,5 +1,5 @@
 ---
-title: "Taxonomy"
+title: "Taxonomia"
 status: Completed
 toc_hide: true
 menu:
@@ -7,83 +7,70 @@ menu:
     weight: 20
 ---
 
-Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a structure and includes the following deliverables: General Content, Assessment Checklists, Recommendations, and 'Continue Here' Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with 'segment tags,' which are explained below:
+Open Source Program Offices (OSPOs) podem ser complexos e diversos, dependendo de vários fatores, como sua natureza, cultura organizacional, objetivos e tamanho. Para ajudar os leitores a identificar rapidamente quais seções do livro são mais relevantes para seus interesses, cada capítulo segue uma estrutura e inclui os seguintes entregáveis: Conteúdo Geral, Checklists de Avaliação, Recomendações e Recursos “Continue Aqui”. Além disso, ao longo dos capítulos, os leitores encontrarão seções concretas marcadas com ‘etiquetas de segmento’, que são explicadas abaixo:
 
-## 🔖 Segment Tags
+## 🔖 Etiquetas de Segmento
 
-The tag system used in the book aims to show the types of segments that the content is most relevant to. These segments are organized within 'organizational goals' and 'drivers of motivation' that have a direct impact on the creation and evolution of the different OSPO roles and their perceived value to the organization
+O sistema de etiquetas utilizado no livro tem como objetivo indicar os tipos de segmentos para os quais o conteúdo é mais relevante. Esses segmentos estão organizados dentro de 'metas organizacionais' e 'motivadores' que têm impacto direto na criação e evolução dos diferentes papéis do OSPO e em seu valor percebido para a organização.
 
-**Goal Alignment Definition:**
-Goal alignment refers to the process of aligning the goals and objectives of the OSPO
-with the overall mission and purpose of the organization and those entities that shape
-the organization (for example government laws).
+**Definição de Alinhamento de Objetivos:**
+O alinhamento de objetivos refere-se ao processo de alinhar as metas e objetivos do OSPO com a missão e o propósito geral da organização e das entidades que moldam a organização (por exemplo, leis governamentais).
 
-**Drivers of Motivation Definition:**
-Motivation is the driving force that fuels people and entities to achieve their goals and
-reach their full potential.
+**Definição dos fatores de Motivação:**
+Motivação é a força motriz que impulsiona pessoas e entidades a alcançarem seus objetivos e atingir seu pleno potencial.
 
-### Segments Definition & Diagram
+### Definição dos Segmentos & Diagrama
 
-* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises,
-  that are primarily focused on creating business value through the use of open source software.
+* `📈 Orientado a Negócios`: OSPOs geralmente são estabelecidos em organizações com fins lucrativos, como empresas, que estão principalmente focadas em gerar valor de negócio por meio do uso de software open source.
+  * **Fatores de Motivação:** Inovação / Gerenciamento de Riscos / Conformidade Legal / Retenção de Talentos
 
-  * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
+* `🎓 Orientado à Educação`: OSPOs costumam ser estabelecidos por instituições de ensino, como universidades ou escolas, que focam em usar open source para apoiar o ensino, pesquisas e atividades de aprendizagem.
 
-* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities
-  or schools, that are focused on using open source to support teaching, research, and learning
-  activities.
+  * **Fatores de Motivação:** Desenvolvimento de Currículo / Engajamento de Estudantes / Open Data / Compartilhamento de Conhecimento
 
-  * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
+* `👩‍🏫 Educação Empresarial`: OSPOs geralmente são organizações com fins lucrativos que oferecem treinamento e certificação e provavelmente colaboram com profissionais `orientados à educação`.
 
-* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are
-  likely to collaborate with `educational-oriented` types.
+  * **Fatores de Motivação:híbrido entre `📈 Orientado para Negócios` e `🎓 Orientado à Educação`
 
-  * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
+* `🏛 Orientação Sociogovernamental`: OSPOs geralmente são criados em órgãos ou administrações governamentais que focam no uso do open source para alcançar objetivos sociais ou de políticas públicas (ex: atendimento ao cidadão).
 
-* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are
-  focused on using open source to achieve social or public policy objectives (e.g serving
-  citizens).
+  * **Fatores de Motivação:** Acessibilidade / Inclusão / Privacidade / Segurança / Transparência
 
-  * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security /
-    Transparency
+* `🌳 Orientação Social Não Governamental`: OSPOs são normalmente estabelecidos em organizações não governamentais (ONGs) ou fundações dedicadas à utilização do open source para promover mudanças sociais positivas.
 
-* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or
-  foundations that are dedicated to use open source to create positive social change.
-
-  * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid /
-    Environmental Protection / Sustainable Development
+  * **Fatores de Motivação:** Inovação / Interoperabilidade / Justiça Social / Ajuda em Desastres / Ajuda Humanitária / Proteção Ambiental / Desenvolvimento Sustentável
 
 ![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
 
-### Common Questions to Identify the Best Segment
+### Perguntas Comuns para Identificar o Melhor Segmento
 
-Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What's my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
+Responder a perguntas como “O que minha organização faz?”, “Quais são a missão e os valores da minha organização?”, “Como minha organização está estruturada?”, “O que minha organização busca alcançar com open source?”, “Por que está investindo em open source?” e “O open source já está sendo utilizado e, se sim, como?” pode ajudar os leitores a identificar o segmento mais relevante para a natureza de sua organização. O Capítulo 1 oferece uma exploração mais profunda sobre a prontidão para open source.
 
-Regardless of the type of organization, OSPO leaders and teams need to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
+Independentemente do tipo de organização, os líderes e equipes da OSPO precisam entender os motivadores dos atores com os quais interagem e alinhar seus objetivos com a missão geral da organização.
 
-### Important Considerations
+### Considerações Importantes
 
-It's worth noting that these tags aren't meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
+Vale ressaltar que essas etiquetas não têm a intenção de serem exclusivas. Alguns capítulos podem ser relevantes para vários tipos de OSPOs, e múltiplas etiquetas podem ser incluídas para ajudar os leitores a navegar pelo conteúdo de forma mais eficaz.
 
-Identifiers:
-`📈 Business-Oriented`,
-`🎓 Educational-Oriented`,
-`👩‍🏫 Business-Educational`,
-`🏛 Social-Gov-Oriented`,
-`🌳 Social-NonGov-Oriented`
+Identificadores:
+`📈 Orientado a Negócios`,
+`🎓 Orientado à Educação`,
+`👩‍🏫 Educação Empresarial`,
+`🏛 Orientação Sociogovernamental`,
+`🌳 Orientação Social Não Governamental`
 
-## ☑️ Assessment Checklists
+## ☑️ Checklists de Avaliação
 
-Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ Assessment`
+Avalie a prontidão para estabelecer um OSPO e a efetividade de um OSPO já existente. Identificador `☑️ Avaliação`
 
-## 🎙 Use Cases
+## 🎙 Casos de Uso
 
-Provide evidence and examples about how open source leaders are doing across organizations and regions. Identifier `🎙 Use-case`
+Fornecem evidências e exemplos de como líderes de open source estão atuando em diferentes organizações e regiões. Identificador `🎙 Casos de Uso`
 
-## 💡 Recommendations
+## 💡 Recomendações
 
-Shares recommendations from real-world experiences from open source professionals in concrete scenarios. Identifier `💡 Recommendations`
+Compartilha recomendações de experiências reais de profissionais de open source em cenários concretos. Identificador `💡 Recomendações`
 
-## 🧑‍🏫 "Continue Here" Resources
+## 🧑‍🏫 Recursos "Continue Aqui"
 
-Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 Resources`
+Guiam os leitores na exploração aprofundada do que já está disponível na internet. Identificador `🧑‍🏫 Recursos`
