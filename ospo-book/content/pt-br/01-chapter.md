@@ -85,7 +85,7 @@ Considere as seguintes áreas de engajamento em open source na sua organização
 
 * **Ferramentas e Processos:** Avalie as ferramentas e os processos em vigor para dar suporte às operações open source. Existem ferramentas ou processos existentes que podem ser aproveitados para operações open source? Existem lacunas em ferramentas ou processos que precisam ser abordadas?
 
-* **Abordando Lacunas:** Identifique eventuais lacunas na adoção ou prontidão para open source e elabore um plano para resolvê-las. Isso pode incluir treinamento dos envolvidos sobre uso e licenciamento de OSS, desenvolvimento de novas ferramentas e processos para apoiar as operações de open source ou o estabelecimento de um OSPO para coordenar as atividades de open source.
+* **Abordando Lacunas:** Identifique eventuais lacunas na adoção ou preparação para open source e elabore um plano para resolvê-las. Isso pode incluir treinamento dos envolvidos sobre uso e licenciamento de OSS, desenvolvimento de novas ferramentas e processos para apoiar as operações de open source ou o estabelecimento de um OSPO para coordenar as atividades de open source.
 
 Em geral, reúna opiniões das partes interessadas nessas áreas por meio das seguintes questões:
 
