@@ -6,6 +6,13 @@ menu:
   main:
     weight: 20
 ---
+title: "Taxonomía"
+status: Completed
+toc_hide: true
+menu:
+  main:
+    weight: 20
+---
 
 Las Open Source Program Offices (OSPOs) pueden ser complejas y diversas dependiendo de varios factores, como su naturaleza, la cultura organizacional, los objetivos y el tamaño. Para ayudar a los lectores a identificar rápidamente qué secciones del libro son más relevantes para sus intereses, cada capítulo sigue una estructura e incluye los siguientes entregables: Contenido General, Checklists de Evaluación, Recomendaciones y Recursos de "Continúe Aquí". Además, a lo largo de los capítulos, los lectores encontrarán secciones concretas marcadas con "etiquetas de segmento", cuyos significados se explican a continuación:
 
@@ -28,7 +35,7 @@ La motivación es la fuerza motriz que impulsa a las personas y entidades a alca
 
 * `🎓 Orientado a la Educación`: Las OSPOs suelen ser establecidas por instituciones educativas, como universidades o escuelas, que están enfocadas en usar el código abierto para apoyar actividades de enseñanza, investigación y aprendizaje.
 
-  * **Factores de Motivación:** Desarrollo Curricular / Participación Estudiantil / Open Data / Compartir Conocimiento
+  * **Factores de Motivación:** Desarrollo Curricular / Participación Estudiantil / Open Data / Intercambio de Conocimiento
 
 
 * `👩‍🏫 Educación Empresarial`: Las OSPOs suelen ser organizaciones con fines de lucro que ofrecen capacitación y certificación, y que probablemente colaboren con tipos `orientados a la educación`.
