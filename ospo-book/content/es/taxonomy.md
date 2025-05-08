@@ -1,11 +1,4 @@
 ---
-title: "Taxonomy"
-status: Completed
-toc_hide: true
-menu:
-  main:
-    weight: 20
----
 title: "Taxonomía"
 status: Completed
 toc_hide: true
