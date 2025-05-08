@@ -3,12 +3,12 @@ title: "Capítulo 1: Introdução aos Open Source Program Offices"
 status: Completed
 weight: 30
 ---
-- [Introdução](#introduction)
-- [Sobre OSPOs](#about-ospos)
-- [Aplicando Isso à Sua Organização](#applying-this-to-your-organization)
-- [Conclusão](#conclusion)
-- [Possíveis Problemas e Como Superá-los](#possible-problems-and-how-to-overcome-them)
-- [Recursos e Notas de Rodapé](#resources-and-footnotes)
+- [Introdução](#introdução)
+- [Sobre OSPOs](#sobre-ospos)
+- [Aplicando Isso à Sua Organização](#aplicando-isso-a-sua-organização)
+- [Conclusão](#conclusão)
+- [Possíveis Problemas e Como Superá-los](#possíveis-problemas-e-como-superá-los)
+- [Recursos e Notas de Rodapé](#recursos-e-notas-de-rodapé)
 
 ## Introdução
 
