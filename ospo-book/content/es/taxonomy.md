@@ -54,7 +54,7 @@ Independientemente del tipo de organización, los líderes y equipos de las OSPO
 
 ### Consideraciones Importantes
 
-Vale la pena señalar que estas etiquetas no están pensadas para ser excluyentes. Algunos capítulos pueden ser relevantes para múltiples tipos de OSPO, y se pueden incluir múltiples etiquetas para ayudar a los lectores a navegar el contenido de manera más efectiva.
+Es importante destacar que estas etiquetas no están pensadas para ser excluyentes. Algunos capítulos pueden ser relevantes para múltiples tipos de OSPO, y se pueden incluir múltiples etiquetas para ayudar a los lectores a navegar el contenido de manera más efectiva.
 
 
 Identifiers:
