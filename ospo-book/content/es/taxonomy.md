@@ -25,11 +25,9 @@ La motivación es la fuerza motriz que impulsa a las personas y entidades a alca
 
   * **Factores de Motivación:** Innovación / Gestión de Riesgos / Cumplimiento Legal / Retención de Talento
 
-
 * `🎓 Orientado a la Educación`: Las OSPOs suelen ser establecidas por instituciones educativas, como universidades o escuelas, que están enfocadas en usar el código abierto para apoyar actividades de enseñanza, investigación y aprendizaje.
 
   * **Factores de Motivación:** Desarrollo Curricular / Participación Estudiantil / Open Data / Intercambio de Conocimiento
-
 
 * `👩‍🏫 Educación Empresarial`: Las OSPOs suelen ser organizaciones con fines de lucro que ofrecen capacitación y certificación, y que probablemente colaboren con tipos `orientados a la educación`.
 
@@ -43,7 +41,6 @@ La motivación es la fuerza motriz que impulsa a las personas y entidades a alca
 
   * **Factores de Motivación:** Innovación / Interoperabilidad / Justicia social / Respuesta ante desastres / Ayuda humanitaria / Protección del medio ambiente / Desarrollo sostenible
 
-
 ![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
 
 ### Preguntas Comunes para Identificar el Segmento Más Adecuado
@@ -55,7 +52,6 @@ Independientemente del tipo de organización, los líderes y equipos de las OSPO
 ### Consideraciones Importantes
 
 Es importante destacar que estas etiquetas no están pensadas para ser excluyentes. Algunos capítulos pueden ser relevantes para múltiples tipos de OSPO, y se pueden incluir múltiples etiquetas para ayudar a los lectores a navegar el contenido de manera más efectiva.
-
 
 Identifiers:
 `📈 Orientado a Negocios`,
