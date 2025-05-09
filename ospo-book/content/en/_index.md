@@ -15,7 +15,6 @@ The book serves as a source of knowledge for organizations developing strategies
 
 <p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Colorful houses with people"></p>
 
-
 As you explore the content of this book, we encourage you to use it within your organization. And if you have any suggestions for additional content that we should include, please don't hesitate to open an issue or include new content by visiting our GitHub repo [^2].
 
 ## License

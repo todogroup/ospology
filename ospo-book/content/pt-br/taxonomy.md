@@ -22,6 +22,7 @@ Motivação é a força motriz que impulsiona pessoas e entidades a alcançarem 
 ### Definição dos Segmentos & Diagrama
 
 * `📈 Orientado a Negócios`: OSPOs geralmente são estabelecidos em organizações com fins lucrativos, como empresas, que estão principalmente focadas em gerar valor de negócio por meio do uso de software open source.
+
   * **Fatores de Motivação:** Inovação / Gerenciamento de Riscos / Conformidade Legal / Retenção de Talentos
 
 * `🎓 Orientado à Educação`: OSPOs costumam ser estabelecidos por instituições de ensino, como universidades ou escolas, que focam em usar open source para apoiar o ensino, pesquisas e atividades de aprendizagem.
@@ -30,7 +31,7 @@ Motivação é a força motriz que impulsiona pessoas e entidades a alcançarem 
 
 * `👩‍🏫 Educação Empresarial`: OSPOs geralmente são organizações com fins lucrativos que oferecem treinamento e certificação e provavelmente colaboram com profissionais `orientados à educação`.
 
-  * **Fatores de Motivação:híbrido entre `📈 Orientado para Negócios` e `🎓 Orientado à Educação`
+  * **Fatores de Motivação:** Híbrido entre `📈 Orientado para Negócios` e `🎓 Orientado à Educação`
 
 * `🏛 Orientação Sociogovernamental`: OSPOs geralmente são criados em órgãos ou administrações governamentais que focam no uso do open source para alcançar objetivos sociais ou de políticas públicas (ex: atendimento ao cidadão).
 
