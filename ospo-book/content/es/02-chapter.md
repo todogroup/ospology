@@ -97,7 +97,7 @@ Open Source is a silent critical need, and an OSPO's cultural impact is vital to
 
 - **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
 
-![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
+![ospo-support](/images/ospo-support.png)
 
 ### As an Intermediate Step to a Decentralized Open Source Management Model
 
@@ -109,7 +109,7 @@ In an ideal scenario, open source knowledge, technical expertise, and culture sh
 
 However, what might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
 
-![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
+![ospowork](/images/ospowork.png)
 
 _[Source: OSPOs, key lever for open source sustainability][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 

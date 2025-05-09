@@ -47,7 +47,7 @@ Things to consider when creating your strategy:
 
 Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making informed open source-forward decisions. For instance, in a corporate field, an OSPO might look into the following areas and identify the role that open source plays on each situation:
 
-![organization-architecture](https://github.com/todogroup/ospology/assets/43671777/e722d9b0-04f7-4f0a-b645-fd369a2b56f9)
+![organization-architecture](/images/organization-architecture.png)
 
 Since every organization is unique in its values, business drivers, and culture, it's challenging to provide specific content. However, addressing the following questions can help structure the document effectively:
 
@@ -67,8 +67,8 @@ There are some common parts of the business where an OSPO may find its stakehold
 
 Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
 
-![ospoflower](https://github.com/todogroup/ospology/assets/43671777/d13afdf1-e385-42e4-b172-b53fdd136719)
-[ospoflower.pdf](https://github.com/todogroup/ospology/files/12078034/ospoflower-seconddraft-1.pdf)
+![ospoflower](/images/ospo-flower.png)
+[ospoflower.pdf](/pdfs/ospoflower-seconddraft-1.pdf)
 
 * **Individual Contributors:** This petal represents the people who the OSPO will work within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
@@ -116,7 +116,7 @@ Each of these maturity models is slightly different, but they all classify open 
 * Contribution - Pragmatic contributions to open source projects
 * Leadership - Strategic involvement with open source to drive business value
 
-![opensourceinvolvementmodel](https://user-images.githubusercontent.com/43671777/232468143-cde69525-7adb-4399-96d3-fa63f056b942.png)
+![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
 
 #### Maturity Model 2 - Five Stages or Corporate Open Source Adoption Talk by Carl-Eric [^6]:
 
@@ -126,7 +126,7 @@ Each of these maturity models is slightly different, but they all classify open 
 * Collaborate - open source collaboration is used as a tool to create business value
 * Prevail - open source is used to influence strategic areas of the business and technology
 
-![osmm-carl](https://github.com/user-attachments/assets/4a382434-878c-4c22-a2cd-d10292129370)
+![osmm-carl](/images/osmm-carl.png)
 
 #### Maturity Model 3 - The OSPO Maturity Model by The TODO Group [^7]
 
@@ -136,7 +136,7 @@ Each of these maturity models is slightly different, but they all classify open 
 * Stage 3: Hosting OSS Projects and Growing Communities
 * Stage 4: Becoming a Strategic Decision-Making Partner
 
-![OSPO Maturity Model](https://user-images.githubusercontent.com/43671777/167606513-18cb999e-8d01-4807-a23e-2ad5f6ec85f7.jpg)
+![OSPO Maturity Model](/images/ospo-maturity-model.jpg)
 
 ## Applying This to Your Organization
 
@@ -154,8 +154,8 @@ The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenC
 
 Here are some highlights from their work to inspire you:
 
-![ospo-role](https://github.com/todogroup/ospology/assets/43671777/8dbcf056-446c-489d-9b40-07fc2a8c331c)
-![benefits-of-oss](https://github.com/todogroup/ospology/assets/43671777/73acdc21-058e-406c-b01f-967074d25c1b)
+![ospo-role](/images/ospo-role.png)
+![benefits-of-oss](/images/benefits-of-oss.png)
 
 > NOTE: You can find a summary of their work in both Japanese and English in a Qiita article written by one of its members [^9]
 
@@ -167,7 +167,7 @@ Map these motivators with different activity types across the organization, by u
 
 For example:
 
-<img width="942" alt="activityparticipationcategorization" src="https://user-images.githubusercontent.com/43671777/232468402-bb4a4d49-a6d6-4c74-8d21-88c6be3c2c13.png">
+<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization.png">
 
 ## Possible Problems and How To Overcome Them
 
