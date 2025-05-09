@@ -47,7 +47,7 @@ Um OSPO considera a colaboração multifuncional sob quatro perspectivas:
 
 Como exemplo, o diagrama a seguir ilustra os diferentes atores em um OSPO orientado aos negócios, bem como os diversos métodos de colaboração multifuncional.
 
-<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
+<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
 
 ### História
 
