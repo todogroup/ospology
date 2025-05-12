@@ -97,7 +97,7 @@ El Open Source es una necesidad crítica silenciosa, y el impacto cultural de un
 
 - **Actúa como Guardián:** Las OSPOs pueden ayudar a hacer cumplir las políticas de open source y fortalecer la gobernanza del open source. Esto puede ayudar a las organizaciones a garantizar el cumplimiento y mitigar los riesgos de seguridad del open source.
 
-![ospo-support](https://github.com/todogroup/ospology/assets/43671777/f96cd4a1-0315-4a0e-8de3-2da59378a57b)
+![ospo-support](/images/ospo-support.png)
 
 ### Como Paso Intermedio hacia un Modelo de Gestión Open Source Descentralizado
 
@@ -109,7 +109,7 @@ En un escenario ideal, el conocimiento, la experiencia técnica y la cultura del
 
 Sin embargo, lo que podría cambiar en los próximos años es la visión centralizada de la OSPO. Esta percepción tradicional puede disminuir, lo que lleva a estructuras más descentralizadas en todos los equipos y unidades de negocio.
 
-![ospowork](https://user-images.githubusercontent.com/43671777/232471414-8ea7c899-a13c-47de-bafe-836830525d02.png)
+![ospowork](/images/ospowork.png)
 
 _[Fuente: OSPOs, key lever for open source sustainability][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
