@@ -62,7 +62,7 @@ By tying community metrics to organizational KPIs, OSPOs can showcase the value 
 
 Metrics play an important role in communicating impact. Following the goal-question-metric approach here are four goals that OSPOs can consider, and questions to go with them.
 
-<img width="750" alt="CHAOSS Health Impacts" src="https://github.com/user-attachments/assets/f13b8fd0-8342-4a90-b5cb-d533c6454801" />
+<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts.png" />
 
 ### 1: Partner Impact
 

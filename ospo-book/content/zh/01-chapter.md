@@ -48,7 +48,7 @@ An OSPO considers cross-functional collaboration from four different perspective
 
 As an example, the following diagram illustrates the various players in a business-oriented OSPO and the different methods of cross-functional collaboration.
 
-<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
+<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
 
 ### History
 

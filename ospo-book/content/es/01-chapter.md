@@ -48,7 +48,7 @@ Una OSPO considera la colaboración interfuncional desde cuatro perspectivas dif
 
 Como ejemplo, el siguiente diagrama ilustra los diversos actores en una OSPO orientada a los negocios y los diferentes métodos de colaboración interfuncional.
 
-<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
+<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
 
 ### Historia
 
