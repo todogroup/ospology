@@ -25,7 +25,7 @@ Cada organización tendrá sus propias razones para querer iniciar una OSPO; alg
 
 - Construir procesos estandarizados en torno al open source
 - Aprender cómo acercarse a la comunidad open source
-- Abrazar la sostenibilidad de los proyectos open source
+- Adoptar la sostenibilidad de los proyectos open source
 - Gestionar el cumplimiento
 - Ampliar el acceso al conocimiento abierto
 - Mejorar la velocidad de desarrollo
