@@ -4,261 +4,258 @@ status: Completed
 weight: 40
 ---
 
-- [简介](#introduction)
-- [您的OSPO如何增值?](#how-could-your-ospo-add-value)
-- [将此应用于您的组织](#applying-this-to-your-organization)
-- [OSPO价值示例](#examples-of-the-ospos-value)
-- [可能存在的问题以及解决方法](#possible-problems-and-how-to-overcome-them)
-- [资源和脚注](#resources-and-footnotes)
+- [简介](#简介)
+- [你的开源项目办公室（OSPO）如何增加价值？](#你的开源项目办公室（OSPO）如何增加价值？)
+- [将此应用于您的组织](#将此应用于您的组织)
+- [OSPO价值示例](#OSPO价值示例)
+- [可能存在的问题以及解决方法](#可能存在的问题以及解决方法)
+- [资源和脚注](#资源和脚注])
 
 ## 简介
 
-Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source components.
-您的企业可能已经和开源息息相关，虽然企业本身可能还没有意识到这一点。今天生产的几乎所有软件都包含开源组件，或者是使用开源工具开发或托管的。即使是不制作软件的组织，通常也会使用包含开源组件的软件。
-For many organizations, it's worth considering how actively managing their relationship with open source can bring benefits and reduce risks. As mentioned in the previous chapter, this involves understanding the current use of open source and then assessing how this could be managed better to support organizational goals.
-对于许多组织来说，值得考虑的是，积极管理他们与开源的关系可以带来好处并降低风险。如前一章所述，这涉及了解开源的当前使用情况，然后评估如何更好地管理开源以支持组织目标。
-This chapter will help you to understand the possible areas where managing open source through an OSPO can bring value to your organization. This will be different for every organization, so knowing your organization's strategy and goals is important.
-本章将帮助您了解通过OSPO管理开源可以为您的组织带来价值的可能领域。这对每个组织来说都是不同的，因此了解组织的战略和目标非常重要。
-The work of an OSPO is to understand where open source can bring value to its organization, and to actively manage or oversee all related activities.
-OSPO的工作是了解开源可以为其组织带来价值的地方，并积极管理或监督所有相关活动。
-Every organization will have its own reasons for wanting to start an OSPO, some common reasons given in the *business value of the OSPO report* [^1] are as follows:
-每个组织都有自己想要创办OSPO的原因，OSPO报告的商业价值中给出的一些常见原因如下：
-- Building standardized processes around open source
+你的组织可能已经与开源建立了某种关系，即使它尚未意识到这一点。如今几乎所有的软件都包含开源组件，或者使用开源工具进行开发或托管。即使那些不开发软件的组织，通常也会使用包含开源组件的软件。
+
+对于许多组织来说，如何通过积极管理与开源的关系来带来益处并降低风险是值得考虑的。正如前一章提到的，这涉及了解当前对开源的使用情况，然后评估如何更好地对其进行管理以支持组织目标。
+
+本章将帮助你理解通过开源项目办公室（OSPO）管理开源可能为你的组织带来价值的领域。这将因每个组织而异，因此了解你所在组织的战略和目标至关重要。
+
+开源项目办公室（OSPO）的工作是了解开源能够为其组织带来价值的领域，并积极管理或监督所有相关活动。
+
+根据《OSPO的商业价值》报告[^1]，组织设立开源项目办公室（OSPO）的一些常见原因如下：
+
 - 围绕开源构建标准化流程
-- Learning how to approach the open source community
-- 学习如何接近开源社区
-- Embracing the sustainability of open source projects
+
+- 学习如何与开源社区互动
+
 - 拥抱开源项目的可持续性
-- Managing compliance
+
 - 管理合规性
-- Expanding access to open knowledge
+
 - 扩大开放知识的获取
-- Improving development velocity
+
 - 提高开发速度
-- Mitigating security risks
-- 减轻安全风险
-## How Could Your OSPO Add Value?
-## 如何增值您的OSPO?
-### If You Make Software
-### 如果你制作软件
-This is a common and relatively comprehensive use case for an OSPO. Other organizations may only need to consider a subset of these issues.
-这是OSPO的一个常见且相对全面的用例。其他组织可能只需要考虑这些问题的一个子集。
-Sometimes, organizational stakeholders assume that their product isn't using any open source components because their end product isn't open source. However, when you look at the entire software supply chain you can see that nearly all software contains open source dependencies or artifacts. If the contributors working on those open source projects decided to leave, the project could become obsolete or a target for security vulnerabilities. This affects any software the organization uses or sells, and could directly impact its reputation, performance, or revenue.
-有时，组织利益相关者认为他们的产品没有使用任何开源组件，因为他们的最终产品不是开源的。然而，当你观察整个软件供应链时，你可以看到几乎所有的软件都包含开源依赖关系或工件。如果从事这些开源项目的贡献者决定离开，该项目可能会过时或成为安全漏洞的目标。这会影响组织使用或销售的任何软件，并可能直接影响其声誉、性能或收入。
-An OSPO can help by understanding and actively managing use of open source components in your software.
-OSPO可以通过了解和积极管理软件中开源组件的使用来提供帮助。
-#### How the OSPO Helps
-#### OSPO如何提供帮助
-- **Managing Vulnerabilities:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization and to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
--**管理漏洞：**开源项目可能是依赖于它们的产品中安全漏洞的来源。很难跟踪您的组织如何使用开源项目，也很难对已识别的项目进行风险评估。当您确定组织内的关键项目时，您可以通过跟踪常见漏洞和暴露来优先保护它们。通常，企业架构团队负责跟踪应用程序和技术的开源组件，OSPO在那里提供主题专业知识。
-- **Understanding Risks in the Supply Chain:** The open source landscape is large and decentralized, and it can be hard to identify who the contributors to individual projects are and to perform risk assessments on the identified projects. These factors can make it challenging for organizations to accurately assess risks and to comprehend the security and quality standards of the software, hardware, data, etc.
--**了解供应链中的风险：**开源环境庞大且分散，很难确定单个项目的贡献者是谁，也很难对确定的项目进行风险评估。这些因素可能使组织难以准确评估风险，并理解软件、硬件、数据等的安全和质量标准。
-- **Building Healthy Relationships with Key Open Source Projects:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products means that open source contributions may take a back seat when things get busy. Even when it's known that contributing features and bugfixes to upstream is less effort in the long term than to maintain a fork of the project, organisations often optimize for short term benefits and don't spend the extra effort to upstream the changes.
--**与关键开源项目建立健康的关系：**使用开源的商业组织通常热衷于为他们使用的项目做出贡献。然而，在自己的产品中发布功能的压力意味着，当事情变得繁忙时，开源贡献可能会退居二线。即使众所周知，从长远来看，为上游贡献功能和错误修复比维护项目的分支要少，组织也经常为了短期利益进行优化，而不是花费额外的精力来上游进行更改。
-- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organizational strategy and provides value to the open source projects is a good way to be a helpful community member.
--**支持和影响关键开源项目：**您的组织可以很好地为开源项目提供资源。这可以通过编码、专业知识或捐款来激励修复常见漏洞。与行业工作组合作，全面解决安全问题也可能富有成效。制定一个与你的组织战略相一致并为开源项目提供价值的计划是成为一个乐于助人的社区成员的好方法。
-- **Bridging the Gap Between Regulated Processes and Open Source Processes:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
--**弥合受监管流程和开源流程之间的差距：**开源是一个动态的生态系统，其贡献应尽可能平稳自然地发生。在金融公司和政府等高度监管的环境中面临的漫长采购过程，对开源贡献和参与造成了障碍。
-- **Improving Open Source Literacy to Ensure a High-Benefit, Low-Risk Approach:** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
--**提高开源素养以确保高效益、低风险的方法：**在参与决策过程、管理或政策制定的组织其他领域，开源的概念可能不会被认真对待。这将需要在组织中不断教育和展示开源的风险和价值。
-To get the most benefit from open source, and to reduce the risks, organizations must invest in properly managing open source operations on both cultural and practical levels. This is often accomplished through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments. The OSPO operates as a center of excellence.
-为了从开源中获得最大利益并降低风险，组织必须在文化和实践层面上投资于对开源运营的适当管理。这通常是通过OSPO来实现的，因为它促进了组织内部的跨职能协作，以解决各个团队或部门遇到的开源问题。OSPO是一个卓越的中心。
-### If You Deliver Public Services
-###如果你提供公共服务
-#### How the OSPO Helps
-####OSPO如何提供帮助
-We see that more public sector organizations are realising the value of an Open Source Program Office to achieve their digital policy goals to better serve their citizens, and to transform their organizations toward achieving these goals.
-我们看到，越来越多的公共部门组织正在意识到开源项目办公室的价值，以实现其数字政策目标，更好地为公民服务，并使其组织朝着实现这些目标的方向转型。
-Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
-公共部门组织在管理其开源运营时面临着独特的挑战，包括需要遵守严格的法律法规，以及提供透明和负责任的运营的要求。OSPO可以帮助政府和公共部门组织克服这些挑战。
-- **Improving Compliance:** An OSPO helps to ensure that their open source operations are compliant with relevant laws and regulations, including data privacy laws, procurement regulations, and transparency requirements. This helps organizations to avoid costly legal and regulatory challenges and to maintain their reputation as responsible public sector organizations.
--**提高合规性：**OSPO有助于确保其开源运营符合相关法律法规，包括数据隐私法、采购规定和透明度要求。这有助于组织避免代价高昂的法律和监管挑战，并保持其作为负责任的公共部门组织的声誉。
-- **Increasing Collaboration:** An OSPO helps to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
--**加强合作：**OSPO有助于促进不同部门之间以及与外部利益相关者之间的合作，包括其他公共部门组织、开源社区和民间社会组织。这种增强的协作有助于组织获得更广泛的人才和资源，并开发更好的开源解决方案。
-- **Improving Resource Allocation:** An OSPO helps to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology and drive innovation and growth.
--**改善资源分配：**OSPO有助于更有效地分配资源，确保开源运营得到很好的支持，并为关键举措提供成功所需的资源。这有助于组织最大限度地发挥开源技术的优势，推动创新和增长。
-- **Improving Service Delivery:** An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens and to meet the changing needs of their communities.
--**改善服务交付：**OSPO有助于改善公共服务的交付，使他们能够采用创新且具有成本效益的技术，并与外部利益相关者合作开发更好的解决方案。这有助于组织为公民提供更好的服务，并满足其社区不断变化的需求。
-The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. See the Resources section at the end of the chapter for a URL.
-欧盟委员会开源项目办公室（OSPO）推出了一个新的门户网站，作为维基或知识档案，为公共管理人员提供有关OSPO相关主题进展的最新信息。该门户网站为有兴趣了解更多OSPO相关主题的读者提供了各种资源，包括有用的研究、演示、用例、指南等。有关URL，请参阅本章末尾的参考资料部分。
-### As a Cultural Influence
-###作为一种文化影响
-In a world governed by software, Open Source Program Offices (OSPOs) serve as powerful cultural catalysts within organizations. Beyond simply managing technical integration of open source solutions, OSPOs fundamentally transform organizational culture by fostering open collaboration, transparency, and innovation.
-在一个由软件管理的世界里，开源项目办公室（OSPO）在组织内部起着强大的文化催化剂的作用。除了简单地管理开源解决方案的技术集成外，OSPO还通过促进开放协作、透明度和创新，从根本上改变了组织文化。
-As organizations increasingly rely on open source for mission-critical problems — whether social, economic, or technological — the OSPO's cultural influence becomes essential in reshaping mindsets and workflows. This cultural shift enables organizations to move beyond viewing open source as merely a resource to extract value from, toward becoming active, contributing members of the broader open source ecosystem. By embedding open source values and practices throughout an organization, OSPOs cultivate internal champions, establish collaborative norms, and nurture a culture where knowledge sharing thrives.
-随着组织越来越依赖开源来解决关键任务问题，无论是社会、经济还是技术问题，OSPO的文化影响力在重塑思维方式和工作流程方面变得至关重要。这种文化转变使组织能够超越将开源仅仅视为从中提取价值的资源，成为更广泛的开源生态系统中积极、有贡献的成员。通过在整个组织中嵌入开源价值观和实践，OSPO培养了内部拥护者，建立了协作规范，并培育了一种知识共享蓬勃发展的文化。
-This cultural transformation not only supports risk management and innovation but ensures the sustainability of the open source communities they depend on. Without an OSPO's ongoing cultural influence, organizations risk losing open source expertise, increasing security and legal vulnerabilities, reducing community engagement, and damaging their reputation.
-这种文化转型不仅支持风险管理和创新，而且确保了他们所依赖的开源社区的可持续性。如果没有OSPO持续的文化影响力，组织就有可能失去开源专业知识，增加安全和法律漏洞，减少社区参与，并损害其声誉。
-Open Source is a silent critical need, and an OSPO's cultural impact is vital to evolve organizational culture and knowledge, helping to build more secure and sustainable OSS.
-开源是一种无声的关键需求，OSPO的文化影响对于发展组织文化和知识至关重要，有助于建立更安全和可持续的开源软件。
-#### How the OSPO Helps
-####OSPO如何提供帮助
-- **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers don't have to consider the business implications of different open source engagement models every time they try to solve a problem.
--**担任顾问：**有时，战略方法只是意味着退后一步，花时间思考一些难题，比如什么类型的参与模式适合任何特定项目，或者组织应该如何参与每个项目。还有一个问题是，什么时候为现有项目做出贡献与创建新项目是有意义的。正在进行这些战略层面对话的OSPO将能够为不同团队的员工提供指导方针，这样员工在每次尝试解决问题时就不必考虑不同开源参与模式的业务影响。
-- **Acts as a Facilitator:** The OSPO also plays a sort of translation role between the organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
--**充当协调人：**OSPO还在组织团队和决策者对开源的兴趣以及开源社区的需求之间发挥着某种翻译作用。它们还帮助组织应对有效和健康地与开源社区互动所需的文化、流程和工具变化。
-- **Acts as an Advocate:** OSPOs can promote the use of open source and its best practices across different organizational units. This can help organizations realize the benefits of open source as well as engage people to contribute to open source projects or start new ones.
--**充当倡导者：**OSPO可以在不同的组织单位中推广开源及其最佳实践的使用。这可以帮助组织实现开源的好处，并让人们为开源项目做出贡献或开始新的项目。
-- **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
--**作为一名环保主义者：**OSPO可以通过解决安全、维护和项目健康等问题，帮助组织长期支持和维持开源项目。这有助于确保开源项目长期保持健康，并继续造福于更广泛的社区。
-- **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
--**充当看门人：**OSPO可以帮助执行开源政策并加强开源治理。这可以帮助组织确保合规性并降低开源安全风险。
+
+- 减少安全风险
+
+## 你的开源项目办公室（OSPO）如何增加价值？
+
+### 如果你开发软件
+
+这是一个常见且相对全面的OSPO用例。其他组织可能只需要考虑其中一部分问题。
+
+有时，组织的利益相关者会认为他们的产品没有使用任何开源组件，因为他们的最终产品不是开源的。然而，当你审视整个软件供应链时，你会发现几乎所有的软件都包含开源依赖项或构件。如果从事这些开源项目工作的贡献者决定离开，该项目可能会变得过时，或者成为安全漏洞的目标。这会影响到组织使用或销售的任何软件，并可能直接影响其声誉、性能或收入。
+
+开源项目办公室（OSPO）可以通过了解并积极管理软件中开源组件的使用来提供帮助。
+
+#### 开源项目办公室（OSPO）如何提供帮助
+
+-**管理漏洞：**开源项目可能是依赖它们的产品中的安全漏洞来源。跟踪组织如何使用开源项目以及对已识别项目进行风险评估可能会很困难。当您在组织内识别出关键项目时，您可以通过跟踪常见漏洞和暴露来优先确保它们的安全。通常，企业架构团队是跟踪应用程序和技术的开源组件的团队，而OSPO则提供专业知识。
+
+-**了解供应链中的风险：**开源领域庞大且分散，很难识别各个项目的贡献者以及对已识别项目进行风险评估。这些因素使得组织很难准确评估风险，也难以理解软件、硬件、数据等的安全和质量标准。
+
+-**与关键开源项目建立健康的关系：**使用开源的商业组织通常热衷于为他们使用的项目做出贡献。然而，由于自身产品需要按时交付功能的压力，当事情变得繁忙时，开源贡献可能会被搁置。即使大家都知道，从长远来看，向上游项目贡献功能和修复漏洞比维护项目的分支要省力，但组织往往为了短期利益而优化，不愿花费额外的精力将更改推向上游。
+
+-**支持和影响关键开源项目：**你的组织可能处于一个很好的位置，能够为开源项目提供资源。这可以通过编码、专业知识或金钱捐赠来激励修复常见漏洞。与行业工作组合作以全面解决安全问题也是富有成效的。制定一个与组织战略一致并为开源项目提供价值的计划，是成为一个有帮助的社区成员的好方法。
+
+-**弥合受监管流程和开源流程之间的差距：**开源是一个动态的生态系统，其贡献应该尽可能顺畅和自然地发生。在高度受监管的环境中，如金融公司和政府部门，所面临的漫长采购流程，为开源贡献和参与创造了障碍。
+
+-**提高开源素养以确保高效益、低风险的方法：**在组织中参与决策过程、管理或政策制定的其他领域，可能不会认真对待开源的概念。这将需要持续教育并展示开源在组织中的风险和价值。
+
+为了从开源中获得最大的益处并降低风险，组织必须在文化和实践层面投资于妥善管理开源运营。这通常通过开源项目办公室（OSPO）来实现，因为它在组织内培养了坚定的跨职能协作，以解决各个团队或部门遇到的开源问题。OSPO作为卓越中心运作。
+
+### 如果你提供公共服务
+
+#### 开源项目办公室（OSPO）如何提供帮助
+
+我们看到，越来越多的公共部门组织意识到开源项目办公室（OSPO）的价值，以实现其数字政策目标，更好地服务公民，并推动组织向实现这些目标的方向转型。
+
+公共部门组织在管理其开源运营时面临着独特的挑战，包括需要遵守严格的法律法规，以及提供透明和可问责的运营的要求。开源项目办公室（OSPO）可以帮助政府和公共部门组织克服这些挑战。
+
+-**提高合规性：**开源项目办公室（OSPO）有助于确保其开源运营符合相关法律法规，包括数据隐私法、采购法规和透明度要求。这有助于组织避免昂贵的法律和监管挑战，并保持其作为负责任的公共部门组织的声誉。
+
+-**加强协作：**开源项目办公室（OSPO）有助于促进不同部门之间以及与外部利益相关者之间的协作，包括其他公共部门组织、开源社区和民间社会组织。这种增加的协作有助于组织获取更广泛的人才和资源，并开发更好的开源解决方案。
+
+-**优化资源配置：**开源项目办公室（OSPO）有助于更有效地分配资源，确保开源运营得到充分支持，并为关键项目提供成功所需的资源。这有助于组织最大化开源技术的效益，并推动创新和增长。
+
+-**提升服务交付：**开源项目办公室（OSPO）有助于提升公共服务的交付，通过使其能够采用创新且具有成本效益的技术，并与外部利益相关者合作开发更好的解决方案。这有助于组织为公民提供更好的服务，并满足社区不断变化的需求。
+
+欧盟委员会的开源项目办公室（OSPO）启动了一个新的门户网站，该网站作为一个维基或知识库，为公共管理者提供有关OSPO相关主题最新进展的信息。该门户网站为有兴趣进一步了解OSPO相关主题的读者提供了各种资源，包括有用的研究、演示文稿、用例、指南等。可在本章末尾的“资源”部分找到网址。
+
+### 作为一种文化影响
+
+在一个由软件主导的世界里，开源项目办公室（OSPO）在组织内充当强大的文化催化剂。它们的作用不仅限于管理开源解决方案的技术整合，更通过促进开放协作、透明度和创新，从根本上转变组织文化。
+
+随着组织越来越多地依赖开源来解决关键任务问题——无论是社会、经济还是技术问题——OSPO的文化影响力在重塑思维和工作流程方面变得至关重要。这种文化转变使组织能够超越仅仅将开源视为一种获取价值的资源，朝着成为更广泛的开源生态系统中的积极贡献成员的方向发展。通过在整个组织中嵌入开源的价值观和实践，OSPO培养了内部倡导者，建立了协作规范，并培养了一种知识共享蓬勃发展的文化。
+
+这种文化转型不仅支持风险管理与创新，还确保了他们所依赖的开源社区的可持续性。若无OSPO持续的文化影响，组织可能会面临开源专业知识的流失、安全与法律漏洞的增加、社区参与度的降低以及声誉受损的风险。
+
+开源是一种隐性的关键需求，而OSPO的文化影响对于推动组织文化的演变和知识的积累至关重要，有助于构建更安全、更可持续的开源软件（OSS）。
+
+#### 开源项目办公室（OSPO）如何提供帮助
+
+-**作为顾问：**有时，战略方法只是意味着退后一步，花时间思考一些关于哪种参与模式适合特定项目以及组织应在每个项目中参与多深的棘手问题。还有何时对现有项目做出贡献而不是创建一个新项目才有意义的问题。进行这些战略层面对话的开源项目办公室（OSPO）能够为不同团队的工作人员提供指导方针，这样工作人员在尝试解决问题时就不必每次都考虑不同开源参与模式的商业影响了。
+
+-**作为协调者：**开源项目办公室（OSPO）还在组织团队与决策者对开源的兴趣以及开源社区的需求之间发挥着某种“翻译”的作用。他们还帮助组织应对与开源社区有效且健康地互动所需的文化、流程和工具方面的变化。
+
+-**作为倡导者：**开源项目办公室（OSPO）可以在不同组织单位中推广开源及其最佳实践的使用。这有助于组织实现开源的益处，以及吸引人们为开源项目做出贡献或启动新的项目。
+
+-**作为环保者：**开源项目办公室（OSPO）可以通过解决安全、维护和项目健康等问题，帮助组织长期支持和维持开源项目。这有助于确保开源项目长期保持健康状态，并继续惠及更广泛的社区。
+
+-**作为看门人：**开源项目办公室（OSPO）可以帮助执行开源政策并加强开源治理。这有助于组织确保合规并降低开源安全风险。
 ![ospo-support](/images/ospo-support.png)
 
-### As an Intermediate Step to a Decentralized Open Source Management Model
-###作为去中心化开源管理模式的中间步骤
-OSPOs help manage open source as an ongoing activity and work to integrate it well into all an organization's units. Some organizations are going a step further to take ownership of the full management of open source within their regular structures and functions. There is an open question related to whether the OSPO would become an intermediate step to achieve this.
-OSPO帮助将开源作为一项持续的活动进行管理，并努力将其很好地整合到组织的所有部门中。一些组织正在更进一步，在其常规结构和职能范围内拥有开源的全面管理权。一个悬而未决的问题是，OSPO是否会成为实现这一目标的中间步骤。
-The answer depends on how you view the OSPO. Beyond the multiple different structures an OSPO can have, it's fundamentally about its people. An OSPO is a group of open source subject matter experts providing support, knowledge, and management related to all open source activities. These people must be not only retained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
-答案取决于你如何看待OSPO。除了OSPO可以拥有的多种不同结构外，它从根本上讲是关于它的人的。OSPO是一组开源主题专家，提供与所有开源活动相关的支持、知识和管理。这些人不仅必须保留，而且必须得到加强，并为未来提供有效的资金，因为更多的开源集成是不可避免的。
-In an ideal scenario, open source knowledge, technical expertise, and culture should be integrated as any other employee skill. However, the reality is that this is a long way from happening. Currently, it's challenging to find open source experts who can effectively bridge the gap between open source communities and specific work units (for example: security, legal and business), let alone enough people to place in every part of the business.
-在理想情况下，开源知识、技术专长和文化应该像其他员工技能一样整合在一起。然而，现实是，这还有很长的路要走。目前，很难找到能够有效弥合开源社区和特定工作单位（例如：安全、法律和业务）之间差距的开源专家，更不用说在业务的每个部分都有足够的人了。
-However, what might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
-然而，未来几年可能会发生的变化是OSPO的集中观点。这种传统观念可能会减弱，导致团队和业务部门之间的结构更加分散。
+### 作为向去中心化开源管理模式过渡的中间步骤
+
+开源项目办公室（OSPO）有助于将开源作为一种持续的活动进行管理，并努力将其很好地整合到组织的所有单位中。一些组织正在更进一步，将其常规结构和功能内开源的全面管理承担起来。有一个开放性的问题与OSPO是否会成为实现这一目标的中间步骤有关。
+
+答案取决于你如何看待开源项目办公室（OSPO）。除了OSPO可以拥有的多种不同结构外，它从根本上来说是关于其人员的。OSPO是一群开源领域的专家，提供与所有开源活动相关的支持、知识和管理。随着更多开源的整合不可避免，这些人员不仅必须被保留，还必须得到加强和有效地资助，以应对未来。
+
+在理想情况下，开源知识、技术专长和文化应该像其他员工技能一样被整合。然而，现实情况是距离实现这一目标还有很长的路要走。目前，找到能够有效弥合开源社区和特定工作单位（例如：安全、法律和业务）之间差距的开源专家已经很有挑战性，更不用说在业务的每个部分都安排足够的人了。
+
+然而，在未来几年中，可能会发生变化的是对开源项目办公室（OSPO）的集中式观点。这种传统观念可能会逐渐减弱，从而导致团队和业务单位之间出现更分散的结构。
 ![ospowork](/images/ospowork.png)
 
-_[Source: OSPOs, key lever for open source sustainability][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 _[来源：OSPO，开源可持续性的关键杠杆][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
-## Applying This to Your Organization
-##将此应用于您的组织
-### Assess the Value of Open Source Use
-###评估开源使用的价值
-Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [^2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [^3] estimates that the supply-side value of widely-used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [^4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
-组织可能低估了他们已经对开源的依赖程度。几项研究分析了OSS在行业中的使用情况。例如，*Synopsys 2024年开源安全和风险分析报告*[2]发现，平均软件项目由77%的OSS组成。此外，哈佛商学院的一项研究估计，广泛使用的开放源码软件的供应方价值为41.5亿美元，而需求方价值要大得多，为8.8万亿美元。此外，欧洲开放论坛的一项研究[4]估计，开放源码软件为欧盟的国内生产总值贡献了650亿至950亿欧元，并为该地区的数字经济带来了巨大的增长机会。
-Assess this value for your own organization by taking steps such as:
+
+## 将此应用于您的组织
+
+### 评估开源的使用的价值
+
+组织可能会低估它们已经对开源的使用有多大的依赖。有几项研究分析了行业对开源软件（OSS）的使用情况。例如，《2024年Synopsys开源安全与风险分析报告》[^2]发现，
+平均软件项目由77%的开源软件组成。此外，哈佛商学院的一项研究[^3]估计，广泛使用的开源软件的供应侧价值为41.5亿美元，而需求侧价值则大得多，达到8.8万亿美元。此外，OpenForum Europe的一项研究[^4]估计，开源软件对欧盟国内生产总值的贡献在650亿到950亿欧元之间，并为该地区的数字经济提供了显著的增长机会。
+
 通过采取以下步骤来评估您自己组织的这一价值：
-- Collecting information about what OSS is used by your development and operations teams.
-- 收集有关您的开发和运营团队使用什么OSS的信息。
-- Getting a clear view of what open source components are in the commercial software you buy or services you use. Ask vendors for what OSS they use, for example by requesting Software Bill of Materials (SBOMs).
-- 清楚地了解您购买的商业软件或使用的服务中的开源组件。询问供应商他们使用什么开放源码软件，例如通过请求软件物料清单（SBOM）。
-- Assessing the cost savings of current open source use by evaluating what it would cost if you had to replace it with commercial alternatives.
-- 通过评估如果必须用商业替代品替换它，它的成本会是多少，来评估当前开源使用的成本节约。
-- Evaluating how using existing open source components can increase the speed of innovation or engineering agility.
-- 评估如何使用现有的开源组件来提高创新速度或工程敏捷性。
 
-### Consider what Value Your OSPO Might Bring in the Future
-###考虑一下你的OSPO在未来可能带来什么价值
-The value of an OSPO to your organization may increase over time as strategy and goals of your organization change. Your OSPO should regularly review its value to the organization, and plan to increase its maturity level if needed. More information about OSPO maturity is available in Chapter 3 where the topic of Maturity Models is introduced.
-随着组织战略和目标的改变，OSPO对组织的价值可能会随着时间的推移而增加。您的OSPO应定期审查其对组织的价值，并在必要时计划提高其成熟度。关于OSPO成熟度的更多信息，请参阅第3章，其中介绍了成熟度模型的主题。
-### Communicate With Stakeholders
-###与利益相关者沟通
-When communicating the value of your OSPO to your organization, the best route forward is to present the top 2-3 areas of value that are most clearly aligned to organizational strategy. There may be many other areas where the OSPO adds value but research shows that a long list of benefits can weaken the business case rather than strengthen it (you can search for the "Weak Argument Effect" online for more information).  Work on a clear, compelling short value proposition that will cut through, and use it as an anchor for presenting the OSPO in all situations.
-在向组织传达OSPO的价值时，最好的前进方向是展示与组织战略最明确一致的前2-3个价值领域。OSPO可能在许多其他领域增加价值，但研究表明，一长串好处会削弱而不是加强商业案例（你可以在网上搜索“弱论证效应”以获取更多信息）。制定一个清晰、引人注目的短期价值主张，该主张将贯穿始终，并将其作为在所有情况下展示OSPO的锚点。
-Don't rely on general "good practice" arguments. Though these may be based in truth, they're not usually very compelling and don't help to build strong buy-in across the organization.
-不要依赖一般的“良好实践”论点。尽管这些可能是基于事实，但它们通常不是很有说服力，也无助于在整个组织中建立强大的支持。
-Don't rely on the value of your OSPO meeting speculative future needs. It's great to be prepared, but unless there is a clear initiative that's about to start which your OPSO can help with, it's better to focus on the value you can deliver here and now.
-不要依赖OSPO的价值来满足投机性的未来需求。做好准备是件好事，但除非有一个明确的计划即将开始，你的OPSO可以提供帮助，否则最好专注于你现在可以提供的价值。
-## Examples of the OSPO's value
-##OSPO价值示例
-To illustrate how your OSPO may deliver value to your organization, some example stories can be a great way to build buy-in. Here are two examples where an OSPO could be vitally important:
-为了说明你的外包服务提供商如何为你的组织创造价值，一些例子故事可以成为建立认同的好方法。以下是外包服务提供商可能至关重要的两个例子：
-### Managing a Vulnerability in the Software Supply Chain
-###管理软件供应链中的漏洞
-For example: a social engineering attack targeted the xz/liblzma [^5], an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
-例如：一次社会工程攻击针对的是xz/liblzma[^5]，这是一个重要的开源库。这次攻击经过精心策划，在执行恶意攻击之前赢得了社区的信任。这一事件是由一个无关的项目无意中发现的，突显了此类漏洞的复杂性和隐蔽性。OSPO面临的挑战在于识别和缓解这些漏洞，这些漏洞在发生之前并不总是很明显。尽管有现有的程序和政策，但OSPO认识到需要建立机制来主动衡量和应对此类威胁。
-#### How the OSPO Helps
+- 收集有关开发和运营团队使用了哪些开源软件（OSS）的信息。
 
-1. **SBOMs Compliance Ready:** Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps quickly to identify potentially compromised components once a vulnerability is disclosed.
+- 了解你购买的商业软件或使用的服务中包含哪些开源组件。例如，你可以要求供应商提供他们使用的开源软件清单，即软件物料清单（SBOM）。
 
-2. **Automated Security Checks:** Implement automated security checks, such as the OpenSSF Scorecard [^6], to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
+- 通过评估如果用商业替代品替换当前开源软件会花费多少成本来评估当前开源使用的成本节省。
 
-3.  **Having a Computer Emergency Response Team (CERT)** within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
+- 评估使用现有的开源组件如何能够提高创新速度或工程敏捷性。
 
-4. **Scorecard Management:** Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
+### 考虑你的开源项目办公室（OSPO）未来可能带来的价值
 
-5. **Automated Feedback Loops:** Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
+随着组织战略和目标的变化，开源项目办公室（OSPO）对组织的价值可能会随时间增加。OSPO应定期审查其对组织的价值，并在需要时计划提高其成熟度级别。有关OSPO成熟度的更多信息可在介绍成熟度模型主题的第3章找到。
 
-### Managing a Licence Change in the Software Supply Chain
+### 与利益相关者沟通
 
- OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When projects like Redis change their terms [^7] it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The AlmaLinux OS Foundation [^8] presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
+在向组织传达开源项目办公室（OSPO）的价值时，最佳途径是提出与组织战略最明确一致的2-3个价值领域。OSPO可能在许多其他领域也增加了价值，但研究表明，冗长的利益清单会削弱商业案例，而不是加强它（你可以在网上搜索“弱论证效应”以获取更多信息）。努力制定一个清晰、有说服力的简短价值主张，使其能够突出重点，并将其作为在所有情况下介绍OSPO的锚点。
 
-#### How the OSPO Helps
+不要依赖一般的“最佳实践”论点。尽管这些论点可能基于事实，但通常不太有说服力，也不利于在组织内建立强大的认同感。
 
-1. **Educational Initiatives on License Implications:** Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open source projects.
-2. **Explicit License Terms:** Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
-3. **Software Trust Rating System:** Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
-4. **Encourage Foundation Hosted Projects:** Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like AlmaLinux to illustrate the benefits of this approach, such as increased trust and community support.
-5. **Stakeholder Engagement in License Decisions:** Engage a broad range of stakeholders, including developers, legal advisors, and end users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
+不要依赖开源项目办公室（OSPO）满足未来可能的需求来体现其价值。做好准备固然很好，但如果没有什么明确的即将启动的项目能用得上OSPO的帮助，那么最好还是专注于OSPO当下能够提供的价值。
+
+## 开源项目办公室（OSPO）价值示例
+
+为了说明你的开源项目办公室（OSPO）如何为你的组织带来价值，一些示例故事可能是建立认同感的好方法。以下是两个OSPO可能至关重要的示例：
+
+### 管理软件供应链中的漏洞
+
+例如：一次社交工程攻击针对了xz/liblzma[^5]，这是一个重要的开源库。该攻击经过精心策划，在发动恶意攻击之前先在社区中赢得信任。这一事件是被一个无关的项目偶然发现的，这突显了此类漏洞的复杂性和隐蔽性。开源项目办公室（OSPO）面临的挑战在于识别并缓解这些漏洞，这些漏洞并非总是在发生后才显现出来。尽管存在既定的程序和政策，OSPO认识到需要有机制来主动衡量并应对这些威胁。
+
+#### 开源项目办公室（OSPO）如何提供帮助
+1. **准备好符合软件物料清单（SBOM）合规性:** 确保所有软件组件都通过自动生成的软件物料清单（SBOM）进行了记录。这种记录有助于在披露漏洞后快速识别可能被篡改的组件。
+
+2. **自动化安全检查:** 实施自动化安全检查，例如OpenSSF Scorecard[^6]，以持续评估项目的安全状况。这种主动措施可以突出显示需要进一步调查的漏洞或异常情况。
+
+3.  **组建计算机应急响应小组（CERT）** 在组织内设立计算机应急响应小组（CERT），并让开源项目办公室（OSPO）与之密切合作。这个专业团队应该配备有应对安全事件的工具和权力，以便能够迅速做出反应。团队内预先建立的关系有助于快速进行内部沟通，评估事件的严重性。
+
+4. **评分卡管理:** 保持安全和漏洞评分卡的更新。这些评分卡应反映最新的安全检查和评估结果，有助于在危机期间快速做出决策。
+
+5. **自动化反馈循环:** 开发良好的自动化反馈循环，用于报告和修复漏洞。了解谁负责解决特定漏洞，并确保此过程尽可能自动化，可以显著减少响应时间。
+
+### 管理软件供应链中的许可变更
+
+开源项目办公室（OSPO）面临着应对许可变更和评估软件可信度的挑战。当像Redis这样的项目变更其许可条款[^7]时， 这可能会对使用、分发和贡献产生重大影响。OSPO需要清晰地传达这些变更，并理解新许可条款所规定的角色和责任。此外，OSPO还负责评估软件的可信度，这可能会因项目是由单一供应商维护还是由基金会托管而有所不同。例如，AlmaLinux操作系统基金会[^8]就是一个案例，将项目捐赠给基金会减轻了与单一供应商治理相关的风险，从而增强了对该项目的信任。
+
+#### 开源项目办公室（OSPO）如何提供帮助
+
+1. **关于许可影响的教育倡议:** 开发教育材料和组织内部培训课程，帮助开发人员和用户了解不同许可证的细微差别。这种理解将帮助他们在使用或贡献开源项目时做出明智的决策。
+2. **明确的许可条款:** 与法律团队合作，确保许可条款尽可能明确且不含糊。清晰的条款有助于避免误解和潜在的法律冲突。
+3. **软件信任评级系统:** 实施一个系统来评估和评定软件的可信度，考虑诸如治理结构、维护实践以及社区参与等因素。由于监督和治理的存在，由知名基金会托管的项目在可信度上可能会得到更高的评级。
+4. **鼓励基金会托管项目:** 倡导将项目捐赠给基金会，以减轻与单一供应商控制相关的风险。突出像AlmaLinux这样的成功案例，来说明这种方法的好处，例如增加信任和社区支持。
+5. **在许可决策中让利益相关者参与:** 让包括开发人员、法律顾问和最终用户在内的广泛利益相关者参与关于许可变更或新项目采用的讨论。他们的见解有助于做出与组织的价值观和风险承受能力相一致的平衡决策。
 
 
-## Possible Problems and How to Overcome Them
+## 可能遇到的问题及解决方法
 
-In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
+在本节中，你可以找到一系列在组织中进行开源管理时遇到的真实场景。对于每个场景，你都可以找到来自开源专业人士的真实经验中的建议。
 
-### Problem
+### 问题
 
-There is a lack of understanding about open source practices across the organization.
+整个组织对开源实践缺乏了解。
 
-### Recommendation
+### 建议
 
-It can be hard to demonstrate the value of the OSPO if there is a poor understanding of open source in the organization. Focusing on speaking about your key areas of value and using the power of stories will help you to build understanding quickly in the organization. Sharing real-world stories about how your organization is using open source, and sharing cautionary tales about times an OSPO saved an organization from a risk can help to educate people through easily repeated narratives.
+如果组织对开源缺乏了解，那么展示开源项目办公室（OSPO）的价值可能会很困难。专注于谈论你的关键价值领域，并利用故事的力量，将帮助你迅速在组织内建立理解。分享关于你的组织如何使用开源的真实故事，以及分享OSPO如何拯救组织免受风险的警示故事，可以通过易于重复的叙述来教育人们。
 
-As time goes by, you can start to promote better organizational-wide understanding of open source practices by offering educational workshops, creating accessible resources, and establishing open source champions in different departments to foster a culture of open source literacy.
-
------
-
-### Problem
-
-The OSPO's value is seen as a sales profit or marketing tool.
-
-### Recommendation
-
-Because the OSPO has a role in supporting relationships with open source communities and partners, it can be natural for sales and marketing to see some value to them in this engagement.
-
-As an OSPO you can only fulfill your responsibilities by building trust with third parties over time. Set boundaries with sales and marketing and say "no" to things that might reduce your reputation in the ecosystem. Work on building internal understanding of the OSPO as an integral part of the organization's digital, software, or IT strategy, and highlight work that fosters open source best practices, contributes to technological innovation, and supports the overall organization's goals.
+随着时间的推移，你可以通过提供教育研讨会、创建易于获取的资源以及在不同部门建立开源倡导者来促进整个组织对开源实践的更好理解，从而培养一种开源素养的文化。
 
 -----
 
-### Problem
+### 问题
 
-The OSPO's value is seen as secondary or discretionary, and not as critical for the organization’s core functions.
+开源项目办公室（OSPO）的价值被视为销售利润或营销工具。
 
-### Recommendation
+### 建议
 
-The cause of this problem is either that the OSPO isn't aligned with the organization's needs, or that the OSPO isn't communicating its value well. Review the OSPO's value, and plan your communications to highlight how the OSPO enhances key business processes, drives innovation, and directly supports strategic objectives, thereby integrating it as an essential component of the organization's operational framework.
+由于开源项目办公室（OSPO）在支持与开源社区和合作伙伴的关系方面发挥作用，因此销售和市场营销部门可能会认为这种参与对他们具有一定的价值。
+
+作为OSPO，你只能通过随着时间的推移与第三方建立信任来履行你的职责。与销售和市场营销部门设定界限，并对那些可能降低你在生态系统中声誉的事情说“不”。努力在组织内部建立对OSPO作为组织数字、软件或IT战略的组成部分的理解，并突出那些促进开源最佳实践、促进技术创新并支持整个组织目标的工作。
 
 -----
 
-### Problem
+### 问题
 
-The OSPO struggles with gaining executive support and buy-in.
+开源项目办公室（OSPO）的价值被视为次要的或可自由支配的，而不是组织核心功能的关键。
 
-### Recommendation
+### 建议
 
-Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague, or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numerical reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
+这个问题的原因要么是开源项目办公室（OSPO）与组织的需求不一致，要么是OSPO没有很好地传达其价值。重新审视OSPO的价值，并计划你的沟通，以突出OSPO如何增强关键业务流程、推动创新并直接支持战略目标，从而将其作为组织运营框架的一个基本组成部分进行整合。
+
+-----
+
+### 问题
+
+开源项目办公室（OSPO）在获得高层支持和认同方面存在困难。
+
+### 建议
+
+高管需要一种特定类型的沟通方式。他们需要清晰了解组织中每个部分所扮演的角色和带来的价值。如果信息过于详细或模糊，或者主题过于专业，他们可能会难以理解。作为开源项目办公室（OSPO），你需要传达开源的战略价值以及OSPO在管理开源方面所做的工作。通过案例研究、成功故事或数字报告来展示明显的益处，可以帮助通过清晰简洁的展示来突出OSPO的举措与组织的关键优先事项相契合。
 
 
-## Resources and Footnotes
+## 资源和脚注
 
-### Resources
+### 资源
 
-- Log4Shell real vulnerability example: https://en.wikipedia.org/wiki/Log4Shell
-- Open source and the software supply chain - John Mark Walker: https://opensource.com/article/16/12/open-source-software-supply-chain
-- Strategy: End Game for FINOS Maturity Model - Victor Lu: https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit#slide=id.g1ed9ae7029f_0_29
-- Securing the Software Supply Chain: The Role of OSPOs - Jessica Marz: https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html
-- Simple Frequently Asked Questions OSPO Guide - OSPO SWG Japan: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
-- The Business Value of the OSPO Report - Linux Foundation: https://www.linuxfoundation.org/research/business-value-of-ospo
-- EC Open Source Programme Office - European Commission Joinup: https://joinup.ec.europa.eu/collection/ec-ospo
-- Public Services Should Sustain Critical Open Source Software - FOSSEPS: https://joinup.ec.europa.eu/collection/ec-ospo
-- How Governments Want to Use OSPOs to Transform Themselves - Sivan Pätsch: https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government
-- Open Source Security and Risk Analysis Report 2022 - Synopsys: https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html
-- Open Technology - Scheerder, Jeroen & Koymans: https://www.researchgate.net/publication/254920512_Open_Technology#pf7
-- The Pros and Cons of Open Source Software - Khalil Khalaf: https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95
+- Log4Shell真实漏洞示例: https://en.wikipedia.org/wiki/Log4Shell
+- 开源与软件供应链——约翰·马克·沃克: https://opensource.com/article/16/12/open-source-software-supply-chain
+- 策略：FINOS成熟度模型的终局 - 维克多·卢: https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit#slide=id.g1ed9ae7029f_0_29
+- 确保软件供应链安全：开源项目办公室（OSPO）的作用 —— 杰西卡·马茨: https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html
+- 简单常见问题解答开源项目办公室（OSPO）指南 —— 日本开源项目办公室特别工作组（OSPO SWG Japan）: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+- 《开源项目办公室（OSPO）的商业价值》报告 —— Linux基金会: https://www.linuxfoundation.org/research/business-value-of-ospo
+- 《欧洲委员会开源项目办公室》- 欧盟委员会 Joinup: https://joinup.ec.europa.eu/collection/ec-ospo
+- 公共服务应支持关键开源软件 - FOSSEPS: https://joinup.ec.europa.eu/collection/ec-ospo
+- 《政府如何希望利用开源项目办公室（OSPOs）实现自我转型》- 西万·佩奇: https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/growing-case-ospos-government
+- 《2022年开源安全与风险分析报告-新思科技》: https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html
+- 开放技术 - 谢尔德、杰伦和科曼: https://www.researchgate.net/publication/254920512_Open_Technology#pf7
+- 开源软件的利与弊 - 哈利勒·哈拉夫: https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95
 
-### Footnotes
+### 脚注
 
-[^1]: Business value of the OSPO report: https://www.linuxfoundation.org/research/business-value-of-ospo
+[^1]: 《OSPO报告的商业价值》: https://www.linuxfoundation.org/research/business-value-of-ospo
 
-[^2]: Synopsys Open Source Security and Risk Analysis Report 2024: https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf
+[^2]: 《新思科技2024年开源安全与风险分析报告》: https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/rep-ossra-2024.pdf
 
-[^3]: Harvard Business School study: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+[^3]: 《哈佛商学院研究》: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
 
-[^4]: Study by OpenForum Europe: https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/
+[^4]: 《欧洲开放论坛研究》: https://openforumeurope.org/publications/study-about-the-impact-of-open-source-software-and-hardware-on-technological-independence-competitiveness-and-innovation-in-the-eu-economy/
 
-[^5]: Social engineering attack targeted the xz/liblzma: https://research.swtch.com/xz-timeline
+[^5]: 《针对xz/liblzma的社会工程攻击》: https://research.swtch.com/xz-timeline
 
-[^6]: OpenSSF Scorecard: https://scorecard.dev/
+[^6]: 《OpenSSF记分卡》: https://scorecard.dev/
 
-[^7]: Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
+[^7]: 《Redis更改了他们的条款》: https://www.theregister.com/2024/03/22/redis_changes_license/
 
-[^8]: AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
+[^8]: 《AlmaLinux操作系统基金会》: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
