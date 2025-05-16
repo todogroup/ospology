@@ -173,7 +173,7 @@ CHAOSS社区的工具（如GrimoireLab和Augur）提供了一个良好的起点�
 - CHAOSS OSPO指标工作组：https://github.com/chaoss/wg-ospo
 
 #### 脚注
-[^1]:  CHAOSS从业者指南：https://chaoss.community/about-chaoss-practitioner-guides ↩
-[^2]:  Linåker, J., Papatheocharous, E., & Olsson, T. (2022). 如何描述开源软件项目的健康状况？一项新兴实践的滚雪球文献综述. 第18届国际开放协作研讨会. DOI: https://doi.org/10.1145/3555051.3555067 ↩
-[^3]:  Lumbard, K., Germonprez, M., & Goggins, S. (2023). 社会比较与开源社区健康的实证研究. 《信息系统杂志》, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 ↩
-[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). 如何在组织的引入流程中评估开源软件依赖项的健康状况：来自访谈调查和案例研究的见解. https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf ↩
+- [^1]:  CHAOSS从业者指南：https://chaoss.community/about-chaoss-practitioner-guides ↩
+- [^2]:  Linåker, J., Papatheocharous, E., & Olsson, T. (2022). 如何描述开源软件项目的健康状况？一项新兴实践的滚雪球文献综述. 第18届国际开放协作研讨会. DOI: https://doi.org/10.1145/3555051.3555067 ↩
+- [^3]:  Lumbard, K., Germonprez, M., & Goggins, S. (2023). 社会比较与开源社区健康的实证研究. 《信息系统杂志》, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 ↩
+- [^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). 如何在组织的引入流程中评估开源软件依赖项的健康状况：来自访谈调查和案例研究的见解. https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf ↩
