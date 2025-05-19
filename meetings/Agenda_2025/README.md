@@ -10,11 +10,9 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Monday, March 24      | AMER & EMEA      | 5:00 PM        | Yaya Xia, Ant Group | [OSPO strategy and practices based on data-driven methods](./Mar-24.md)| `Strategy`| The video is cooking up!🧑‍🍳 | 
 | Thursday, April 10    | EMEA & APAC      | 11:00 AM       | Yuichi Nakamura, Hitachi| [How to collaborate with LF to accelerate OSS strategy](./Apr-10.md)| `Strategy`| The video is cooking up!🧑‍🍳 | 
 | Thursday, April 24    | EMEA & APAC      | 12:00 PM       | Masato Endo, Toyota | [TOYOTA OSPO in One Year and Next Journey](./Apr-24.md)| `Business`| The video is cooking up!🧑‍🍳 | 
-| Monday, May 12        | AMER & EMEA      | 5:00 PM        | Brittany Istenes | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  | |
+| Monday, May 12        | AMER & EMEA      | 5:00 PM        | Brittany Istenes | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  | The video is cooking up!🧑‍🍳 |
 | Thursday, May 29      | EMEA & APAC      | 12:00 PM       | Andrew Wafaa, Arm and Ibrahim Haddad | [The OSPO Has a New Sibling: AI Office (AIO)](./May-29.md)       | `Emerging-Trends` | |
 | Tuesday, May 27       | AMER & EMEA      | 5:00 PM        | Emma Irwin and Ana Jiménez | [Open Group Discussion on open source in AI and the role of OSPOs](./May-27.md)| `Emerging-Trends`  | |
-| Thursday, June 12     | EMEA & APAC      | 11:00 AM       | TBA         | TBA                                    | TBA       | |
-| Monday, June 9        | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       | |
 | Thursday, June 26     | EMEA & APAC      | 11:00 AM       | Gergely Csatári, Nokia   | [The OpenChain telco SBOM Schema]()        | `Compliance` | |
 | Monday, June 23       | AMER & EMEA      | 5:00 PM        | TBA         | TBA                                    | TBA       | |
 
