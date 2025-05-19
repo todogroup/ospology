@@ -1,6 +1,6 @@
 ## APAC & EMEA Touchpoint  
 
-- 📅 **Date**: Thursday, May 27
+- 📅 **Date**: Monday, May 27
 - ⏰ **Time**: 5:00 PM GMT  
 - 🎤 **Guest**: Emma Irwin and Ana Jiménez
 - 💡 **Topica**: Open Group Discussion on open source in AI and the role of OSPOs
