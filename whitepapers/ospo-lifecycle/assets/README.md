@@ -9,8 +9,8 @@ Visual Assets are licensed under the Creative Commons Attribution 4.0 Internatio
 
 ## Example Attributions
 
-- Visual adapted from “The Lifecycle of an Open Source Program Office” by Ibrahim Haddad, CC BY 4.0
-- Based on “The Lifecycle of an Open Source Program Office” by Ibrahim Haddad, adapted under CC BY 4.0
+- Visual adapted from “The Lifecycle of an Open Source Program Office” by Ibrahim Haddad and TODO Group, CC BY 4.0
+- Based on “The Lifecycle of an Open Source Program Office” by Ibrahim Haddad and TODO Group, adapted under CC BY 4.0
 
 # Other Visual Assets - Trademarks
 
