@@ -1,6 +1,6 @@
 ## Contributing to this Guide
 
-We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please [sign up for our mailing list](https://lists.todogroup.org/g/WG-ospo-book-project) and share your feedback there.
+We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please join #project-ospobook channel on the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-2l8r9czoi-vY8kYerIXGnBTmJFnApSLQ).
 
 ### 🐣 Newcomers 
 
