@@ -1,20 +1,20 @@
 ## Contributing to this Guide
 
-We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please [sign up for our mailing list](https://lists.todogroup.org/g/WG-ospo-book-project) and share your feedback there.
+We value and appreciate any input from the open source community and OSPO practitioners, and welcome any improvements to this project. If you're not comfortable with GitHub, please join #project-ospobook channel on the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-2l8r9czoi-vY8kYerIXGnBTmJFnApSLQ).
 
 ### 🐣 Newcomers 
 
 Below is a list of resources that will help you become familiar with the process and workflow of the OSPO book project:
 
 - **[GOVERNANCE.md](./GOVERNANCE.md)** includes the contributor ladder
-- **[Chapters](./chapters)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
-- **[Docs](./docs)** includes the questions for interviews, aspirational roadmap for this year and a release checklist
+- **[Chapters](./content)** contains the table of contents **outlining the main objectives of each chapter**, along with the taxonomy used and a glossary
+- **[Docs](./docs)** includes the questions for interviews
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list and introducing yourself to the group](https://lists.todogroup.org/g/WG-ospo-book-project) . The introduction can include a brief bio, your location, and how you would like to contribute to the project.
+If you would like to start making your first contributions, we recommend joining `#project-ospobook` channel on the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-2l8r9czoi-vY8kYerIXGnBTmJFnApSLQ) and introducing yourself to the group.
 
 ### 💚 Making Submissions
 
-If you would like to add additional documentation or code to this project, please make a pull request under the OSPOlogy repository.
+If you would like to add additional documentation or code to this project, please make a pull request or submit an issue under the OSPOlogy repository using the format `[OSPO Book] your topic here` as the title
 
 If you have never used GitHub before, the guide [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) will help you get familiar with working with GitHub and working with Markdown syntax.
 
@@ -28,7 +28,10 @@ To ensure consistency and accessibility, this guide uses plain American English.
 
 ### 💬 Translations in other languages
 
-We welcome translations and future versions of this project in other languages! To do so, please fork this repository to work on the translation and send a pull request to include it in the main branch.
+We welcome translations and future versions of this project in other languages! If you’re interested in contributing a translation of the OSPO Book, please follow these steps:
+- Check existing efforts: Browse the GitHub Issues and look for the [translation label](https://github.com/todogroup/ospology/issues?q=is%3Aissue%20state%3Aopen%20label%3Aospo-book-translations) to see if your target language is already in progress.
+- Coordinate with others: If your language is already being translated, join the effort! Reach out in our `#project-ospobook` channel on the [TODO Group Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-2l8r9czoi-vY8kYerIXGnBTmJFnApSLQ) to connect with the translation team and co-chairs
+- If your language is not yet listed, please open a new issue titled [OSPO Book] translating into `{desired language}` to let others know
 
 ### 🚀　Releases
 
