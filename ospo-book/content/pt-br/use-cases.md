@@ -1,14 +1,12 @@
 ---
-title: "OSPO End-User Journeys"
+title: "OSPO - Jornadas do Usuário Final"
 status: Completed
 weight: 95
 ---
 
-The OSPO End User Journey report highlights active Open Source Program Offices Practitioners and
-demonstrates how their organizations grow their open source knowledge and benefit from building a
-strategic vision and commitment around open source through an OSPO.
+O relatório Jornada do Usuário Final (OSPO End User Journey) destaca profissionais atuantes em Open Source Program Offices e demonstra como suas organizações expandem o conhecimento em open source e se beneficiam ao construir uma visão estratégica e um compromisso em torno do open source por meio de um OSPO.
 
-Use cases will be added as more organizations contribute to expanding this list.
+Novos casos de uso serão adicionados à medida que mais organizações contribuírem para ampliar esta lista.
 
-* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Use-case`
-* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Use-case`
+* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Caso de Uso`
+* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Caso de Uso`

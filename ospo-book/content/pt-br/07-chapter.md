@@ -1,10 +1,10 @@
 ---
-title: "Acknowledgements to Contributors"
+title: "Agradecimentos aos Colaboradores"
 status: Completed
 weight: 90
 ---
 
-Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
+Cada colaborador trouxe uma perspectiva única, tornando possível o Projeto OSPO Book. A lista de colaboradores abaixo é atualizada a cada nova versão e não inclui a filiação institucional. No entanto, qualquer pessoa pode abrir um Pull Request (PR) a qualquer momento para adicionar seu nome à lista caso tenha feito contribuições relevantes para o projeto. Um maintainer revisará sua submissão posteriormente.
 
 * Alin Jerpelea
 * Ana Jiménez Santamaría
@@ -40,7 +40,6 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Ulises Gascon
 * Victor Lu
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
+Se você gostaria de começar a fazer suas primeiras contribuições, recomendamos [inscrever-se na lista de discussão](https://lists.todogroup.org/g/WG-ospo-book-project), ler os resumos das reuniões anteriores no arquivo de mensagens e se apresentar ao grupo.
 
-> Contributor list will evolve as new contributions arise. If you would like to be added to the list or be removed from the list, please open a new issue.
-
+> A lista de colaboradores evoluirá à medida que novas contribuições surgirem. Se você deseja ser incluído ou removido da lista, por favor, abra uma nova issue.
