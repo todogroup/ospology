@@ -121,10 +121,10 @@ Cada uno de estos modelos de madurez es ligeramente diferente, pero todos clasif
 #### Modelo de Madurez 2 - Charla sobre las Cinco Etapas de Adopción Corporativa de Open Source por Carl-Eric [^6]:
 
 *   Accidental - la organización utiliza open source sin saber que lo usa
-*   Repetitivo (Repetitive) - existen procesos establecidos tanto para el consumo como para la contribución, pero las contribuciones son esporádicas
-*   Dirigido (Directed) - participación activa en proyectos open source críticos
-*   Colaborativo (Collaborate) - la colaboración open source se utiliza como herramienta para crear valor empresarial
-*   Prevaleciente (Prevail) - el open source se utiliza para influir en áreas estratégicas del negocio y la tecnología
+*   Repetitive (Repetitivo) - existen procesos establecidos tanto para el consumo como para la contribución, pero las contribuciones son esporádicas
+*   Directed (Dirigido) - participación activa en proyectos open source críticos
+*   Collaborate (Colaborativo) - la colaboración open source se utiliza como herramienta para crear valor empresarial
+*   Prevail (Prevaleciente) - el open source se utiliza para influir en áreas estratégicas del negocio y la tecnología
 
 ![osmm-carl](/images/osmm-carl.png)
 
