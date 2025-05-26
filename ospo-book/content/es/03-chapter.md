@@ -7,7 +7,7 @@ weight: 50
 - [Introducción](#introducción)
 - [Comenzando con la Estrategia](#comenzando-con-la-estrategia)
 - [Diseñando tu OSPO](#diseñando-tu-ospo)
-- [Usando Modelos de Madurez para OSPOs](#usando-modelos-de-madurez-para-ospos)
+- [Usando Maturity Models para OSPOs](#usando-maturity-models-para-ospos)
 - [Aplicando Esto a tu Organización](#aplicando-esto-a-tu-organización)
 - [Posibles Problemas y Cómo Superarlos](#posibles-problemas-y-cómo-superarlos)
 - [Recursos y Notas al Pie](#recursos-y-notas-al-pie)
@@ -20,7 +20,7 @@ Este capítulo primero te ayudará a identificar tu estrategia para que puedas t
 
 Luego, analizará el diseño y la construcción de una OSPO estable y sólida, capaz de cubrir las tareas y responsabilidades relacionadas con el open source que necesita tu organización.
 
-Finalmente, este capítulo introducirá el modelo de madurez como una forma de comprender qué es apropiado para tu OSPO ahora y en el futuro a medida que cambian las necesidades.
+Finalmente, este capítulo introducirá el Maturity Model (modelo de madurez) como una forma de comprender qué es apropiado para tu OSPO ahora y en el futuro a medida que cambian las necesidades.
 
 ## Comenzando con la Estrategia
 
@@ -94,21 +94,21 @@ Las organizaciones están sujetas a varios reguladores externos que influyen y d
 
 Para que el open source tenga éxito y sea sostenible dentro de una organización, es crucial colaborar no solo con la comunidad open source sino también con los reguladores externos. Esta colaboración asegura una comprensión clara de los principios del open source al crear políticas que afectan al ecosistema. El objetivo principal es trabajar juntos y tomar decisiones informadas comprendiendo completamente las implicaciones del open source y su comunidad. Por lo tanto, se recomienda que la OSPO considere formas de desarrollar un plan para acercarse y comunicarse con los reguladores, definiendo claramente los roles que desempeñarán en el proceso de formulación de políticas.
 
-## Usando Modelos de Madurez para OSPOs
+## Usando Maturity Models para OSPOs
 
-### Una Introducción a los Modelos de Madurez
+### Una Introducción a los Maturity Models
 
-El compromiso de una organización con el open source generalmente se sitúa a lo largo de una escala que va de lo táctico a lo estratégico. Los modelos de madurez te ayudan a comprender en qué parte de esta escala se encuentran las diferentes partes de la organización y a tener conversaciones sobre si está en el lugar correcto.
+El compromiso de una organización con el open source generalmente se sitúa a lo largo de una escala que va de lo táctico a lo estratégico. Los maturity models te ayudan a comprender en qué parte de esta escala se encuentran las diferentes partes de la organización y a tener conversaciones sobre si está en el lugar correcto.
 
-Existen muchos modelos de madurez de open source diferentes. Algunos son generales, otros especializados. Hay modelos de madurez para gobiernos, ONGs, empresas y más, con versiones y subversiones para adaptarse a cualquier organización.
+Existen muchos maturity models de open source diferentes. Algunos son generales, otros especializados. Hay maturity models para gobiernos, ONGs, empresas y más, con versiones y subversiones para adaptarse a cualquier organización.
 
-> NOTA: Los Modelos de Madurez pueden verse como una prescripción de cómo deben desarrollarse las OSPOs o el compromiso con el open source. Puede ser tentador pensar que siempre es mejor aumentar la madurez. Pero, recuerda que debes considerar qué *nivel* de madurez es apropiado para tu OSPO, o cada función de tu OSPO. No todas las partes necesitan estar altamente desarrolladas. Es posible que ya entreguen el valor necesario sin mayor desarrollo. Si los modelos de madurez no se ajustan a tu OSPO, considera usar un modelo de capacidad o algo más que prefieras.
+> NOTA: Los maturity models pueden verse como una prescripción de cómo deben desarrollarse las OSPOs o el compromiso con el open source. Puede ser tentador pensar que siempre es mejor aumentar la madurez. Pero, recuerda que debes considerar qué *nivel* de madurez es apropiado para tu OSPO, o cada función de tu OSPO. No todas las partes necesitan estar altamente desarrolladas. Es posible que ya entreguen el valor necesario sin mayor desarrollo. Si los maturity models no se ajustan a tu OSPO, considera usar un modelo de capacidad o algo más que prefieras.
 
-### Ejemplos de Modelos de Madurez
+### Ejemplos de Maturity Models
 
-Cada uno de estos modelos de madurez es ligeramente diferente, pero todos clasifican el compromiso con el open source desde lo táctico y menos intencional, hasta lo estratégico y más intencional.
+Cada uno de estos Maturity Models es ligeramente diferente, pero todos clasifican el compromiso con el open source desde lo táctico y menos intencional, hasta lo estratégico y más intencional.
 
-#### Modelo de Madurez 1 - Adopción del Compromiso Open Source por Dr. Ibrahim H [^5]:
+#### Maturity Model 1 - Adopción del Compromiso Open Source por Dr. Ibrahim H [^5]:
 
 *   Denial (Negación) - Uso nulo o inconsciente de open source
 *   Consumption / Usage (Consumo / Uso) - Uso pasivo de OSS
@@ -118,7 +118,7 @@ Cada uno de estos modelos de madurez es ligeramente diferente, pero todos clasif
 
 ![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
 
-#### Modelo de Madurez 2 - Charla sobre las Cinco Etapas de Adopción Corporativa de Open Source por Carl-Eric [^6]:
+#### Maturity Model 2 - Charla sobre las Cinco Etapas de Adopción Corporativa de Open Source por Carl-Eric [^6]:
 
 *   Accidental - la organización utiliza open source sin saber que lo usa
 *   Repetitive (Repetitivo) - existen procesos establecidos tanto para el consumo como para la contribución, pero las contribuciones son esporádicas
@@ -128,7 +128,7 @@ Cada uno de estos modelos de madurez es ligeramente diferente, pero todos clasif
 
 ![osmm-carl](/images/osmm-carl.png)
 
-#### Modelo de Madurez 3 - The OSPO Maturity Model by The TODO Group [^7]
+#### Maturity Model 3 - The OSPO Maturity Model by The TODO Group [^7]
 
 *   Etapa 0: Adopción Ad Hoc de Open Source
 *   Etapa 1: Proporcionar Cumplimiento de OSS, Inventario y Educación para Desarrolladores
@@ -140,15 +140,15 @@ Cada uno de estos modelos de madurez es ligeramente diferente, pero todos clasif
 
 ## Aplicando Esto a tu Organización
 
-Aquí hay algunas sugerencias sobre cómo podrías usar las ideas y consejos anteriores para configurar tu OSPO. Estas se basan en el Modelo de Madurez 3 - The OSPO Maturity Model by The TODO Group.
+Aquí hay algunas sugerencias sobre cómo podrías usar las ideas y consejos anteriores para configurar tu OSPO. Estas se basan en el Maturity Model 3 - The OSPO Maturity Model by The TODO Group.
 
 ### Usando una Checklist Simple
 
 La *TODO OSPO checklist* [^8] ofrece un conjunto simplificado de hitos comunes tanto para OSPOs en etapa temprana como para las experimentadas, para navegar cada etapa del OSPO Maturity Model mencionado anteriormente. Ten en cuenta que una OSPO podría eliminar, agregar o editar parte del contenido de esta checklist para adaptarla a las necesidades de su organización.
 
-### Usando Modelos de Madurez
+### Usando Maturity Models
 
-Una vez que tengas cierta familiaridad con los modelos de madurez de open source, puedes comenzar a usar uno para construir tu estrategia y crear tu plan.
+Una vez que tengas cierta familiaridad con los maturity models de open source, puedes comenzar a usar uno para construir tu estrategia y crear tu plan.
 
 El OSPO Japan Local Meetup Working Group, con el apoyo de The TODO Group y OpenChain, ha estado desarrollando una guía simple de preguntas frecuentes (FAQ) sobre OSPOs. Esta guía tiene como objetivo responder preguntas en cada paso del OSPO Maturity Model, que categoriza diferentes actividades de open source desde la etapa 0 a la 4, y describe el papel de la OSPO en cada nivel.
 
@@ -208,4 +208,4 @@ Asegúrate de tomarte el tiempo para identificar a todos tus stakeholders y comp
 
 [^8]: The TODO OSPO checklist: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md
 
-[^9]: Summary of the work of The OSPO Japan Local Meetup Working Group in both Japanese and English in a Qiita article written by one of its members: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+[^9]: Resumen del trabajo de The OSPO Japan Local Meetup Working Group en japonés e inglés en un artículo de Qiita escrito por uno de sus miembros: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
