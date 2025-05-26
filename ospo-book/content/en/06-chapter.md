@@ -16,12 +16,12 @@ weight: 70
 
 Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
 
-In the past, it might have been acceptable to know little about key open source projects. But that’s no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we’ll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
+In the past, it might have been acceptable to know little about key open source projects. But that's no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we'll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
 
 There are several reasons why organizations need visibility into open source projects. For example:
 * The organization is using open source and wants to track contributions to key projects.
 * The organization participates in an open source ecosystem and needs to identify potential risks and offer support where necessary.
-* The organization wants to contribute to the sustainability of OSS — especially the software that’s critical to its business.
+* The organization wants to contribute to the sustainability of OSS — especially the software that's critical to its business.
 * The organization must stay compliant with upstream license requirements and respond to security issues that could affect operations.
 
 ### The Goal-Question-Metric Framework
@@ -42,7 +42,7 @@ Identify and understand your organizational goals. These can vary significantly 
 
 #### Questions
 
-Break down these goals into specific, actionable questions. For example, to assess recruitment efforts, one might ask, “Who are important contributors?” or “How many did we help hire?”
+Break down these goals into specific, actionable questions. For example, to assess recruitment efforts, one might ask, "Who are important contributors?" or "How many did we help hire?"
 
 #### Metrics
 
@@ -184,7 +184,7 @@ When comparing open source projects, OSPOs should group and assess projects with
 
 Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
 
-* Decide which health aspects and attributes matter most based on their organization’s needs.
+* Decide which health aspects and attributes matter most based on their organization's needs.
 * Prioritize efforts — it's too time-consuming and expensive to measure everything.
 * Focus on the data that provides the most useful insights for risk management and decision-making.
 
@@ -198,7 +198,7 @@ In 2024, Linåker and colleagues worked with a large international automotive co
 
 #### Building a Health Assessment Process
 
-The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company’s environment.
+The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company's environment.
 
 **Key features of the process:**
 
@@ -255,11 +255,10 @@ Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get s
 
 ### Footnotes
 
-[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides.
+[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides
 
-[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to Characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
+[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to Characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI: https://doi.org/10.1145/3555051.3555067
 
-[^3]: Lumbard, K., Germonprez, M., & Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
+[^3]: Lumbard, K., Germonprez, M., & Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532: https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
 
-[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study.
-https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf
+[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study: https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf
