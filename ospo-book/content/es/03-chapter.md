@@ -106,7 +106,7 @@ Existen muchos maturity models de open source diferentes. Algunos son generales,
 
 ### Ejemplos de Maturity Models
 
-Cada uno de estos Maturity Models es ligeramente diferente, pero todos clasifican el compromiso con el open source desde lo táctico y menos intencional, hasta lo estratégico y más intencional.
+Cada uno de estos maturity models es ligeramente diferente, pero todos clasifican el compromiso con el open source desde lo táctico y menos intencional, hasta lo estratégico y más intencional.
 
 #### Maturity Model 1 - Adopción del Compromiso Open Source por Dr. Ibrahim H [^5]:
 
