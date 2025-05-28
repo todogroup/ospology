@@ -4,7 +4,7 @@ status: Completed
 weight: 95
 ---
 
-El informe de Trayectorias de Usuarios Finales de la OSPO destaca a Profesionales activos de las Open Source Program Offices y demuestra cómo sus organizaciones aumentan su conocimiento sobre código abierto y se benefician de construir una visión estratégica y compromiso en torno al open source a través de una OSPO.
+El informe de Trayectorias de Usuarios Finales de OSPOs destaca a profesionales activos de las Open Source Program Offices y demuestra cómo sus organizaciones aumentan su conocimiento sobre open source y se benefician de construir una visión estratégica y compromiso en torno al open source a través de una OSPO.
 
 Se agregarán casos de uso a medida que más organizaciones contribuyan a expandir esta lista.
 
