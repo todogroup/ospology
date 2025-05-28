@@ -1,5 +1,5 @@
 ---
-title: "Trayectorias de Usuarios Finales de la OSPO"
+title: "Trayectorias de Usuarios Finales de OSPOs"
 status: Completed
 weight: 95
 ---
