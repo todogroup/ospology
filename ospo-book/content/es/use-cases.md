@@ -8,5 +8,5 @@ El informe de Trayectorias de Usuarios Finales de OSPOs destaca a profesionales 
 
 Se agregarán casos de uso a medida que más organizaciones contribuyan a expandir esta lista.
 
-* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Use-case`
-* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Use-case`
+* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Caso de uso`
+* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Caso de uso`
