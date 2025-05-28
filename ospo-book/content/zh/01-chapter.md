@@ -1,169 +1,168 @@
 ---
-title: "第1章：开源办公室 OSPO 简介"
+title: "第1章：开源项目办公室 OSPO 简介"
 status: Completed
 weight: 30
 ---
-- [Introduction](#introduction)
-- [About OSPOs](#about-ospos)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Conclusion](#conclusion)
-- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Resources and Footnotes](#resources-and-footnotes)
+- [导言](#导言)
+- [关于 OSPO](#关于-ospo)
+- [如何应用于组织](#如何应用于组织)
+- [小结](#小结)
+- [可能遇到的问题及应对方法](#可能遇到的问题及应对方法)
+- [资源与脚注](#资源与脚注)
 
-## Introduction
+## 导言
 
-In today's digital ecosystem, open source resources have transformed from a niche technical approach to a foundational element of modern organizations' technological infrastructure. Companies across sectors increasingly rely on open source components, frameworks, and tools to drive innovation, reduce development costs, and accelerate time-to-market for their products and services. However, this growing dependence introduces complex challenges related to security, compliance, licensing, and strategic alignment that require deliberate management rather than ad-hoc approaches.
+在当今的数字生态系统中，开源资源已从小众的技术手段转变为现代组织技术基础设施的核心要素。各行各业的企业越来越依赖开源组件、框架和工具来推动创新、降低开发成本，并加快产品和服务的上市速度。然而，这种日益增长的依赖也带来了安全、合规、许可和战略对齐等复杂挑战，这些挑战需要有意识的管理，而不是临时应对。
 
-The Open Source Program Office (OSPO) has emerged as a critical organizational function designed to strategically navigate these challenges. An OSPO acts as the centralized hub for an organization's open source activities, coordinating usage policies, contribution strategies, compliance procedures, and community engagement initiatives. By establishing formal governance structures, OSPOs enable organizations to systematically manage risk while maximizing the business value derived from open source technologies and communities.
+开源项目办公室（Open Source Program Office，英文缩写OSPO）已成为应对这些挑战的关键组织职能。OSPO 作为组织开源活动的集中枢纽（centralized hub），协调使用政策、贡献策略、合规流程和社区参与等工作。通过建立正式的治理结构，OSPO 能够帮助组织系统性地管理风险，同时最大限度地从开源技术和社区中获得业务价值。
 
-Beyond risk management, successful OSPOs fundamentally transform how organizations interact with the broader open source ecosystem. They foster internal engineering excellence through knowledge sharing, promote external recognition through strategic contributions to key projects, and create pathways for innovation by maintaining healthy relationships with open source communities. Organizations that implement well-structured OSPOs typically experience enhanced developer productivity, improved software quality, reduced legal exposure, and strengthened competitive positioning in talent markets where open source expertise and values are important.
+除了风险管理之外，成功的 OSPO 还会从根本上改变组织与更广泛的开源生态系统互动的方式。它们通过知识共享促进内部工程的卓越，通过为关键项目做出战略性贡献来促进外部认可，并通过与开源社区保持健康的关系来创造创新的途径。OSPO 机制运行良好的组织通常会看到开发人员生产力提升、软件质量提高、法律风险减少，以及在重视开源专业能力和价值观的人才市场中更具竞争力。
 
-## About OSPOs
+## 关于 OSPO
 
-### Defining an OSPO
+### OSPO 的定义
 
-An OSPO is designed to do the following:
+OSPO 的设计目标如下：
 
-1. Be the center of competency for an organization's open source operations and structure, and
-2. Place a strategy and set of policies on top of an organization's open source efforts. This can include setting code use, distribution, selection, auditing, and other policies; training developers; ensuring legal compliance; and promoting and building community engagement
-to benefit the organization strategically.
+1. 成为组织开源运营和开源架构中的能力中心；
+2. 在组织的开源工作之上制定一套战略和系列政策。这包括制定代码使用、分发、选择、审计等政策；培训开发人员；确保法律合规；以及推动并培育社区参与生态，从而在战略上为组织带来益处。
 
-OSPOs can vary across organizations. For example, OSPOs may be situated in the R&D department, in the office of the CTO, in the Engineering department, or be "virtual" meaning that it's made up of people from across the business. An OSPO can be large and multi-layered for example, a corporate OSPO with division-level OSPOs or it can be much smaller. It can even be an informal, self-organized group.
+OSPO 在不同组织中形式各异。例如，OSPO 可能设在研发部门、首席技术官（CTO）办公室、工程部门，或是“虚拟”的，由来自全企业的人员组成。OSPO 可以是大型多层级的，比如企业级 OSPO 配有部门级 OSPO，也可以非常小型，甚至是非正式的自组织团队。
 
->NOTE: For a more in-depth explanation of OSPOs see the TODO Group's official definition of an OSPO, linked to in the *Resources and Footnotes* section of this chapter.
+> **注意**：有关 OSPO 更深入的解释，请参见 TODO 小组 （TODO Group，OSPO 领域的国际开源治理研究与协作组织）官方的 OSPO 定义，链接见本章“资源与脚注”部分。
 
-### How an OSPO Works Inside an Organization
+### OSPO 在组织内的运作方式
 
-OSPOs have a very strong role in creating cross-functional collaboration in an organization. This involves integrating open source practices into interactions with various internal and external open source stakeholders that have a direct or indirect impact on the OSPO. Demonstrating the value of open source when integrating it as part of the overall digital strategy is important to achieving shared organizational objectives.
+OSPO 在组织内推动跨职能协作方面发挥着重要作用。这涉及将开源实践融入与各种内部和外部开源利益相关者的互动中，这些利益相关者对 OSPO 有直接或间接影响。在将开源纳入整体数字战略时，展示其价值对于实现组织共同目标至关重要。
 
-An OSPO considers cross-functional collaboration from four different perspectives:
+OSPO 从四个不同的视角考虑跨职能协作：
 
-* Looking downward: The head of an OSPO must manage the team's tasks effectively. Depending on the OSPO's objectives, the team's responsibilities may vary.
+* 向下考量（任务匹配）：OSPO 负责人必须有效管理团队任务。根据 OSPO 的目标（职责目标，此处概指团队为落实战略而设定的阶段性任务，译者注），其团队职责可能有所不同。
 
-* Looking upward: If proposing the creation of an OSPO, managing expectations and aligning with executives' technology needs is necessary.
+* 向上考量（需求对齐）：若提议成立 OSPO，需合理管理预期并与高管的技术需求保持一致。
 
-* Looking sideways: Collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is essential.
+* 向侧考量（团队协同）：与其他团队的协作至关重要。例如，在以业务为导向的 OSPO 中，与开发工具团队和安全团队的协作非常重要。
 
-* Looking outside: Representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
+* 向外考量（整合一致）：代表组织与外部社区和基金会互动至关重要。整合策略必须与组织的目标和愿景保持一致。
 
-As an example, the following diagram illustrates the various players in a business-oriented OSPO and the different methods of cross-functional collaboration.
+例如，下图展示了以业务为导向的 OSPO 中的各类参与者及其跨职能协作方式。
 
 <img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
 
-### History
+### 开源项目办公室（OSPO）简史
 
-In the past, collaborative OSS development was primarily adopted by small groups of developers and enthusiasts, and there was little need for dedicated organizational units to manage open source activities. However, as this method has become more prevalent and critical to the operation of many organizations, the need for dedicated OSPOs has become more apparent.
+过去，协作式开源软件（Open Source Software,英文缩写OSS）开发主要由开发者和爱好者组成的小团体采用，当时几乎无需专门的组织单元来管理开源活动。然而，随着这种开发方式变得愈发普遍且对许多组织的运作至关重要，对专门开源项目办公室（OSPO）的需求也愈发显著。
 
-The OSPO concept initially started within the corporate world about two decades ago, but adoption accelerated significantly in the last decade. Most prominent technology infrastructure firms (for example Amazon, VMware, Cisco) and consumer technology companies (for example Apple, Google, Meta (formerly Facebook)) have created OSPOs or formal open source programs. All are encouraging their employees to contribute to open source projects that are strategic to their business and security.
+OSPO 概念最初大约二十年前起源于企业界，但在过去十年中OSPO 的应用显著加速。多数头部的技术基础设施企业，如亚马逊（Amazon）、威睿（VMware）、思科（Cisco）等，以及消费类科技企业，如苹果（Apple）、谷歌（Google）、Meta（前身为脸书（Facebook））等，都已采纳与落地 OSPO 或正式的开源项目，并鼓励员工为对其业务和安全具有战略意义的开源项目做出贡献。
 
-The term "OSPO" has become more mainstream and diverse in the last few years, as more organizations from different sectors and regions have created dedicated open source roles in their organization to manage open source operations and strategy. Recently, OSPOs have been formed in different regions (APAC, EMEA, AMER) and different types of organization, such as governments, enterprises, NGOs, and universities.
+近年来，随着不同行业和地区的更多组织在内部设立专门的开源岗位以管理开源运作及战略，“OSPO” 这一术语已变得更加主流且多样化。最近，OSPO 已在不同地区（亚太地区（APAC）、欧洲、中东及非洲地区（EMEA）、美洲地区（AMER））和不同类型的组织中成立，如政府机构、企业、非政府组织（NGOs）和高校。
 
-> NOTE: In this book we refer to the part of the organization managing open source as an OSPO, but depending on your organization you might use a different name. OSPOs vary depending on sector, region, organizational size, and many other factors. The name may exclude the term 'Program' to become 'Open Source Office' or you may use a completely different name such as 'Open Source Center of Competence', 'Open Source Steering Committee" or 'Open Source Software Team'.
+> **注意**：在本书（即手册，译者注）中，我们将管理开源的组织部分称为 OSPO，但根据您的组织情况，可能会使用不同的名称。OSPO 会因行业、地区、组织规模等多种因素而异。名称可能去掉“项目”二字，变为“开源办公室”，或使用完全不同的名称，如“开源能力中心”、“开源指导委员会”或“开源软件团队”等。
 
-## Applying This to Your Organization
+## 如何应用于组织
 
-### Does Your Organization Need an OSPO?
+### 您的组织是否需要 OSPO？
 
-Now that we understand something about the purpose and nature of OSPOs, it's a good moment to consider how this might apply to your organization. If your organization doesn't have an OSPO yet, your first step is to determine if an OSPO is the right solution for your organization's needs based on its existing open source engagement level, culture and understanding.
+现在我们已经了解了 OSPO 的目的和性质，是时候思考这对您的组织意味着什么了。如果您的组织还没有 OSPO，第一步是根据现有的开源参与水平、文化和认知，判断 OSPO 是否适合您的组织需求。
 
-While this is a book about OSPOs, it's important to note that establishing an OSPO might not be the starting point for open source operations. Before establishing an OSPO, companies and organizations need to assess their current goals, and their relationship with OSS projects.
+虽然本书主要介绍 OSPO，但需要注意的是，成立 OSPO 可能并非开源运作的起点。在设立 OSPO 之前，企业和组织需要评估自身当前目标，以及与开源软件（OSS）项目的关系。
 
-> NOTE: Chapter 3 contains more information to help you decide what your OSPO should look like and how to get it started.
+> **注意**：第 3 章包含更多信息，帮助您确定 OSPO 应采取何种形式以及如何启动。
 
-### Understand the Role of Open Source in your Organization
+### 了解开源在您组织中的作用
 
-The first step in assessing whether your organization needs an OSPO is to find out the current level of open source resources used, contributed, or produced in the organization. This information is important when you are thinking about how an OSPO can help your organization manage the risks and opportunities that come with open source. The OSPO can help to ensure that open source activities in your organization are effectively managed and aligned with strategic goals and objectives.
+评估组织是否需要 OSPO 的第一步，是了解当前组织中开源资源的使用、贡献或产出情况。这些信息对于思考 OSPO 如何帮助组织管理开源带来的风险和机遇至关重要。OSPO 可以帮助确保组织内的开源活动得到有效管理，并与战略目标和行动宗旨保持一致。
 
-Assessing open source adoption is critical because it sets the foundation for successful open source operations. Without proper understanding and adoption of open source, an OSPO may not be effective in achieving the desired outcomes.
+评估开源采纳与落地十分关键，因为它为成功的开源运作奠定基础。如果没有对开源的正确理解和应用，OSPO 可能无法有效实现预期成效。
 
-Consider the following areas of open source engagement in your organization:
+请考虑以下组织开源参与领域：
 
-*  **Open Source Software Usage:** Evaluate the level of OSS usage within your organization. Are there any specific open source projects that are widely used? Are there any projects that are critical to the organization's operations?
+*  **开源软件使用情况：** 评估组织内部开源软件的使用水平。是否有特定的开源项目被广泛使用？是否有对组织运行至关重要的项目？
 
-*  **Knowledge and Understanding of Open Source:** Evaluate the level of knowledge and understanding of open source within your organization. Are the different actors that will be or are currently involved in open source familiar with open source licensing models and requirements? Do they understand the benefits and risks of using OSS?
+*  **开源知识与理解：** 评估组织内部对开源的知识和理解水平。参与或将要参与开源的行动各方是否熟悉开源许可模式和要求？他们是否了解使用开源软件的益处和风险？
 
-* **Culture:** Evaluate the culture within your organization to determine if it's conducive to open source operations. Is there a culture of collaboration and sharing? Are the different actors that will be or are currently involved in open source willing to contribute to open source projects?
+* **文化：** 评估组织内部的文化是否有利于开源运营。是否具备协作和分享的文化？参与或将要参与开源的行动各方是否愿意为开源项目做贡献？
 
-* **Tools and Processes:** Evaluate the tools and processes in place to support open source operations. Are there any existing tools or processes that can be leveraged for open source operations? Are there any gaps in tools or processes that need to be addressed?
+* **工具与流程：** 评估支持开源运营的现行工具和流程。是否有可用于开源运营的现有工具或流程？当前工具或流程中是否存在需要解决的不足或缺陷？
 
-* **Addressing Gaps:** Determine if there are any gaps in open source adoption or readiness and develop a plan to address them. This may include training those actors that will be or are currently involved in open source on OSS usage and licensing, developing new tools and processes to support open source operations, or establishing an OSPO to coordinate open source activities.
+* **弥补差距：** 识别开源采纳与落地或准备度方面的差距，并制定相应的解决方案。具体措施可能包括：为参与或将要参与开源的人员提供开源软件使用和许可培训，开发支持开源运营的新工具和流程，或设立 OSPO 以统筹协调开源活动。
 
-Overall, gather input from stakeholders on these areas by asking the following questions:
+总体而言，可通过以下问题向利益相关者收集意见：
 
-  * How would you define 'open source'?
-  * What does 'open source' mean for you and your organization?
-  * How much OSS is already being used in the organization?
-  * How would you define the 'open source culture' within your organization?
-  * What are the organization's goals and objectives for using open source?
-  * How is OSS currently being used within the organization?
-  * How is OSS currently being created within the organization?
-  * If any, what are the current policies and procedures for managing OSS within the organization?
-  * What are the key legal and compliance considerations for using OSS within the organization?
-  * What are the motivations for implementing an OSPO within the organization?
-  * What are the challenges of implementing an OSPO within the organization?
-  * What resources and support will be needed to successfully implement an OSPO within the organization?
+  * 您如何定义“开源”？
+  * “开源”对您和您的组织意味着什么？
+  * 组织中已在使用多少开源软件？
+  * 您如何定义组织内的“开源文化”？
+  * 组织使用开源的目标和目的是什么？
+  * 组织目前如何使用开源软件？
+  * 组织目前如何创建开源软件？
+  * 如果有的话，组织目前管理开源软件的政策和流程是什么？
+  * 组织使用开源软件的关键法律和合规考虑因素有哪些？
+  * 在组织内实施 OSPO 的动机是什么？
+  * 在组织内实施 OSPO 的挑战有哪些？
+  * 在组织内成功实施 OSPO 需要哪些资源和支持？
 
-## Conclusion
+## 小结
 
-An OSPO can help many organizations achieve better outcomes with open source. Understanding your organization's needs and its current use of open source are a great place to start when considering creating an OSPO.
+OSPO 能帮助众多组织通过开源实现更优成效。了解组织的需求及其当前的开源使用情况，是考虑设立 OSPO 时的良好起点。
 
-## Possible Problems and How to Overcome Them
+## 可能遇到的问题及应对方法
 
-### Problem
+### 问题
 
-The OSPO is established without proper alignment with organizational goals. This can lead to difficulty in making progress.
+OSPO 的设立未与组织目标充分对齐，导致推进困难。
 
-###  Recommendation
+### 建议
 
-When setting up the OSPO, ensure that you understand the organization's needs. Then establish a clear mission for the OSPO, set measurable objectives, and foster cross-departmental collaboration.
-
------
-
-### Problem
-
-The OSPO is seen as a separate silo within the organization.
-
-### Recommendation
-
-Take the time to identify the OSPO's internal and external stakeholders and know what you intend to deliver for them and your organization. This will require integrating open source practices into various departments, and demonstrating the value that open source brings in achieving shared organizational objectives.
+在设立 OSPO 时，务必了解组织需求，明确 OSPO 的使命，设定可衡量的具体目标，并促进跨部门协作。
 
 -----
 
-### Problem
+### 问题
 
-The OSPO is seen as a legal or compliance function only.
+OSPO 被视为组织内的独立孤岛。
 
-### Recommendation
+### 建议
 
-Take care to position the OSPO beyond merely legal and compliance roles by emphasizing its strategic importance in providing support to achieve organizational goals, meet both external and internal security regulations, and foster innovation.
+花时间识别 OSPO 的内部和外部利益相关者，明确为他们和组织带来的价值。这需要将开源实践融入各部门，并展示开源在实现组织共同目标中的价值。
 
 -----
 
-### Problem
+### 问题
 
-The OSPO is seen as a one-size-fits-all solution.
+OSPO 仅被视为法律或合规职能。
 
-### Recommendation
+### 建议
 
-Carefully assess the specific needs and objectives of your organization to determine if an OSPO is the right fit, tailoring its structure and functions to effectively align with your unique organizational goals and strategies. Share the mission of your OSPO, and demonstrate how your work delivers on that mission.
+注意将 OSPO 的定位提升到法律和合规之外，强调其在支持组织目标、满足内外部安全法规和推动创新方面的战略重要性。
 
-## Resources and Footnotes
+-----
 
-### Resources
+### 问题
 
-* OSPO definition: https://github.com/todogroup/ospodefinition.org
-* Source of the diagram: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
-* ML discussion: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
-* OSPO 101 Module 1 - Open Source Introduction: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1
-* OSPO 101 Module 2 - Open Source Business Models: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2
-* OSPO 101 Module 3 - Open Source management & your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
-* OSPO easy FAQ - TODO Group and Open Chain Japan, Linux Foundation: https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/
-* How to create an OSPO - TODO Group, Linux Foundation: https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/
-* OSPO Definition - TODO Group, Linux Foundation: https://ospoglossary.todogroup.org/ospo-definition/
-* The OSPO: A New Tool for Digital Government - Open Forum Europe: https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf
-* OSPO Adoption Landscape - TODO Group, Linux Foundation: https://landscape.todogroup.org/
-* Business Success with Open Source - VM (Vicky) Brasseur: https://pragprog.com/titles/vbfoss/business-success-with-open-source/
+OSPO 被视为一刀切的解决方案。
 
-### Footnotes
+### 建议
 
-None.
+仔细评估组织的具体需求和目标，判断 OSPO 是否合适，并根据实际情况调整其架构和职能，使其有效对齐组织的独特目标和战略。分享 OSPO 的使命，并展示您的工作如何实现这一使命。
+
+## 资源与脚注
+
+### 资源
+
+* OSPO 定义（OSPO definition）: https://github.com/todogroup/ospodefinition.org
+* 图示来源: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
+* 邮件讨论（ML discussion）: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
+* OSPO 101 模块 1（OSPO 101 Module 1） - 开源简介: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1
+* OSPO 101 模块 2（OSPO 101 Module 2） - 开源商业模式: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2
+* OSPO 101 模块 3（OSPO 101 Module 3） - 开源管理与您的组织: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
+* OSPO 简易常见问题解答（OSPO easy FAQ） - TODO 小组（TODO Group）与日本开源链（Open Chain Japan）联合发布，Linux 基金会（Linux Foundation）: https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/
+* 创建开源（项目）办公室指南（How to create an OSPO） - TODO 小组（TODO Group）, Linux 基金会（Linux Foundation）: https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/
+* OSPO 定义（OSPO Definition） - TODO 小组（TODO Group）, Linux 基金会（Linux Foundation）: https://ospoglossary.todogroup.org/ospo-definition/
+* OSPO：数字政府新工具（The OSPO: A New Tool for Digital Government） - 欧洲开放论坛（Open Forum Europe）: https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf
+* OSPO 采纳与落地生态图谱（OSPO Adoption Landscape） - TODO 小组（TODO Group）, Linux 基金会（Linux Foundation）: https://landscape.todogroup.org/
+* 开源商业成功（Business Success with Open Source） - VM（维姬）·布拉瑟尔（VM (Vicky) Brasseur）: https://pragprog.com/titles/vbfoss/business-success-with-open-source/
+
+### 脚注
+
+无。
