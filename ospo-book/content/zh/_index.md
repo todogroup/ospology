@@ -5,25 +5,26 @@ status: Completed
 
 # 欢迎访问 OSPO 手册
 
-The book serves as a source of knowledge for organizations developing strategies to use, contribute to, and create open source projects with the help of professionals working in Open Source Program Offices (OSPOs). It aids in gaining a better understanding of the OSPO's role and provides resources developed openly by a group of contributors [^1] with deep knowledge in open source strategy, community and management. This includes setting up policies, processes, and strategies on how to use, contribute to, and create open source projects critical to the organization's products or services, as well as overseeing day-to-day operations.
+本书为各类型的组织提供了一份知识参考，帮助它们制定战略，从而在开源项目办公室（OSPO）专业人员的支持下更好地使用、贡献以及创建开源项目；其有助于深入理解 OSPO 的角色，并提供了由一群在开源战略、社区建设和管理方面具有深厚经验的贡献者 [^1] 公开协作开发的资源。这些资源包括制定有关如何使用、参与贡献及创建对组织产品或服务至关重要的开源项目的政策、流程与策略，同时也涉及日常运营的管理与执行。
 
-* Why organizations may or may not need an OSPO.
-* Assessing an organization's readiness for implementing an OSPO.
-* The role of OSPOs in different types of organizations.
-* Common difficult scenarios and recommendations.
-* Practical recommendations in day-to-day operations, ranging from formulating open source policies to effectively engaging with external open source communities.
+* 组织为什么可能需要或者不需要 OSPO 。
+* 评估组织实施 OSPO 的准备情况。
+* OSPO 在不同类型组织中的作用。
+* 常见困难场景及建议。
+* 日常运营中的实用建议，从制定开源政策到有效参与外部开源社区。
 
 <p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Colorful houses with people"></p>
 
-As you explore the content of this book, we encourage you to use it within your organization. And if you have any suggestions for additional content that we should include, please don't hesitate to open an issue or include new content by visiting our GitHub repo [^2].
+在阅读本书的过程中，我们鼓励您在自己的组织中应用和实践。如果您希望建议我们添加更多内容，请随时访问我们的 GitHub 仓库 [^2]，新建问题或新增内容。
 
 ## 许可
 
-All code contributions are under the Apache 2.0 license
-Documentation is distributed under CC BY 4.0
+所有代码均采用 Apache 2.0 许可
+
+文档分发采用 CC BY 4.0
 
 ## 脚注
 
-[^1]: Book contributors: https://ospobook.todogroup.org/07-chapter/
+[^1]: 本书贡献者: https://ospobook.todogroup.org/zh/07-chapter/
 
-[^2]: OSPO Book repo https://github.com/todogroup/ospology/tree/main/ospo-book
+[^2]: OSPO Book 仓库 https://github.com/todogroup/ospology/tree/main/ospo-book
