@@ -26,4 +26,4 @@ Documentation is distributed under CC BY 4.0
 
 [^1]: Book contributors: https://ospobook.todogroup.org/07-chapter/
 
-[^2]: OSPO Book repo https://github.com/todogroup/ospology/tree/main/ospo-book
+[^2]: OSPO Book repo: https://github.com/todogroup/ospology/tree/main/ospo-book

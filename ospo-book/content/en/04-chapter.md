@@ -12,7 +12,7 @@ weight: 60
 
 ## Introduction
 
-Once you have your strategy, you need a plan. Your plan will be to create and execute on a set of regular activities that deliver your strategy. This chapter will help you understand what the range of an OSPO’s activities are, and what value each one delivers to your organization.
+Once you have your strategy, you need a plan. Your plan will be to create and execute on a set of regular activities that deliver your strategy. This chapter will help you understand what the range of an OSPO's activities are, and what value each one delivers to your organization.
 
 ## Common Activities
 
@@ -80,7 +80,7 @@ In the following table, Ibrahim H.'s open source activity engagement model (prev
 | Activities                                                                  | Value for the OSPO | Value for the Organization                                                                                                                                                               |
 | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Open sourcing previously proprietary projects                               | The OSPO can reduce the burden on the Engineering (and other) departments. | New opportunities will open up to improve the codebase of a commoditized component through collaboration in public. More strategic involvement in open source. Access to new expertise.                                                                                                           |
-| Establish an “upstream first” policy                                        | Offering the organization a way to get more value for the same, or smaller, amount of effort. | The organization can support or even lead open source projects and make them part of the primary value creation of the organization without losing its competitive differences, and while benefiting from the contributions of a whole community.                                                                              |
+| Establish an "upstream first" policy                                        | Offering the organization a way to get more value for the same, or smaller, amount of effort. | The organization can support or even lead open source projects and make them part of the primary value creation of the organization without losing its competitive differences, and while benefiting from the contributions of a whole community.                                                                              |
 | Supporting autonomy of contributors and maintainers of open source projects | In-house experts in open source are valuable to the OSPO. | Employing people who are dedicated to only open source work means the organization can strategically strengthen important open source projects in the most organic and effective way. |
 
 ## Possible Problems and How to Overcome Them
@@ -107,4 +107,4 @@ As with all new ventures, it's really important to create and maintain a focus o
 
 [^1]: Secure Supply Chain Consumption Framework (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
 
-[^2]: OSPO Mind Map https://todogroup.org/resources/mindmap/
+[^2]: OSPO Mind Map: https://todogroup.org/resources/mindmap/

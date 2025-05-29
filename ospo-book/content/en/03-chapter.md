@@ -186,8 +186,8 @@ Ensure that you take the time to identify all your stakeholders and understand t
 - TODO guide to outbound OSS: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/
 - TODO guide to participating in open source communities: https://todogroup.org/resources/guides/participating-in-open-source-communities/
 - DevOps uses Capability, not Maturity: https://octopus.com/blog/devops-uses-capability-not-maturity
-- Porsche Open Source Website https://opensource.porsche.com/
-- The Evolution of the OSPO https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
+- Porsche Open Source Website: https://opensource.porsche.com/
+- The Evolution of the OSPO: https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
 - OSPO 101 training module - OSPO and your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
 
 ### Footnotes
@@ -208,4 +208,4 @@ Ensure that you take the time to identify all your stakeholders and understand t
 
 [^8]: The TODO OSPO checklist: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md
 
-[^9]: Summary of the work of The OSPO Japan Local Meetup Working Group in both Japanese and English in a  Qiita article written by one of its members: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+[^9]: Summary of the work of The OSPO Japan Local Meetup Working Group in both Japanese and English in a Qiita article written by one of its members: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
