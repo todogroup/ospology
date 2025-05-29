@@ -4,107 +4,107 @@ status: Completed
 weight: 60
 ---
 
-- [Introduction](#introduction)
-- [Common Activities](#common-activities)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Resources and Footnotes](#resources-and-footnotes)
+- [引言](#引言)
+- [基础职能](#基础职能)
+- [企业级具体实践](#企业级具体实践)
+- [可能遇到的问题及解决方案](#可能遇到的问题及解决方案)
+- [参考资料与注释](#参考资料与注释)
 
-## Introduction
+## 引言
 
-Once you have your strategy, you need a plan. Your plan will be to create and execute on a set of regular activities that deliver your strategy. This chapter will help you understand what the range of an OSPO’s activities are, and what value each one delivers to your organization.
+与战略相匹配的，是一个具体的执行计划。该计划应包含一系列常规活动，通过这些活动的开展来落实战略目标。本章将帮助您了解开源项目办公室（OSPO）的活动范围，以及每项活动为企业带来的价值。
 
-## Common Activities
+## 基础职能
 
-An OSPO's day-to-day operations encompass a broad spectrum of activities aimed at enhancing open source engagement and compliance within the organization, including:
+开源项目办公室（OSPO）的日常运营涉及一系列多维度活动，其核心目标是推动企业内部的开源协作与合规管理，具体职能包括：
 
-- **Direct Open Source Support:** Involves answering questions on all aspects of open source, including license compliance, selecting OSS, and interactions with vendors. It also includes engaging with the community and partners, securing sponsorships, and organizing open source events.
+- **直接支持:** 开源相关的全领域咨询服务，例如开源许可证合规性指导、开源软件（OSS）评估选型以及供应商合作事宜。此外，还负责维护开源社区和基金会等伙伴的合作关系、获取赞助支持以及组织开源活动。
 
-- **Automation Tools:** Creating process automation to support open source policies is important because policies alone may not always be effective. Managers know that their workers won't always follow policy and therefore want effective options to automate use, management, and tracking of open source components. Automation is useful in many areas of open source including license compliance and security.
+- **自动化工具:** 建立支持开源政策的自动化流程系统至关重要，因为仅靠政策本身往往难以确保执行效果。管理者深知员工并不能始终完全遵循政策要求，因此需要借助有效的自动化手段来管理开源组件的使用、维护与追踪情况。自动化在开源管理的诸多领域都在发挥重要作用，包括许可证合规、安全管理等关键环节。
+  
+- **文档、培训与教育:** 开源项目办公室（OSPO）确保员工掌握评估开源项目适用性的能力，并能为企业的重要开源项目做出贡献等方面发挥着关键作用。例如开发培训材料和文档，协助跨部门团队完成相关工作。
 
-- **Documentation, Training, and Education:** An OSPO can play a leading role in ensuring that individuals are qualified to assess open source projects for use in the organization and contribute to critical open source projects for the organization. Developing training materials and documentation and/or aiding teams to produce these across different departments are key tasks.
+- **资源分配:** 开源项目办公室（OSPO）可以在多个领域为企业创造价值。因此有必要对资源进行科学的优先级规划，并建立战略和战术层面相结合的合理分配机制，从而最大化提升 OSPO 的影响力。
 
-- **Resource Allocation:** There can be a lot of areas that an OSPO can offer value to an organization. Therefore, prioritizing work and allocating resources strategically and tactically is an important activity that will improve the OSPO's impact.
+- **风险管理:** 开源项目办公室（OSPO）在整体视角评估企业在使用开源项目所面临的风险方面具有独特的优势。对 OSPO 而言，其核心价值在于通过企业的技术栈全景评估分析来进行风险管理。例如生成软件物料清单（SBOM），使 OSPO 能够考量来自供应商软件、遗留系统组件、专有软件以及开源软件中的风险。这更多是从业务评估角度出发，而非简单的数据收集，因为风险只能被管控，而无法完全消除。 SBOM 的持续优化，关键在于平衡风险与收益。
+  
+- **赞助开源社区和基金会:** 企业的发展与开源生态息息相关。开源项目的健康发展离不开活跃的社区支持，通过直接贡献或通过基金会间接投资的方式，将时间和资金用于支持社区。为实现项目与企业的互利共赢，需深入了解和管理社区合作。有时，资金捐赠并非解决问题的最佳方案，培育更紧密的伙伴关系、提供开发支持、协助市场推广或参与项目治理往往更具实效。
 
-- **Risk Management:** OSPOs are well-placed to take a holistic view of the risk that the organization faces when using open source projects. It's useful for the OSPO to assess the risks by obtaining a comprehensive view of the organization's tech stack. This may include generating SBOMs which allow the OSPO to consider the risks in software from vendors, legacy software, and proprietary software as well as in open source. This is more about a business assessment perspective rather than just data gathering, as risk can only be managed, not eliminated. Optimizing SBOMs is about balancing risks against benefits.
+- **技术债务评估:** 提供开源项目技术债务量化评估的相关知识，帮助企业确定开源项目的潜在风险。与社区协作共建，共同推动项目，成为助力项目可持续发展、提升自我维护能力的一种教育倡导形式。
 
-- **Sponsoring Open Source Communities and Foundations:** Your organization depends on open source. The projects in open source are only as healthy as their communities, and you can invest your time and money in supporting communities either directly or through Foundations. These relationships need to be understood and managed with care to achieve outcomes that will benefit the projects and your organization. Sometimes money isn't the best fix for a problem, and fostering a closer partnership and providing development, marketing, or programmatic support is more useful.
+- **相关部门协同建设:** 建立系统化的利益相关方管理框架，并保持适当的互动。可参考第 3 章的 OSPO 架构图（OSPO flower diagram），辅助梳理协作关系。
 
-- **Measuring Technical Debt:** Providing knowledge on how to measure the technical debt on an open source project helps to determine the risks associated with the project and, when done in collaboration with the project community, is a form of educational advocacy to help projects improve and sustain themselves.
+- **开源项目选用指导:** 开源项目办公室（OSPO）从战略高度制定开源项目选择标准，并考量所选项目的最佳使用实践。OSPO 应当提供参考资料和指导，明确企业应如何对开源项目进行选型和管理。相关指南和政策可以是纯技术性的，也可以纳入开源项目的健康度和实践考量，例如安全供应链消费框架（S2C2F）*[^1]。
 
-- **Coordinating with Various Parts of the Organization:** It can be helpful to check that you know all your stakeholders, and have the right amount of interaction with them. Take a look at the OSPO flower diagram in Chapter 3 for help mapping interactions.
+## 企业级具体实践
 
-- **Giving Advice on Open Source Consumption:** The OSPO considers both the strategic view on which open source projects to consume and on the best practice for using the selected projects. The OSPO should provide reference materials and guidance on how the company should select which open source projects it uses and how it manages them. Guidelines and policy can be purely technical or can include considerations based on open source project health and practices, like the *Secure Supply Chain Consumption Framework (S2C2F)*[^1].
+### OSPO思维导图
 
-## Applying This to Your Organization
-
-### The OSPO MindMap
-
-The OSPO MindMap [^2] is once again a useful tool. You can use it to get an overview of the potential activities of an OSPO. The OSPO MindMap outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO. As always, this is an input to your work, not a fixed plan to follow. You should adapt it to your needs.
+OSPO思维导图 [^2] 是一个非常实用的工具，可以用来全面了解开源项目办公室（OSPO）的潜在活动范围。该导图系统梳理了 OSPO 生态系统内的主要职责、角色定位、行为规范和团队规模。需要注意的是，它只是一份参考框架，而并非需要严格遵循的固定模式。您应结合自身实际需求对其进行调整。
 
 
-### Activities by Maturity Stage
+### 按成熟度阶段划分的活动
 
-In the following table, Ibrahim H.'s open source activity engagement model (previously seen in Chapter 2) is used as a map for listing and exploring activities in an OSPO.
+下表采用Ibrahim H.的开源参与模型（见第 2 章）作为框架，列出并探讨了OSPO的各项活动内容。
 
-#### STAGE: Consumer
+#### 阶段I：使用者角色
 
-| Activities                                                                                                                 | Value for the OSPO                                                                                                                                     | Value for the  Organization                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 活动                                                                                     | 对OSPO的价值                                                             | 对企业的价值                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Define open source compliance rules and practices                                                                          | An explicit consensus on the organization's open source compliance rules and practices between the legal and business stakeholders.            | The organization knows that it has a managed approach to the legal aspects of open source consumption, which can be maintained and improved over time. Each company has different aspects of open source compliance, interpretations of licenses and different risk appetite (e.g dealing with regulations). Having well-defined compliance rules and practices is the first step toward deterministic open source compliance                                                                                                                                               |
-| Define rules and policies on using open source (criteria for using OSS which relate to open source health)                     | Consumption of open source projects isn't just viewed through the compliance lens, but is considered more holistically and includes the risks associated with unhealthy projects. A consensus is built in the company related to the hygiene of consumed open source components. The organization has clear policies to follow. | Consumed open source projects are lower in risk because they're healthy, fixing security vulnerabilities, implementing new features and release regularly.                                                                                                                                                                                                                                                                                         |
-| Define rules and policies on how to contribute to open source (criteria on how to engage in the community, how to transfer rights, Contributor License Agreements) | The OSPO can increase awareness of the two-way relationship with open source projects. Using policies supports a consistent and ethical approach. The organization has clear policies to follow.                                                                                                     | Policies and practices ensure that the organization considers how to jointly build value with open source projects. Contributions made are likely to improve the company's reputation, not damage it.                                                                                                                                                                                                                                                                                                                                 |
-| Adopt ISO/IEC 5230 (OpenChain) Compliance                                                                                        |     The OSPO can implement an international, defined standard rather than create one from the ground up.                                                                                                                                               | The organization can demonstrate its compliance with an internationally recognized standard.                                                                                                                                                                                                                                                                                                                          |
-| Manage an inventory of  OSS used in the organization                                                                                     |         The OSPO is aware of the surface area of OSS it oversees.                                                                                                                                           | The organization has a base for overall risk management. This is an important tool for dealing with issues relating to specific projects (security problems, license changes, lifecycle issues, etc.)                                                                                                                                                                                                                                           |
-| Training on open source awareness                                                                                          |                 Providing training on open source increases visibility of the role of open source, visibility of the OSPO and its value, and improves understanding of how the organization uses and engages with open source.                                                                                                                                   | Increases the competence present in the organization to work with OSS through an awareness of open source value, licensing, and contributions etc.                                                                                                                                                                                                                                                                             |
-| Introduce tools for license compliance                                                                                     |                           Provide structure and visibility for licence compliance within the organization, which helps inform management strategy.                                                                                                                         | Automation is essential to be able to address risks with a reasonable amount of effort and measure effectiveness of efforts to improve compliance.                                                                                                                                                                                                                                                                                            |
-| Clarify how to support OSS                                                                                |      Ensure that OSS is adopted with appropriate understanding of how it can be supported.                                                                                                                                               | The organization should be aware of the hidden costs of using OSS in production scenarios. External support for open source components can sometimes be bought from a vendor or a service provider. Alternatively, other options are to manage the support yourself with the help of the community (being realistic in considering what a community can be expected to support), or going with the risk of not having support which may be appropriate for scenarios where the risk is low. |
+| 定义开源合规规则与实践                                                                          | 与利益相关方就企业开源合规规则与实践达成法律与业务的明确共识            | 企业确已在开源使用的法律层面采取了可控措施，且能随时间推移进行持续优化和升级。不同的企业在开源合规的许可证解释、风险承受方式（如应对法规的策略）等方面存在差异。制定明确定义的合规规则和实践是确定性开源合规管理的第一步。                                                                                                                                              |
+| 制定开源使用规则和政策（与开源项目健康度相关的选用标准）                    | 采用开源项目，不仅要考虑合规问题，还应进一步进行综合评估，包括项目健康度等风险因素。企业内部需对所使用开源组件的质量状况达成共识，并制定明确的管理规范。 | 选用低风险的开源项目，主要考虑具有质量优势、能及时修复安全漏洞、持续进行功能更新和版本迭代的健康项目。                                                                                                                                                                                                                                                                                         |
+| 制定开源贡献规则与政策（如社区参与准则、权利转让规范、贡献者许可协议等）| 开源项目办公室（OSPO）能提升企业与开源项目双向关系的认知。通过制定政策，能够确保开源协作的一致性和合规性。企业应建立明确的管理制度。                                                                                                     | 制定开源政策与实践规范，确保企业与开源项目形成共建互赢。开源贡献并非有损声誉，而是有助于提升企业形象。                                                                                                                                                                                                                                                                                                                                 |
+| 采用ISO/IEC 5230 (OpenChain) 合规标准                                                                                        |     开源项目办公室（OSPO）可直接采用国际通用标准模板，无需从零开始自行构建。                                                                                                                                             | 开源项目办公室（OSPO）可直接采用国际通用标准模板，无需从零开始自行构建。                                                                                                                                                                                                                                                                                                                       |
+| 管理企业内部使用的开源软件清单（OSS）                                                                                     |        开源项目办公室（OSPO）全面掌握其监管范围内的开源软件使用情况。                                                                                                                                          | 企业建立全面风险管理的基础体系，可以有效应对与特定项目相关的各类问题（包括安全问题、许可证变更、生命周期问题等）。                                                                                                                                                                                                                            |
+| 开源意识教育                                                                                        |                 开展开源培训，能提升以下三方面的认知：开源技术的重要性、OSPO的存在价值，以及企业如何使用和参与开源生态。                                                                                                                                 | 通过开展开源价值、许可证规范及贡献机制等方面的教育培训，增强企业内部使用开源软件的能力。                                                                                                                                                                                                                                                                           |
+| 引入开源许可证合规工具                                                                                   |                           建立企业的许可证合规管理架构并可视化，有助于为管理决策提供依据。                                                                                                              | 自动化对于以合理投入应对风险，并量化合规工作成效至关重要。                                                                                                                                                                                                                                                                                 |
+| 制定开源软件（OSS）支持规范                                                                             |      充分理解并采纳该规范                                                                                                                                           | 在生产环境中使用开源软件（OSS）存在隐性成本。企业对开源组件的技术支持，可以直接从供应商或服务商采购，也可以选择基于开源社区的自主维护（需评估社区的实际支持能力），或者选择自己承担较低的风险。 |
 
-#### STAGE: Participant
+#### 阶段II：参与者角色
 
-| Activities                                     | Value for the OSPO | Value for the Organization                                                                                                     |
+| 活动                                     | 对OSPO的价值 | 对企业的价值                                                                                                    |
 | ---------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Financially supporting open source communities | Better relationships with communities, more influence.   | Better stability in the ecosystem and software supply chain that the organization relies on.                                                  |
-| Membership of open source organizations       | Membership benefits such as co-marketing, event discounts.  | Engagement with the communities the organization relies on. Potential influence and access to strategically useful information. Supporting the ecosystem.                                 |
-| Trying InnerSource                             | Staff in the organization will get hands-on experience with open source methodologies, which builds awareness, understanding, and advocacy.  | The organization will build skills in its workforce that will contribute to better use of, and engagement with, open source projects.  |
+| 资助开源社区 | 增进社区关系，提升行业影响力   | 提升企业所依赖的开源生态系统及软件供应链的稳定性。                          |
+| 加入开源组织       | 会员权益，如联合营销、折扣活动等。  | 与企业所依赖的开源社区进行互动，获得潜在影响力并获取战略信息，同时对生态系统发展提供支持。                                |
+| 尝试内部开源                           | 员工通过实践获得开源方法论，提升开源意识、强化开源认识，并传承下去。  | 业培养员工相关工作技能，有助于更好的使用并深度参与开源项目。  |
 
-#### STAGE: Contributor
+#### 阶段III：贡献者角色
 
-| Activities                             | Value for the OSPO | Value for the  Organization                                                                                                                                                      |
+| 活动                             | 对OSPO的价值 | 对企业的价值                                                                                                                                                     |
 | -------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Create contribution policy and process | Managing open source contributions becomes easier. | Having clear procedures means that the organization can offer open source contributions in a legally safe way, for open source projects, the organization, and its employees. |
-| Qualification of contributors          | Contributors require less oversight and make good ambassadors. | Skilled contributors make better contributions into publicly-visible projects. This means less risk to the organization.               |
+| 制定开源贡献政策与流程 | 管理开源贡献变得更加高效.| 建立规范的管理流程，确保企业以合法合规的方式保障开源项目、企业自身和员工参与开源贡献，|
+| 贡献者认证         | 贡献者不需要过高的管理成本，并有望成为优秀的开源大使。 | 有经验的贡献者能在开源项目中做出更优质的贡献，从而降低企业风险。             |
 
-#### STAGE: Leadership
+#### 阶段IV：领导者角色
 
-| Activities                                                                  | Value for the OSPO | Value for the Organization                                                                                                                                                               |
+| 活动                                                                  | 对OSPO的价值 | 对企业的价值                                                                                                                                                               |
 | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Open sourcing previously proprietary projects                               | The OSPO can reduce the burden on the Engineering (and other) departments. | New opportunities will open up to improve the codebase of a commoditized component through collaboration in public. More strategic involvement in open source. Access to new expertise.                                                                                                           |
-| Establish an “upstream first” policy                                        | Offering the organization a way to get more value for the same, or smaller, amount of effort. | The organization can support or even lead open source projects and make them part of the primary value creation of the organization without losing its competitive differences, and while benefiting from the contributions of a whole community.                                                                              |
-| Supporting autonomy of contributors and maintainers of open source projects | In-house experts in open source are valuable to the OSPO. | Employing people who are dedicated to only open source work means the organization can strategically strengthen important open source projects in the most organic and effective way. |
+| 将原专有项目开源                             | OSPO可以减轻工程部门及其他部门的工作负担。 | 通过公开协作改进商品化组件的代码库，可以为企业带来更具战略性的开源参与度，以及获取外部专家资源。                                                                                                          |
+| 建立“上游优先”制度                                      | 企业以同等或更少的投入获取更高价值的回报。 | 企业为开源项目提供支持甚至主导作用，将其纳入主要价值创造体系，保持差异化竞争，并从整个社区的贡献中受益。                                                                              |
+| 支持开源项目贡献者和维护者的自主性 | 开源领域的内部专家对OSPO具有重要价值. | 企业聘用专职开源人才，以最自然且高效的方式从战略高度强化关键开源项目。 |
 
-## Possible Problems and How to Overcome Them
+## 可能遇到的问题及解决方案
 
-### Problem
+### 问题
 
-The new OSPO is very slow to make recognizable progress, and doubts about the need for an OSPO creep in.
+新成立的开源项目办公室（OSPO）难以快速取得成效，其存在的必要性受到质疑。
 
-### Recommendation
+### 对策建议
 
-As with all new ventures, it's really important to create and maintain a focus on delivering meaningful impact in the short and long term. Short term impact reassures stakeholders that the OSPO is needed and competent, and gives OSPO staff confidence. Long term impact creates sustainable value for the organization and embeds the OSPO securely in the organization. Try to identify something important that can be delivered within the first 3-6 months, while also working on longer term projects that will deliver in 6-12 months, 12-24 months and 2-5 years. Keep the list of active projects short at first to ensure that they're delivered with quality and on time. As confidence in the OSPO grows, it puts you in a stronger position to ask for more resource if you have a strong track record of delivering value.
+正如其他初设机构一样，OSPO应同时聚焦短期与长期的实质性成效并维持其平衡发展。短期成效可以让利益相关方确信OSPO的必要性和专业能力，同时增强团队信心；长期成效则为企业输出可持续价值，确保OSPO在企业内的地位稳固。OSPO成立伊始，可以尝试先用3-6个月时间达到一个关键里程碑，并同步推进6-12个月，12-24个月以及2-5年内落地的中长期项目。初期应精简活跃项目数量，以确保按时高质量交付。随着OSPO的成果逐步积累，企业的信心也随之增强，进而可以争取更多的资源支持。
 
-## Resources and Footnotes
+## 参考资料与注释
 
-### Resources
+### 参考资料
 
-- A Guide to Enterprise Open Source: https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf
-- A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges: https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf
+- 企业开源指南: https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf
+- 深入探索开源项目办公室：架构、角色、职责与挑战: https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf
 - OpenSSF Scorecard: https://github.com/ossf/scorecard
-- Software Bill of Materials (SBOMs): https://www.ntia.gov/SBOM
-- Computer Emergency Response Team (CERT): https://www.cisa.gov/uscert/
+- 软件材料清单 (SBOMs): https://www.ntia.gov/SBOM
+- 计算机应急响应小组(CERT): https://www.cisa.gov/uscert/
 
-### Footnotes
+### 注释
 
-[^1]: Secure Supply Chain Consumption Framework (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
+[^1]: 安全供应链消费框架 (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
 
-[^2]: OSPO Mind Map https://todogroup.org/resources/mindmap/
+[^2]: OSPO思维导图 https://todogroup.org/resources/mindmap/
