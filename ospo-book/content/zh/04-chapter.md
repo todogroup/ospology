@@ -4,13 +4,13 @@ status: Completed
 weight: 60
 ---
 
-- [引言](#引言)
+- [概述](#概述)
 - [基础职能](#基础职能)
 - [企业级具体实践](#企业级具体实践)
 - [可能遇到的问题及解决方案](#可能遇到的问题及解决方案)
-- [参考资料与注释](#参考资料与注释)
+- [资源与脚注](#资源与脚注)
 
-## 引言
+## 概述
 
 与战略相匹配的，是一个具体的执行计划。该计划应包含一系列常规活动，通过这些活动的开展来落实战略目标。本章将帮助您了解开源项目办公室（OSPO）的活动范围，以及每项活动为企业带来的价值。
 
@@ -93,9 +93,9 @@ OSPO思维导图 [^2] 是一个非常实用的工具，可以用来全面了解�
 
 正如其他初设机构一样，OSPO应同时聚焦短期与长期的实质性成效并维持其平衡发展。短期成效可以让利益相关方确信OSPO的必要性和专业能力，同时增强团队信心；长期成效则为企业输出可持续价值，确保OSPO在企业内的地位稳固。OSPO成立伊始，可以尝试先用3-6个月时间达到一个关键里程碑，并同步推进6-12个月，12-24个月以及2-5年内落地的中长期项目。初期应精简活跃项目数量，以确保按时高质量交付。随着OSPO的成果逐步积累，企业的信心也随之增强，进而可以争取更多的资源支持。
 
-## 参考资料与注释
+## 资源与脚注
 
-### 参考资料
+### 资源
 
 - 企业开源指南: https://www.ibrahimatlinux.com/wp-content/uploads/2022/05/LFR_LFAID_Guide_to_Enterprise_Open_Source_052522.A4.pdf
 - 深入探索开源项目办公室：架构、角色、职责与挑战: https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_081922.pdf
@@ -103,7 +103,7 @@ OSPO思维导图 [^2] 是一个非常实用的工具，可以用来全面了解�
 - 软件材料清单 (SBOMs): https://www.ntia.gov/SBOM
 - 计算机应急响应小组(CERT): https://www.cisa.gov/uscert/
 
-### 注释
+### 脚注
 
 [^1]: 安全供应链消费框架 (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
 
