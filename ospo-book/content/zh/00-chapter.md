@@ -4,33 +4,34 @@ status: Completed
 weight: 20
 ---
 
-## What's This Book About?
+## 这本书是讲什么的？
 
-Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
 
-One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
+开源已成为所有软件相关组织的事实行动——当然远远不止软件公司。正因如此，积极管理开源对许多组织而言正变得日益重要。
 
-This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
+管理开源的一种方式是设立开源项目办公室（OSPO）。许多公司和组织已采纳了这一做法，如今在如何成功设立OSPO方面已积累了大量可共享的经验和知识。秉承开源精神，这些知识大多已公开共享。
 
-* Building an open source strategy.
-* Setting up an OSPO.
-* Managing day-to-day operations.
-* Collaborating effectively with external open source communities.
+本书为任何希望了解OSPO如何助力组织管理开源的人士提供了清晰的入门介绍。对于已在OSPO工作的人员而言，本书也是有益的资源，可帮助他们巩固自身在塑造和管理开源战略及运营方面的作用。本书就以下主题提供了颇为实用的建议：
 
-## What’s Not in This Book
+* 制定开源战略。
+* 建立开源项目办公室（OSPO）。
+* 管理日常运营。
+* 与外部开源世界有效协作。
 
-This book doesn't focus on how to develop open source software or explain technical details in depth.
+## 本书不讲什么？
 
-It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
+本书并非是如何开发开源软件或深度解析技术细节的。
 
-## Who Should Read This Book?
+同样也不是为特定的开源软件项目提供关于使用、部署或贡献的手把手的步骤的。
 
-This book is for anyone who wants to understand the role of OSPOs within an organization.
+## 谁应该阅读本书？
 
-More specifically, it will be useful for:
+任何想了解组织内 OSPO 角色的人都是本书的读者。
 
-* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+非得特别针对的话，本书对于下列职位特别有用：
 
-* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+* 负责设立、支持或资助开源项目办公室（OSPO）的**高管、政策制定者和决策者** 。
 
-* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
+* 协调开源活动并建立与开源社区关系的**开源项目经理和团队负责人** 。
+
+* 处理与开源相关的法律事务（如许可和知识产权）的**法律和合规专业人士** 。
