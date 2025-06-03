@@ -27,4 +27,4 @@ status: Completed
 
 [^1]: 本书贡献者: https://ospobook.todogroup.org/zh/07-chapter/
 
-[^2]: OSPO Book 仓库 https://github.com/todogroup/ospology/tree/main/ospo-book
+[^2]: OSPO 指南仓库: https://github.com/todogroup/ospology/tree/main/ospo-book

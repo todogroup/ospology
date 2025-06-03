@@ -107,4 +107,4 @@ OSPO思维导图 [^2] 是一个非常实用的工具，可以用来全面了解�
 
 [^1]: 安全供应链消费框架 (S2C2F): https://www.microsoft.com/en-us/securityengineering/opensource/osssscframeworkguide
 
-[^2]: OSPO思维导图 https://todogroup.org/resources/mindmap/
+[^2]: OSPO思维导图: https://ospomindmap.todogroup.org/cn/

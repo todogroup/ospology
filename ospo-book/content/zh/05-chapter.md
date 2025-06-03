@@ -111,7 +111,7 @@ weight: 60
 
 [^7]: https://baseline.openssf.org/
 
-[^8]: OpenSSF Best Practices badge https://www.bestpractices.dev/
+[^8]: OpenSSF Best Practices badge: https://www.bestpractices.dev/
 
 [^9]: OpenSSF Scorecard: https://github.com/ossf/scorecard
 

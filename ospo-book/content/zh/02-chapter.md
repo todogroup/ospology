@@ -1,5 +1,5 @@
 ---
-title: "第2章：开源办公室的价值"
+title: "第2章：开源项目办公室（OSPO）的价值"
 status: Completed
 weight: 40
 ---
