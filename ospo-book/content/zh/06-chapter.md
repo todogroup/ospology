@@ -168,9 +168,9 @@ CHAOSS社区的工具（如GrimoireLab和Augur）提供了一个良好的起点�
 
 ### 资源与脚注
 #### 资源
-- CHAOSS项目：https://chaoss.community/
-- OpenSSF 记分卡：https://github.com/ossf/scorecard
-- CHAOSS OSPO指标工作组：https://github.com/chaoss/wg-ospo
+- CHAOSS项目: https://chaoss.community/
+- OpenSSF 记分卡: https://github.com/ossf/scorecard
+- CHAOSS OSPO指标工作组: https://github.com/chaoss/wg-ospo
 
 #### 脚注
 - 1:  CHAOSS从业者指南: https://chaoss.community/about-chaoss-practitioner-guides ↩
