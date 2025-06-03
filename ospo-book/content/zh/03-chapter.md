@@ -131,7 +131,7 @@ weight: 50
 * **阶段 3（Stage 3）**：主导开源项目并培育壮大社区  
 * **阶段 4（Stage 4）**：成为战略决策合作伙伴
 
-![OSPO Maturity Model](/images/ospo-maturity-model.jpg)
+![OSPO Maturity Model](/images/ospo-maturity-model_zh.png)
 
 ## 在组织中的应用  
 
@@ -198,20 +198,20 @@ TODO OSPO 检查清单 [^8] 为初创期与成熟期的 OSPO 提供了一套简�
 
 ### 脚注
 
-[^1]: 战略 - FINOS 成熟度模型终局：https://osr.finos.org/docs/presentations/strategy  
+[^1]: 战略 - FINOS 成熟度模型终局: https://osr.finos.org/docs/presentations/strategy  
 
-[^2]: 开源战略文档制定指南：https://todogroup.org/resources/guides/setting-an-open-source-strategy/  
+[^2]: 开源战略文档制定指南: https://todogroup.org/resources/guides/setting-an-open-source-strategy/  
 
-[^3]: OSPO深度研究报告：https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices  
+[^3]: OSPO深度研究报告: https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices  
 
-[^4]: OSPO 思维导图：https://todogroup.org/resources/mindmap/  
+[^4]: OSPO 思维导图: https://todogroup.org/resources/mindmap/  
 
-[^5]: Dr. Ibrahim H，《企业开源指南》：https://www.linuxfoundation.org/research/guide-to-enterprise-open-source  
+[^5]: Dr. Ibrahim H，《企业开源指南》: https://www.linuxfoundation.org/research/guide-to-enterprise-open-source  
 
-[^6]: Carl-Eric：https://web.archive.org/web/20240419100823/https  ://debricked.com/blog/what-is-open-source-maturity-model/  
+[^6]: Carl-Eric: https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/  
 
-[^7]: TODO Group 成熟度模型：https://github.com/todogroup/ospology/blob/main/ospo-model/en/five-stage-OSPO-maturity-model.md  
+[^7]: TODO Group 成熟度模型: https://github.com/todogroup/ospology/blob/main/ospo-model/en/five-stage-OSPO-maturity-model.md  
 
-[^8]: TODO Group OSPO 检查清单：https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md  
+[^8]: TODO Group OSPO 检查清单: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md  
 
-[^9]: OSPO Japan Local Meetup Working Group 工作成果双语摘要（Qiita文章）：https://qiita.com/owada-k/items/017d1b98d0e437766bd0  
+[^9]: OSPO Japan Local Meetup Working Group 工作成果双语摘要（Qiita文章）: https://qiita.com/owada-k/items/017d1b98d0e437766bd0  
