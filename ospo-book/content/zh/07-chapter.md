@@ -41,6 +41,17 @@ weight: 90
 * Ulises Gascon
 * Victor Lu
 
+中文翻译贡献者
+
+* 杨振涛
+* 周黎
+* 陈泳
+* 駦召智
+* 朱万意
+* 曾朝俊
+* 李明康（小明）
+* 李建盛
+* 张立秋
 
 如果您计划首次参与贡献，我们建议您 [订阅邮件列表](https://lists.todogroup.org/g/WG-ospo-book-project)，查阅往期会议纪要，并向团队进行自我介绍。
 

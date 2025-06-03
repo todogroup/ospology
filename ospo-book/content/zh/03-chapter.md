@@ -4,13 +4,13 @@ status: Completed
 weight: 50
 ---
 
-- [概述](#introduction)
-- [从战略出发](#starting-with-strategy)
-- [设计您的开源项目办公室（OSPO）](#designing-your-ospo)
-- [使用成熟度模型评估开源项目办公室（OSPO）](#using-maturity-models-for-ospos)
-- [在组织的应用](#applying-this-to-your-organization)
-- [潜在问题及解决方案](#possible-problems-and-how-to-overcome-them)
-- [参考资料和脚注](#resources-and-footnotes)
+- [概述](#概述)
+- [从战略出发](#从战略出发)
+- [设计开源项目办公室（OSPO）](#设计开源项目办公室（OSPO）)
+- [使用成熟度模型评估开源项目办公室（OSPO）](#使用成熟度模型评估开源项目办公室（OSPO)
+- [在组织中的应用](#在组织中的应用)
+- [可能遇到的问题及应对方法](#可能遇到的问题及应对方法)
+- [资源与脚注](#资源与脚注)
 
 ## 概述
 
@@ -41,13 +41,13 @@ weight: 50
 3. **考虑背景：** 在制定OSPO的战略和设计时，在考虑人员、技术和预算之前，您有几种不同的方式来决定其结构和在组织架构图中的位置。TODO小组制作了一份优秀的指南，名为《深入探讨OSPO》[^3]，其中解释了有关OSPO结构和运营的所有必要信息。
 4. **审查示例OSPO的结构：** 要概览OSPO的潜在活动，您可以查看OSPO思维导图[^4]。这概述了OSPO生态系统中的主要职责、角色、行为和团队规模。
 
-## 设计您的开源项目办公室（OSPO）
+## 设计开源项目办公室（OSPO）
 
-### 确定您的OSPO应管理的内容
+### 确定OSPO应管理的内容
 
 要做得好，OSPO需要了解组织是如何运作的。了解公司的目标有助于OSPO在使用开源时做出明智的选择。例如，在商业环境中，OSPO可能会查看以下领域，以确定开源如何融入其中：
 
-![组织架构](/images/organization-architecture.png)
+![组织架构](/images/organization-architecture_zh.png)
 
 由于每个组织在其价值观、业务驱动因素和文化方面都是独特的，因此提供具体的内容具有挑战性。然而，回答以下问题可以帮助有效地构建文档：
 
@@ -61,13 +61,13 @@ weight: 50
 
 花时间了解OSPO可以在哪些方面增加价值，将有助于您识别出利益相关者是谁。
 
-### 确定您的OSPO的利益相关者
+### 确定OSPO的利益相关者
 
 在企业的某些常见部分，OSPO可能会找到其利益相关者。利益相关者是指所有会受到您工作影响的人。OSPO 花瓣图（OSPO Flower Diagram）有助于可视化不同的利益相关者群体。每个花瓣代表一个特定的利益相关者群体，并与该群体相关的具体活动相联系。OSPO花图还可以帮助您映射与每个利益相关者群体使用的具体沟通渠道、文档和其他材料。
 
 根据您组织的复杂性和OSPO可用的资源，这些花瓣可以变得更加细化，并包括具有不同名称的额外花瓣。
 
-![ospoflower](/images/ospo-flower.png)
+![ospoflower](/images/ospo-flower_zh.png)
 [ospoflower.pdf](/pdfs/ospoflower-seconddraft-1.pdf)
 
 - **个人贡献者**： 这一分区代表OSPO将在组织内部合作的人员，重点是从个人角度出发，关注开源贡献的内在和外在动机。这可能涉及文化或观点的改变以及具体行动，如建立导师计划等活动。
@@ -111,7 +111,7 @@ weight: 50
 * **贡献阶段（Contribution）**：对开源项目进行务实性贡献  
 * **领导阶段（Leadership）**：通过战略性参与开源以驱动业务价值  
 
-![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
+![opensourceinvolvementmodel](/images/opensourceinvolvementmodel_zh.png)
 
 #### 成熟度模型 2 - Carl-Eric 提出的企业开源采纳五阶段模型 [^6]：  
 
@@ -121,7 +121,7 @@ weight: 50
 * **协作阶段（Collaborate）**：通过开源协作创造业务价值  
 * **引领阶段（Prevail）**：使用开源来影响业务和技术的战略领域
 
-![osmm-carl](/images/osmm-carl.png)
+![osmm-carl](/images/osmm-carl_zh.png)
 
 #### 成熟度模型 3 - TODO Group 提出的 OSPO 成熟度模型 [^7]：  
 
@@ -149,8 +149,8 @@ TODO OSPO 检查清单 [^8] 为初创期与成熟期的 OSPO 提供了一套简�
 
 以下是一些来自他们工作的亮点，以激发您的灵感：
 
-![ospo-role](/images/ospo-role.png)
-![benefits-of-oss](/images/benefits-of-oss.png)
+![ospo-role](/images/ospo-role_zh.png)
+![benefits-of-oss](/images/benefits-of-oss_zh.png)
 
 
 
@@ -173,7 +173,7 @@ TODO OSPO 检查清单 [^8] 为初创期与成熟期的 OSPO 提供了一套简�
 
 举个例子：
 
-<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization.png">
+<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization_zh.png">
 
 ## 可能遇到的问题及应对方法  
 

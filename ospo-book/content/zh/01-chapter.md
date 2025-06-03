@@ -3,14 +3,14 @@ title: "第1章：开源项目办公室 OSPO 简介"
 status: Completed
 weight: 30
 ---
-- [导言](#导言)
+- [概述](#概述)
 - [关于 OSPO](#关于-ospo)
 - [如何应用于组织](#如何应用于组织)
 - [小结](#小结)
 - [可能遇到的问题及应对方法](#可能遇到的问题及应对方法)
 - [资源与脚注](#资源与脚注)
 
-## 导言
+## 概述
 
 在当今的数字生态系统中，开源资源已从小众的技术手段转变为现代组织技术基础设施的核心要素。各行各业的企业越来越依赖开源组件、框架和工具来推动创新、降低开发成本，并加快产品和服务的上市速度。然而，这种日益增长的依赖也带来了安全、合规、许可和战略对齐等复杂挑战，这些挑战需要有意识的管理，而不是临时应对。
 
@@ -47,7 +47,7 @@ OSPO 从四个不同的视角考虑跨职能协作：
 
 例如，下图展示了以业务为导向的 OSPO 中的各类参与者及其跨职能协作方式。
 
-<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
+<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO_zh.png">
 
 ### 开源项目办公室（OSPO）简史
 
