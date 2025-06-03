@@ -189,12 +189,12 @@ TODO OSPO 检查清单 [^8] 为初创期与成熟期的 OSPO 提供了一套简�
 
 ### 资源  
 
-- TODO Group《对外开源软件指南》：https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/  
-- TODO Group《参与开源社区指南》：https://todogroup.org/resources/guides/participating-in-open-source-communities/  
-- DevOps 使用能力模型而非成熟度模型：https://octopus.com/blog/devops-uses-capability-not-maturity  
-- 保时捷开源网站：https://opensource.porsche.com/  
-- 开源项目办公室（OSPO）的演进历程：https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/  
-- OSPO 101 培训模块 - OSPO 与您的组织：https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3  
+- TODO Group《对外开源软件指南》: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/  
+- TODO Group《参与开源社区指南》: https://todogroup.org/resources/guides/participating-in-open-source-communities/  
+- DevOps 使用能力模型而非成熟度模型: https://octopus.com/blog/devops-uses-capability-not-maturity  
+- 保时捷开源网站: https://opensource.porsche.com/  
+- 开源项目办公室（OSPO）的演进历程: https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/  
+- OSPO 101 培训模块 - OSPO 与您的组织: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3  
 
 ### 脚注
 
