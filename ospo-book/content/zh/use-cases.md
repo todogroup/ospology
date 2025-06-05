@@ -8,6 +8,6 @@ weight: 95
 
 随着更多组织为扩充此列表做出贡献，将增加更多用例。
 
-* [保时捷的最终用户 OSPO 之旅]((https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) ) `🎙 应用案例`
+* [保时捷的最终用户 OSPO 之旅](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 应用案例`
 * [索尼的最终用户 OSPO 之旅](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 应用案例`
 
