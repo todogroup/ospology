@@ -14,7 +14,7 @@ Your chapter should follow this structure:
 > ### Applying This to Your Organization
 > Show how to use the ideas and techniques you presented in this chapter.
 > 
-> ### Possible Problems and how to Overcome Them
+> ### Possible Problems and How to Overcome Them
 > Use the "Problem" and "Recommendation" format to share possible challenges and practical ways to address them. 
 > 
 > ### Resources and Footnotes
