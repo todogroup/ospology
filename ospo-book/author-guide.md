@@ -34,5 +34,6 @@ Markdown helps you to write content in a formatted way while making it easier to
 * Build the site locally to check if it looks right. 
 * Run `Vale` checks locally using the `pre-commit` tool.
 
-## Ask for help!
+## Ask for Help!
+
 We are here to help, you can reach out to any of the book editors https://github.com/todogroup/ospology/blob/main/README.md
