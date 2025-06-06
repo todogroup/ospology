@@ -8,7 +8,7 @@ Your chapter should follow this structure:
 > ### Introduction
 > Explain the goals of the chapter - what will the reader be learning about?
 >
-> ### *Your Chapter headings*
+> ### *Your Chapter Headings*
 > Include as many content-driven headings as you need. Take a look at other chapters for examples.
 > 
 > ### Applying This to Your Organization
