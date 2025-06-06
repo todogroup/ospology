@@ -20,7 +20,7 @@ Your chapter should follow this structure:
 > ### Resources and Footnotes
 > Hyperlinks are not permitted in the book because it is also used in a print format. All links should be provided as full URLs by using footnotes.
 
-## Use the writing style guide
+## Use the Writing Style Guide
 For specific guidance on writing style, you must read https://github.com/todogroup/ospology/blob/main/.vale/TODO/README.md 
 
 ## Use markdown
