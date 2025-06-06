@@ -23,7 +23,7 @@ Your chapter should follow this structure:
 ## Use the Writing Style Guide
 For specific guidance on writing style, you must read https://github.com/todogroup/ospology/blob/main/.vale/TODO/README.md 
 
-## Use markdown
+## Use Markdown
 
 Markdown helps you to write content in a formatted way while making it easier to create lists, headings, etc, without learning complex syntax.  Book content must be in Markdown format at the point you add it to the `todogroup/ospology` repository on GitHub. For more information about Markdown, see:
 * [A beginner's guide for using basic markdown](https://daringfireball.net/projects/markdown/basics).
