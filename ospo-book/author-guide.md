@@ -2,7 +2,7 @@
 
 Guidance on how to write content for the OSPO Book and prepare it for submission.
 
-## Follow the chapter structure
+## Follow the Chapter Structure
 Your chapter should follow this structure:
 
 > ### Introduction
