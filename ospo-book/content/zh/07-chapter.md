@@ -4,7 +4,7 @@ status: Completed
 weight: 90
 ---
 
-Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
+正是每一位贡献者的独特视角，让《OSPO 指南》顺利成书。以下贡献者名单会随着每次新版本的发布而动态更新，且不包含组织从属关系。如果参与者对项目作出实质性贡献，也可随时提交PR，申请将姓名添加至名单，维护者将会进行审核。
 
 * Alin Jerpelea
 * Ana Jiménez Santamaría
@@ -41,7 +41,19 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Ulises Gascon
 * Victor Lu
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
+中文翻译贡献者
 
-> Contributor list will evolve as new contributions arise. If you would like to be added to the list or be removed from the list, please open a new issue.
+* 杨振涛
+* 周黎
+* 陈泳
+* 滕召智
+* 朱万意
+* 曾朝俊
+* 李明康（小明）
+* 李建盛
+* 张立秋
+
+如果您计划首次参与贡献，我们建议您 [订阅邮件列表](https://lists.todogroup.org/g/WG-ospo-book-project)，查阅往期会议纪要，并向团队进行自我介绍。
+
+> 贡献者名单将随着新增贡献更动态待更新。如果您希望加入或移出名单，请提交新的issue申请。
 

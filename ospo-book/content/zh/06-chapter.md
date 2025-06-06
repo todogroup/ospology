@@ -5,13 +5,14 @@ weight: 70
 ---
 
 
-- [简介](#introduction)
-- [使用指标来传达OSPO的影响](#using-metrics-to-communicate-the-impact-of-your-ospo)
-- [如果你管理开源项目](#if-you-manage-open-source-projects)
-- [如果你使用开源项目](#if-you-use-open-source-projects)
-- [资源与脚注](#resources-and-footnotes)
+- [概述](#概述)
+- [使用指标传达OSPO的影响](#使用指标传达ospo的影响)
+- [管理开源项目](#管理开源项目)
+- [使用开源项目](#使用开源项目)
+- [资源与脚注](#资源与脚注)
 
-### 简介
+### 概述
+
 > **注**：本章由CHAOSS开源项目及CHAOSS OSPO指标工作组的参与者共同撰写，并得到TODO Group的支持。  
 
 指标是现代组织管理的重要组成部分。有效使用指标，不仅能跟踪团队及其项目的影响，对于开源项目办公室（OSPO）而言，指标还能深入洞察组织所依赖的开源项目的状况。过去，对关键开源项目了解甚少或许可以接受，但随着开源相关的监管和安全环境不断变化，这种方式已无法持续。随着我们对重要开源项目的理解加深，社区指标成为了必不可少的工具。在本章中，我们将探讨如何将这些指标置于具体情境中，以及如何通过它们共同提供更深入的见解，为组织的战略决策提供指导。
@@ -47,7 +48,8 @@ weight: 70
 ### 使用指标传达OSPO的影响
 指标在传达影响方面发挥着重要作用。遵循“目标-问题-指标”方法，OSPO可以考虑以下四个目标及相关问题。
 
-<img width="750" alt="CHAOSS Health Impacts" src="ospo-book/static/images/CHAOSS.Health.Impacts.png" />
+
+<img width="750" alt="CHAOSS Health Impacts" src="ospo-book/static/images/CHAOSS.Health.Impacts_zh.png" />
 
 #### 1. 合作伙伴影响
 **目标**：了解开源协作如何促进战略合作伙伴关系，从而增强市场洞察力、加强供应商关系并创造超越单个技术的共享价值。  
@@ -98,10 +100,11 @@ weight: 70
   
 **指标**：考虑可用于回答这些问题的数据，以及如果数值上升或下降，需要哪些其他信息来确信其对目标的意义。
 
-### 如果你管理开源项目
+
+### 管理开源项目
 对于创建和管理自己的开源项目或密切参与管理的组织，有一系列与指标相关的CHAOSS从业者指南，可指导你为一系列用例确定合适的指标。
 
-### 如果你使用开源项目
+### 使用开源项目
 对于使用开源项目并希望了解这些项目健康状况的组织，以下信息可以帮助它们考虑适合自己的内容。
 
 ### OSPO如何应对开源项目健康的复杂性
@@ -166,14 +169,14 @@ CHAOSS社区的工具（如GrimoireLab和Augur）提供了一个良好的起点�
 
 通过及早发现问题并快速响应，组织可以降低风险，并确保其开源软件保持安全、稳定和可持续。CHAOSS项目和OpenSSF Scorecard等资源可以帮助OSPO开始或加强其方法。
 
-### 资源和脚注
+### 资源与脚注
 #### 资源
-- CHAOSS项目：https://chaoss.community/
-- OpenSSF 记分卡：https://github.com/ossf/scorecard
-- CHAOSS OSPO指标工作组：https://github.com/chaoss/wg-ospo
+- CHAOSS项目: https://chaoss.community/
+- OpenSSF 记分卡: https://github.com/ossf/scorecard
+- CHAOSS OSPO指标工作组: https://github.com/chaoss/wg-ospo
 
 #### 脚注
-- 1:  CHAOSS从业者指南：https://chaoss.community/about-chaoss-practitioner-guides ↩
+- 1:  CHAOSS从业者指南: https://chaoss.community/about-chaoss-practitioner-guides ↩
 - 2:  Linåker, J., Papatheocharous, E., & Olsson, T. (2022). 如何描述开源软件项目的健康状况？一项新兴实践的滚雪球文献综述. 第18届国际开放协作研讨会. DOI: https://doi.org/10.1145/3555051.3555067 ↩
-- 3:  Lumbard, K., Germonprez, M., & Goggins, S. (2023). 社会比较与开源社区健康的实证研究. 《信息系统杂志》, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 ↩
-- 4: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). 如何在组织的引入流程中评估开源软件依赖项的健康状况：来自访谈调查和案例研究的见解. https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf ↩
+- 3:  Lumbard, K., Germonprez, M., & Goggins, S. (2023). 社会比较与开源社区健康的实证研究. 《信息系统杂志》, 34(2), 499-532: https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485 ↩
+- 4: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). 如何在组织的引入流程中评估开源软件依赖项的健康状况：来自访谈调查和案例研究的见解: https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf ↩
