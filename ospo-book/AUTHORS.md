@@ -41,6 +41,18 @@ This list is updated every time a new release is published, but you can open a P
 - Ulises Gascón
 - Victor Lu
 
+## Translators
+### Chinese
+
+### Portuguese (Brazilian)
+
+### Spanish
+
+
+
+
+
+
 
 > Co-author list will evolve as new contributions from more open source experts arise
 > If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
