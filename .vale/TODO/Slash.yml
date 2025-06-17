@@ -1,0 +1,11 @@
+extends: existence
+message: "'%s' should be '%s'."
+level: error
+action:
+  name: edit
+  params:
+    - regex
+    - '(\w+)/(\w+)'
+    - '$1 and $2'
+tokens:
+  - '\w+/\w+'

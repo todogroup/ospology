@@ -1,0 +1,10 @@
+extends: substitution
+message: "Use '%s' instead of '%s'."
+link: "https://style-guide.ah.technology/#spatial-references"
+level: suggestion
+ignorecase: true
+swap:
+  "(?:see|the) above": preceding
+  "(?:see|the) below": following
+  "(?:see|the) left": preceding
+  "(?:see|the) right": following
