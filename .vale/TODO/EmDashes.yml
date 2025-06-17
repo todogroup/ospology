@@ -1,0 +1,13 @@
+extends: existence
+ignorecase: true
+level: error
+scope: raw
+nonword: true
+message: "Don't put a space before and after a dash."
+tokens:
+  - ' --'
+  - '-- '
+  - ' —'
+  - '— '
+  - ' &mdash;'
+  - '&mdash; '
