@@ -42,17 +42,22 @@ This list is updated every time a new release is published, but you can open a P
 - Victor Lu
 
 ## Translators
+
 ### Chinese
 
 ### Portuguese (Brazilian)
 
+- Fernando Eugenio Correa
+- João Fernandes
+- Juliana Conde
+- Marco Carvalho
+- Rafael Paiva
+
 ### Spanish
 
-
-
-
-
-
+- Bruno Ingani
+- Esteban Miguel De Bonis Viar
+- Fernando Eugenio Correa
 
 > Co-author list will evolve as new contributions from more open source experts arise
 > If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
