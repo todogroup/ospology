@@ -47,7 +47,7 @@ weight: 70
 ### 使用指标传达OSPO的影响
 指标在传达影响方面发挥着重要作用。遵循“目标-问题-指标”方法，OSPO可以考虑以下四个目标及相关问题。
 
-<img width="750" alt="CHAOSS Health Impacts" src="ospo-book/static/images/CHAOSS.Health.Impacts_zh.png" />
+<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts_zh.png" />
 
 #### 1. 合作伙伴影响
 **目标**：了解开源协作如何促进战略合作伙伴关系，从而增强市场洞察力、加强供应商关系并创造超越单个技术的共享价值。  
