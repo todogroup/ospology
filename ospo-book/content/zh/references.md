@@ -17,7 +17,7 @@ This section will provide organizations with a comprehensive list of the existin
 
 ## Adding resources: Required format
 
-* Changes to this file is done via PR (read the CONTIRBUTING.md from this project to learn more)
+* Changes to this file is done via PR (read the [CONTIRBUTING.md](https://github.com/todogroup/ospology/blob/main/ospo-book/CONTRIBUTING.md) from this project to learn more)
 * Add your link in the following section `resources list` with a title and exact chapter (if any) where this resource is referenced. (check content/ folder to learn more)
 
 ## Resources list (WIP)
@@ -69,15 +69,14 @@ This section will provide organizations with a comprehensive list of the existin
 | Study | [A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 | Study | [The Evolution of the Open Source Program Office (OSPO)](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo)
 | Case Study | [Autodesk OSPO](https://todogroup.org/resources/case-studies/autodesk/)
-| Case Study | [Capital One - OSPO in regulated environments](https://todogroup.org/resources/case-studies/capitalone/)
+| Case Study | [Capital One - OSPO in regulated environments](https://todogroup.org/resources/case-studies/capital-one/)
 | Case Study | [Porsche - OSPOs in Automotiv](https://todogroup.org/resources/case-studies/porsche/)
 | Case Study | [Comcast](https://todogroup.org/resources/case-studies/comcast/)
 | Case Study | [Dropbox](https://todogroup.org/resources/case-studies/dropbox/)
-| Case Study | [Meta](https://todogroup.org/resources/case-studies/facebook/)
+| Case Study | [Meta](https://todogroup.org/resources/case-studies/meta/)
 | Case Study | [Microsof](https://todogroup.org/resources/case-studies/microsoft/)
-| Case Study | [National Instruments](https://todogroup.org/resources/case-studies/ni/)
-| Case Study | [Porsche](https://todogroup.org/resources/case-studies/porsche/)
-| Case Study | [Red Hat](https://todogroup.org/resources/case-studies/redhat/)
+| Case Study | [National Instruments](https://todogroup.org/resources/case-studies/national-instruments/)
+| Case Study | [Red Hat](https://todogroup.org/resources/case-studies/red-hat/)
 | Case Study | [Salesforce](https://todogroup.org/resources/case-studies/salesforce/)
 | Case Study | [SAP](https://todogroup.org/resources/case-studies/sap/)
 | Case Study | [Uber](https://todogroup.org/resources/case-studies/uber/)

@@ -17,7 +17,7 @@ Esta seção fornecerá às organizações uma lista abrangente da literatura e 
 
 ## Adicionando Recursos: Formato Obrigatório
 
-* Mudanças neste arquivo são feitas via PR (leia o arquivo [CONTRIBUTING.md](../../CONTRIBUTING.md) deste projeto para saber mais)
+* Mudanças neste arquivo são feitas via PR (leia o arquivo [CONTRIBUTING.md](https://github.com/todogroup/ospology/blob/main/ospo-book/CONTRIBUTING.md) deste projeto para saber mais)
 * Adicione seu link na seção `lista de recursos` a seguir com um título e capítulo exato (se houver) onde este recurso é referenciado. (verifique a pasta content/ para saber mais)
 
 ## Lista de Recursos (WIP)
@@ -73,15 +73,14 @@ Esta seção fornecerá às organizações uma lista abrangente da literatura e 
 | Estudo | [A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
 | Estudo | [The Evolution of the Open Source Program Office (OSPO)](https://www.linuxfoundation.org/research/the-evolution-of-the-open-source-program-office-ospo)
 | Estudo de Caso | [Autodesk OSPO](https://todogroup.org/resources/case-studies/autodesk/)
-| Estudo de Caso | [Capital One - OSPO in regulated environments](https://todogroup.org/resources/case-studies/capitalone/)
+| Estudo de Caso | [Capital One - OSPO in regulated environments](https://todogroup.org/resources/case-studies/capital-one/)
 | Estudo de Caso | [Porsche - OSPOs in Automotive](https://todogroup.org/resources/case-studies/porsche/)
 | Estudo de Caso | [Comcast](https://todogroup.org/resources/case-studies/comcast/)
 | Estudo de Caso | [Dropbox](https://todogroup.org/resources/case-studies/dropbox/)
-| Estudo de Caso | [Meta](https://todogroup.org/resources/case-studies/facebook/)
+| Estudo de Caso | [Meta](https://todogroup.org/resources/case-studies/meta/)
 | Estudo de Caso | [Microsoft](https://todogroup.org/resources/case-studies/microsoft/)
-| Estudo de Caso | [National Instruments](https://todogroup.org/resources/case-studies/ni/)
-| Estudo de Caso | [Porsche](https://todogroup.org/resources/case-studies/porsche/)
-| Estudo de Caso | [Red Hat](https://todogroup.org/resources/case-studies/redhat/)
+| Estudo de Caso | [National Instruments](https://todogroup.org/resources/case-studies/national-instruments/)
+| Estudo de Caso | [Red Hat](https://todogroup.org/resources/case-studies/red-hat/)
 | Estudo de Caso | [Salesforce](https://todogroup.org/resources/case-studies/salesforce/)
 | Estudo de Caso | [SAP](https://todogroup.org/resources/case-studies/sap/)
 | Estudo de Caso | [Uber](https://todogroup.org/resources/case-studies/uber/)
