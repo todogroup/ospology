@@ -24,6 +24,6 @@ status: Completed
 
 ## 脚注
 
-[^1]: ブック コントリビューター: https://ospobook.todogroup.org/07-chapter/
+[^1]: ブック コントリビューター: https://ospobook.todogroup.org/ja/07-chapter/
 
 [^2]: OSPO ブック リポジトリ: https://github.com/todogroup/ospology/tree/main/ospo-book
