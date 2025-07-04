@@ -77,6 +77,12 @@ languageName ="Português (Brasil)"
 contentDir = "content/pt-br"
 weight = 4
 
+[languages.ja]
+title = "OSPO ブック"
+languageName ="日本語"
+contentDir = "content/ja"
+weight = 5
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
