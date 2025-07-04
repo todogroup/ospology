@@ -1,0 +1,90 @@
+# Site mainpage.
+
+[site_mainpage_glossary]
+other = "ブック"
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "前へ"
+
+[ui_pager_next]
+other = "次へ"
+
+[ui_read_more]
+other = "もっと読む"
+
+[ui_search]
+other = "このサイトを検索…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "in"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "すべてのタグを見る"
+[ui_tag]
+other = "タグ"
+[ui_tags]
+other = "タグ"
+[ui_search_by_tags]
+other = "タグで閲覧"
+[ui_tags_intro]
+other = "用語集の用語は分類されています。フィルターを使ってタグ別に用語を閲覧できます。"
+[ui_or_search_by_tags]
+other = "...またはタグで閲覧"
+[ui_select_all]
+other = "全選択"
+[ui_deselect_all]
+other = "全選択解除"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "All Rights Reserved"
+
+[footer_privacy_policy]
+other = "プライバシーポリシー"
+
+[footer_hub_button_text]
+other = "すべての CNCF サイト"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "著者"
+[post_created]
+other = "作成日"
+[post_last_mod]
+other = "更新日"
+[post_edit_this]
+other = "このページを編集"
+[post_create_child_page]
+other = "子ページを作成"
+[post_create_issue]
+other = "問題を報告"
+[post_create_project_issue]
+other = "プロジェクトのイシューを作成"
+[post_posts_in]
+other = "投稿"
+[post_reading_time]
+other = "分で読めます"
+
+# Print support
+[print_printable_section]
+other = "これはこのセクションの複数ページの印刷可能なビューです。"
+[print_click_to_print]
+other = "印刷するにはここをクリック"
+[print_show_regular]
+other = "Rこのページの通常の表示に戻る"
+[print_entire_section]
+other = "セクション全体を印刷"
+
+# Feedback section
+[feedback_title]
+other = "フィードバック"
+[feedback_question]
+other = "このページは役に立ちましたか？"
+[feedback_answer_yes]
+other = "はい"
+[feedback_answer_no]
+other = "いいえ"
