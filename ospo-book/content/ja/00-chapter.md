@@ -1,36 +1,36 @@
 ---
-title: "What's this book about?"
+title: "本書の内容"
 status: Completed
 weight: 20
 ---
 
-## What's This Book About?
+## 本書の内容
 
-Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
+オープンソースは、ソフトウェア企業だけでなく、ソフトウェアを扱うすべての組織にとって現実のものです。そのため、オープンソースを積極的に管理することは、多くの組織にとってますます重要になっています。
 
-One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
+オープンソースを管理する方法の 1 つは、オープンソース プログラム オフィス（OSPO）を設立することです。多くの企業や組織がこのアプローチを採用しており、現在では、それを成功させる方法に関する多くの経験と知識が共有されています。オープンソースの精神にのっとり、この知識の多くはコミュニティで公開されています。
 
-This book provides a clear introduction for anyone who wants to understand how OSPOs help organizations manage open source. It's also a helpful resource for people already working in OSPOs who want to strengthen their role in shaping and managing open source strategy and operations. The book offers practical advice on topics such as:
+本書は、OSPO が組織のオープンソース管理にどのように役立つかを理解したい人にとって、明確な入門書となります。また、オープンソース戦略と運用の形成・管理における自らの役割を強化したいと考える、すでに OSPO で働いている人々にとっても役立つリソースです。本書では、次のようなトピックについて実践的なアドバイスを提供しています。
 
-* Building an open source strategy.
-* Setting up an OSPO.
-* Managing day-to-day operations.
-* Collaborating effectively with external open source communities.
+* オープンソース戦略の構築
+* OSPO の設立
+* 日々の運用の管理
+* 外部のオープンソースコミュニティとの効果的な協力
 
-## What’s Not in This Book
+## 本書に含まれていないこと
 
-This book doesn't focus on how to develop open source software or explain technical details in depth.
+本書は、オープンソースソフトウェアの開発方法や技術的な詳細を深く説明することに焦点を当てていません。
 
-It also doesn't provide step-by-step instructions for using, deploying, or contributing to specific open source software projects.
+また、特定のオープンソースソフトウェアプロジェクトの使用、展開、または貢献に関する段階的な手順も提供していません。
 
-## Who Should Read This Book?
+## 本書を読むべき人
 
-This book is for anyone who wants to understand the role of OSPOs within an organization.
+本書は、組織内における OSPO の役割を理解したいすべての人を対象としています。
 
-More specifically, it will be useful for:
+より具体的には次の人に役立ちます。
 
-* **Executives, policymakers, and decision-makers** who are responsible for setting up, supporting, or funding an OSPO.
+* **経営層、政策立案者、意思決定者**: OSPO の設立、支援、または資金提供に責任を持つ人
 
-* **Open Source Program Managers and team leads** who coordinate open source activities and build relationships with open source communities.
+* **オープンソースプログラムマネージャーおよびチームリーダー**: オープンソース活動を調整し、オープンソースコミュニティとの関係を構築する人
 
-* **Legal and compliance professionals** who handle legal matters related to open source, such as licensing and intellectual property.
+* **法務およびコンプライアンスの専門家**: ライセンスや知的財産など、オープンソースに関連する法務問題を扱う人
