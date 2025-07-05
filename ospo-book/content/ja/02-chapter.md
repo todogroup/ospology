@@ -1,232 +1,233 @@
 ---
-title: "Chapter 2: The Value of Open Source Program Offices"
+title: "チャプター 2: オープンソース プログラム オフィス（OSPO）の価値"
 status: Completed
 weight: 40
 ---
+- [序文](#序文)
+- [OSPO はどのように価値をもたらすか？](#ospo-はどのように価値をもたらすか)
+- [組織への適用](#組織への適用)
+- [起こりうる問題とその克服方法](#起こりうる問題とその克服方法)
+- [リソースと脚注](#リソースと脚注)
 
-- [Introduction](#introduction)
-- [How Could Your OSPO Add Value?](#how-could-your-ospo-add-value)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Examples of the OSPO's value](#examples-of-the-ospos-value)
-- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Resources and Footnotes](#resources-and-footnotes)
 
-## Introduction
+## 序文
 
-Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source components.
+あなたの組織は、その自覚がなかったとしても、おそらくすでにオープンソースと関わっています。今日開発されるソフトウェアのほとんどには、オープンソースのコンポーネントを含まれているか、オープンソースのツールを使って開発またはホストされています。ソフトウェアを*開発*しない組織でも、たいていはオープンソースのコンポーネントを含むソフトウェアを*利用*しています。
 
-For many organizations, it's worth considering how actively managing their relationship with open source can bring benefits and reduce risks. As mentioned in the previous chapter, this involves understanding the current use of open source and then assessing how this could be managed better to support organizational goals.
+多くの組織にとって、オープンソースとの関係を積極的に管理することで、どれほどのメリットが得られ、リスクを軽減できるかを検討する価値があります。前章で述べたように、これには現在のオープンソースの利用状況を理解し、その後、組織の目標達成を支援するためにオープンソースをより効果的に管理する方法を評価することが含まれます。
 
-This chapter will help you to understand the possible areas where managing open source through an OSPO can bring value to your organization. This will be different for every organization, so knowing your organization's strategy and goals is important.
+本章は、OSPO を通じてオープンソースを管理することで、組織にどのような価値をもたらす可能性があるかを理解する上で役に立ちます。これは組織ごとに異なるため、あなたの組織の戦略と目標を把握することが重要です。
 
-The work of an OSPO is to understand where open source can bring value to its organization, and to actively manage or oversee all related activities.
+OSPO の仕事は、オープンソースが組織に価値をもたらすことができる領域を理解し、関連するすべての活動を積極的に管理または監督することです。
 
-Every organization will have its own reasons for wanting to start an OSPO, some common reasons given in the *business value of the OSPO report* [^1] are as follows:
+どの組織にも OSPO を設立する独自の理由があります。OSPO の*Business value of the OSPO report*[^1]で挙げられている一般的な理由は次の通りです。
 
-- Building standardized processes around open source
-- Learning how to approach the open source community
-- Embracing the sustainability of open source projects
-- Managing compliance
-- Expanding access to open knowledge
-- Improving development velocity
-- Mitigating security risks
+* オープンソースに関する標準化されたプロセスの構築
+* オープンソースコミュニティへのアプローチ方法の習得
+* オープンソースプロジェクトの持続可能性の容認
+* コンプライアンス管理
+* オープンナレッジへのアクセス拡大
+* 開発速度の向上
+* セキュリティリスクの軽減
 
-## How Could Your OSPO Add Value?
+## OSPO はどのように価値をもたらすか？
 
-### If You Make Software
+### ソフトウェアを開発している場合
 
-This is a common and relatively comprehensive use case for an OSPO. Other organizations may only need to consider a subset of these issues.
+これは、OSPO の一般的で比較的包括的なユースケースです。組織によっては。これらの問題の一部のみを検討すれば良いのかもしれません。
 
-Sometimes, organizational stakeholders assume that their product isn't using any open source components because their end product isn't open source. However, when you look at the entire software supply chain you can see that nearly all software contains open source dependencies or artifacts. If the contributors working on those open source projects decided to leave, the project could become obsolete or a target for security vulnerabilities. This affects any software the organization uses or sells, and could directly impact its reputation, performance, or revenue.
+組織のステークホルダーは、最終製品がオープンソースではないため、自分たちの製品はオープンソースコンポーネントを一切利用していないと思い込んでいることがあります。しかし、ソフトウェアサプライチェーン全体を見れば、ほぼすべてのソフトウェアが、オープンソースの依存関係やアーティファクトを含んでいることがわかります。こうしたオープンソースプロジェクトに取り組んでいるコントリビューターが組織を去ることになった場合、そのプロジェクトが最新の状態でなくなったり、セキュリティ脆弱性の標的になったりする可能性があります。これは、組織が利用または販売するあらゆるソフトウェアに影響を及ぼし、その評判、パフォーマンス、収益に直接的な影響を与える可能性があります。
 
-An OSPO can help by understanding and actively managing use of open source components in your software.
+OSPO は、ソフトウェアにおけるオープンソースコンポーネントの利用状況を理解し、積極的に管理することで支援します。
 
-#### How the OSPO Helps
+#### OSPOの支援方法
 
-- **Managing Vulnerabilities:** Open source projects can be a source of security vulnerabilities in a product that depends upon them. It can be hard to keep track of how open source projects are being used by your organization and to perform risk assessments on the identified projects. When you identify key projects within the organization, you can prioritize securing them by tracking common vulnerabilities and exposures. Often, the Enterprise Architecture team are the ones tracking the open source components of applications and technologies, and OSPOs are there to give subject matter expertise.
+* **脆弱性の管理**: オープンソースプロジェクトは、それに依存する製品におけるセキュリティ脆弱性の原因となる可能性がある。また、組織内でオープンソースプロジェクトがどのように利用されているかを追跡し、特定されたプロジェクトのリスクを評価するのが難しい可能性がある。組織内の主要なプロジェクトを特定すれば、共通脆弱性識別子（CVE）を追跡することで、セキュリティ確保を優先できる。多くの場合、エンタープライズアーキテクチャチームがアプリケーションや技術のオープンソースコンポーネントを追跡し、OSPO が専門知識を提供する
 
-- **Understanding Risks in the Supply Chain:** The open source landscape is large and decentralized, and it can be hard to identify who the contributors to individual projects are and to perform risk assessments on the identified projects. These factors can make it challenging for organizations to accurately assess risks and to comprehend the security and quality standards of the software, hardware, data, etc.
+* **サプライチェーンにおけるリスクの理解**: オープンソースの世界は広大で分散しており、個々のプロジェクトへのコントリビューターを特定したり、特定したプロジェクトのリスクを評価したりするのは難しい可能性がある。そして、こうした要因により、組織がリスクを正確に評価し、ソフトウェア、ハードウェア、データなどのセキュリティと品質基準を理解するのが難しくなる可能性がある
 
-- **Building Healthy Relationships with Key Open Source Projects:** Commercial organizations that are using open source are often keen to contribute back to the projects they use. However, the pressure to ship features in their own products means that open source contributions may take a back seat when things get busy. Even when it's known that contributing features and bugfixes to upstream is less effort in the long term than to maintain a fork of the project, organisations often optimize for short term benefits and don't spend the extra effort to upstream the changes.
+* **主要なオープンソースプロジェクトとの健全な関係構築**: オープンソースを利用している商業組織は、利用しているプロジェクトの貢献に意欲的であることが多い。しかし、自社製品に機能を追加するプレッシャーから、忙しくなるとオープンソースへの貢献が後回しにされることがある。プロジェクトのフォークを維持するよりも、機能やバグ修正をアップストリームに貢献する方が、長期的には労力が少ないとわかっているにも関わらず、組織は短期的な利益を優先し、変更をアップストリームに反映させるための追加の労力を費やさない
 
-- **Supporting and Influencing Key Open Source Projects:** Your organization could be in a good position to provide resources to open source projects. That could be through coding, expertise, or money donations as incentives for fixing common vulnerabilities. It could also be productive to collaborate with industry working groups to address security concerns holistically. Making a plan that aligns with your organizational strategy and provides value to the open source projects is a good way to be a helpful community member.
+* **主要なオープンソースプロジェクトの支援と影響力**: あなたの組織は、オープンソースプロジェクトにリソースを提供するのに適した立場にあるのかもしれない。それはコーディング、専門知識、共通の脆弱性の修正に対するインセンティブとしての金銭的寄付などがある。また、セキュリティ懸念に包括的に対処するために、業界のワーキンググループと連携することも生産的である。組織の戦略に一致し、オープンソースプロジェクトに価値をもたらす計画を立てることは、有益なコミュニティメンバーとなる良い方法である
 
-- **Bridging the Gap Between Regulated Processes and Open Source Processes:** Open source is a dynamic ecosystem whose contributions should occur as smoothly and naturally as possible. The long procurement processes faced in highly regulated environments, such as finance companies and governments, create a barrier to open source contribution and engagement.
+* **規制されたプロセスとオープンソースプロセスのギャップを埋める**: オープンソースは流動的なエコシステムであり、その貢献は可能な限りスムーズかつ自然に行われるべきである。金融企業や政府など、規制の厳しい環境では、調達プロセスに時間がかかるため、オープンソースへの貢献や関与の障壁となる
 
-- **Improving Open Source Literacy to Ensure a High-Benefit, Low-Risk Approach:** The concept of open source may not be taken seriously in other areas of the organization involved in decision-making processes, management, or policy making. This will require constant education and demonstration of the risks and value of open source in the organization.
+* **高利益・低リスクのアプローチを確保するためにオープンソースリテラシーを高める**: 意思決定プロセス、管理、ポリシー策定に関わる組織の他の部門では、オープンソースの概念を真剣に受け止めていない可能性がある。これには、組織内でオープンソースのリスクと価値を継続的に教育し、実証することが必要となる
 
-To get the most benefit from open source, and to reduce the risks, organizations must invest in properly managing open source operations on both cultural and practical levels. This is often accomplished through the OSPO, as it fosters committed, cross-functional collaboration within the organization to address open source issues encountered by various teams or departments. The OSPO operates as a center of excellence.
+オープンソースから最大限の利益を得るため、そしてリスクを軽減するために、組織は、文化面と実務面の両方で、オープンソースの運用を適切に管理することに投資しなければなりません。これは、多くの場合、OSPO を通じて実現されます。なぜなら、OSPO は、さまざまなチームや部門が直面するオープンソースの課題を解決するために、組織内で献身的かつ部門横断的な連携を促進するからです。OSPO は センターオブエクセレンス（CoE）として機能します。
 
-### If You Deliver Public Services
+### 公共サービスを提供している場合
 
-#### How the OSPO Helps
+#### OSPOの支援方法
 
-We see that more public sector organizations are realising the value of an Open Source Program Office to achieve their digital policy goals to better serve their citizens, and to transform their organizations toward achieving these goals.
+より多くの公共機関が、市民へのサービス向上を実現するためにデジタル政策目標を達成し、またこれらの目標達成に向けた組織変革を進めるために、OSPO の価値を認識し始めているのがわかります。
 
-Public sector organizations face unique challenges when it comes to managing their open source operations, including the need to comply with strict laws and regulations, and the requirement to provide transparent and accountable operations. An OSPO can help governments and public sector organizations to overcome these challenges.
+公共機関は、オープンソースの運用管理において、厳格な法律や規制の遵守が必要であることや、透明性と説明責任のある運営が求められるなど、特有の課題に直面しています。OSPO は、政府や公共機関がこれらの課題を克服するのを支援します。
 
-- **Improving Compliance:** An OSPO helps to ensure that their open source operations are compliant with relevant laws and regulations, including data privacy laws, procurement regulations, and transparency requirements. This helps organizations to avoid costly legal and regulatory challenges and to maintain their reputation as responsible public sector organizations.
+* **コンプライアンスの向上**: OSPO は、データプライバシーに関する法律、調達規制、透明性要件などの関連法規や規制に準拠したオープンソースの運用の確保するための支援をする。これにより、組織は高コストな法的および規制上の問題を回避し、責任ある公共機関としての評判を維持できる
 
-- **Increasing Collaboration:** An OSPO helps to foster collaboration between different departments and with external stakeholders, including other public sector organizations, open source communities, and civil society organizations. This increased collaboration helps organizations to access a wider pool of talent and resources, and to develop better open source solutions.
+* **連携の増加**: OSPO は、異なる部門間および他の公共機関、オープンソースコミュニティ、市民社会組織を含む外部のステークホルダーとの連携を促進するのを助ける。この連携の増加により、組織は、より広い人材とリソースのプールにアクセスし、より優れたオープンソースソリューションを開発できる
 
-- **Improving Resource Allocation:** An OSPO helps to allocate resources more effectively, ensuring that open source operations are well-supported and that key initiatives are given the resources they need to succeed. This helps organizations to maximize the benefits of open source technology and drive innovation and growth.
+* **リソース配分の改善**: OSPO は、リソースをより効果的に配分し、オープンソースの運用が適切に支援され、重要な取り組みを成功させるのに必要なリソースが確実に提供されるようにする。これにより、組織はオープンソース技術のメリットを最大化し、イノベーションと成長を促進できる
 
-- **Improving Service Delivery:** An OSPO helps to improve the delivery of public services, by enabling them to adopt innovative and cost-effective technologies, and to collaborate with external stakeholders to develop better solutions. This helps organizations to provide better services to citizens and to meet the changing needs of their communities.
+* **サービス提供の改善**: OSPO は、革新的でコストパフォーマンスの高い技術を採用し、より優れた解決策を開発するために外部のステークホルダーと連携できるようにすることで、公共サービスの提供の改善を支援する。これにより、組織は、市民により良いサービスを提供し、地域社会の変化するニーズに応えられるようになる
 
-The European Commission's Open Source Program Office (OSPO) has launched a new portal that serves as a wiki or knowledge archive, providing up-to-date information on advancements in OSPO-related topics for public administrators. This portal offers a variety of resources, including useful studies, presentations, use cases, guides, and more, to readers interested in learning more about OSPO-related topics. See the Resources section at the end of the chapter for a URL.
+欧州委員会の OSPO は、公共行政関係者向けに OSPO 関連トピックの進捗に関する最新情報を提供するための、wikiや知識アーカイブとして機能する新しいポータルを立ち上げました。このポータルは、OSPO 関連トピックについてもっと知りたい読者向けに、有用な研究資料、プレゼンテーション、ユースケース、ガイドなど、さまざまなリソースを提供しています。章末の「リソース」セクションにURLが記載されています。
 
-### As a Cultural Influence
+### As a Cultural Influence 文化的な影響力として
 
-In a world governed by software, Open Source Program Offices (OSPOs) serve as powerful cultural catalysts within organizations. Beyond simply managing technical integration of open source solutions, OSPOs fundamentally transform organizational culture by fostering open collaboration, transparency, and innovation.
+ソフトウェアが支配する世界において、OSPO は、組織内の強力な文化的触媒として機能します。単にオープンソースソリューションの技術上の統合を管理するだけでなく、オープンな連携、透明性、イノベーションを促進することで、組織文化を根本から変革します。
 
-As organizations increasingly rely on open source for mission-critical problems — whether social, economic, or technological — the OSPO's cultural influence becomes essential in reshaping mindsets and workflows. This cultural shift enables organizations to move beyond viewing open source as merely a resource to extract value from, toward becoming active, contributing members of the broader open source ecosystem. By embedding open source values and practices throughout an organization, OSPOs cultivate internal champions, establish collaborative norms, and nurture a culture where knowledge sharing thrives.
+組織が社会的、経済的、技術的にミッションクリティカルな問題に対するオープンソースへの依存度が高まるにつれて、OSPO の文化的影響力は、マインドセットやワークフローの再構築に不可欠なものとなります。この文化的変化により、組織は、オープンソースを単に価値を抽出するリソースと見るのではなく、より広範なオープンソースエコシステムに積極的に貢献する従業員になる方向へと向かいます。OSPO は、オープンソースの価値とプラクティスを組織全体に根付かせることで、内部の推進者を育成し、連携の規範を確立し、知識共有が盛んな文化を育みます。
 
-This cultural transformation not only supports risk management and innovation but ensures the sustainability of the open source communities they depend on. Without an OSPO's ongoing cultural influence, organizations risk losing open source expertise, increasing security and legal vulnerabilities, reducing community engagement, and damaging their reputation.
+この文化的変革は、リスク管理とイノベーションを支援するだけでなく、組織が依存するオープンソースコミュニティの持続可能性を確保します。OSPO が文化的影響力を継続的に与えなければ、組織はオープンソースの専門知識を失い、セキュリティや法的な脆弱性を高め、コミュニティエンゲージメントを減らし、評判を損なうリスクがあります。
 
-Open Source is a silent critical need, and an OSPO's cultural impact is vital to evolve organizational culture and knowledge, helping to build more secure and sustainable OSS.
+オープンソースは、静かながらも極めて重要なニーズであり、OSPO の文化的影響力は、組織の文化と知識を進化させるのに不可欠であり、より安全で持続可能なオープンソースを構築するのを助けます。
 
-#### How the OSPO Helps
+#### OSPOの支援方法
 
-- **Acts as a Counselor:** Sometimes a strategic approach just means stepping back and taking the time to think through some of the hard questions about what type of engagement model is right for any particular project or how involved the organization should be in each project. There is also the question of when it makes sense to contribute to an existing project versus creating a new project. An OSPO that is having these strategy-level conversations will be able to provide guidelines to workers at the different teams so that workers don't have to consider the business implications of different open source engagement models every time they try to solve a problem.
+- **カウンセラーとしての役割**: 戦略的なアプローチとは、時には一歩引き、特定のプロジェクトに適したエンゲージメントモデルの種類や、組織が各プロジェクトにどの程度関与すべきかといった難しい質問について、じっくり考える時間を取ることを意味する。また、既存のプロジェクトへの貢献と新規プロジェクトの作成のどちらが適切か、という問題もある。このような戦略レベルの議論を行っている OSPO は、各チームの従業員にガイドラインを提供できる。そのため、従業員は、問題解決に取り組むたびに異なるオープンソースエンゲージメントモデルのビジネス上の影響を考慮する必要はない
 
-- **Acts as a Facilitator:** The OSPO also plays a sort of translation role between the organization’s teams and decision makers' interests regarding open source and the needs from the open source community. They also help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively and in a healthy way.
+* **ファシリテーターとしての役割**: OSPO は、組織のチームや意思決定者のオープンソースに関する関心と、オープンソースコミュニティからのニーズとの間の橋渡し的な役割も果たす。また、組織がオープンソースコミュニティと効果的かつ健全な形で関与するために必要な文化、プロセス、およびツールの変更をスムーズに進められるよう支援する
 
-- **Acts as an Advocate:** OSPOs can promote the use of open source and its best practices across different organizational units. This can help organizations realize the benefits of open source as well as engage people to contribute to open source projects or start new ones.
+* **擁護者としての役割**: OSPO は、オープンソースとそのベストプラクティスの活用を、組織内のさまざまな部門に普及できる。これにより、人々がオープンソースプロジェクトへの貢献や新たなプロジェクトの立ち上げに関与するだけでなく、組織がオープンソースのメリットを実感できるようになる
 
-- **Acts as an Environmentalist:** OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can help ensure that open source projects remain healthy in the long term and continue to benefit the wider community.
+* **環境保護者としての役割**: OSPO は、セキュリティ、メンテナンス、プロジェクトの健全性などの課題に対処することで、組織がオープンソースプロジェクトを長期的に支援し、維持するのを助ける。これにより、オープンソースプロジェクトが長期的に健全な状態を保ち、より広いコミュニティに利益をもたらし続けることができることが保証される
 
-- **Acts as a Gatekeeper:** OSPOs can help enforce open source policies and strengthen open source governance. This can help organizations to ensure compliance and mitigate open source security risks.
+- **ゲートキーパーとしての役割：** OSPO は、オープンソースポリシーの施行とオープンソースガバナンスの強化を支援する。これにより、組織はコンプライアンスを確保し、オープンソースのセキュリティリスクを軽減できる
 
 ![ospo-support](/images/ospo-support.png)
 
-### As an Intermediate Step to a Decentralized Open Source Management Model
+### 分散型オープンソース管理モデルへの中間ステップとして
 
-OSPOs help manage open source as an ongoing activity and work to integrate it well into all an organization's units. Some organizations are going a step further to take ownership of the full management of open source within their regular structures and functions. There is an open question related to whether the OSPO would become an intermediate step to achieve this.
+OSPO は、オープンソースを継続的な活動として管理し、組織のすべての部門に適切に統合する取り組みを支援します。一部の組織ではさらに一歩進み、通常の組織構造と機能の中で、オープンソースの管理を完全に担うように取り組んでいます。OSPO が、この目標達成の中間ステップとなるかどうかについては、まだ明確な答えはありません。
 
-The answer depends on how you view the OSPO. Beyond the multiple different structures an OSPO can have, it's fundamentally about its people. An OSPO is a group of open source subject matter experts providing support, knowledge, and management related to all open source activities. These people must be not only retained but also reinforced and effectively financed for the future, as more open source integration is inevitable.
+その答えは、OSPO をどう捉えるかによって異なります。OSPO にはさまざまな組織形態がありますが、その本質は人材です。OSPO は、すべてのオープンソース活動に関するサポート、知識、そしてマネジメントを提供する、オープンソース分野の専門家集団です。この先さらに多くのオープンソースの統合が進むことは避けられないため、こうした人材を単に維持するだけでなく、将来に向けて強化し、効果的に資金を提供しなければなりません。
 
-In an ideal scenario, open source knowledge, technical expertise, and culture should be integrated as any other employee skill. However, the reality is that this is a long way from happening. Currently, it's challenging to find open source experts who can effectively bridge the gap between open source communities and specific work units (for example: security, legal and business), let alone enough people to place in every part of the business.
+理想的なシナリオでは、オープンソースに関する知識、技術的専門性、文化は、他の従業員のスキルと同様に統合されるべきです。しかし、現実はこれとは程遠い状況です。現在、オープンソースコミュニティと特定の業務部門（たとえば、セキュリティ、法務、ビジネス）の間のギャップを効果的に埋めることができるオープンソースの専門家を見つけるのは困難であり、ましてやビジネス全体のあらゆる部分に配置できる十分な人材を見つけることはさらに困難です。
 
-However, what might change in the coming years is the centralized view of the OSPO. This traditional perception may diminish, leading to more decentralized structures across teams and business units.
+しかし、今後数年で変わるかもしれないのは、OSPO に対する中央集権的な見方です。こうした従来の認識は薄れ、チームや事業部門を超えた、より分散化された構造へと移行するかもしれません。
 
 ![ospowork](/images/ospowork.png)
 
-_[Source: OSPOs, key lever for open source sustainability][1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
+_[出典: OSPOs, key lever for open source sustainability][^1](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
-## Applying This to Your Organization
+## 組織への適用
 
-### Assess the Value of Open Source Use
+### オープンソースの利用価値を評価する
 
-Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [^2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [^3] estimates that the supply-side value of widely-used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [^4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
+組織は、オープンソースの利用にすでにどれだけ依存しているかを過小評価しているかもしれません。いくつかの研究が、業界におけるオープンソースの利用を分析しています。たとえば、*Synopsys Open Source Security and Risk Analysis Report 2024*[^2]によると、平均的なソフトウェアプロジェクトの77%がオープンソースで構成されています。さらに、*ハーバード・ビジネス・スクールの研究*[^3]によると、広く利用されているオープンソースの供給側の価値は41.5億ドルであるのに対し、需要側の価値はそれよりもはるかに大きい8.8兆ドルと推計されています。さらに、OpenForum Europeによる研究[^4]では、オープンソースが欧州連合（EU）のGDPに650億から950億ユーロ貢献し、同地域のデジタル経済に著しい成長機会をもたらすと推定しています。
 
-Assess this value for your own organization by taking steps such as:
+次のような手順を実行して、あなたの組織にとっての価値を評価してください。
 
-- Collecting information about what OSS is used by your development and operations teams.
-- Getting a clear view of what open source components are in the commercial software you buy or services you use. Ask vendors for what OSS they use, for example by requesting Software Bill of Materials (SBOMs).
-- Assessing the cost savings of current open source use by evaluating what it would cost if you had to replace it with commercial alternatives.
-- Evaluating how using existing open source components can increase the speed of innovation or engineering agility.
+- 開発チームと運用チームが利用しているオープンソースについての情報を収集する
+- 購入している商用ソフトウェアや利用しているサービスにどのようなオープンソースコンポーネントが含まれているかを明確に把握する。ベンダーにソフトウェア部品表（SBOM）を要求するなどして、利用しているオープンソースについて問い合わせる
+- 商用代替品に置き換えた場合のコストを評価し、現在のオープンソース利用によるコスト削減効果を評価する
+- 既存のオープンソースコンポーネントの利用が、イノベーションのスピードやエンジニアリングの俊敏性をどのように向上させるかを評価する
 
-### Consider what Value Your OSPO Might Bring in the Future
+### OSPO が将来もたらす価値を検討する
 
-The value of an OSPO to your organization may increase over time as strategy and goals of your organization change. Your OSPO should regularly review its value to the organization, and plan to increase its maturity level if needed. More information about OSPO maturity is available in Chapter 3 where the topic of Maturity Models is introduced.
+組織の戦略や目標が変化するにつれ、組織における OSPO の価値は時間とともに高まる可能性があります。OSPO は、組織にとっての価値を定期的に見直し、必要に応じてその成熟度レベルを上げる計画を立てる必要があります。OSPO の成熟度に関する詳細は、成熟度モデルについて紹介する第 3 章に記載されています。
 
-### Communicate With Stakeholders
+### ステークホルダーとのコミュニケーション
 
-When communicating the value of your OSPO to your organization, the best route forward is to present the top 2-3 areas of value that are most clearly aligned to organizational strategy. There may be many other areas where the OSPO adds value but research shows that a long list of benefits can weaken the business case rather than strengthen it (you can search for the "Weak Argument Effect" online for more information).  Work on a clear, compelling short value proposition that will cut through, and use it as an anchor for presenting the OSPO in all situations.
+OSPO の価値を組織に伝える際は、組織の戦略と最も明確に一致する上位 2 ～ 3 つの価値領域を提示するのが最善です。OSPO が付加価値をもたらす領域は他にも数多くあるかもしれませんが、研究によると、メリットを長々と列挙すると、ビジネスケースを強化するどころか、むしろ弱めてしまう可能性があることがわかっています（「説得力のない議論効果（Weak Argument Effect）」についてオンラインで検索すると、より詳しい情報が得られます）。明確で説得力のある簡潔な価値提案を作成し、あらゆる状況において OSPO を提示する際のアンカーとして活用してください。
 
-Don't rely on general "good practice" arguments. Though these may be based in truth, they're not usually very compelling and don't help to build strong buy-in across the organization.
+一般的な「グッドプラクティス」の議論に頼ってはいけません。それらは正しいかもしれませんが、たいていは説得力に欠け、組織全体の強い支持を得るのに役立ちません。
 
-Don't rely on the value of your OSPO meeting speculative future needs. It's great to be prepared, but unless there is a clear initiative that's about to start which your OPSO can help with, it's better to focus on the value you can deliver here and now.
+OSPO が憶測的に将来のニーズを満たすという価値に頼ってはいけません。準備することは素晴らしいですが、OPSO が支援できる明確な取り組みが間もなく開始される場合を除き、今ここで提供できる価値に焦点を当てる方が賢明です。
 
-## Examples of the OSPO's value
+## OSPO の価値の例
 
-To illustrate how your OSPO may deliver value to your organization, some example stories can be a great way to build buy-in. Here are two examples where an OSPO could be vitally important:
+OSPO が組織にどのような価値をもたらすかを示すために、いくつかの事例を挙げることは、組織内の賛同を得るための優れた方法です。ここでは、OSPO が極めて重要となり得る2つの例を紹介します。
 
-### Managing a Vulnerability in the Software Supply Chain
+### ソフトウェアサプライチェーンにおける脆弱性の管理
 
-For example: a social engineering attack targeted the xz/liblzma [^5], an essential open source library. The attack was meticulously planned, gaining trust within the community before executing a malicious attack. This incident was discovered inadvertently by an unrelated project, underscoring the sophistication and stealthiness of such vulnerabilities. The challenge for OSPOs lies in identifying and mitigating these vulnerabilities, which are not always apparent until after they occur. Despite existing procedures and policies, OSPOs recognize the need for mechanisms to proactively measure and respond to such threats.
+例: 重要なオープンソースライブラリであるxz/liblzma[^5]を標的としたソーシャルエンジニアリング攻撃がありました。この攻撃は綿密に計画され、悪意のある攻撃を実行する前にコミュニティ内での信頼を獲得していました。このインシデントは、無関係のプロジェクトによって偶然発見されたため、このような脆弱性の巧妙さとステルス性が浮き彫りになりました。OSPO の課題は、こうした脆弱性を特定し、軽減することです。こうした脆弱性は、発生してから初めて明らかになる場合もあります。既存の手順やポリシーがあったとしても、OSPO はこのような脅威を積極的に測定し、対応するための仕組みの必要性を認識しています。
 
-#### How the OSPO Helps
+#### OSPO の支援方法
 
-1. **SBOMs Compliance Ready:** Ensure that all software components are documented through automatically generated Software Bill of Materials (SBOMs). This documentation helps quickly to identify potentially compromised components once a vulnerability is disclosed.
+1. **SBOMコンプライアンス対応:** すべてのソフトウェアコンポーネントが、自動生成されたソフトウェア部品表（SBOM）を通じてドキュメント化されていることを確認する。このドキュメント化は、脆弱性が明らかになった際に、侵害された可能性のあるコンポーネントを迅速に特定できる
 
-2. **Automated Security Checks:** Implement automated security checks, such as the OpenSSF Scorecard [^6], to continuously evaluate the security posture of projects. This proactive measure can highlight vulnerabilities or anomalies that merit further investigation.
+2. **自動セキュリティチェック：** OpenSSFスコアカード[^6]などの自動セキュリティチェックを導入し、プロジェクトのセキュリティ体制を継続的に評価する。この事前対策により、さらなる調査が必要な脆弱性や異常を特定できる
 
-3.  **Having a Computer Emergency Response Team (CERT)** within the organization and having the OSPO collaborate closely with them. This specialized team should be equipped with the tools and authority to respond swiftly to security incidents. Pre-existing relationships within the team facilitate rapid internal communication about the severity of incidents.
+3. 組織内に**コンピュータ緊急対応チーム（CERT）**を設置し、OSPO と緊密に連携する。この専門チームは、セキュリティインシデントに迅速に対応するためのツールと権限を備えている必要がある。チーム内にこうした既存の関係が存在すると、インシデントの深刻度に関する内部コミュニケーションを迅速にできる
 
-4. **Scorecard Management:** Keep security and vulnerability scorecards up to date. These scorecards should reflect the latest security checks and assessments, helping in quick decision-making during a crisis.
+4. **スコアカード管理:** セキュリティと脆弱性のスコアカードを最新の状態に保つ。これらのスコアカードには、最新のセキュリティチェックと評価を反映する必要があり、それが危機発生時の迅速な意思決定に役立つ
 
-5. **Automated Feedback Loops:** Develop well-automated feedback loops for bug reporting and fixing. Knowing who is responsible for addressing a particular bug and ensuring that this process is as automated as possible can significantly reduce response times.
+5. **自動フィードバックループ:** バグ報告と修正のための高度に自動化されたフィードバックループを構築する。特定のバグに対応する責任者が誰であるかを明確にし、このプロセスを可能な限り自動化することで、対応時間を大幅に短縮できる
 
-### Managing a Licence Change in the Software Supply Chain
+### ソフトウェアサプライチェーンにおけるライセンス変更の管理
 
- OSPOs face the challenge of navigating license changes and assessing software trustworthiness. When projects like Redis change their terms [^7] it can have significant implications for use, distribution, and contribution. OSPOs need to communicate these changes clearly and understand the roles and responsibilities dictated by new license terms. Furthermore, OSPOs are tasked with evaluating the trustworthiness of software, which can vary based on whether a project is maintained by a single vendor or hosted under a foundation. For instance, The AlmaLinux OS Foundation [^8] presents a case where donating a project to a foundation mitigated risks associated with single-vendor governance, thereby enhancing trust in the project.
+OSPO は、ライセンスの変更への対応とソフトウェアの信頼性評価という課題に直面しています。Redis[^7]のようなプロジェクトが他ライセンス条件を変更すると、利用、配布、貢献に重大な影響を与える可能性があります。OSPO はこれらの変更を明確に伝え、新しいライセンス条件に定められた役割と責任を理解する必要があります。さらに、OSPO はソフトウェアの信頼性を評価する役割を担っていますが、これはプロジェクトが単一のベンダーによって維持されているか、財団によってホストされているかによって変わります。たとえば、AlmaLinux OS Foundation[^8]は、プロジェクトを財団に寄贈することで、単一ベンダーによるガバナンスに関連するリスクが軽減され、プロジェクトへの信頼が向上した事例を紹介しています。
 
-#### How the OSPO Helps
+#### OSPO の支援方法
 
-1. **Educational Initiatives on License Implications:** Develop educational materials and sessions for developers and users within the organization to understand the nuances of different licenses. This understanding will help them make informed decisions when using or contributing to open source projects.
-2. **Explicit License Terms:** Work with legal teams to ensure that license terms are as explicit and unambiguous as possible. Clear terms help in avoiding misunderstandings and potential legal conflicts.
-3. **Software Trust Rating System:** Implement a system to evaluate and rate the trustworthiness of software, considering factors like governance structure, maintenance practices, and community engagement. Projects hosted under reputable foundations could be rated higher for trustworthiness due to the oversight and governance provided.
-4. **Encourage Foundation Hosted Projects:** Advocate for donating projects to foundations to mitigate risks associated with single-vendor control. Highlight successful cases like AlmaLinux to illustrate the benefits of this approach, such as increased trust and community support.
-5. **Stakeholder Engagement in License Decisions:** Engage a broad range of stakeholders, including developers, legal advisors, and end users, in discussions about license changes or the adoption of new projects. Their insights can help in making balanced decisions that align with the organization's values and risk tolerance
+1. **ライセンスの影響に関する教育的取り組み:** 組織内の開発者やユーザーがさまざまなライセンスのニュアンスを理解できるよう、教育資料やセッションを開発する。この理解は、オープンソースプロジェクトの利用や貢献において、情報に基づいた意思決定を行うのに役立つ
 
+2. **明示的なライセンス条件:** 法務チームと連携し、ライセンス条件が可能な限り明確かつ明瞭になるようにする。明確な条件は、誤解や法的紛争のリスクを回避するのに役立つ
 
-## Possible Problems and How to Overcome Them
+4. **ソフトウェア信頼性評価システム:** ガバナンス構造、メンテンナンス業務、コミュニティエンゲージメントといった要素を考慮し、ソフトウェアの信頼性を評価・格付けするシステムを導入する。信頼できる財団の下で運営されているプロジェクトは、監督とガバナンスが行き届いているため、信頼性が高く評価される可能性がある。
 
-In this section, you will find a series of real-world scenarios that are encountered in open source management across organizations. For each scenario, you can find recommendations from real-world experiences from open source professionals.
+5. **財団がホストするプロジェクトの奨励:** 単一ベンダーによる管理に伴うリスクを軽減するため、財団へのプロジェクトの寄贈を提唱する。AlmaLinux のような成功事例を取り上げ、信頼性の向上やコミュニティのサポートなど、このアプローチのメリットを説明する
 
-### Problem
+6. **ライセンス決定におけるステークホルダーの関与:** 開発者、法律顧問、エンドユーザーなど、幅広いステークホルダーをライセンス変更や新規プロジェクトの導入に関する議論に参加させる。そうした人々の洞察は、組織の価値観やリスク許容度に沿ったバランスの取れた意思決定に役立つ
 
-There is a lack of understanding about open source practices across the organization.
+## 起こりうる問題とその克服方法
 
-### Recommendation
+本セクションでは、組織全体でオープンソース管理を行う際に遭遇する実際のシナリオをいくつか紹介します。また、それぞれのシナリオについて、オープンソースの専門家の実体験に基づいた推奨事項をご紹介します。
 
-It can be hard to demonstrate the value of the OSPO if there is a poor understanding of open source in the organization. Focusing on speaking about your key areas of value and using the power of stories will help you to build understanding quickly in the organization. Sharing real-world stories about how your organization is using open source, and sharing cautionary tales about times an OSPO saved an organization from a risk can help to educate people through easily repeated narratives.
+### 問題
 
-As time goes by, you can start to promote better organizational-wide understanding of open source practices by offering educational workshops, creating accessible resources, and establishing open source champions in different departments to foster a culture of open source literacy.
+組織全体でオープンソースのプラクティスに関する理解が不足しています。
 
------
+### 推奨事項
 
-### Problem
+組織内でオープンソースへの理解が不十分な場合、OSPO の価値を示すのは難しいでしょう。主要な価値領域について語ることに注力し、ストーリーの力を活用することで、組織内での理解を迅速に構築できます。また、組織がどのようにオープンソースを活用しているかに関する実例や、OSPO が組織をリスクから救った教訓を共有することで、繰り返しやすいストーリーを通して人々を啓蒙できます。
 
-The OSPO's value is seen as a sales profit or marketing tool.
-
-### Recommendation
-
-Because the OSPO has a role in supporting relationships with open source communities and partners, it can be natural for sales and marketing to see some value to them in this engagement.
-
-As an OSPO you can only fulfill your responsibilities by building trust with third parties over time. Set boundaries with sales and marketing and say "no" to things that might reduce your reputation in the ecosystem. Work on building internal understanding of the OSPO as an integral part of the organization's digital, software, or IT strategy, and highlight work that fosters open source best practices, contributes to technological innovation, and supports the overall organization's goals.
+時間の経過とともに、教育ワークショップの開催、アクセスしやすいリソースの作成、オープンソースリテラシーの文化を育むためにさまざまな部門にオープンソースの推進者を配置することで、組織全体でオープンソースのプラクティスに関する理解を深めることができます。
 
 -----
 
-### Problem
+### 問題
 
-The OSPO's value is seen as secondary or discretionary, and not as critical for the organization’s core functions.
+OSPO の価値は、売上利益またはマーケティングツールだと見なされています。
 
-### Recommendation
+### 推奨事項
 
-The cause of this problem is either that the OSPO isn't aligned with the organization's needs, or that the OSPO isn't communicating its value well. Review the OSPO's value, and plan your communications to highlight how the OSPO enhances key business processes, drives innovation, and directly supports strategic objectives, thereby integrating it as an essential component of the organization's operational framework.
+OSPO はオープンソースコミュニティやパートナーとの関係構築を支援する役割を担っているため、営業やマーケティング部門がこの取り組みに何らかの価値を見出すのは自然なことです。
+
+OSPO として、時間をかけて第三者との信頼関係を築くことでのみ、その責任を果たせます。営業やマーケティングとの間に境界線を設け、エコシステムにおける評判を落とす可能性のある行為には「ノー」と言いましょう。OSPO を組織のデジタル、ソフトウェア、またはIT戦略の不可欠な要素として社内に理解してもらうように努め、オープンソースのベストプラクティスを促進し、技術革新に貢献し、組織全体の目標達成を支援する活動に重点を置きましょう。
 
 -----
 
-### Problem
+### 問題
 
-The OSPO struggles with gaining executive support and buy-in.
+OSPO の価値は二次的または裁量的なものと考えられており、組織の中核機能にとって重要ではないと見なされています。
 
-### Recommendation
+### 推奨事項
 
-Executives require a particular type of communication. They need to have a clear picture of the role and value that each part of the orgnization brings. If the message is too detailed or vague, or if the subject is too specialist they can struggle to "get it". As the OSPO, you need to communicate the strategic value of open source and of the work the OSPO does to manage it. Showcasing visible benefits through case studies, success stories, or numerical reports can help to cut through with a clear and simple presentation that demonstrates OSPO initiatives are delivering with key organizational priorities.
+この問題の原因は、OSPO が組織のニーズと一致していないか、OSPO の価値をうまく伝えられていないかのどちらかです。OSPO の価値を見直し、OSPO が主要なビジネスプロセスを強化し、イノベーションを推進し、戦略目標を直接的に支援することで、組織の運用フレームワークの不可欠な要素として統合されていることを強調するコミュニケーションを計画してください。
 
+-----
 
-## Resources and Footnotes
+### 問題
 
-### Resources
+OSPO は、経営陣の支持と賛同を得るのに苦労しています。
+
+### 推奨事項
+
+経営層には特別なコミュニケーションが必要です。そうした人々は、組織の各部門が果たす役割と価値を明確に理解する必要があります。メッセージが詳細すぎたり、漠然としていたり、専門的すぎると、経営層は、その内容を理解するのに苦労する可能性があります。OSPO として、オープンソースとOSPO がそれを管理する取り組みについての戦略的価値を伝える必要があります。ケーススタディ、成功事例、数値レポートなどを通して目に見えるメリットを示すことで、OSPO の取り組みが組織の主要優先事項に一致していることを明確かつ簡潔なプレゼンテーションで示せます。
+
+## リソースと脚注
+
+### リソース
 
 - Log4Shell real vulnerability example: https://en.wikipedia.org/wiki/Log4Shell
 - Open source and the software supply chain - John Mark Walker: https://opensource.com/article/16/12/open-source-software-supply-chain
 - Strategy: End Game for FINOS Maturity Model - Victor Lu: https://docs.google.com/presentation/d/1jJtR6-fvU-dCrGq_gTm4P1Awv90oCu4RClj1919970A/edit#slide=id.g1ed9ae7029f_0_29
 - Securing the Software Supply Chain: The Role of OSPOs - Jessica Marz: https://www.intel.com/content/www/us/en/developer/articles/community/securing-software-supply-chain-the-role-of-ospo.html
-- Simple Frequently Asked Questions OSPO Guide - OSPO SWG Japan: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+- OSPOガイドの簡単なFAQ - OSPO SWG Japan: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
 - The Business Value of the OSPO Report - Linux Foundation: https://www.linuxfoundation.org/research/business-value-of-ospo
 - EC Open Source Programme Office - European Commission Joinup: https://joinup.ec.europa.eu/collection/ec-ospo
 - Public Services Should Sustain Critical Open Source Software - FOSSEPS: https://joinup.ec.europa.eu/collection/ec-ospo
@@ -235,7 +236,7 @@ Executives require a particular type of communication. They need to have a clear
 - Open Technology - Scheerder, Jeroen & Koymans: https://www.researchgate.net/publication/254920512_Open_Technology#pf7
 - The Pros and Cons of Open Source Software - Khalil Khalaf: https://medium.com/@kylekhalaf/the-pros-and-cons-of-open-source-software-d498304f2a95
 
-### Footnotes
+### 脚注
 
 [^1]: Business value of the OSPO report: https://www.linuxfoundation.org/research/business-value-of-ospo
 
