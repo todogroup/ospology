@@ -1,14 +1,12 @@
 ---
-title: "OSPO End-User Journeys"
+title: "OSPO エンドユーザージャーニー"
 status: Completed
 weight: 95
 ---
 
-The OSPO End User Journey report highlights active Open Source Program Offices Practitioners and
-demonstrates how their organizations grow their open source knowledge and benefit from building a
-strategic vision and commitment around open source through an OSPO.
+「OSPO エンドユーザージャーニー」レポートは、積極的に活動するオープンソースプログラムオフィス（OSPO）の実践者たちに焦点を当て、その組織がどのようにしてオープンソースの知見を深め、OSPO を通じてオープンソースに関する戦略的ビジョンとコミットメントを構築することで利益を得ているかを示しています。
 
-Use cases will be added as more organizations contribute to expanding this list.
+今後、より多くの組織がこのリストの拡充に貢献することで、ユースケースが追加されていく予定です。
 
-* [Porsche End-User Journey Report](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 Use-case`
-* [Sony End-User Journey Report](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 Use-case`
+* [ポルシェエンドユーザージャーニーレポート](https://github.com/todogroup/ospology/files/14300430/Porsche-enduser-OSPOCaseStudy.pdf) `🎙 ユースケース`
+* [ソニーエンドユーザージャーニーレポート](https://github.com/todogroup/ospology/files/13006962/sony_end-user-OSPOCaseStudy.pdf) `🎙 ユースケース`
