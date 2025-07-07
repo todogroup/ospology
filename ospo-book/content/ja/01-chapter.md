@@ -1,11 +1,11 @@
 ---
-title: "チャプター 1: オープンソース プログラム オフィス（OSPO）の導入"
+title: "第 1 章: オープンソースプログラムオフィス（OSPO）の導入"
 status: Completed
 weight: 30
 ---
 - [序文](#序文)
 - [OSPO について](#ospo-について)
-- [組織への OSPO の適用](#組織へ-ospo-の適用)
+- [組織への OSPO の適用](#組織への-ospo-の適用)
 - [結論](#結論)
 - [起こりうる問題とその克服方法](#起こりうる問題とその克服方法)
 - [リソースと脚注](#リソースと脚注)
@@ -14,7 +14,7 @@ weight: 30
 
 今日のデジタルエコシステムにおいて、オープンソースリソースは、ニッチな技術的アプローチから、現代の組織における技術インフラの基盤要素へと変貌を遂げています。業界を問わず、企業はイノベーションの推進、開発コストの削減、製品やサービスの市場投入までの時間短縮のために、オープンソースのコンポーネント、フレームワーク、ツールへの依存度を高めています。しかし、こうした依存度の高まりは、セキュリティ、コンプライアンス、ライセンス、戦略的整合性に関する複雑な課題をもたらし、場当たり的（アドホック）なアプローチではなく、意図的な管理が求められます。
 
-オープンソース プログラム オフィス（OSPO）は、これらの課題を戦略的に上手く解決するための重要な組織機能として台頭してきました。OSPO は、組織のオープンソース活動の中央集権型ハブとして機能し、利用ポリシー、貢献戦略、コンプライアンス手順、コミュニティエンゲージメントの取り組みを調整します。正式なガバナンス構造を確立することで、OSPO は組織がリスクを体系的に管理しながら、オープンソース技術とコミュニティから得られるビジネス価値を最大化できるようにします。
+オープンソースプログラムオフィス（OSPO）は、これらの課題を戦略的に上手く解決するための重要な組織的機能として台頭してきました。OSPO は、組織のオープンソース活動の中央集権型ハブとして機能し、利用ポリシー、貢献戦略、コンプライアンス手順、コミュニティエンゲージメントの取り組みを調整します。正式なガバナンス構造を確立することで、OSPO は組織がリスクを体系的に管理しながら、オープンソース技術とコミュニティから得られるビジネス価値を最大化できるようにします。
 
 リスク管理にとどまらず、成功する OSPO は、組織がより広範なオープンソースエコシステムと関わる方法を根本的に変革します。知識共有を通じて社内の技術的卓越性を促進し、主要プロジェクトへの戦略的な貢献を通じて外部からの認知を高め、オープンソースコミュニティとの健全な関係を維持することによってイノベーションへの道筋を切り開きます。適切に構造化された OSPO を導入した組織は、通常、開発者の生産性向上、ソフトウェア品質の向上、法的リスクの軽減、オープンソースの専門知識と価値が重視される人材市場での競争力強化といったメリットを享受しています。
 
@@ -37,13 +37,13 @@ OSPO は、組織内の部門横断的な連携を生み出す上で非常に重
 
 OSPO は、4つの異なる視点から部門横断的な連携を検討します。
 
-* 下方向: OSPO の責任者は、チームのタスクを効果的に管理しなければならない。OSPO の目的によって、チームの責任は異なる場合がある
+* 下方向: OSPO の責任者は、チームのタスクを効果的に管理しなければならない。OSPO の目的によって、チームの責任は異なる場合がある。
 
-* 上方向: OSPO の設立を提案する場合、期待値を管理し、経営層の技術的ニーズに合わせる必要がある
+* 上方向: OSPO の設立を提案する場合、期待値を管理し、経営層の技術的ニーズに合わせる必要がある。
 
-* 横方向: 他のチームとの協力は極めて重要である。たとえば、ビジネス指向の OSPO では、開発者ツールチームやセキュリティチームとの連携が不可欠である
+* 横方向: 他のチームとの協力は極めて重要である。たとえば、ビジネス指向の OSPO では、開発者ツールチームやセキュリティチームとの連携が不可欠である。
 
-* 外方向: 外部コミュニティや財団に対して組織を代表する役割は極めて重要である。統合戦略は、組織の目標とビジョンと合っていなければならない
+* 外方向: 外部コミュニティや財団に対して組織を代表する役割は極めて重要である。統合戦略は、組織の目標とビジョンと合っていなければならない。
 
 たとえば、次の図は、ビジネス指向の OSPO におけるさまざまなプレイヤーとその機能間連携の方法を示しています。
 
@@ -81,11 +81,11 @@ OSPO の目的と性質について理解したところで、これがあなた
 
 * オープンソースに関する知識と理解: 組織内のオープンソースに関する知識と理解のレベルを評価する。オープンソースに今後関与する、または現在関与しているさまざまな関係者は、オープンソースのライセンスモデルと要件を熟知しているか？オープンソースを利用するメリットとリスクを理解しているか？
 
-* **文化**: 組織内の文化を評価し、それがオープンソース運用に適しているかどうかを判断する。連携と共有の文化はあるか？オープンソースに今後関与する、または現在関与している関係者は、オープンソースプロジェクトに貢献する意欲的か？
+* **文化**: 組織内の文化を評価し、それがオープンソース運用に適しているかどうかを判断する。連携と共有の文化はあるか？オープンソースに今後関与する、または現在関与している関係者は、オープンソースプロジェクトに貢献する意欲があるか？
 
 * **ツールとプロセス**: オープンソースの運用を支援する既存のツールとプロセスを評価する。オープンソースの運用に活用できる既存のツールやプロセスはあるか？ツールやプロセスに解消すべきギャップはあるか？
 
-* **ギャップの解消**: オープンソースの採用や準備状況にギャップがあるかどうかを判断し、それらを解消するための計画を立てる。これには、オープンソースに今後関与する、または現在関与している関係者に対するオープンソースの利用とライセンスに関するトレーニング、オープンソースの運用をサポートするための新しいツールやプロセスの開発、オープンソース活動を調整するための OSPO の設立などが含まれる場合がある
+* **ギャップの解消**: オープンソースの採用や準備状況にギャップがあるかどうかを判断し、それらを解消するための計画を立てる。これには、オープンソースに今後関与する、または現在関与している関係者に対するオープンソースの利用とライセンスに関するトレーニング、オープンソースの運用をサポートするための新しいツールやプロセスの開発、オープンソース活動を調整するための OSPO の設立などが含まれる場合がある。
 
 全体として、次の質問を通じてステークホルダーからこれらの領域に関するの意見を収集してください。
 
@@ -150,15 +150,15 @@ OSPO が適切な選択肢であるかどうかを判断するために、組織
 
 ### リソース
 
-* OSPO の定義: https://github.com/todogroup/ospodefinition.org
+* OSPO の定義: https://github.com/todogroup/ospodefinition.org/blob/main/README-ja.md
 * 図の出典: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
 * ML での議論: https://lists.todogroup.org/g/WG-ospo-book-project/message/5
 * OSPO 101 Module 1 - Open Source Introduction: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module1
 * OSPO 101 Module 2 - Open Source Business Models: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module2
 * OSPO 101 Module 3 - Open Source management & your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
-* オープンソースプログラムオフィス（OSPO）簡単なFAQ - TODO GroupとOpen Chain Japan, Linux Foundation: https://todogroup.org/resources/guides/open-source-program-office-ospo-easy-faq/
-* オープンソース プログラムの作成 - TODO Group, Linux Foundation: https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/
-* OSPO の定義 - TODO Group, Linux Foundation: https://ospoglossary.todogroup.org/ospo-definition/
+* オープンソースプログラムオフィス（OSPO）簡単なFAQ - TODO GroupとOpen Chain Japan, Linux Foundation: https://todogroup.org/ja/resources/guides/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9ospo%E7%B0%A1%E5%8D%98%E3%81%AAfaq/
+* オープンソースプログラムの作成 - TODO Group, Linux Foundation: https://todogroup.org/ja/resources/guides/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E4%BD%9C%E6%88%90/
+* OSPO の定義 - TODO Group, Linux Foundation: https://ospoglossary.todogroup.org/ospo-definition-jp/
 * The OSPO: A New Tool for Digital Government - Open Forum Europe: https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf
 * OSPO 導入状況 - TODO Group, Linux Foundation: https://landscape.todogroup.org/
 * Business Success with Open Source - VM (Vicky) Brasseur: https://pragprog.com/titles/vbfoss/business-success-with-open-source/
