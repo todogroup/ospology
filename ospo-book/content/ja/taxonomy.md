@@ -1,5 +1,5 @@
 ---
-title: "Taxonomy"
+title: "分類体系"
 status: Completed
 toc_hide: true
 menu:
@@ -7,83 +7,71 @@ menu:
     weight: 20
 ---
 
-Open Source Program Offices (OSPOs) can be complex and diverse, depending on various factors such as their nature, organizational culture, goals, and size. To help readers quickly identify which sections of the book are most relevant to their interests, each chapter follows a structure and includes the following deliverables: General Content, Assessment Checklists, Recommendations, and 'Continue Here' Resources. Additionally, throughout the chapters, readers will find concrete sections tagged with 'segment tags,' which are explained below:
+オープンソースプログラムオフィス（OSPO）は、その性質、組織文化、目標、規模などのさまざまな要因によって複雑かつ多様な存在となり得ます。本書では、読者が自身の関心に最も関連する章を迅速に特定できるよう、すべての章に、一般的な内容、アセスメントチェックリスト、推奨事項、リソースの要素が含まれる構成としています。さらに、各章には具体的なセクションに「セグメントタグ」が付けられており、それらのタグの意味は以下のとおりです。
 
-## 🔖 Segment Tags
+## 🔖 セグメントタグ
 
-The tag system used in the book aims to show the types of segments that the content is most relevant to. These segments are organized within 'organizational goals' and 'drivers of motivation' that have a direct impact on the creation and evolution of the different OSPO roles and their perceived value to the organization
+本書で使用されるタグシステムは、コンテンツが最も関連するセグメントの種類を示すことを目的としています。これらのセグメントは、「組織の目標」と「動機の原動力」という2つの軸で構成されており、それらは OSPO の役割の形成や進化、組織内での価値認識に直接的な影響を与えます。
 
-**Goal Alignment Definition:**
-Goal alignment refers to the process of aligning the goals and objectives of the OSPO
-with the overall mission and purpose of the organization and those entities that shape
-the organization (for example government laws).
+**組織の目標の定義:**
+OSPO の目標や目的を、組織全体の使命や目的、およびそれを形成する要素（例：政府の法律）と一致させるプロセスを指します。
 
-**Drivers of Motivation Definition:**
-Motivation is the driving force that fuels people and entities to achieve their goals and
-reach their full potential.
+**動機の原動力の定義:**
+動機は、目標の達成や潜在能力の発揮に向けて、人や組織を駆り立てる力です。
 
-### Segments Definition & Diagram
+### セグメントの定義と図解
 
-* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises,
-  that are primarily focused on creating business value through the use of open source software.
+* `📈 ビジネス志向`: 企業などの営利組織内に設置され、オープンソースの活用を通じてビジネス価値を創出することを主な目的とする OSPO。
 
-  * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
+  * **動機の原動力:** イノベーション / リスク管理 / 法的コンプライアンス / 人材確保
 
-* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities
-  or schools, that are focused on using open source to support teaching, research, and learning
-  activities.
+* `🎓 教育志向`: 主に大学や学校などの教育機関内に設置され、オープンソースの活用を通じて教育、研究、学習活動を支援することを目的とする OSPO。
 
-  * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
+  * **動機の原動力:** カリキュラム開発 / 学生の関与 / オープンデータ / 知識共有
 
-* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are
-  likely to collaborate with `educational-oriented` types.
+* `👩‍🏫 ビジネス・教育`: 主にトレーニングや認定を提供する営利組織内に設置される OSPO で、`教育志向`との連携も見られる。
 
-  * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
+  * **動機の原動力**: `📈 ビジネス志向`と`🎓 教育志向`のハイブリッド
 
-* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are
-  focused on using open source to achieve social or public policy objectives (e.g serving
-  citizens).
+* `🏛 社会的・行政志向`: 政府機関や公共団体に設立され、オープンソースの活用を通じて市民サービスなどの公共政策目標の実現を目的とする OSPO。
 
-  * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security /
-    Transparency
+  * **動機の原動力:** 相互運用性 / オープンデータ / アクセシビリティ / 包括性 / プライバシー / セキュリティ / 透明性
 
-* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or
-  foundations that are dedicated to use open source to create positive social change.
+* `🌳 社会的・非政府志向`: 非政府組織（NGO）や財団などに設立され、オープンソースの活用を通じて社会的変化を生み出すことを使命とする OSPO。
 
-  * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid /
-    Environmental Protection / Sustainable Development
+  * **動機の原動力:** イノベーション / 相互運用性 / 社会正義 / 災害支援 / 人道支援 / 環境保護 / 持続可能な開発
 
 ![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
 
-### Common Questions to Identify the Best Segment
+### セグメントを見極めるためのよくある質問
 
-Answering questions such as "What does my organization do?", "What are the mission and values of my organization?", "How is my organization structured?", "What's my organization trying to achieve with open source?", "Why are they investing in open source?", and "Is open source already being used, and if so, how?" can help readers identify the most relevant segment to their organization's nature. Chapter 1 provides a deeper exploration of open source readiness.
+「私たちの組織は何をしているのか？」、「私たちの組織の使命と価値は何か？」、「組織の構造はどうなっているのか？」、「なぜオープンソースに投資しているのか？」、「すでにオープンソースを使っているか？その使い方は？」といった問いに答えることで、自組織の性質に最も適したセグメントを見つける手助けになります。第 1 章では、オープンソースの準備状況について詳しく説明します。
 
-Regardless of the type of organization, OSPO leaders and teams need to understand the drivers of motivation for the actors they interact with and align their goals with the overall mission of the organization.
+どのタイプの組織であっても、OSPO のリーダーやチームは、関係者の動機の原動力を理解し、彼らの目標を組織全体の使命と整合させる必要があります。
 
-### Important Considerations
+### 重要な考慮事項
 
-It's worth noting that these tags aren't meant to be exclusive. Some chapters may be relevant to multiple types of OSPOs, and multiple tags can be included to help readers navigate the content most effectively.
+これらのタグは排他的なものではないことにご注意ください。一部の章は複数の種類の OSPO に関連している場合があり、読者がコンテンツを最も効果的にナビゲートできるように複数のタグが含まれうることがあります。
 
-Identifiers:
-`📈 Business-Oriented`,
-`🎓 Educational-Oriented`,
-`👩‍🏫 Business-Educational`,
-`🏛 Social-Gov-Oriented`,
-`🌳 Social-NonGov-Oriented`
+識別子:
+`📈 ビジネス志向`、
+`🎓 教育志向`、
+`👩‍🏫 ビジネス・教育`、
+`🏛 社会的・行政志向`、
+`🌳 社会的・非政府志向`
 
-## ☑️ Assessment Checklists
+## ☑️ アセスメントチェックリスト
 
-Evaluate readiness for establishing an OSPO and the effectiveness of an existing OSPO. Identifier `☑️ Assessment`
+OSPO 設立の準備状況と既存の OSPO の有効性を評価します。識別子 `☑️ アセスメント`
 
-## 🎙 Use Cases
+## 🎙 ユースケース
 
-Provide evidence and examples about how open source leaders are doing across organizations and regions. Identifier `🎙 Use-case`
+組織や地域を超えて、オープンソースリーダーがどのように活動しているかについて、証拠と事例を提供します。識別子 `🎙 ユースケース`
 
-## 💡 Recommendations
+## 💡 推奨事項
 
-Shares recommendations from real-world experiences from open source professionals in concrete scenarios. Identifier `💡 Recommendations`
+オープンソースプロフェッショナルによる実体験に基づいた推奨事項を具体的なシナリオで共有します。識別子 `💡 推奨事項`
 
-## 🧑‍🏫 "Continue Here" Resources
+## 🧑‍🏫 リソース
 
-Guide readers in further exploration of what’s already on the internet. Identifier `🧑‍🏫 Resources`
+インターネット上に既に存在する情報を読者がさらに詳しく調査できるよう導きます。識別子 `🧑‍🏫 リソース`
