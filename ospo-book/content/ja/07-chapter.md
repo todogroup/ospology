@@ -1,10 +1,10 @@
 ---
-title: "Acknowledgements to Contributors"
+title: "コントリビューターへの謝辞"
 status: Completed
 weight: 90
 ---
 
-Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
+各コントリビューターは独自の視点を持ち寄ることで、OSPO ブックプロジェクトの実現に貢献しました。以下のコントリビューターリストはリリースごとに更新され、所属組織は含まれていません。ただし、プロジェクトに有意義な貢献をしてくださった方は、いつでもプルリクエスト（PR）を送信してリストに名前を追加することができます。提出された内容は、後日メンテナーが確認いたします。
 
 * Alin Jerpelea
 * Ana Jiménez Santamaría
@@ -41,6 +41,6 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Ulises Gascon
 * Victor Lu
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
+最初の貢献を始めたい場合は、[メーリングリストへの登録](https://lists.todogroup.org/g/WG-ospo-book-project)、メッセージアーカイブで過去の会議概要の閲覧、そしてグループへの自己紹介をお勧めします。
 
-> Contributor list will evolve as new contributions arise. If you would like to be added to the list or be removed from the list, please open a new issue.
+> コントリビューターリストは、新しい貢献が行われるにつれて更新されます。リストへの追加、またはリストからの削除をご希望の場合は、新しい Issue を開いてください。
