@@ -1,5 +1,5 @@
 ---
-title: "第 1 章: オープンソースプログラムオフィス（OSPO）の導入"
+title: "第 1 章: オープンソースプログラムオフィス（OSPO）の紹介"
 status: Completed
 weight: 30
 ---
