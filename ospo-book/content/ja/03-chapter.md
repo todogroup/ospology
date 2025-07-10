@@ -164,7 +164,7 @@ TODO Group と OpenChain の支援を受けて、OSPO Japan Local Meetup ワー�
 
 OSPO を計画する際には、マネージャー、上級幹部、日々の業務でオープンソースを利用しているか、（ライセンス、セキュリティ脆弱性の観点から）戦略上オープンソースプロジェクトの取り扱いに関わっているさまざまなチームの従業員／契約社員と 1 対 1 で対話すると非常に役立ちます。こうした対話から得られた洞察を基に、組織独自の動機付け要因を定義し、オープンソースが価値をもたらす組織内の領域にマッピングします。
 
-また、OSPO が正式に設立・開始される前から、これらは組織全体で OSPO の取り組みへの支持を得られます。
+また、OSPO が正式に設立・開始される前から、これらは組織全体にわたるあなたの取り組みを支持するでしょう。
 
 OSPO 成熟度モデルを用いて段階に応じた各組織独自の分類する 2 番目の区分を作成し、これらの動機付け要因を組織全体のさまざまなタイプの活動にマッピングしてください。そして、ステークホルダーと関わる際やコミュニケーションを取る際にこれを参照してください。
 
@@ -190,7 +190,7 @@ OSPO を作成する過程で、多くの質問を受け、新しい情報を考
 - オープンソース コミュニティへの参加: https://todogroup.org/resources/guides/participating-in-open-source-communities/
 - DevOps uses Capability, not Maturity: https://octopus.com/blog/devops-uses-capability-not-maturity
 - Porsche Open Source Website: https://opensource.porsche.com/
-- The Evolution of the OSPO: https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
+- Open Source Program Office (OSPO) の進化: https://www.linuxfoundation.jp/resources/publications/the-evolution-of-the-open-source-program-office-ospo/
 - OSPO 101 training module - OSPO and your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
 
 ### 脚注
