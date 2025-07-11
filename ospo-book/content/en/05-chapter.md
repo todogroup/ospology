@@ -22,9 +22,9 @@ Open source software is an important part of the software supply chain. Because 
 
 This chapter includes useful resources to help OSPOs and open source developers apply secure software development and supply chain best practices - both in the software they use and the software they create.
 
-In some ways, security is just like any other requirement. However, many software developers and their managers haven't received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
+In some ways, security is just like any other requirement. However, many software developers and their managers haven't received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together—not just on one part.
 
-Fixing security problems later is often expensive. It's better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It's important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of "open design" — but these benefits don't happen automatically.
+Fixing security problems later is often expensive. It's better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It's important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of "open design"—but these benefits don't happen automatically.
 
 ## Training and Education
 
@@ -59,10 +59,10 @@ Both developers and managers must understand any laws or regulations they need t
 
 **Protect your environments, including development, build, test, and distribution:**
 
-1. Use multi-factor authentication (MFA) to make it harder for attackers to gain access.
+1. Use Multi-Factor Authentication (MFA) to make it harder for attackers to gain access.
 1. Secure your build environment. See OpenSSF SLSA for more guidance [^11].
 
-**Use automated tools in your continuous integration (CI) pipeline to catch security issues early:**
+**Use automated tools in your Continuous Integration (CI) pipeline to catch security issues early:**
 
 1. Use multiple types of tools, as each may find different problems, see the Guide to Security Tools [^12].
 
@@ -70,7 +70,7 @@ Both developers and managers must understand any laws or regulations they need t
 
 1. Enable tools that detect known vulnerabilities in reused components
 
-Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [^13].
+Prepare for vulnerability reports—they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [^13].
 
 ## Applying This to Your Organization
 
@@ -82,7 +82,7 @@ Training and education should happen regularly, not just once. Developers and ma
 
 It also helps to be open about security progress. Encourage teams to track and share their progress on goals like earning Best Practices badges or improving their Scorecard results. This creates a positive environment where teams help each other and improve together, instead of feeling blamed when something goes wrong.
 
-Lastly, support continuous improvement. Security isn't something you finish — it's always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
+Lastly, support continuous improvement. Security isn't something you finish—it's always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
 
 By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the OSS it builds and uses.
 

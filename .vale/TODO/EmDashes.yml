@@ -1,7 +1,7 @@
 extends: existence
 ignorecase: true
 level: error
-scope: raw
+scope: sentence
 nonword: true
 message: "Don't put a space before and after a dash."
 tokens:

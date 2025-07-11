@@ -6,7 +6,7 @@ weight: 20
 
 ## What's This Book About?
 
-Open source is a reality for all organizations that work with software — not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
+Open source is a reality for all organizations that work with software—not just for software companies. Because of this, actively managing open source is becoming increasingly important for many organizations.
 
 One way to manage open source is by setting up an Open Source Program Office (OSPO). Many companies and organizations have adopted this approach, and there is now a lot of shared experience and knowledge about how to do it successfully. In the open source spirit, much of this knowledge is openly available in the community.
 
