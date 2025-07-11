@@ -72,11 +72,11 @@ Depending on the complexity of your organization and the resources available to 
 
 * **Individual Contributors:** This petal represents the people who the OSPO will work within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
 
-* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
+* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business or organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
 
 * **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
 
-* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer.
+* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business or team units and fostering collaboration and knowledge transfer.
 
 * **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
 
@@ -144,7 +144,7 @@ Here are some suggestions of how you could use the ideas and advice above to set
 
 ### Using a Simple Checklist
 
-The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
 
 ### Using Maturity Models
 
@@ -159,7 +159,7 @@ Here are some highlights from their work to inspire you:
 
 > NOTE: You can find a summary of their work in both Japanese and English in a Qiita article written by one of its members [^9]
 
-While planning the OSPO it's very helpful have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
+While planning the OSPO it's very helpful have 1:1 conversations with managers, high-level executives, and workers and contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
 
 This will also help to build support for your work across the business even before the OSPO is officially created and launched.
 
