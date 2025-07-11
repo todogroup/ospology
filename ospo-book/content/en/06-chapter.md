@@ -14,7 +14,7 @@ weight: 70
 
 > NOTE: This chapter has been developed through the collective expertise of CHAOSS open source project and participants from the CHAOSS OSPO Metrics Working Group, with support from the TODO Group.
 
-Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
+Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work—they also provide deeper insight into the open source projects the organization depends on.
 
 In the past, it might have been acceptable to know little about key open source projects. But that's no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we'll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
 
@@ -93,7 +93,7 @@ Evaluate how employee engagement in open source communities reflects organizatio
 
 **Commentary**
 
-There are ways that an organization can support community engagement by employees (for example contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization - including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community.
+There are ways that an organization can support community engagement by employees (for example contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization - including a time and prioritization component in how much time an employee spends in external and upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community.
 
 **Questions**
 

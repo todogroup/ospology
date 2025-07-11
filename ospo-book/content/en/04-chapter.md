@@ -73,7 +73,7 @@ In the following table, Ibrahim H.'s open source activity engagement model (prev
 | Activities                             | Value for the OSPO | Value for the  Organization                                                                                                                                                      |
 | -------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Create contribution policy and process | Managing open source contributions becomes easier. | Having clear procedures means that the organization can offer open source contributions in a legally safe way, for open source projects, the organization, and its employees. |
-| Qualification of contributors          | Contributors require less oversight and make good ambassadors. | Skilled contributors make better contributions into publicly-visible projects. This means less risk to the organization.               |
+| Qualification of contributors          | Contributors require less oversight and make good ambassadors. | Skilled contributors make better contributions into publicly visible projects. This means less risk to the organization.               |
 
 #### STAGE: Leadership
 
