@@ -1,7 +1,7 @@
 ---
 title: "第 6 章: OSPO における指標の使用"
 status: Completed
-weight: 70
+weight: 80
 ---
 
 - [序文](#序文)
