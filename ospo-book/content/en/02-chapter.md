@@ -117,7 +117,7 @@ _[Source: OSPOs, key lever for open source sustainability][1](https://speakerdec
 
 ### Assess the Value of Open Source Use
 
-Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [^2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [^3] estimates that the supply side value of widely used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [^4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
+Organizations may underestimate how much they already depend on the usage of open source. Several studies analyze the usage of OSS in the industry. For example, the *Synopsys Open Source Security and Risk Analysis Report 2024* [^2] finds that the average software project consists of 77% OSS. Additionally, a *Harvard Business School study* [^3] estimates that the supply-side value of widely used OSS is $4.15 billion, while the demand-side value is much larger at $8.8 trillion. Moreover, a study by OpenForum Europe [^4] estimates that OSS contributes between €65 to €95 billion to the European Union’s GDP and promises significant growth opportunities for the region’s digital economy.
 
 Assess this value for your own organization by taking steps such as:
 
