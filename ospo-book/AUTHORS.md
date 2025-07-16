@@ -45,6 +45,16 @@ This list is updated every time a new release is published, but you can open a P
 
 ### Chinese
 
+- Chris Yang
+- Zhou Li
+- ChenYong
+- Ben TENG
+- ZhuWanyi
+- Chaojun ZENG
+- Mingkang LI
+- LiJiansheng
+- Ian (Liqiu) ZHANG
+
 ### Portuguese (Brazilian)
 
 - Fernando Eugenio Correa
