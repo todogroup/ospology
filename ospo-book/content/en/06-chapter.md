@@ -14,7 +14,7 @@ weight: 70
 
 > NOTE: This chapter has been developed through the collective expertise of CHAOSS open source project and participants from the CHAOSS OSPO Metrics Working Group, with support from the TODO Group.
 
-Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work—they also provide deeper insight into the open source projects the organization depends on.
+Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
 
 In the past, it might have been acceptable to know little about key open source projects. But that's no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we'll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
 
@@ -159,7 +159,7 @@ For organizations that use open source projects and want to understand the healt
 
 ### How OSPOs Can Navigate the Complexities of Open Source Project Health
 
-Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [^2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
+Understanding the health of an open source project is not a simple task. Open source health includes many different concerns — both technical and social — that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [^2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
 
 These health aspects focus on important areas such as:
 
@@ -167,7 +167,7 @@ These health aspects focus on important areas such as:
 * Project orchestration and leadership.
 * Production processes and outputs.
 
-Each health aspect is further described using attributes—smaller, more detailed elements—that help organizations examine project health in a structured way.
+Each health aspect is further described using attributes — smaller, more detailed elements — that help organizations examine project health in a structured way.
 
 #### Matching the Framework to the Right Context
 
@@ -182,7 +182,7 @@ When comparing open source projects, OSPOs should group and assess projects with
 
 #### Making Smart Choices About What to Measure
 
-Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
+Every organization has a different context — different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
 
 * Decide which health aspects and attributes matter most based on their organization's needs.
 * Prioritize efforts — it's too time-consuming and expensive to measure everything.
