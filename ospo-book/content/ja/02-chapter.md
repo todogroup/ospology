@@ -96,7 +96,7 @@ OSPO は、ソフトウェアにおけるオープンソースコンポーネン
 
 - **ゲートキーパーとしての役割：** OSPO は、オープンソースポリシーの施行とオープンソースガバナンスの強化を支援する。これにより、組織はコンプライアンスを確保し、オープンソースのセキュリティリスクを軽減できる。
 
-![ospo-support](/images/ospo-support.png)
+![ospo-support](/images/ospo-support_ja.png)
 
 ### 分散型オープンソース管理モデルへの中間ステップとして
 
@@ -108,7 +108,7 @@ OSPO は、オープンソースを継続的な活動として管理し、組織
 
 しかし、今後数年で変わるかもしれないことは、OSPO に対する中央集権的な見方です。こうした従来の認識は薄れ、チームや事業部門を超えた、より分散化された構造へと移行するかもしれません。
 
-![ospowork](/images/ospowork.png)
+![ospowork](/images/ospowork_ja.png)
 
 _[出典: OSPOs, key lever for open source sustainability](https://speakerdeck.com/anajsana/ospos-a-key-lever-for-open-source-sustainability)_
 
