@@ -47,7 +47,7 @@ OSPO は、4つの異なる視点から部門横断的な連携を検討しま�
 
 たとえば、次の図は、ビジネス指向の OSPO におけるさまざまなプレイヤーとその機能間連携の方法を示しています。
 
-<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO.png">
+<img width="908" alt="players in a business-oriented OSPO" src="/images/players-in-a-business-oriented-OSPO_ja.png">
 
 ### 歴史
 
