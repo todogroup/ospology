@@ -6,7 +6,7 @@ weight: 10
 
 ## Chapter 1: Introduction to Open Source Program Offices
 
-This chapter introduces the concept of Open Source Program Offices (OSPOs), explaining what they are, where they come from, and why they matter. It includes guidance on assessing whether an organization is ready for an OSPO, along with common scenarios and early stage recommendations.
+This chapter introduces the concept of Open Source Program Offices (OSPOs), explaining what they are, where they come from, and why they matter. It includes guidance on assessing whether an organization is ready for an OSPO, along with common scenarios and early-stage recommendations.
 
 ## Chapter 2: The Value of Open Source Program Offices
 

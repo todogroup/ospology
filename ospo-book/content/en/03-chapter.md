@@ -144,7 +144,7 @@ Here are some suggestions of how you could use the ideas and advice above to set
 
 ### Using a Simple Checklist
 
-The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
 
 ### Using Maturity Models
 
