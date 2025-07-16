@@ -3,11 +3,11 @@ ignorecase: true
 level: error
 scope: sentence
 nonword: true
-message: "Don't put a space before and after a dash."
+message: "Put a space before and after a dash."
 tokens:
-  - ' --'
-  - '-- '
-  - ' —'
-  - '— '
-  - ' &mdash;'
-  - '&mdash; '
+  - '\S--'
+  - '--\S'
+  - '\S—'
+  - '—\S'
+  - '\S&mdash;'
+  - '&mdash;\S'
