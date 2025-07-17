@@ -50,7 +50,7 @@ OSPO は、戦略、ガバナンス、コンプライアンス、コミュニテ
 
 OSPO が適切な役割を果たすためには、組織の運営方法を理解する必要があります。企業の目標を理解することで、オープンソースの活用に関する適切な判断を下せます。たとえば、ビジネスシーンにおいて、オープンソースがどのように適合するかを確認するために、OSPO は次の領域を分析します。
 
-![organization-architecture](/images/organization-architecture.png)
+![organization-architecture](/images/organization-architecture_ja.png)
 
 各組織で価値観、ビジネスドライバー、文化が異なるため、具体的な内容を提示することは困難です。しかし、次の質問に答えることで、文書を効果的に構成化できます。
 
@@ -70,7 +70,7 @@ OSPO がステークホルダーを特定する際に共通するビジネス領
 
 組織の複雑さや OSPO が利用できるリソースに応じて花びらはさらに細分化され、異なる名前を持つ花びらを追加することもあります。
 
-![ospoflower](/images/ospo-flower.png)
+![ospoflower](/images/ospo-flower_ja.png)
 [ospoflower.pdf](/pdfs/ospoflower-seconddraft-1.pdf)
 
 * **個人貢献者（Individual Contributors）:** この花びらは、OSPO が組織内で協力する人々を表し、個人としてオープンソースに貢献する内的および外的な動機付けに焦点を当てている。この動機付けには文化的変革の努力が必要であり、それにはメンタリングプログラムの設立などの活動を含む場合がある。
@@ -119,7 +119,7 @@ OSPO がステークホルダーを特定する際に共通するビジネス領
 * 貢献 - オープンソースプロジェクトへ実践的に貢献している。
 * リーダーシップ - ビジネスの価値を高めるためにオープンソースへ戦略的に関与している。
 
-![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
+![opensourceinvolvementmodel](/images/opensourceinvolvementmodel_ja.png)
 
 #### 成熟度モデル 2 - Carl-Eric による企業のオープンソース採用の 5 段階のトーク [^6]:
 
@@ -129,7 +129,7 @@ OSPO がステークホルダーを特定する際に共通するビジネス領
 * 協力的 - ビジネスの価値を生み出すツールとしてオープンソースの連携を活用している。
 * 主導的 - ビジネスと技術の戦略的領域に影響を与えるためにオープンソースを活用している。
 
-![osmm-carl](/images/osmm-carl.png)
+![osmm-carl](/images/osmm-carl_ja.png)
 
 #### 成熟度モデル 3 - TODO Group による OSPO 成熟モデル [^7]:
 
@@ -139,7 +139,7 @@ OSPO がステークホルダーを特定する際に共通するビジネス領
 * ステージ 3: オープンソースプロジェクトをホスティングし、コミュニティを育成している。
 * ステージ 4: 戦略的意思決定のパートナーとなっている。
 
-![OSPO Maturity Model](/images/ospo-maturity-model.jpg)
+![OSPO Maturity Model](/images/ospo-maturity-model_ja.jpg)
 
 ## 組織への適用
 
@@ -157,8 +157,8 @@ TODO Group と OpenChain の支援を受けて、OSPO Japan Local Meetup ワー�
 
 以下は、このワーキンググループの活動から抜粋した主なポイントです。参考にしてください。
 
-![ospo-role](/images/ospo-role.png)
-![benefits-of-oss](/images/benefits-of-oss.png)
+![ospo-role](/images/ospo-role_ja.png)
+![benefits-of-oss](/images/benefits-of-oss_ja.png)
 
 > 注: これは OSPO メンバーの 1 人が執筆した Qiita の記事で、OSPO の活動の概要を日本語と英語の両方で確認できます [^9]
 
@@ -170,7 +170,7 @@ OSPO 成熟度モデルを用いて段階に応じた各組織独自の分類す
 
 例: 
 
-<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization.png">
+<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization_ja.png">
 
 ## 起こりうる問題とその克服方法
 
