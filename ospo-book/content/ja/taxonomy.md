@@ -41,7 +41,7 @@ OSPO の目標や目的を、組織全体の使命や目的、およびそれを
 
   * **動機の原動力:** イノベーション / 相互運用性 / 社会正義 / 災害支援 / 人道支援 / 環境保護 / 持続可能な開発
 
-![OSPOSegments](https://github.com/todogroup/ospology/assets/43671777/c589df58-dcba-4237-b95a-e8dd5228be81)
+![OSPOSegments](/images/ospo-segments_ja.png)
 
 ### セグメントを見極めるためのよくある質問
 
