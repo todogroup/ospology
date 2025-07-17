@@ -62,7 +62,7 @@ CHAOSS プロジェクト（Community Health Analytics for OSS）は、「目標
 
 指標は、インパクトを伝える上で重要な役割を果たします。目標・質問・指標のアプローチに従い、OSPO が検討できる 4 つの目標と、それに応じた質問をご紹介します。
 
-<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts.png" />
+<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts_ja.png" />
 
 ### 1: パートナーの影響
 
