@@ -1,123 +1,115 @@
 ---
-title: "Chapter 5: Managing Open Source Security"
+title: "第 5 章: オープンソースのセキュリティ管理"
 status: Completed
-weight: 60
+weight: 70
 ---
 
-- [Introduction](#introduction)
-- [Training and Education](#training-and-education)
-- [Key Steps](#key-steps)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Resources and Footnotes](#resources-and-footnotes)
+- [序文](#序文)
+- [トレーニングと教育](#トレーニングと教育)
+- [主要なステップ](#主要なステップ)
+- [組織への適用](#組織への適用)
+- [リソースと脚注](#リソースと脚注)
 
-## Introduction
+## 序文
 
-> NOTE: This chapter has been developed through the expertise of Open Source Security Foundation (OpenSSF) representatives, with support from the TODO Group
+> 注: 本章は、Open Source Security Foundation（OpenSSF）の代表者たちの専門知識に基づき、TODO Group の支援を受けて作成されました。
 
-Open source software is an important part of the software supply chain. Because of this, it's part of an OSPO's responsibility to help secure the OSS supply chain. This includes tasks such as:
+オープンソースソフトウェアは、ソフトウェアサプライチェーンの重要な要素です。このため、OSPO の責任の一環として、オープンソースサプライチェーンのセキュリティを確保するための支援が求められます。これには次のタスクが含まれます。
 
-- Helping development teams assess the security of the OSS they use in products.
-- Encouraging development teams to contribute to upstream open source projects to help improve their security.
-- Following secure software development best practices in open source projects that the company maintains, contributes to, or leads.
+- 製品で利用するオープンソースのセキュリティを評価する開発チームを支援する。
+- 開発チームのアップストリームのオープンソースプロジェクトへの貢献を促進し、そのセキュリティを向上させる。
+- 企業が維持、貢献、リードするオープンソースプロジェクトにおいて、セキュアなソフトウェア開発のベストプラクティスを遵守する。
 
-This chapter includes useful resources to help OSPOs and open source developers apply secure software development and supply chain best practices - both in the software they use and the software they create.
+本章には、OSPO とオープンソース開発者が利用するソフトウェアと開発するソフトウェアの両方で、セキュアなソフトウェア開発とサプライチェーンのベストプラクティスを適用するための有用なリソースが含まれています。
 
-In some ways, security is just like any other requirement. However, many software developers and their managers haven't received enough training in security. Also, security is about defending against intelligent attackers, and it often depends on how the entire system works together — not just on one part.
+ある意味セキュリティは他の要件と変わりません。しかし、多くのソフトウェア開発者とそのマネージャーは、セキュリティに関する十分なトレーニングを受けていません。また、セキュリティとは、知能的な攻撃者から守ることであり、システムの一部ではなくシステム全体が連携することで達成されることが多々あります。
 
-Fixing security problems later is often expensive. It's better to prevent them, reduce their chances or impact, and be prepared in case something still goes wrong. It's important to plan from the beginning and allocate resources (such as time and money) to handle security properly. Open source software can have a security advantage because it allows for mass peer review and follows the principle of "open design" — but these benefits don't happen automatically.
+セキュリティ問題を後から修正するのは往々にして高コストです。予防し、発生する機会や影響を軽減し、万一発生した場合に備えることが重要です。また、最初から計画を立て、セキュリティを適切に扱うためのリソース（時間や資金など）を割り当てることも重要です。オープンソースソフトウェアは、大規模なピアレビューが可能で「オープンデザイン」の原則に従うため、セキュリティ上の優位性が得られます。しかし、こうしたメリットは自動で得られるものではありません。
 
-## Training and Education
+## トレーニングと教育
 
-Many software developers and managers don't know what they need to know about security. This lack of knowledge often causes problems. Here are some key areas to understand, along with links to free OpenSSF courses that can help. These specific courses aren't required, but it's important that everyone involved in software development gets the right training.
+多くのソフトウェア開発者やマネージャーは、セキュリティに関する必要な知識を把握していません。こうした知識不足は、しばしば問題を引き起こします。次に、理解すべき重要な領域と、役立つ無料の OpenSSF コースへのリンクをまとめました。これらの特定のコースは必須というわけではありませんが、ソフトウェア開発に関わる全員が適切なトレーニングを受けることが重要です。
 
-Managers (of both open and closed source projects) should understand how to manage secure software development. This includes knowing basic security terms, how to manage risks, how to build security into the design, how to protect all environments, how to identify risks early, and how to set clear expectations with stakeholders. Managers should also understand what their developers need to learn. If they haven't been trained yet, they can take the free Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)* [^1].
+（オープンソースとクローズドソースの両方のプロジェクト）のマネージャーは、セキュアなソフトウェア開発を管理する方法を理解する必要があります。これには、基本的なセキュリティ用語の理解、リスク管理の方法、設計段階からのセキュリティの組み込み、すべての環境の保護、リスクの早期発見、ステークホルダーとの明確な期待値の設定が含まれます。また、開発者が学ぶべき内容も理解する必要があります。まだトレーニングを受けていない場合は、OpenSSF の無料コース *Security for Software Development Managers (LFD125)* [^1] を受講できます。
 
-Developers should take a course on secure software development. This includes how to build secure software during planning, design, coding, testing, and release. Developers also need to know how to evaluate third-party software. They should understand common vulnerabilities (like those in the OWASP Top Ten for web apps [^2] and CWE Top 25 for general software [^3]) and how to avoid them. They should also know how to secure development environments and respond to vulnerability reports. If they haven't had this training, they can take the free OpenSSF course Developing Secure Software (LFD121) [^4].
+開発者は、セキュアなソフトウェア開発に関するコースを受講する必要があります。これには、計画、設計、コーディング、テスト、リリースの各段階でセキュアなソフトウェアを構築する方法が含まれます。開発者は、サードパーティ製ソフトウェアの評価方法も理解する必要があります。ウェブアプリ向けの OWASP Top 10 [^2] や一般的なソフトウェア向けの CWE Top 25 [^3] などに含まれる一般的な脆弱性とその回避方法も理解する必要があります。また、開発環境のセキュリティを確保し、脆弱性レポートに対応する方法も把握する必要があります。このトレーニングを受けていない場合は、OpenSSF の無料コース*セキュアソフトウェア開発 (LFD121-JP)* [^4] を受講できます。
 
-Both developers and managers must understand any laws or regulations they need to follow. For example, anyone involved in software that may be used in the European Union (EU) should understand the EU Cyber Resilience Act (CRA). This includes knowing what the CRA applies to, the different roles it defines (such as manufacturer or open source steward), and the legal responsibilities it creates. Because the CRA covers a wide range and includes strong penalties, those who need to understand it can take the free OpenSSF course Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001) [^5].
+開発者とマネージャーは、遵守が必要な法律や規制を理解しなければなりません。たとえば、欧州連合（EU）で使用される可能性があるソフトウェアに関与する人は誰でも、EU サイバーレジリエンス法（CRA）を理解する必要があります。これには、CRA の適用範囲、定義される役割（製造者やオープンソーススチュワードなど）、CRA が定める法的責任が含まれます。CRA は広範な範囲をカバーし、厳しい罰則を定めているため、理解が必要な人は、OpenSSF の無料コース *Understanding the European Union (EU) Cyber Resilience Act (CRA) (LFEL1001)* [^5] を受講できます。
 
-## Key Steps
+## 主要なステップ
 
-**For developing your own software:**
+**自社ソフトウェア開発の場合:**
 
-1. Review the OpenSSF Concise Guide for Developing More Secure Software, which links to practical resources [^6].
+1. 実践的なリソースにつながる OpenSSF のより安全なソフトウェア開発のための簡潔なガイド [^6] を確認する。
+2. セキュリティチェックの簡潔なリストである　Open Source Project Security（OSPS）Baseline [^7]　を満たすように努める。
+3. プロジェクトで OpenSSF ベストプラクティスバッジ [^8] を取得する。最初は「passing」を取得することから始め、時間をかけて「silver」または「gold」を目指す計画を立てる。
+4. OpenSSF スコアカード [^9] のスコアを向上させる。これは他のプロジェクトの評価によく使用されるが、自身のプロジェクトの進捗を測定するのにも役立つ。
 
-1. Work to meet the OpenSSF Baseline, a short list of security checks [^7].
+**現代のほとんどのソフトウェアは他のソフトウェアを再利用しています。慎重にオープンソースコンポーネントを選択して利用してください:**
 
-1. Earn an OpenSSF Best Practices badge for your project. Start with "passing" and plan to achieve "silver" or "gold" over time [^8].
+1. オープンソースソフトウェアの評価のための簡潔なガイド [^10] を使用する。
+2. 「タイポスクワッティング」攻撃（悪意のあるパッケージが信頼できるパッケージと似た名前を使用する攻撃）を回避するために、ソフトウェア名を再確認する。
+3. ソフトウェアを利用する前にソフトウェアを評価するために、OpenSSF スコアカード [^9] を使用する。
 
-1. Improve your OpenSSF Scorecard score. While this is often used to evaluate other projects, it can also help you measure your own [^9].
+**開発、ビルド、テスト、配布を含む環境を保護してください:**
 
-**Most modern software reuses other software. Choose and use open source components carefully:**
+1. 多要素認証（MFA）を使用して、攻撃者からアクセスしにくくする。
+2. ビルド環境を保護する。詳細なガイドラインは OpenSSF SLSA [^11] を参照する。
 
-1. Use the Concise Guide for Evaluating Open Source Software [^10].
+**セキュリティ問題を早期検出するために、継続的インテグレーション（CI）パイプラインで自動化されたツールを使用してください:**
 
-1. Double-check software names to avoid "typosquatting" attacks (where malicious packages have names similar to trusted ones).
+1. ツールによって異なる問題を検出する可能性があるため、複数の種類のツールを使用する。Guide to Security Tools [^12] を参照する。
+2. 新規プロジェクト（「グリーンフィールド」）では、すべてのセキュリティチェックを有効化する。既存プロジェクト（「ブラウンフィールド」）では、レポートを管理しやすいように最も重要なチェックから開始する。
+3. 再利用コンポーネントの既知の脆弱性を検出するツールを有効化する。
 
-1. Use the OpenSSF Scorecard to evaluate software before using it [^9].
+脆弱性レポートに備えてください。脆弱性レポートは、どのプロジェクトでも発生する可能性があります。脆弱性を報告する方法について明確に説明してください。オープンソースプロジェクトは、OpenSSF のオープンソースプロジェクト向けに協調的脆弱性開示プロセスを実装するためのガイド [^13] を確認する必要があります。
 
+## 組織への適用
 
-**Protect your environments, including development, build, test, and distribution:**
+組織内のオープンソースのセキュリティを向上させることは、単にツールを使用するだけではありません。文化や日々の業務プロセスも変える必要があります。最初のステップの 1 つは、セキュリティは小さなチームだけではなく全員の責任であるという意識を築くことです。リーダーは、セキュアなソフトウェア開発が重要であることを明確に伝え、時間、リソース、そしてセキュリティに取り組む人を評価することによって支援する必要があります。
 
-1. Use multi-factor authentication (MFA) to make it harder for attackers to gain access.
-1. Secure your build environment. See OpenSSF SLSA for more guidance [^11].
+セキュリティ対策は、日々の開発業務の一部であり、切り離されたものではありません。たとえば、セキュリティチェックをたまに実行するのではなく、スコアカードや脆弱性スキャンなどのツールを CI/CD パイプラインの一部に組み込んでください。こうすることで、セキュリティは、チームがソフトウェアを構築する際の当たり前に期待される要素となります。
 
-**Use automated tools in your continuous integration (CI) pipeline to catch security issues early:**
+トレーニングと教育は、一度きりではなく、定期的に実施すべきです。開発者やマネージャーには、セキュアなソフトウェア開発の基礎を学ぶよう奨励すべきです。これには OpenSSF の無料コースや他のプログラムが含まれます。セキュリティの学習は重要であり、それは評価されることをチームに理解してもらいしましょう。これにより、長期的な関心と責任感が育まれます。
 
-1. Use multiple types of tools, as each may find different problems, see the Guide to Security Tools [^12].
+セキュリティの進捗状況をオープンにすることも役立ちます。チーム間で目標（例: ベストプラクティスバッジの獲得やスコアカードの結果の改善）の進捗を追跡し、共有するよう促しましょう。こうすることで、問題が発生したら責められると感じるのではなく、互いに助け合い、共に改善していくポジティブな環境が生まれます。
 
-1. For new projects ("green field"), enable all security checks. For older projects ("brown field"), start with the most important checks so the reports are manageable
+最後に、継続的な改善を支援しましょう。セキュリティに終わりはなく、常に変化するものです。リスクのレビュー、ツールやプラクティスの更新、チームが学んだことを共有する定期的な時間を設けましょう。開発プロセスの最終段階や問題が発生した後だけでなく、初期段階からセキュリティに関する意思決定をチームに委ねましょう。
 
-1. Enable tools that detect known vulnerabilities in reused components
+共同責任の文化を築き、セキュリティを日々の業務に組み込み、学習に投資し、オープンさを促進し、継続的に改善することで、組織は構築・利用するオープンソースのセキュリティ確保に向けて真に進むことができます。
 
-Prepare for vulnerability reports — they can happen to any project. Clearly explain how people can report vulnerabilities. Open source projects should review the OpenSSF Guide to implementing a coordinated vulnerability disclosure process [^13].
+## リソースと脚注
 
-## Applying This to Your Organization
-
-Improving the security of OSS in your organization isn't just about using tools. It also requires changes in culture and daily work processes. One of the first steps is to build a mindset where security is everyone's responsibility, not just the job of a small team. Leaders should clearly communicate that secure software development is important and support this with time, resources, and recognition for those who work on it.
-
-Security practices should be part of everyday development work, not something separate. For example, instead of running security checks only once in a while, make tools like scorecards and vulnerability scans part of your regular CI/CD pipeline. This helps make security a normal and expected part of how your team builds software.
-
-Training and education should happen regularly, not just once. Developers and managers should be encouraged to learn the basics of secure software development. This can include free OpenSSF courses and other programs. Make sure your teams know that learning about security is important and will be recognized. This builds long-term interest and responsibility.
-
-It also helps to be open about security progress. Encourage teams to track and share their progress on goals like earning Best Practices badges or improving their Scorecard results. This creates a positive environment where teams help each other and improve together, instead of feeling blamed when something goes wrong.
-
-Lastly, support continuous improvement. Security isn't something you finish — it's always changing. Set up regular times to review risks, update tools and practices, and share what your teams have learned. Give teams the freedom to make decisions about security early in the development process, not just at the end or after a problem happens.
-
-By creating a culture of shared responsibility, adding security into everyday work, investing in learning, encouraging openness, and improving over time, your organization can make real progress in securing the OSS it builds and uses.
-
-## Resources and Footnotes
-
-### Resources
+### リソース
 
 - OpenSSF: https://openssf.org/
 - OWASP: https://owasp.org/
 - CWE: https://cwe.mitre.org/index.html
 
-### Footnotes
+### 脚注
 
 [^1]: Open Source Security Foundation OpenSSF course *Security for Software Development Managers (LFD125)*: https://training.linuxfoundation.org/training/security-for-software-development-managers-lfd125/
 
-[^2]: OWASP Top Ten for web apps: https://owasp.org/www-project-top-ten/
+[^2]: OWASP Top 10: https://owasp.org/www-project-top-ten/
 
-[^3]: CWE Top 25 for general software: https://cwe.mitre.org/top25/
+[^3]: CWE Top 25: https://cwe.mitre.org/top25/
 
-[^4]: OpenSSF course Developing Secure Software (LFD121): https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
+[^4]: OpenSSF 提供のコース、セキュアソフトウェア開発 (LFD121-JP): https://training.linuxfoundation.org/ja/training/developing-secure-software-lfd121-jp/
 
-[^5]: Understanding the EU Cyber Resilience Act (CRA): https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/
+[^5]: Understanding the EU Cyber Resilience Act (CRA) (LFEL1001): https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/
 
-[^6]: Concise Guide for Developing More Secure Software: https://best.openssf.org/Concise-Guide-for-Developing-More-Secure-Software
+[^6]: より安全なソフトウェア開発のための簡潔なガイド: https://www.linuxfoundation.jp/concise-guide-for-developing-more-secure-software-jp/
 
-[^7]: OpenSSF Baseline: https://baseline.openssf.org/
+[^7]: Open Source Project Security（OSPS）Baseline: https://baseline.openssf.org/
 
-[^8]: OpenSSF Best Practices badge: https://www.bestpractices.dev/
+[^8]: OpenSSF ベストプラクティスバッジ: https://www.bestpractices.dev/ja
 
-[^9]: OpenSSF Scorecard: https://github.com/ossf/scorecard
+[^9]: OpenSSF スコアカード: https://github.com/ossf/scorecard
 
-[^10]: Concise Guide for Evaluating Open Source Software: https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software
+[^10]: オープンソースソフトウェアを評価するための簡潔なガイド: https://www.linuxfoundation.jp/concise-guide-for-evaluating-open-source-software-jp/
 
 [^11]: OpenSSF SLSA: https://slsa.dev/
 
 [^12]: Guide to Security Tools: https://github.com/ossf/wg-security-tooling/blob/main/guide.md#readme
 
-[^13]: OpenSSF Guide to implementing a coordinated vulnerability disclosure process: https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md#readme
+[^13]: オープンソースプロジェクト向けに協調的脆弱性開示プロセスを実装するためのガイド: https://www.linuxfoundation.jp/maintainer-guide-jp/
