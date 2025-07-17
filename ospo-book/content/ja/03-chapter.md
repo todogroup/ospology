@@ -1,211 +1,214 @@
 ---
-title: "Chapter 3: Creating Your OSPO"
+title: "第 3 章: OSPO の設立"
 status: Completed
 weight: 50
 ---
+- [序文](#序文)
+- [戦略から始める](#戦略から始める)
+- [OSPO の設計](#ospo-の設計)
+- [OSPO 成熟度モデルを活用する](#ospo-成熟度モデルを活用する)
+- [組織への適用](#組織への適用)
+- [起こりうる問題とその克服方法](#起こりうる問題とその克服方法)
+- [リソースと脚注](#リソースと脚注)
 
-- [Introduction](#introduction)
-- [Starting with Strategy](#starting-with-strategy)
-- [Designing your OSPO](#designing-your-ospo)
-- [Using Maturity Models for OSPOs](#using-maturity-models-for-ospos)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Resources and Footnotes](#resources-and-footnotes)
 
-## Introduction
+## 序文 
 
-OSPOs can be really diverse, so taking the time to design an OSPO that will deliver on your organization's goals is important.
+OSPO は多岐にわたるため、組織の目標を達成するための OSPO を設計する時間は重要です。
 
-This chapter will first help you to idenify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
+本章ではまず、組織が取り組むべき業務の計画立案の基盤となる戦略と、OSPO のあるべき組織構造を明確にできるようにします。
 
-It will then look at designing and building a stable and strong OSPO that's capable of covering the open source-related tasks and responsibilities needed by your organization.
+次に、組織が求めるオープンソース関連のタスクと責任を網羅できる、安定的で強固な OSPO を設計し構築する方法について説明します。
 
-Lastly, this chapter will introduce maturity model as a way of understanding what's appropriate for your OSPO now and in the future as needs change.
+最後に、本章では、ニーズの変化に応じて現在および将来の OSPO の適切なレベルを判断するための成熟度モデルを紹介します。
 
-## Starting With Strategy
+## 戦略から始める
 
-### How To Develop Strategy
+### 戦略の策定方法
 
-> For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open source realm that can propel the organization toward its strategic objectives.
+> OSPO のメンバーが、C レベルの経営幹部にオープンソース戦略を効果的に伝えるためには、業界の動向を深く理解し、CEO や CFO の主要な考慮事項と一致させる必要があります。一致させるためには、企業全体の戦略を明確に理解し、組織の戦略目標達成を後押しするオープンソース領域内の技術を特定する必要があります。
 >
-> Victor Lu and Rob Moffat Presentation - Strategy - End Game for FINOS Maturity Model [^1]
+> Victor Lu と Rob Moffat のプレゼンテーション - Strategy - End Game for FINOS Maturity Model [^1]
 
-An OSPO achieves this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source use, contributions and compliance activities to its overall organization objectives across its projects, products, services, and internal infrastructure.
+OSPO は、戦略、ガバナンス、コンプライアンス、コミュニティエンゲージメントなどの側面を網羅するフレームワークを構築し、維持することでこれを実現します。OSPO の戦略は、組織のオープンソースの利用、貢献、コンプライアンス活動を、プロジェクト、製品、サービス、社内インフラ全体にわたる組織全体の目標と一致させることに焦点を当てます。
 
-A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it.
+戦略は、具体的なトピックとそれらが組織およびその組織内のメンバーに与える影響に関する高レベルの合意を形成します。
 
-Things to consider when creating your strategy:
+戦略を策定する際の考慮事項は次の通りです。
 
-1. **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
-2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source.
-3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] which explains all essential information on OSPO structures and operations.
-4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [^4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
+1. **戦略文書を策定する:** 良いプラクティスとして、この戦略をオープンソース戦略文書 [^2] に文書化することが推奨される。このガイドでは、そのプロセスを段階的に説明する。
 
-## Designing Your OSPO
+2. **組織の目標を理解する:** 前章で述べたように、組織の目標と現在のオープンソースへの関与を理解する必要がある。
 
-### Identifying What Your OSPO Should Manage
+3. **コンテキストを考慮する:** OSPO の戦略と設計を開発する際、人員、技術、予算を検討する前に、組織図内における OSPO の構造と位置付けを決定するいくつかの異なる方法がある。TODO Group が作成した*深層考察：『オープンソース プログラム オフィス』* [^3] という優れたガイドでは、OSPO の構造と運用に関するすべての重要な情報が説明されている。
 
-To do a good job, an OSPO needs to understand how the organization works. Knowing the company's goals helps the OSPO make informed choices about using open source. For example, in a business setting, an OSPO might look at these areas to see how open source fits in::
+4. **OSPO の構造例を確認する:** OSPO の潜在的な活動の概要を把握するには、OSPO マインドマップ [^4] を確認すること。マインドマップでは、OSPO のエコシステム内での主な責任、役割、行動、チーム規模を概説している。
 
-![organization-architecture](/images/organization-architecture.png)
+## OSPO の設計
 
-Since every organization is unique in its values, business drivers, and culture, it's challenging to provide specific content. However, addressing the following questions can help structure the document effectively:
+### OSPO が管理すべき範囲の特定
 
-* Which open source technology is and which will be important for your organization's goals and product roadmap?
-* Which open source projects directly and indirectly develop or influence these technologies and your organization's goals?
-* Which specific practices can best foster a sustainable open source ecosystem?
-* Which of the organization's processes have areas for improvement?
-* How can open source support those improvements?
-* How can you make workers champions for open source?
-* How can the message be effectively transmitted to management for their understanding?
+OSPO が適切な役割を果たすためには、組織の運営方法を理解する必要があります。企業の目標を理解することで、オープンソースの活用に関する適切な判断を下せます。たとえば、ビジネスシーンにおいて、オープンソースがどのように適合するかを確認するために、OSPO は次の領域を分析します。
 
-Taking the time to understand where the OSPO can add value will then help you to recognize who your stakeholders are.
+![organization-architecture](/images/organization-architecture_ja.png)
 
-### Identifying Your OSPO's Stakeholders
+各組織で価値観、ビジネスドライバー、文化が異なるため、具体的な内容を提示することは困難です。しかし、次の質問に答えることで、文書を効果的に構成化できます。
 
-There are some common parts of the business where an OSPO may find its stakeholders. Stakeholders are all the people who will be affected by the work you will do. The OSPO flower diagram helps to visualize the different stakeholder groups. Each petal represents a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* can also be used to help you map the specific communication channels, documentation and other material used with each group of stakeholders.
+* 組織の目標と製品ロードマップにとって現在重要なオープンソース技術は何か？また、今後重要になるものは何か？
+* これらの技術や組織の目標に直接的または間接的に影響を与えるオープンソースプロジェクトは何か？
+* 持続可能なオープンソースエコシステムを促進するための最適な具体的プラクティスは何か？
+* 改善の余地がある組織のプロセス領域はどこか？
+* オープンソースはそうした改善をどのように支援できるか？
+* 組織内のメンバーをオープンソースの支持者にするためにはどうすれば良いか？
+* 管理層に理解してもらうために効果的にメッセージを伝える方法は何か？
 
-Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
+OSPO が付加価値を提供できる領域を理解するために時間を取ることは、ステークホルダーを特定する役に立ちます。
 
-![ospoflower](/images/ospo-flower.png)
+### OSPO のステークホルダーを特定する
+
+OSPO がステークホルダーを特定する際に共通するビジネス領域が存在します。ステークホルダーとは、あなたが行なう業務の影響を受けるすべての人々です。OSPO フラワーダイアグラムは、さまざまなステークホルダーグループを可視化するのに役立ちます。各花びらは、特定のステークホルダーグループと、そのグループに関連する特定の活動を表しています。*OSPO フラワーダイアグラム*は、各ステークホルダーグループが使用する具体的なコミュニケーションチャネル、ドキュメント、その他の資料をマッピングするのにも役立ちます。
+
+組織の複雑さや OSPO が利用できるリソースに応じて花びらはさらに細分化され、異なる名前を持つ花びらを追加することもあります。
+
+![ospoflower](/images/ospo-flower_ja.png)
 [ospoflower.pdf](/pdfs/ospoflower-seconddraft-1.pdf)
 
-* **Individual Contributors:** This petal represents the people who the OSPO will work within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+* **個人貢献者（Individual Contributors）:** この花びらは、OSPO が組織内で協力する人々を表し、個人としてオープンソースに貢献する内的および外的な動機付けに焦点を当てている。この動機付けには文化的変革の努力が必要であり、それにはメンタリングプログラムの設立などの活動を含む場合がある。
 
-* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
+* **管理（Management）:** この花びらでは、OSPO は戦略に焦点を当て、オープンソースと全体的なビジネス／組織戦略との整合性を探っている。管理層は独自の課題に直面しているが、オープンソースの強みを活用することで、効果的にこれらの課題を克服できる。
 
-* **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
+* **法務（Legal）:** この花びらは、オープンソースの法的側面を表している。法務は、組織内のオープンソースの取り組みに関連する法的要件と義務を理解し、管理する。これにより、コンプライアンスが確保され、法的リスクが軽減される。
 
-* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer.
+* **ビジネス（Business）:** この花びらは、OSPO が組織構造のあらゆる要素の連携をどう確保するかに焦点を当てている。これには、異なるビジネス／チームユニット間でベストプラクティスを共有し、連携と知識移転を促進することが含まれる。
 
-* **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
+* **オープンソース・エコシステム（Open Source Ecosystem）:** この花びらは、組織外のより広範なオープンソースコミュニティとプロジェクトのエコシステムを表している。OSPO は、アイデアを交換し、連携し、より広範なオープンソースコミュニティへ貢献するために、他の組織、プロジェクト、個人を含め、このエコシステムと関わる。
 
-* **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source.
+* **OSPO:** これは OSPO 自体の内部の仕組みを表している。OSPO のメンバーは、組織内のすべてのオープンソースの取り組みを連携させ、調整する。また、活動を監督して円滑な運営を確保し、オープンソースに関わる他のステークホルダーにガイダンスとサポートを提供する。
 
-### Collaborating With External Regulators
+### 外部規制機関との連携
 
-External regulators aren't included in the flower diagram, as this is a special case.
+外部規制機関は特別なケースであるため、フラワーダイアグラムには含まれていません。
 
-Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
+組織は、そのポリシーやプロセスに影響を与え、形作るさまざまな外部の規制に従う必要があります。これにより、規制機関は、法的要件、倫理基準、業界固有のガイドラインの遵守を確保します。外部規制機関には、次のようなものがあります。
 
-* Government Agencies: Government bodies establish and enforce laws and regulations that impact organizations.
-* Industry Regulators: Many industries have their own regulatory bodies or professional associations that set guidelines and standards for organizations to follow.
-* Consumer Protection Agencies: Consumer protection agencies ensure that organizations provide fair and safe products or services to consumers.
+* 政府機関: 組織に影響を与える法律や規制を制定し、施行する。
+* 業界規制機関: 多くの業界には、組織が遵守すべきガイドラインや基準を設定する独自の規制機関や業界団体がある。
+* 消費者保護機関: 組織が消費者に対して公正で安全な製品やサービスを提供することを保証する。
 
-For open source to be successful and sustainable within an organization, it's crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications of open source and its community. Thus, it's recommended that the OSPO consider ways to develop a plan for approaching and communicating with regulators, clearly defining the roles they will play in the policymaking process.
+オープンソースが組織内で成功し持続可能であるためには、オープンソースコミュニティだけでなく、外部規制機関との連携も不可欠です。この連携により、エコシステムに影響を与えるポリシーを策定する際、オープンソースの原則を明確に理解できます。主な目的は、オープンソースとそのコミュニティが及ぼす影響を完全に理解した上で、協働して適切な意思決定を行なうことです。したがって、OSPO は、規制機関にアプローチしてコミュニケーションをとるための計画を作成し、ポリシー策定プロセスにおける規制機関の役割を明確に定義する方法を検討することが推奨されます。
 
-## Using Maturity Models for OSPOs
+## OSPO 成熟度モデルを活用する
 
-### An Introduction to Maturity Models
+### 成熟度モデルの紹介
 
-An organization's engagement with open source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit and to have conversations about whether it's in the right place.
+組織のオープンソースへの関与は、通常、戦術的から戦略的までのスケールに沿って位置付けられます。成熟度モデルは、組織の各部門がこのスケールのどこに位置しているのかを理解し、それが適切な位置にあるかどうかについて議論するのに役立ちます。
 
-There are many different open source maturity models. Some are general, some are specialized. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
+オープンソース成熟度モデルにはさまざま種類があり、一般的なものから専門的なものまであります。政府、NGO、企業など、さまざまな組織向けの成熟度モデルがあり、あらゆる組織に適したバージョンやサブバージョンもあります。
 
-> NOTE: Maturity Models can be seen as a prescription for how OSPOs or open source engagement should develop. It can be tempting to think that it's always better to increase maturity. But, remember that you should consider what *level* of maturity is appropriate for your OSPO, or each function of your OSPO. Not every part needs to be highly developed. It may already deliver the value that's needed wihtout further development. If maturity models don't fit for your OSPO, consider using a capability model or something else that you prefer.
+> 注：成熟度モデルは、OSPO やオープンソースへの関与をどのように発展させるべきかを示す指針と見なすことができます。成熟度を高めることが常に良いことだと考えがちですが、OSPO や OSPO の各機能にとって適切な成熟度*レベル*を検討する必要があることを覚えておいてください。すべての部分が高度に発展する必要はありません。これ以上発展しなくても、すでに必要な価値を提供している場合もあります。成熟度モデルが OSPO に合わない場合は、能力モデルや好みの別のモデルを使用することを検討してください。
 
-### Example Maturity Models
+### 成熟度モデルの例
 
-Each of these maturity models is slightly different, but they all classify open source engagement from tactical and less intentional to strategic and more intentional.
+各成熟度モデルは少しずつ異なりますが、どのモデルも、戦術的で意図的でないものから戦略的でより意図的なものへと、オープンソースへの関与を分類しています。
 
-#### Maturity Model 1 - Open Source Engagement Adoption by Dr. Ibrahim H [^5]:
+#### 成熟度モデル 1 - Open Source Engagement Adoption by Dr. Ibrahim H [^5]:
 
-* Denial - No or unconscious use of open source
-* Consumption / Usage - Passive use of OSS
-* Participation - Engagement with open source communities
-* Contribution - Pragmatic contributions to open source projects
-* Leadership - Strategic involvement with open source to drive business value
+* 否認 - オープンソースを全く利用していない、または無意識に利用している。
+* 消費/利用 - オープンソースを受動的に利用している。
+* 参加 - オープンソースコミュニティへ関与している。
+* 貢献 - オープンソースプロジェクトへ実践的に貢献している。
+* リーダーシップ - ビジネスの価値を高めるためにオープンソースへ戦略的に関与している。
 
-![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
+![opensourceinvolvementmodel](/images/opensourceinvolvementmodel_ja.png)
 
-#### Maturity Model 2 - Five Stages of Corporate Open Source Adoption Talk by Carl-Eric [^6]:
+#### 成熟度モデル 2 - Carl-Eric による企業のオープンソース採用の 5 段階のトーク [^6]:
 
-* Accidental - open source is used by the organisation without knowing that it's used
-* Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
-* Directed - active participation incritical open source projects
-* Collaborate - open source collaboration is used as a tool to create business value
-* Prevail - open source is used to influence strategic areas of the business and technology
+* 偶発的 - 組織が利用していることを認識せずにオープンソースを利用している。
+* 反復的 - 消費と貢献の両方のプロセスを設けているが、貢献は散発的である。
+* 指示的 - 重要なオープンソースプロジェクトへ積極的に参加している。
+* 協力的 - ビジネスの価値を生み出すツールとしてオープンソースの連携を活用している。
+* 主導的 - ビジネスと技術の戦略的領域に影響を与えるためにオープンソースを活用している。
 
-![osmm-carl](/images/osmm-carl.png)
+![osmm-carl](/images/osmm-carl_ja.png)
 
-#### Maturity Model 3 - The OSPO Maturity Model by The TODO Group [^7]
+#### 成熟度モデル 3 - TODO Group による OSPO 成熟モデル [^7]:
 
-* Stage 0: Adopting Open Source Ad Hoc
-* Stage 1: Providing OSS Compliance, Inventory, and Developer Education
-* Stage 2: Evangelizing OSS Use and Ecosystem Participation
-* Stage 3: Hosting OSS Projects and Growing Communities
-* Stage 4: Becoming a Strategic Decision-Making Partner
+* ステージ 0: 場当たり的（アドホック）にオープンソースを採用している。
+* ステージ 1: オープンソースコンプライアンス、インベントリ、開発者向け教育を提供している。
+* ステージ 2: オープンソースの利用とエコシステムへの参加を啓蒙している。
+* ステージ 3: オープンソースプロジェクトをホスティングし、コミュニティを育成している。
+* ステージ 4: 戦略的意思決定のパートナーとなっている。
 
-![OSPO Maturity Model](/images/ospo-maturity-model.jpg)
+![OSPO Maturity Model](/images/ospo-maturity-model_ja.jpg)
 
-## Applying This to Your Organization
+## 組織への適用
 
-Here are some suggestions of how you could use the ideas and advice above to set up your OSPO. These are based on Maturity Model 3 - the OSPO Maturity Model by the TODO Group.
+ここでは、上記のアイデアとアドバイスを参考に OSPO を設立する方法をいくつか紹介します。これらは、TODO Group による OSPO 成熟度モデル 3 に基づいています。
 
-### Using a Simple Checklist
+### シンプルなチェックリストの使用
 
-The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+TODO OSPO チェックリスト [^8] は、初期段階と経験豊富な OSPO の両方が、前述の OSPO 成熟度モデルの各段階をスムーズに進むための、簡潔な共通のマイルストーンを提供しています。OSPO は組織のニーズに合わせてチェックリストの一部を削除、追加、編集することが必要な場合があることに注意してください。
 
-### Using Maturity Models
+### 成熟度モデルの利用
 
-Once you have a certain familiarity with open source maturity models, you can start to use one to build your strategy and create your plan.
+オープンソースの成熟度モデルに一定の理解が得られたら、それを利用して戦略を構築し、計画を作成し始めることができます。
 
-The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, has been developing a simple Frequently Asked Questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
+TODO Group と OpenChain の支援を受けて、OSPO Japan Local Meetup ワーキンググループは、OSPO に関するシンプルな FAQ を開発しています。このガイドは、さまざまなオープンソース活動をステージ 0 からステージ 4 にまで分類した OSPO 成熟度モデルの各段階における疑問に答えることを目的とし、各レベルにおける OSPO の役割を概説しています。
 
-Here are some highlights from their work to inspire you:
+以下は、このワーキンググループの活動から抜粋した主なポイントです。参考にしてください。
 
-![ospo-role](/images/ospo-role.png)
-![benefits-of-oss](/images/benefits-of-oss.png)
+![ospo-role](/images/ospo-role_ja.png)
+![benefits-of-oss](/images/benefits-of-oss_ja.png)
 
-> NOTE: You can find a summary of their work in both Japanese and English in a Qiita article written by one of its members [^9]
+> 注: これは OSPO メンバーの 1 人が執筆した Qiita の記事で、OSPO の活動の概要を日本語と英語の両方で確認できます [^9]
 
-While planning the OSPO it's very helpful have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
+OSPO を計画する際には、マネージャー、上級幹部、日々の業務でオープンソースを利用しているか、（ライセンス、セキュリティ脆弱性の観点から）戦略上オープンソースプロジェクトの取り扱いに関わっているさまざまなチームの従業員／契約社員と 1 対 1 で対話すると非常に役立ちます。こうした対話から得られた洞察を基に、組織独自の動機付け要因を定義し、オープンソースが価値をもたらす組織内の領域にマッピングします。
 
-This will also help to build support for your work across the business even before the OSPO is officially created and launched.
+また、OSPO が正式に設立・開始される前から、これらは組織全体にわたるあなたの取り組みを支持するでしょう。
 
-Map these motivators with different activity types across the organization, by using the OSPO Maturity Model and creating a second division that categorizes each of these unique motivators according to the different stages. Use this as a reference when you are engaging and communicating with your stakeholders.
+OSPO 成熟度モデルを用いて段階に応じた各組織独自の分類する 2 番目の区分を作成し、これらの動機付け要因を組織全体のさまざまなタイプの活動にマッピングしてください。そして、ステークホルダーと関わる際やコミュニケーションを取る際にこれを参照してください。
 
-For example:
+例: 
 
-<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization.png">
+<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization_ja.png">
 
-## Possible Problems and How To Overcome Them
+## 起こりうる問題とその克服方法
 
-### Problem
+### 問題
 
-While creating the OSPO you are getting lots of questions and having to adapt your plan to take into account new information. It seems there is a lack of consistency in how open source understanding and value are perceived across the organization, leading to confusion and potential risks.
+OSPO を作成する過程で、多くの質問を受け、新しい情報を考慮して計画を調整する必要があります。組織全体でオープンソースの理解と価値の認識に一貫性が欠如しているようで、それが混乱や潜在的なリスクを引き起こしています。
 
-### Recommendation
+### 推奨事項
 
-Ensure that you take the time to identify all your stakeholders and understand their motivations. Create publicly available  open source manifestos, principles, and websites as an effective way to foster a common understanding of values, principles, and goals among all teams and subsidiaries. Taking time to establish and enforce a consistent understanding of open source throughout the organization will ensure a stable and strong foundation for the OSPO.
+すべてのステークホルダーを特定し、そうした人々の動機を理解する時間を確保してください。すべてのチームと子会社間で価値観、原則、目標に関する共通の理解を促進する効果的な手段として、誰でも利用可能なオープンソースのマニフェスト、原則、Web サイトを作成してください。組織全体でオープンソースに関する一貫した理解を確立して徹底的に実施することに時間をかけることで、OSPO は安定した強固な基盤を確保できるでしょう。
 
-## Resources and Footnotes
+## リソースと脚注
 
-### Resources
+### リソース
 
 - TODO guide to outbound OSS: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/
-- TODO guide to participating in open source communities: https://todogroup.org/resources/guides/participating-in-open-source-communities/
+- オープンソース コミュニティへの参加: https://todogroup.org/resources/guides/participating-in-open-source-communities/
 - DevOps uses Capability, not Maturity: https://octopus.com/blog/devops-uses-capability-not-maturity
 - Porsche Open Source Website: https://opensource.porsche.com/
-- The Evolution of the OSPO: https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
+- Open Source Program Office (OSPO) の進化: https://www.linuxfoundation.jp/resources/publications/the-evolution-of-the-open-source-program-office-ospo/
 - OSPO 101 training module - OSPO and your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
 
-### Footnotes
+### 脚注
 
 [^1]: Strategy - End Game for FINOS Maturity Model: https://osr.finos.org/docs/presentations/strategy
 
-[^2]: Creating an open source strategy document: https://todogroup.org/resources/guides/setting-an-open-source-strategy/
+[^2]: オープンソース戦略の策定: https://www.linuxfoundation.jp/resources/open-source-guides/setting-an-open-source-strategy/
 
-[^3]: A deep dive into OSPOs: https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices
+[^3]: 深層考察：『オープンソース プログラム オフィス』: https://www.linuxfoundation.jp/publications/2022/11/a-deep-dive-into-open-source-program-offices/
 
-[^4]: OSPO Mind Map: https://todogroup.org/resources/mindmap/
+[^4]: OSPO マインドマップ: https://todogroup.org/ja/resources/mindmap/
 
 [^5]: Dr. Ibrahim H, Guide to Enterprise Open Source: https://www.linuxfoundation.org/research/guide-to-enterprise-open-source
 
 [^6]: Carl-Eric: https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/
 
-[^7]: The TODO Group Maturity Model: https://github.com/todogroup/ospology/blob/main/ospo-model/en/five-stage-OSPO-maturity-model.md
+[^7]: TODO Group 成熟モデル: https://github.com/todogroup/ospology/blob/main/ospo-model/jp/five-stage-OSPO-maturity-model.md
 
-[^8]: The TODO OSPO checklist: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md
+[^8]: TODO OSPO チェックリスト: https://github.com/todogroup/ospology/blob/main/ospo-model/jp/ospo-checklist.md
 
-[^9]: Summary of the work of The OSPO Japan Local Meetup Working Group in both Japanese and English in a Qiita article written by one of its members: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+[^9]: OSPO Japan Local Meetup ワーキンググループの活動概要（メンバーの 1 人が書いた Qiita 記事、日本語と英語両方記載されている）: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
