@@ -1,261 +1,261 @@
 ---
-title: "Chapter 6: Using Metrics in your OSPO"
+title: "第 6 章: OSPO における指標の使用"
 status: Completed
-weight: 70
+weight: 80
 ---
 
-- [Introduction](#introduction)
-- [Using Metrics to Communicate the Impact of Your OSPO](#using-metrics-to-communicate-the-impact-of-your-ospo)
-- [If You Manage Open Source Projects](#if-you-manage-open-source-projects)
-- [If You Use Open Source Projects](#if-you-use-open-source-projects)
-- [Resources and Footnotes](#resources-and-footnotes)
+- [序文](#序文)
+- [OSPO のインパクトを伝えるための指標の使用](#ospo-のインパクトを伝えるための指標の使用)
+- [オープンソースプロジェクトを管理している場合](#オープンソースプロジェクトを管理している場合)
+- [オープンソースプロジェクトを利用している場合](#オープンソースプロジェクトを利用している場合)
+- [リソースと脚注](#リソースと脚注)
 
-## Introduction
+## 序文
 
-> NOTE: This chapter has been developed through the collective expertise of CHAOSS open source project and participants from the CHAOSS OSPO Metrics Working Group, with support from the TODO Group.
+> 注記: 本章は、CHAOSS オープンソースプロジェクトと CHAOSS OSPO Metrics ワーキンググループの参加者の専門知識を結集し、TODO Group の支援を受けて作成されました。
 
-Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
+指標は、現代のあらゆる組織にとって重要な要素です。効果的に使用すれば、チームとそのプロジェクトの影響を追跡するための貴重な手段となります。OSPO にとって、指標は業務の計画と影響の測定を支援するだけでなく、組織が依存するオープンソースプロジェクトに関するより深い洞察も提供します。
 
-In the past, it might have been acceptable to know little about key open source projects. But that's no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we'll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
+かつては、主要なオープンソースプロジェクトについてあまり知識がなくても許容されていたかもしれません。しかし、オープンソースを取り巻く規制やセキュリティの状況は進化し続けており、もはや持続可能なアプローチではありません。私たちにとって重要なオープンソースプロジェクトへの理解が深まるにつれ、コミュニティ指標は不可欠なツールとなります。本章では、これらの指標を文脈の中でどのように位置づけ、組織全体の戦略的意思決定を導くためのより優れた洞察をどのように提供できるかを探ります。
 
-There are several reasons why organizations need visibility into open source projects. For example:
-* The organization is using open source and wants to track contributions to key projects.
-* The organization participates in an open source ecosystem and needs to identify potential risks and offer support where necessary.
-* The organization wants to contribute to the sustainability of OSS — especially the software that's critical to its business.
-* The organization must stay compliant with upstream license requirements and respond to security issues that could affect operations.
+組織がオープンソースプロジェクトの可視性を必要とする理由はいくつかあります。たとえば、
+* 組織はオープンソースを活用しており、主要プロジェクトへの貢献を追跡したいと考えている。
+* 組織はオープンソースエコシステムに参加しており、潜在的なリスクを特定し、必要に応じてサポートを提供する必要がある。
+* 組織は、オープンソース、特にビジネスに不可欠なソフトウェアの持続可能性に貢献したいと考えている。
+* 組織は、アップストリームのライセンス要件を遵守し、業務に影響を与える可能性のあるセキュリティ問題に対応する必要がある。
 
-### The Goal-Question-Metric Framework
+### 目標・質問・指標のフレームワーク
 
-Metrics for metrics' sake benefit no one. Consider these metrics:
+指標のための指標は誰の利益にもなりません。以下の指標を考えてみましょう。
 
-* The average age of issues is 10.3 days.
-* The total number of pull requests was 121 last month.
-* We had 3 new companies join our community over the past 15 days.
+* 課題の平均経過時間は 10.3日である。
+* 先月のプルリクエストの総数は 121 件であった。
+* 過去 15 日間で 3 社の新しい企業がコミュニティに参加した。
 
-Without context, these metrics provide no insight, so it's important to ensure that you use a framework like "goal-question-metric" to give you metrics that support your goals instead of working against them.
+文脈がなければ、これらの指標は洞察を提供しません。そのため、「目標・質問・指標」のようなフレームワークを使用して、目標に反するのではなく、目標をサポートする指標を得ることが重要です。
 
-The CHAOSS project (Community Health Analytics for OSS) advocates for using the "goal-question-metric" because it's a structured method for deriving metrics that align with organizational goals. It involves three key steps:
+CHAOSS プロジェクト（Community Health Analytics for OSS）は、「目標・質問・指標」の使用を推奨しています。これは、組織の目標と整合した指標を導き出すための構造化された手法だからです。このフレームワークには、以下の3つの主要なステップがあります。
 
-#### Goals
+#### 目標
 
-Identify and understand your organizational goals. These can vary significantly but typically include objectives like recruiting talent or enhancing community engagement.
+組織の目標を特定し、理解します。目標は大きく異なる場合がありますが、一般的には、人材の採用やコミュニティのエンゲージメント強化などの目標が含まれます。
 
-#### Questions
+#### 質問
 
-Break down these goals into specific, actionable questions. For example, to assess recruitment efforts, one might ask, "Who are important contributors?" or "How many did we help hire?"
+これらの目標を、具体的で実行可能な質問に分解します。たとえば、採用活動を評価するには、「重要な貢献者は誰か？」や「我々が採用を支援した人数は何人か？」といった質問をします。
 
-#### Metrics
+#### 指標
 
-Develop metrics to answer these questions. Metrics should be operational and data-driven, such as the number of contributions by name, hiring successes, or project activity levels. Some good data points, like the number of commits (on a software project), may not be relevant to the question you need to answer.
+これらの質問に答えるための指標を開発します。指標は、名前ごとの貢献数、採用の成功率、プロジェクトの活動レベルなど、運用可能でデータに基づいたものでなければなりません。ソフトウェアプロジェクトにおけるコミット数のような有用なデータポイントは、答えるべき質問とは必ずしも関連がない場合があります。
 
-### Understanding the  Role of Open Source Community Metrics
+### オープンソースコミュニティ指標の役割を理解する
 
-It's worth taking a moment to understand how open source community metrics support the other types of metrics that organizations are familiar with. Open source community metrics provide OSPOs with tangible ways to measure the influence, effectiveness, and strategic value of their open source initiatives.
+オープンソースコミュニティ指標が、組織が使い慣れている他の指標とどのように連携しているかを理解することは重要です。オープンソースコミュニティ指標は、OSPO にオープンソースイニシアチブの影響、有効性、戦略的価値を測定するための具体的な方法を提供します。
 
-By tracking contributions, engagement levels, and collaboration across projects, OSPOs can assess how well their organization is participating in and supporting the open source ecosystem.
+貢献、関与レベル、プロジェクト間のコラボレーションを追跡することで、OSPO は組織がオープンソースエコシステムにどの程度参加し、サポートしているかを評価できます。
 
-These metrics help demonstrate the impact of open source work on broader business goals such as accelerating innovation, reducing development costs, attracting talent, and increasing product visibility. Metrics also provide insight into community health and sustainability, highlighting whether a project is gaining traction, fostering collaboration, and attracting active users and contributors.
+これらの指標は、イノベーションの加速、開発コストの削減、優秀な人材の獲得、製品の認知度向上など、オープンソース活動がより広範なビジネス目標に及ぼす影響を示すのに役立ちます。また、指標はコミュニティの健全性と持続可能性に関する洞察を提供し、プロジェクトの注目度、コラボレーションの促進、アクティブなユーザーや貢献者の獲得状況を明らかにします。
 
-By tying community metrics to organizational KPIs, OSPOs can showcase the value of open source beyond code, such as improved product feedback loops, faster time to market, stronger developer relations, and enhanced technical credibility. This playbook provides guidance for OSPOs to track, analyze, and communicate those metrics effectively, translating open source participation into measurable business impact.
+コミュニティ指標を組織の KPI に結び付けることで、OSPO はコードにとどまらない、製品フィードバックループの改善、市場投入までの時間の短縮、開発者とのより強固な関係、技術的信頼性の向上などのオープンソースの価値を示すことができます。このプレイブックは、OSPO がこれらの指標を効果的に追跡、分析、伝達し、オープンソースへの参加を測定可能なビジネスインパクトへと変換するためのガイダンスを提供します。
 
-## Using Metrics to Communicate the Impact of Your OSPO
+## OSPO のインパクトを伝えるための指標の使用
 
-Metrics play an important role in communicating impact. Following the goal-question-metric approach here are four goals that OSPOs can consider, and questions to go with them.
+指標は、インパクトを伝える上で重要な役割を果たします。目標・質問・指標のアプローチに従い、OSPO が検討できる 4 つの目標と、それに応じた質問をご紹介します。
 
-<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts.png" />
+<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts_ja.png" />
 
-### 1: Partner Impact
+### 1: パートナーの影響
 
-**Goal**
+**目標**
 
-Understand how open source collaboration fosters strategic partnerships that can enhance market insight, strengthen vendor relationships, and create shared value beyond individual technologies.
+オープンソースのコラボレーションが、市場洞察を深め、ベンダーとの関係を強化し、個々の技術を超えた共通価値を創造できる戦略的パートナーシップをどのように育むかを理解する。
 
-**Commentary**
+**解説**
 
-Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
+オープンソースプロジェクトの活動はコラボレーションを前提としており、そのコラボレーションには予期せぬパートナーシップが伴うことも少なくありません。これらのパートナーシップは、各パートナーが必要としているものの必ずしも単独で開発するリソースや意欲がない、差別化につながらない技術の開発を目的としています。オープンソースプロジェクトは、組織のメンバーが共通の課題に取り組むために協力し合う場であり、この緊密な関係は、単一のオープンソース技術を共有する以上のメリットをもたらす可能性があります。オープンソースパートナーシップの強化は、上流ベンダーとの連携強化、市場での競合状況の理解向上、下流ユーザーとの直接的な交流など、プラスの副次効果をもたらす可能性があります。
 
-**Questions**
+**質問**
 
-* What other companies are involved in our open source projects of interest?
-* What other companies are involved in our pull requests?
-* How are other companies involved in our pull requests?
-* What's the composition of involved companies as our vendors, rivals, and customers?
+* 関心のあるオープンソースプロジェクトには、他にどのような企業が関与しているか？
+* プルリクエストには、他にどのような企業が関与しているか？
+* プルリクエストには、他の企業がどのように関与しているか？
+* 関与しているベンダー、競合他社、顧客の構成はどのようなものか？
 
-**Metrics**
+**指標**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+これらの質問に答えるために利用可能なデータを検討し、数値が増加または減少した場合に目標にどのような影響を与えるかを確信するために必要なその他の情報を検討してください。
 
-### 2: Community Impact
+### 2: コミュニティの影響
 
-**Goal**
+**目標**
 
-Evaluate how employee engagement in open source communities reflects organizational support, strengthens individual skill development, and enhances the organization's presence and influence in key projects.
+オープンソースコミュニティへの従業員の関与が、組織貢献、個人のスキル開発の強化、そして主要プロジェクトにおける組織の存在感と影響力の強化にどう反映されているかを評価します。
 
-**Commentary**
+**解説**
 
-There are ways that an organization can support community engagement by employees (for example contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization - including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community.
+組織が従業員のコミュニティへの関与を支援する方法はいくつかあります（例：貢献ガイドライン、知的財産管理、ライセンスサポート）。支援には、コミュニティが組織にとってなぜ重要であるか、つまり、従業員が社外やアップストリームの活動に費やす時間や優先順位といった要素も含まれることがよくあります。企業は、個人的および組織的な利益の観点から、従業員を良き市民とみなし、組織とコミュニティの架け橋としての役割を従業員が理解できるよう支援することができます。
 
-**Questions**
+**質問**
 
-* What percentage of employee contributions are merged?
-* What percentage of employee issues are closed without conversation?
-* How many of our employees have maintainer or leadership roles in key open source projects?
-* Have upstream contributions helped modernize tech skills for employees?
-* Which projects do our employees make over 50% of the contributions?
+* 従業員の貢献のうち、マージされている割合はどのくらいか？
+* 従業員が提出するイシューのうち、話し合いなくクローズされている割合はどのくらいか？
+* 主要なオープンソースプロジェクトでメンテナーまたはリーダーシップの役割を担っている従業員は何人か？
+* アップストリームへの貢献は、従業員の技術スキルの最新化に役立ったか？
+* 従業員の貢献が 50% 以上を占めているプロジェクトはどれか？
 
-**Metrics**
+**指標**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+これらの質問に答えるために利用可能なデータを検討し、数値が増加または減少した場合に目標にどのような影響を与えるかの確信を得るために必要なその他の情報を検討してください。
 
-###  3: Ecosystem Impact
+### 3: エコシステムの影響
 
-**Goal**
+**目標**
 
-Monitor and contribute to the health and resilience of open source ecosystems to ensure long-term viability, reduce risk, and support the strategic sustainability of key dependencies.
+オープンソースエコシステムの健全性とレジリエンス（回復力）を監視、貢献することで、長期的な存続可能性を確保し、リスクを軽減し、主要な依存関係の戦略的持続可能性をサポートします。
 
-**Commentary**
+**解説**
 
-Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required.
+オープンソースとの連携は決して容易ではありません。組織が関心を持つアップストリームプロジェクトが競合企業に独占されていたり、アップストリームプロジェクトのライセンスが予期せず変更されたり、個人または組織間の貢献者契約の理解と遵守が複雑だったりする場合があるからです。しかし、こうした課題は克服可能であり、組織が恩恵を求めるプロジェクトへの戦略的関与が含まれることも少なくありません。オープンソースエコシステムは、生産と需要を支えることを目的とした、さまざまな企業、動機、要件で構成される経済的、社会的システムです。あらゆるオープンソースエコシステムの効率性と持続性を確保するためには、企業はエコシステムの長期的な存続可能性を監視するだけでなく、問題が特定され安定化が必要になった場合には、エコシステム内で積極的に関与する必要があります。
 
-**Questions**
+**質問**
 
-* What percentage of our suppliers provide OSS bills of material?
-* What's the long-term viability of the open source projects we rely on?
-* What's the risk to the ecosystem if an open source project becomes unviable?
+* サプライヤーのうち、オープンソース部品表を提供している割合はどのくらいか？
+* 私たちが依存しているオープンソースプロジェクトの長期的な存続可能性はどの程度か？
+* オープンソースプロジェクトが存続不能になった場合、エコシステムへのリスクはどの程度か？
 
-**Metrics**
+**指標**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+これらの質問に答えるために利用可能なデータを検討し、数値が増加または減少した場合に目標にどのような影響を与えるかの確信を得るために必要なその他の情報を検討してください。
 
-### 4: Organizational Impact
+### 4: 組織への影響
 
-**Goal**
+**目標**
 
-Align open source engagement with internal governance, security, and product development to maximize the value of open source within organizational strategy and operations.
+オープンソースへの取り組みを、社内ガバナンス、セキュリティ、製品開発と連携させ、組織の戦略と運用におけるオープンソースの価値を最大化します。
 
-**Commentary**
+**解説**
 
-Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organizational impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
+オープンソースコミュニティとの連携には、組織の製品でオープンソースを効果的に活用するために、アップストリームでの取り組みが含まれます。そのためには、情報セキュリティ、法的、エンジニアリング上の理由から、オープンソースの導入状況を監視する必要があります。企業はソフトウェア導入プロセスを確立し、チームと協力してオープンソース導入に関する問題を技術的に追跡したり、社会的に検討したりすることができます。組織への影響には、組織の製品に依存しているプロジェクトや企業とのダウンストリームでの取り組みも含まれます。これには、出荷した製品に含まれるオープンソースをより明確に把握するための取り組みも含まれます。組織は、製品開発活動を改善するために、社内のオープンソースプロセスのセキュリティ確保と規制に取り組むことができます。
 
-**Questions**
+**質問**
 
-* What characteristics does an organization inspect related to inbound OSS?
-* What product-level software and infrastructure contains OSS dependencies?
-* How is OSPO strategy aligned with organizational strategy and departmental objectives?
-* How often is OSPO strategy used to guide business decision making processes?
-* How does the use of open source influence organizational value?
+* 組織は、オープンソースの導入に関してどのような特性を検査するか？
+* 本番レベルのソフトウェアとインフラストラクチャのうち、オープンソースへの依存関係を含むものはどれか？
+* OSPO 戦略は、組織戦略および部門目標とどのように整合しているか？
+* OSPO 戦略は、ビジネス上の意思決定プロセスの指針としてどの程度活用されているか？
+* オープンソースの利用は、組織の価値にどのような影響を与えるか？
 
-**Metrics**
+**指標**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+これらの質問に答えるために利用可能なデータを検討し、数値が増加または減少した場合に目標にどのような影響を与えるかの確信を得るために必要なその他の情報を検討してください。
 
-## If You Manage Open Source Projects
+## オープンソースプロジェクトを管理している場合
 
-For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS Practitioner Guides [^1]  to guide you through identifying the right metrics for a selection of use cases.
+独自のオープンソースプロジェクトを作成・管理している組織、あるいはそれらの管理に深く関わっている組織向けに、さまざまなユースケースに適した指標を選択するためのガイドとなる、指標関連の CHAOSS 実践者ガイド [^1] シリーズが用意されています。
 
-## If You Use Open Source Projects
+## オープンソースプロジェクトを利用している場合
 
-For organizations that use open source projects and want to understand the health of these projects, the following information can help them consider what's right for them.
+オープンソースプロジェクトを利用し、プロジェクトの健全性を把握したい組織にとって、以下の情報は最適な指標の検討に役立ちます。
 
-### How OSPOs Can Navigate the Complexities of Open Source Project Health
+### OSPO がオープンソースプロジェクトの健全性の複雑さを乗り越える方法
 
-Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [^2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
+オープンソースプロジェクトの健全性を理解することは容易ではありません。オープンソースの健全性には、プロジェクトレベルまたはより広範なエコシステム全体に現れる可能性のある、技術的および社会的なさまざまな懸念事項が含まれます。既存の研究のレビューでは、107 件の懸念事項が特定されています [^2] 。この複雑さを理解するために、研究者は業界およびオープンソースコミュニティの 17 人の専門家と協力し、これらの懸念事項を 21 の健全性の側面からなるフレームワークに整理しました。
 
-These health aspects focus on important areas such as:
+これらの健全性の側面は、次のような重要な領域に焦点を当てています。
 
-* Community productivity and stability.
-* Project orchestration and leadership.
-* Production processes and outputs.
+* コミュニティの生産性と安定性
+* プロジェクトのオーケストレーションとリーダーシップ
+* 生産プロセスとアウトプット
 
-Each health aspect is further described using attributes—smaller, more detailed elements—that help organizations examine project health in a structured way.
+それぞれの健全性の側面は、属性、より細かく詳細な要素を用いてさらに詳細に記述されており、組織がプロジェクトの健全性を体系的に検証するのに役立ちます。
 
-#### Matching the Framework to the Right Context
+#### 適切な文脈に合わせたフレームワークの選定
 
-The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they're analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
+インタビューした専門家は、組織は分析対象の各オープンソースプロジェクトの種類と特性を考慮する必要があることを強調しました。すべてのプロジェクトが同じというわけではなく、さまざまな特性が健全性の評価方法に影響を与える可能性があります。考慮すべき重要な要素には、以下のものがあります。
 
-* The life cycle stage of the project (for example early stage vs. mature).
-* Its complexity (how big and technically demanding it is).
-* The governance model (how decisions are made and who makes them).
-* The strategic value the project holds for the organization
+* プロジェクトのライフサイクル段階（例：初期段階 vs. 成熟段階）
+* プロジェクトの複雑性（プロジェクトの規模と技術的要求の厳しさ）
+* ガバナンスモデル（意思決定の方法と意思決定者）
+* プロジェクトが組織にとって持つ戦略的価値
 
-When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [^3].
+オープンソースプロジェクトを比較する場合、OSPO は類似した特性を持つプロジェクトをグループ化して評価する必要があります。大きく異なる種類のプロジェクトを比較すると、誤った結果につながる可能性があります [^3] 。
 
-#### Making Smart Choices About What to Measure
+#### 測定対象を賢く選択する
 
-Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
+組織ごとに文脈（市場、技術、リスク）が異なります。そのため、オープンソースの健全性を評価するための「万能」なアプローチは存在しません。OSPO は以下の点に留意する必要があります。
 
-* Decide which health aspects and attributes matter most based on their organization's needs.
-* Prioritize efforts — it's too time-consuming and expensive to measure everything.
-* Focus on the data that provides the most useful insights for risk management and decision-making.
+* 組織のニーズに基づき、最も重要な健全性の側面と特性を決定する。
+* 取り組みの優先順位を付ける（すべてを測定するのは時間と費用がかかりすぎる）。
+* リスク管理と意思決定に最も役立つ洞察を提供するデータに重点​​を置く。
 
-Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they're part of a practical and scalable process that evolves with experience.
+OSPO は、すべてを一度に測定しようとするのではなく、小規模から始め、初期の取り組みから学び、時間をかけてアプローチを改良していく必要があります。健全性評価は、経験を積むにつれて進化する、実用的でスケーラブルなプロセスの一部として実施することで、最も効果的に機能します。
 
-### Case Study: How a Global Automotive Company Measures Open Source Project Health
+### 事例: グローバル自動車会社におけるオープンソースプロジェクトの健全性評価方法
 
-#### A Practical Approach to Evaluating and Managing OSS Dependencies
+#### オープンソースの依存関係の評価と管理への実践的なアプローチ
 
-In 2024, Linåker and colleagues worked with a large international automotive company to create a simple and effective way to assess the health of open source software (OSS) projects [^4]. Their case study shows how organizations can customize health checks to fit their needs and workflows.
+2024年、Linåker 氏とその同僚は、大手グローバル自動車会社と協力し、オープンソースソフトウェアプロジェクトの健全性を評価するためのシンプルかつ効果的な方法を開発しました [^4] 。この事例は、組織がニーズとワークフローに合わせてヘルスチェックをカスタマイズする方法を示しています。
 
-#### Building a Health Assessment Process
+#### 健全性評価プロセスの構築
 
-The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company's environment.
+チームはまず、インタビューとフォーカスグループを通じて従業員へのヒアリングを行いました。これらの知見に基づき、企業の環境に合わせた簡単なアンケートとプロセスを開発しました。
 
-**Key features of the process:**
+**プロセスの主な特徴:**
 
-* Manual inspections at the intake stage using standardized checklists.
-* Automated tool support used when helpful.
-* Simple documentation to track findings for future reviews, follow-ups, and training.
+* 標準化されたチェックリストを用いた受入段階での手動検査
+* 必要に応じた自動ツールによるサポート
+* 将来のレビュー、フォローアップ、トレーニングのために、発見事項を追跡するためのシンプルなドキュメント作成
 
-The goal was to keep the process lightweight and efficient, while still capturing important health risks in open source projects.
+目標は、オープンソースプロジェクトにおける重要な健全性リスクを把握しながら、プロセスを軽量かつ効率的に維持することでした。
 
-#### Monitoring Projects Already in Use
+#### 既に利用中のプロジェクトの監視
 
-The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks weren't practical.
+同社は、既にシステムに統合されているオープンソースプロジェクトを追跡する方法も必要としていました。これらのプロジェクトは多くの依存関係を持つことが多いため、手動でのチェックは現実的ではありませんでした。
 
-Their proposed solution:
+提案されたソリューション:
 
-* Use automated tools to run regular health checks.
-* Customize tools based on the ecosystem and type of dependencies.
-* Flag risky projects so developers or analysts can do deeper inspections when needed.
+* 自動ツールを使用して定期的にヘルスチェックを実行する。
+* エコシステムと依存関係の種類に基づいてツールをカスタマイズする。
+* リスクの高いプロジェクトにフラグを付け、開発者やアナリストが必要に応じてより詳細な検査を行えるようにする。
 
-Tools from the CHAOSS community, such as GrimoireLab and Augur, provide a good starting point. The company can adapt them to match its internal needs.
+GrimoireLab や Augur といった CHAオープンソース コミュニティのツールは、良い出発点となります。会社はこれらのツールを社内のニーズに合わせてカスタマイズできます。
 
-#### Making Health Assessments Part of Daily Work
+#### 健全性評価を日常業務の一部にする
 
-To make the new process successful, the recommendations from the team focused on training and team involvement:
+新しいプロセスを成功させるために、チームからの推奨事項は、トレーニングとチームの関与に重点を置いていました。
 
-* Hold workshops to introduce the checklists and tools.
-* Schedule regular feedback sessions to review real OSS projects.
-* Encourage discussion and knowledge-sharing across teams.
+* チェックリストとツールを紹介するワークショップを開催する。
+* 実際のオープンソースプロジェクトをレビューするための定期的なフィードバックセッションをスケジュールする。
+* チーム間での議論と知識の共有を促進する。
 
-Over time, the company can make OSS health checks a normal part of its software development and quality assurance workflows.
+時間の経過とともに、企業はオープンソースのヘルスチェックをソフトウェア開発および品質保証のワークフローの一部に定常化することができます。
 
-#### What OSPOs Can Learn
+#### OSPO が学べること
 
-This case offers useful lessons for OSPOs that want to reduce risk and improve long-term OSS reliability.
+この事例は、リスクを軽減し、オープンソースの長期的な信頼性を向上させたいと考えている OSPO にとって有益な教訓となります。
 
-**Key takeaways:**
+**重要なポイント:**
 
-* Start simple with manual checklists and a clear intake process.
-* Use automation for ongoing monitoring of large numbers of dependencies.
-* Integrate health checks into existing workflows.
-* Support the process with training, tools, and regular team discussions.
+* 手動のチェックリストと明確な受入プロセスからシンプルに始める。
+* 多数の依存関係の継続的な監視には自動化を活用する。
+* 既存のワークフローにヘルスチェックを統合する。
+* トレーニング、ツール、そして定期的なチームディスカッションによってプロセスをサポートする。
 
-By identifying problems early and responding quickly, organizations can reduce risks and make sure their open source software remains secure, stable, and sustainable.
+問題を早期に特定し、迅速に対応することで、組織はリスクを軽減し、オープンソースソフトウェアの安全性、安定性、持続可能性を確保できます。
 
-Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get started or strengthen their approach.
+CHAOSS プロジェクトや OpenSSF スコアカードなどのリソースは、OSPO が取り組みを開始したり、アプローチを強化したりするのに役立ちます。
 
-## Resources and Footnotes
+## リソースと脚注
 
-### Resources
+### リソース
 
-- CHAOSS Project: https://chaoss.community/
-- OpenSSF Scorecard: https://github.com/ossf/scorecard
-- CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
+- CHAOSS プロジェクト: https://chaoss.community/
+- OpenSSF スコアカード: https://github.com/ossf/scorecard
+- CHAOSS OSPO Metrics ワーキンググループ: https://github.com/chaoss/wg-ospo
 
-### Footnotes
+### 脚注
 
-[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides
+[^1]: CHAOSS 実践者ガイド: https://chaoss.community/about-chaoss-practitioner-guides
 
 [^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to Characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI: https://doi.org/10.1145/3555051.3555067
 
