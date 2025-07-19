@@ -16,7 +16,7 @@ weight: 50
 
 OSPOs can be really diverse, so taking the time to design an OSPO that will deliver on your organization's goals is important.
 
-This chapter will first help you to idenify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
+This chapter will first help you to identify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
 
 It will then look at designing and building a stable and strong OSPO that's capable of covering the open source-related tasks and responsibilities needed by your organization.
 
@@ -102,7 +102,7 @@ An organization's engagement with open source typically sits along a scale from 
 
 There are many different open source maturity models. Some are general, some are specialized. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
 
-> NOTE: Maturity Models can be seen as a prescription for how OSPOs or open source engagement should develop. It can be tempting to think that it's always better to increase maturity. But, remember that you should consider what *level* of maturity is appropriate for your OSPO, or each function of your OSPO. Not every part needs to be highly developed. It may already deliver the value that's needed wihtout further development. If maturity models don't fit for your OSPO, consider using a capability model or something else that you prefer.
+> NOTE: Maturity Models can be seen as a prescription for how OSPOs or open source engagement should develop. It can be tempting to think that it's always better to increase maturity. But, remember that you should consider what *level* of maturity is appropriate for your OSPO, or each function of your OSPO. Not every part needs to be highly developed. It may already deliver the value that's needed without further development. If maturity models don't fit for your OSPO, consider using a capability model or something else that you prefer.
 
 ### Example Maturity Models
 
@@ -122,7 +122,7 @@ Each of these maturity models is slightly different, but they all classify open 
 
 * Accidental - open source is used by the organisation without knowing that it's used
 * Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
-* Directed - active participation incritical open source projects
+* Directed - active participation in critical open source projects
 * Collaborate - open source collaboration is used as a tool to create business value
 * Prevail - open source is used to influence strategic areas of the business and technology
 
@@ -177,7 +177,7 @@ While creating the OSPO you are getting lots of questions and having to adapt yo
 
 ### Recommendation
 
-Ensure that you take the time to identify all your stakeholders and understand their motivations. Create publicly available  open source manifestos, principles, and websites as an effective way to foster a common understanding of values, principles, and goals among all teams and subsidiaries. Taking time to establish and enforce a consistent understanding of open source throughout the organization will ensure a stable and strong foundation for the OSPO.
+Ensure that you take the time to identify all your stakeholders and understand their motivations. Create publicly available open source manifestos, principles, and websites as an effective way to foster a common understanding of values, principles, and goals among all teams and subsidiaries. Taking time to establish and enforce a consistent understanding of open source throughout the organization will ensure a stable and strong foundation for the OSPO.
 
 ## Resources and Footnotes
 
