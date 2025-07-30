@@ -18,6 +18,12 @@ If you would like to add additional documentation or code to this project, pleas
 
 If you have never used GitHub before, the guide [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) will help you get familiar with working with GitHub and working with Markdown syntax.
 
+If you would like to propose a new chapter, please refer to the following resources, then create a proposal in an issue. 
+
+* OSPO Book: [OSPO Book](https://ospobook.todogroup.org/) (Please read the book before you propose new chapters.)
+* Reference Collaboration Example: [OSPO Metrics with CHAOSS](https://github.com/todogroup/ospology/pull/516) (An example of another project that collaborated with TODO group on a chapter.)
+* Style Guide: [OSPO Book Style Guide](https://github.com/todogroup/ospology/blob/main/.vale/TODO/README.md)
+* Author's Guide: [OSPO Book Authors Guide](https://github.com/todogroup/ospology/blob/Contributor-role-guides/ospo-book/author-guide.md)
 
 ### 🏛 License and Style
 
