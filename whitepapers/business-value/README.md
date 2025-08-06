@@ -25,7 +25,7 @@ Apporved proposal and rationale can be found [here](https://github.com/todogroup
 
 ## Initial Outline 
 
- Glossary and Background - Existing frameworks and models | Engineering Driven vs. Business Driven Open Source | Misconceptions and Challenges | Communicating Engineering Benefits to Business Value | Case Studies and Success Stories | Future work and conclusion
+ [Glossary and Background - Existing frameworks and models](glossary.md) | [Engineering Driven vs. Business Driven Open Source](engineering-vs-business-driven.md) | [Misconceptions and Challenges](misconceptions_challenges.md) | [Communicating Engineering Benefits to Business Value](communication_of_benefits_to_business_value.md) | [Case Studies and Success Stories](case_studies_and_stories.md) | [Future work and conclusion](living_guide_for_business.md)
 -- | -- | -- | -- | -- | --
 Guide's purpose and audience | Definitions | Misconceptions managers have about open source | How to communicate open source benefits to business managers | Neutral collaboration: Stories from organizations like LF Energy’s OpenSTEF | Creating a living document that evolves with community input
 Open source in modern business | Implementation strategies for business-driven | Addressing security concerns and support availability | Simplifying complex concepts for managerial understanding | Real-life examples to cluster open source suppliers to assess if they are open source first | Recap of the guide’s key points
