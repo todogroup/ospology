@@ -1,0 +1,3 @@
+- How to communicate open source benefits to business managers#
+- Simplifying complex concepts for managerial understanding
+- resources for managers to engage with open source effectively
