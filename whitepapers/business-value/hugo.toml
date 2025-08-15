@@ -1,0 +1,19 @@
+baseURL = "https://example.com/"
+title = "Open Source in Business Guide"
+
+[module]
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
+
+[params]
+  BookSection = "*"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disableLanguages = ["en"]
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    weight = 1
+    languageName = "English"
