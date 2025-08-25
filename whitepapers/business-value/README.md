@@ -1,9 +1,9 @@
 ## Collaborative Whitepaper - Open Source in Business
 
 > Working Group Folder
-> 
+>
 > Slack channel #wg-oss-in-business
-> 
+>
 > Follow-up happening during Thursday TODO Europe Touchpoint CallS
 
 
@@ -23,7 +23,7 @@ Apporved proposal and rationale can be found [here](https://github.com/todogroup
 2.	Help non-software-native companies (e.g., hardware or manufacturing) understand how open source can play a role in their business models.
 3.	Educate business managers on the long-term investments required for successful open source strategies (e.g., building and nurturing open source communities).
 
-## Initial Outline 
+## Initial Outline
 
  [Glossary and Background - Existing frameworks and models](glossary.md) | [Engineering Driven vs. Business Driven Open Source](engineering-vs-business-driven.md) | [Misconceptions and Challenges](misconceptions_challenges.md) | [Communicating Engineering Benefits to Business Value](communication_of_benefits_to_business_value.md) | [Case Studies and Success Stories](case_studies_and_stories.md) | [Future work and conclusion](living_guide_for_business.md)
 -- | -- | -- | -- | -- | --
@@ -52,3 +52,7 @@ If you would like to catch up on motivation, interested participants involved, p
 
 - Define workstreams/cluster of tasks and give them an order/priority. Make sure there are “owners” for each workstream
 - Discuss if further follow-ups should be done in these meetings or need to allocate specific catch up calls/official working group under TODO
+
+## Displaying the Guide as Website
+
+The content of the guide is maintained in the `content` subdirectory as Markdown files. You can run [Hugo](https://gohugo.io) to render it as website. Run the command `hugo server` to start a web server locally and follow the instructions to view the site in your web browser.

@@ -1,3 +1,8 @@
+---
+title: Case Studies and Stories
+weight: 50
+---
+
 # Success Stories
 
 ## Microsoft and Kubernetes
