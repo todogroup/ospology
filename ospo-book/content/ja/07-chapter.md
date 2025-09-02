@@ -34,6 +34,7 @@ weight: 90
 * Seo Yeon Lee
 * Shane Coughlan
 * Shilla Saebi
+* Shu Muto
 * Stephanie Lieggi
 * Supriya Ashish Chitale
 * Swastik Baranwal
