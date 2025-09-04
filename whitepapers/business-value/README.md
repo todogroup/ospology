@@ -6,13 +6,12 @@
 >
 > Follow-up happening during Thursday TODO Europe Touchpoint CallS
 
-
 ### Motivation
+
 While the engineering-driven approach to open source is well-covered,a business-driven approach is less discussed but crucial for organizations to understand how open source can drive both innovation and financial value.
 This initiative was initiated as part of the TODO Group’s Touchpoint calls to create a guide to address the gap in knowledge and strategic guidance around open source adoption from a business-driven perspective.
 
 <img width="858" alt="image4" src="https://github.com/user-attachments/assets/ad063fa7-ad6f-4d64-a1b8-ce4f39c13b8e">
-
 
 Full proposal can be found [here](https://github.com/todogroup/ospology/discussions/481).
 Apporved proposal and rationale can be found [here](https://github.com/todogroup/governance/blob/main/resolutions/approved/2024-08-05.md)
@@ -23,18 +22,7 @@ Apporved proposal and rationale can be found [here](https://github.com/todogroup
 2.	Help non-software-native companies (e.g., hardware or manufacturing) understand how open source can play a role in their business models.
 3.	Educate business managers on the long-term investments required for successful open source strategies (e.g., building and nurturing open source communities).
 
-## Initial Outline
-
- [Glossary and Background - Existing frameworks and models](glossary.md) | [Engineering Driven vs. Business Driven Open Source](engineering-vs-business-driven.md) | [Misconceptions and Challenges](misconceptions_challenges.md) | [Communicating Engineering Benefits to Business Value](communication_of_benefits_to_business_value.md) | [Case Studies and Success Stories](case_studies_and_stories.md) | [Future work and conclusion](living_guide_for_business.md)
--- | -- | -- | -- | -- | --
-Guide's purpose and audience | Definitions | Misconceptions managers have about open source | How to communicate open source benefits to business managers | Neutral collaboration: Stories from organizations like LF Energy’s OpenSTEF | Creating a living document that evolves with community input
-Open source in modern business | Implementation strategies for business-driven | Addressing security concerns and support availability | Simplifying complex concepts for managerial understanding | Real-life examples to cluster open source suppliers to assess if they are open source first | Recap of the guide’s key points
-Carl-Eric Mols' “Principles for Industrial Open Source” | Connecting the two perspectives for a holistic approach | Cyber Resilience Act (CRA) when publishing software | resources for managers to engage with open source effectively | Real-life examples that shares a system that enables organizations  to asses “What do I want to reach by open-sourcing this?” |  
-Magnus presentation at FOSSNorth |   | How to properly budget or allocate resources for OSPOs? |   |   |  
-Mozilla archetypes and Heather Meeker’s frameworks |   |   |   |   |  
-
 > To learn more about outline updates please visit the dedicated GH Discussions repo [here](https://github.com/todogroup/ospology/discussions/481)
-
 
 ## How can people contribute to date?
 
