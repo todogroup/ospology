@@ -139,7 +139,7 @@ OSPO がステークホルダーを特定する際に共通するビジネス領
 * ステージ 3: オープンソースプロジェクトをホスティングし、コミュニティを育成している。
 * ステージ 4: 戦略的意思決定のパートナーとなっている。
 
-![OSPO Maturity Model](/images/ospo-maturity-model_ja.jpg)
+![OSPO Maturity Model](/images/ospo-maturity-model_ja.png)
 
 ## 組織への適用
 
