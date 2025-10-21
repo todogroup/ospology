@@ -48,12 +48,10 @@ Open source software is increasingly being adopted by organizations of all sizes
 The guide will be aimed at organizations of all sizes and industries, including those just starting their open source journey as well as those looking to streamline and improve their existing open source operations. It will provide practical, actionable advice and real-world examples to help organizations streamline their open source operations and achieve their goals.
 ## 🙋‍♀️ Project Teams
 
-|      | General   | Infra Team       | Content Team         | Review Team                 |
-|-----------|-----------|------------------|------------------|-----------------------------|
-| **Chair (2024)** | @anajsana    | @cjyabraham  |    @CsatariGergely                   | @alice-sowerby
-| **Co-chair (2024)** | @jerpelea           | @anajsana, @koozz, @CsatariGergely            | @jimjag , @anajsana                        | @zhiqiang-yu 
-| **Description** | moderates monthly calls, prepares agenda items and checks progress done | team involved in project infrastructure and website development | team involved in content creation | team involved in reviewing existing content and references |
-
+|      | LF Project Manager   | Infra Team       | Content Team         | Review Team                 | Translation Team |
+|-----------|-----------|------------------|------------------|-----------------------------| -----------------------------|
+| **Co-Chairs** | @anajsana     | @cjyabraham  @anajsana, @koozz, @CsatariGergely  |    @CsatariGergely      @jimjag      @jerpelea   @victorjunlu    | @alice-sowerby  | @fer-correa @zhiqiang-yu | 
+| **Description** | Co-ordinates all LF project services e.g. distribution, promotion, marketing. | Team involved in project infrastructure and website development | Team involved in content creation | Team involved in reviewing existing content and references | Team involved in translating the book to other languages. |
 
 ## 🎯 Goals
 
