@@ -58,7 +58,6 @@ This list is updated every time a new release is published, but you can open a P
 ### Portuguese (Brazilian)
 
 - Fernando Eugenio Correa
-- João Fernandes
 - Juliana Conde
 - Marco Carvalho
 - Rafael Paiva
