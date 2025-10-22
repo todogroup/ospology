@@ -7,13 +7,13 @@ menu:
     weight: 30
 ---
 
-* La guía incluirá una revisión integral de la literatura y recursos existentes sobre open source y Open Source Program Offices, incluyendo reportes, artículos, documentos técnicos y libros.
+* La guía incluye una revisión completa de la literatura y los recursos existentes sobre open source y las Open Source Program Offices (OSPOs), como reportes, artículos, documentos técnicos y libros.
 
-* La guía también proporcionará una lista de recursos esenciales que las organizaciones pueden usar para profundizar su comprensión de open source y OSPOs, incluyendo cursos en línea, webinarios y eventos de la industria.
+* También ofrece una selección de recursos esenciales que las organizaciones pueden utilizar para profundizar su comprensión del open source y las OSPOs, incluyendo cursos en línea, seminarios web y eventos del sector.
 
-* Adicionalmente, la guía destacará organizaciones e iniciativas clave que están liderando el camino en open source y OSPOs, proporcionando a las organizaciones una red de recursos y apoyo mientras navegan su jornada de open source.
+* Además, destaca las organizaciones e iniciativas clave que están liderando el camino en open source y OSPOs, brindando a las organizaciones una red de referencia y apoyo mientras avanzan en su propio recorrido open source.
 
-Esta sección proporcionará a las organizaciones una lista integral de la literatura y recursos existentes disponibles sobre open source y OSPOs, facilitando su acceso a la información y apoyo que necesitan para crear e implementar una OSPO exitosamente.
+Esta sección pone a disposición de las organizaciones una recopilación actualizada de literatura y recursos sobre open source y OSPOs, para facilitar el acceso a la información y al acompañamiento necesarios para crear e implementar una OSPO con éxito.
 
 ## Agregando Recursos: Formato Requerido
 
