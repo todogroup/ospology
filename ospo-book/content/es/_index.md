@@ -16,7 +16,7 @@ El libro sirve como fuente de conocimiento para organizaciones que desarrollan e
 <p><img class="mt-3 mb-3" src="/images/homepage/colorful-houses.jpg" alt="Casas coloridas con personas"></p>
 
 
-Mientras exploras el contenido de este libro, te alentamos a usarlo dentro de tu organización. Y si tienes alguna sugerencia para contenido adicional que deberíamos incluir, por favor no dudes en abrir un issue o incluir nuevo contenido visitando nuestro repositorio [^2] en GitHub.
+Mientras exploras el contenido de este libro, te animamos a usarlo dentro de tu organización. Y si tienes alguna sugerencia para contenido adicional que deberíamos incluir, por favor, no dudes en abrir un issue o incluir nuevo contenido visitando nuestro repositorio [^2] en GitHub.
 
 ## Licencia
 
