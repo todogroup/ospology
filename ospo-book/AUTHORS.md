@@ -55,6 +55,11 @@ This list is updated every time a new release is published, but you can open a P
 - LiJiansheng
 - Ian (Liqiu) ZHANG
 
+### Japanese
+
+- Shinzan Takata
+- Shu Muto
+
 ### Portuguese (Brazilian)
 
 - Fernando Eugenio Correa
