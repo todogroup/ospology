@@ -1,266 +1,286 @@
 ---
-title: "Chapter 6: Using Metrics in your OSPO"
+title: "Capítulo 6: Usando métricas em seu OSPO"
 status: Completed
 weight: 70
 ---
 
-- [Introduction](#introduction)
-- [Using Metrics to Communicate the Impact of Your OSPO](#using-metrics-to-communicate-the-impact-of-your-ospo)
-- [If You Manage Open Source Projects](#if-you-manage-open-source-projects)
-- [If You Use Open Source Projects](#if-you-use-open-source-projects)
-- [Resources and Footnotes](#resources-and-footnotes)
+# Capítulo 6: Usando métricas em seu OSPO
 
-## Introduction
+## Índice
 
-> NOTE: This chapter has been developed through the collective expertise of CHAOSS open source project and participants from the CHAOSS OSPO Metrics Working Group, with support from the TODO Group.
+- [Introdução](#introdução)
+- [Usando métricas para comunicar o impacto do seu OSPO](#usando-métricas-para-comunicar-o-impacto-do-seu-ospo)
+- [Se você gerencia projetos de código aberto](#se-você-gerencia-projetos-open-source)
+- [Se você usa projetos de código aberto](#se-você-usa-projetos-open-source)
+- [Recursos e notas de rodapé](#recursos-e-notas-de-rodapé)
 
-Metrics are an important part of any modern organization. When used effectively, they offer a valuable way to track the impact of your team and its projects. For an OSPO, metrics not only support planning and measuring the impact of its work — they also provide deeper insight into the open source projects the organization depends on.
 
-In the past, it might have been acceptable to know little about key open source projects. But that’s no longer a sustainable approach as the regulatory and security landscape around open source continues to evolve. As we deepen our understanding of the open source projects that matter to us, community metrics become essential tools. In this chapter, we’ll explore how to place those metrics in context and how, together, they can offer better insights to guide strategic decisions across an organization.
+## Introdução
 
-There are several reasons why organizations need visibility into open source projects. For example:
-* The organization is using open source and wants to track contributions to key projects.
-* The organization participates in an open source ecosystem and needs to identify potential risks and offer support where necessary.
-* The organization wants to contribute to the sustainability of OSS — especially the software that’s critical to its business.
-* The organization must stay compliant with upstream license requirements and respond to security issues that could affect operations.
+**OBSERVAÇÃO:** Este capítulo foi desenvolvido por meio da experiência coletiva do projeto open source CHAOSS, acrônimo para Community Health Analytics Open Source Software e dos participantes do Grupo de Trabalho de Métricas, Open Source Programs Office (OSPO) do CHAOSS, com o apoio do Grupo TODO.
 
-### The Goal-Question-Metric Framework
+Métricas são uma parte importante de qualquer organização moderna. Quando usadas de forma eficaz, elas oferecem uma maneira valiosa de monitorar o impacto da sua equipe e de seus projetos. Para uma OSPO, as métricas não apenas auxiliam no planejamento e na mensuração do impacto do seu trabalho, como também fornecem insights mais aprofundados sobre os projetos open source dos quais a organização depende.
 
-Metrics for metrics' sake benefit no one. Consider these metrics:
+No passado, talvez fosse aceitável saber pouco sobre os principais projetos open source. Mas essa não é mais uma abordagem sustentável, visto que o cenário regulatório e de segurança em torno do open source continua a evoluir. À medida que aprofundamos nossa compreensão dos projetos open source que nos interessam, as métricas da comunidade se tornam ferramentas essenciais.
 
-* The average age of issues is 10.3 days.
-* The total number of pull requests was 121 last month.
-* We had 3 new companies join our community over the past 15 days.
+Neste capítulo, exploraremos como contextualizar essas métricas e como, juntas, elas podem oferecer melhores insights para orientar decisões estratégicas em toda a organização.
 
-Without context, these metrics provide no insight, so it's important to ensure that you use a framework like "goal-question-metric" to give you metrics that support your goals instead of working against them.
+Há vários motivos pelos quais as organizações precisam de visibilidade em projetos open source. Por exemplo:
 
-The CHAOSS project (Community Health Analytics for OSS) advocates for using the "goal-question-metric" because it's a structured method for deriving metrics that align with organizational goals. It involves three key steps:
+- A organização usa open source e quer rastrear contribuições para projetos importantes.
+- A organização participa de um ecossistema open source e precisa identificar riscos potenciais e oferecer suporte quando necessário.
+- A organização quer contribuir para a sustentabilidade do OSS — especialmente o software que é essencial para seus negócios.
+- A organização deve permanecer em conformidade com os requisitos de licença upstream e responder a problemas de segurança que possam afetar as operações.
 
-#### Goals
+### A estrutura meta-pergunta-métrica
 
-Identify and understand your organizational goals. These can vary significantly but typically include objectives like recruiting talent or enhancing community engagement.
+Métricas por si só não beneficiam ninguém. Considere estas métricas:
 
-#### Questions
+- A idade média dos problemas é de 10,3 dias.
+- O número total de pull request foi de 121 no mês passado.
+- Tivemos 3 novas empresas se juntando à nossa comunidade nos últimos 15 dias.
 
-Break down these goals into specific, actionable questions. For example, to assess recruitment efforts, one might ask, “Who are important contributors?” or “How many did we help hire?”
+Sem contexto, essas métricas não fornecem nenhum insight, por isso é importante garantir que você use uma estrutura como "objetivo-pergunta-métrica" para fornecer métricas que apoiem seus objetivos em vez de trabalhar contra eles.
 
-#### Metrics
+O projeto CHAOSS defende o uso da "métrica-pergunta-objetivo" por ser um método estruturado para derivar métricas alinhadas aos objetivos organizacionais. Envolve três etapas principais:
 
-Develop metrics to answer these questions. Metrics should be operational and data-driven, such as the number of contributions by name, hiring successes, or project activity levels. Some good data points, like the number of commits (on a software project), may not be relevant to the question you need to answer.
+**Metas**
 
-### Understanding the  Role of Open Source Community Metrics
+Identifique e entenda seus objetivos organizacionais. Eles podem variar significativamente, mas geralmente incluem objetivos como recrutar talentos ou aumentar o engajamento da comunidade.
 
-It's worth taking a moment to understand how open source community metrics support the other types of metrics that organizations are familiar with. Open source community metrics provide OSPOs with tangible ways to measure the influence, effectiveness, and strategic value of their open source initiatives.
+**Questões**
 
-By tracking contributions, engagement levels, and collaboration across projects, OSPOs can assess how well their organization is participating in and supporting the open source ecosystem.
+Divida essas metas em perguntas específicas e acionáveis. Por exemplo, para avaliar os esforços de recrutamento, pode-se perguntar: "Quem são os colaboradores importantes?" ou "Quantos ajudamos a contratar?"
 
-These metrics help demonstrate the impact of open source work on broader business goals such as accelerating innovation, reducing development costs, attracting talent, and increasing product visibility. Metrics also provide insight into community health and sustainability, highlighting whether a project is gaining traction, fostering collaboration, and attracting active users and contributors.
+**Métricas**
 
-By tying community metrics to organizational KPIs, OSPOs can showcase the value of open source beyond code, such as improved product feedback loops, faster time to market, stronger developer relations, and enhanced technical credibility. This playbook provides guidance for OSPOs to track, analyze, and communicate those metrics effectively, translating open source participation into measurable business impact.
+Desenvolva métricas para responder a essas perguntas. As métricas devem ser operacionais e baseadas em dados, como o número de contribuições por nome, sucessos nas contratações ou níveis de atividade do projeto. Alguns dados relevantes, como o número de commits (em um projeto de software), podem não ser relevantes para a pergunta que você precisa responder.
 
-## Using Metrics to Communicate the Impact of Your OSPO
+### Compreendendo o papel das métricas da comunidade open source
 
-Metrics play an important role in communicating impact. Following the goal-question-metric approach here are four goals that OSPOs can consider, and questions to go with them.
+Vale a pena dedicar um momento para entender como as métricas da comunidade open source apoiam os outros tipos de métricas com os quais as organizações estão familiarizadas. As métricas da comunidade open source fornecem às OSPOs maneiras tangíveis de mensurar a influência, a eficácia e o valor estratégico de suas iniciativas de open source. Ao monitorar contribuições, níveis de engajamento e colaboração entre projetos, as OSPOs podem avaliar o quão bem sua organização está participando e dando suporte ao ecossistema open source.
 
-<img width="750" alt="CHAOSS Health Impacts" src="/images/CHAOSS.Health.Impacts.png" />
+Essas métricas ajudam a demonstrar o impacto do trabalho open source em objetivos empresariais mais amplos, como acelerar a inovação, reduzir custos de desenvolvimento, atrair talentos e aumentar a visibilidade do produto. As métricas também fornecem insights sobre a saúde e a sustentabilidade da comunidade, destacando se um projeto está ganhando força, fomentando a colaboração e atraindo usuários e colaboradores ativos.
 
-### 1: Partner Impact
+Ao vincular métricas da comunidade a KPIs organizacionais, as OSPOs podem demonstrar o valor do open source além do código, como ciclos de feedback de produtos aprimorados, tempo de lançamento no mercado mais rápido, relações mais fortes com desenvolvedores e credibilidade técnica aprimorada.
 
-**Goal**
+Este manual fornece orientações para que as OSPOs monitorem, analisem e comuniquem essas métricas de forma eficaz, traduzindo a participação do open source em impacto comercial mensurável.
 
-Understand how open source collaboration fosters strategic partnerships that can enhance market insight, strengthen vendor relationships, and create shared value beyond individual technologies.
 
-**Commentary**
+## Usando métricas para comunicar o impacto do seu OSPO
 
-Open source project work is premised on collaboration, a collaboration that often involves unexpected partnerships. These partnerships are aimed at developing non-differentiating technologies that each partner needs, yet doesn't necessarily have the resources or inclination to produce alone. Open source projects bring together organization members to work together in the pursuit of shared problems and this proximity can result in benefits beyond any one shared open source technology. Improved open source partnerships can have positive secondary effects, including stronger ties with upstream vendors, improved understanding of market rival positions, and direct interaction with downstream users.
+As métricas desempenham um papel importante na comunicação de impacto. Seguindo a abordagem meta-pergunta-métrica, aqui estão quatro metas que as OSPOs podem considerar, e as perguntas que as acompanham.
 
-**Questions**
+### 1: Impacto do Parceiro
 
-* What other companies are involved in our open source projects of interest?
-* What other companies are involved in our pull requests?
-* How are other companies involved in our pull requests?
-* What's the composition of involved companies as our vendors, rivals, and customers?
+**Meta**
 
-**Metrics**
+Entenda como a colaboração de open source promove parcerias estratégicas que podem aumentar a percepção do mercado, fortalecer relacionamentos com fornecedores e criar valor compartilhado, além de tecnologias individuais.
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+**Comentário**
 
-### 2: Community Impact
+O trabalho em projetos open source baseia-se na colaboração, uma colaboração que frequentemente envolve parcerias inesperadas. Essas parcerias visam desenvolver tecnologias não diferenciadas que cada parceiro precisa, mas que não necessariamente possuem os recursos ou a inclinação para produzir sozinhos. Projetos de código aberto unem membros da organização para trabalharem juntos na busca por problemas compartilhados, e essa proximidade pode resultar em benefícios que vão além de qualquer tecnologia de open source compartilhada.
 
-**Goal**
+Parcerias aprimoradas de open source podem ter efeitos secundários positivos, incluindo laços mais fortes com fornecedores a montante, melhor compreensão das posições dos concorrentes no mercado e interação direta com usuários a jusante.
 
-Evaluate how employee engagement in open source communities reflects organizational support, strengthens individual skill development, and enhances the organization's presence and influence in key projects.
+**Questões**
 
-**Commentary**
+- Quais outras empresas estão envolvidas em nossos projetos de open source de interesse?
+- Quais outras empresas estão envolvidas em nossas solicitações de pull?
+- Como outras empresas estão envolvidas em nossas solicitações de pull?
+- Qual é a composição das empresas envolvidas como nossos fornecedores, rivais e clientes?
 
-There are ways that an organization can support community engagement by employees (for example contribution guidelines, intellectual property management, and license support). Support will often include why the community is important to your organization - including a time and prioritization component in how much time an employee spends in external/upstream work. companies can observe employees as good citizens for reasons of personal and organizational gain, and help employees understand their importance in bridging between the organization and the community.
+**Métricas**
 
-**Questions**
+Pense em quais dados estão disponíveis para você responder a essas perguntas e quais outras informações você precisaria para ter certeza do que isso significaria para seus objetivos se o número aumentasse ou diminuísse.
 
-* What percentage of employee contributions are merged?
-* What percentage of employee issues are closed without conversation?
-* How many of our employees have maintainer or leadership roles in key open source projects?
-* Have upstream contributions helped modernize tech skills for employees?
-* Which projects do our employees make over 50% of the contributions?
+### 2: Impacto na Comunidade
 
-**Metrics**
+**Meta**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+Avalie como o envolvimento dos funcionários em comunidades de open source reflete o apoio organizacional, fortalece o desenvolvimento de habilidades individuais e melhora a presença e a influência da organização em projetos importantes.
 
-###  3: Ecosystem Impact
+**Comentário**
 
-**Goal**
+Existem maneiras pelas quais uma organização pode apoiar o engajamento comunitário dos funcionários (por exemplo, diretrizes de contribuição, gestão de propriedade intelectual e suporte a licenças). O suporte frequentemente incluirá a importância da comunidade para a sua organização – incluindo um componente de tempo e priorização de quanto tempo um funcionário dedica a trabalhos externos/de nível superior.
 
-Monitor and contribute to the health and resilience of open source ecosystems to ensure long-term viability, reduce risk, and support the strategic sustainability of key dependencies.
+As empresas podem observar os funcionários como bons cidadãos por razões de ganho pessoal e organizacional e ajudá-los a compreender sua importância como ponte entre a organização e a comunidade.
 
-**Commentary**
+**Questões**
 
-Working with open source is never easy as rival corporations may dominate upstream projects that your organization is interested in, upstream projects may unexpectedly change licenses, and contributor agreements, whether individual or organizational, can be complex to understand and adhere to. Clearly, such challenges can be overcome and often include strategic engagement with the projects your organization aims to benefit from. Open source ecosystems are economic and social systems comprising different companies, motivations, and requirements intended to support production and demands. In an effort to ensure the efficiency and durability of any open source ecosystem, companies must not only monitor the ecosystem's long-term viability but also engage within the ecosystem when problems are identified and stabilization is required.
+- Qual a porcentagem de contribuições dos funcionários que são mescladas?
+- Qual a porcentagem de problemas dos funcionários que são resolvidos sem conversa?
+- Quantos de nossos funcionários têm funções de manutenção ou liderança em projetos importantes de open source?
+- As contribuições iniciais ajudaram a modernizar as habilidades tecnológicas dos funcionários?
+- Em quais projetos nossos funcionários contribuem com mais de 50% das contribuições?
 
-**Questions**
+**Métricas**
 
-* What percentage of our suppliers provide OSS bills of material?
-* What's the long-term viability of the open source projects we rely on?
-* What's the risk to the ecosystem if an open source project becomes unviable?
+Pense em quais dados estão disponíveis para você responder a essas perguntas e quais outras informações você precisaria para ter certeza do que isso significaria para seus objetivos se o número aumentasse ou diminuísse.
 
-**Metrics**
+### 3: Impacto no ecossistema
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+**Meta**
 
-### 4: Organizational Impact
+Monitore e contribua para a saúde e resiliência dos ecossistemas de open source para garantir viabilidade a longo prazo, reduzir riscos e dar suporte à sustentabilidade estratégica das principais dependências.
 
-**Goal**
+**Comentário**
 
-Align open source engagement with internal governance, security, and product development to maximize the value of open source within organizational strategy and operations.
+Trabalhar com open source nunca é fácil, pois corporações rivais podem dominar projetos upstream nos quais sua organização esteja interessada, projetos upstream podem alterar licenças inesperadamente e acordos de colaboração, sejam eles individuais ou organizacionais, podem ser complexos de entender e cumprir.
 
-**Commentary**
+Claramente, tais desafios podem ser superados e frequentemente incluem engajamento estratégico com os projetos dos quais sua organização pretende se beneficiar. Ecossistemas de open source são sistemas econômicos e sociais que abrangem diferentes empresas, motivações e requisitos destinados a dar suporte à produção e às demandas.
 
-Engagement with open source communities includes working in the upstream to effectively use OSS in organizational products. In this, there is a need to monitor the intake of OSS for infosec, legal, and engineering reasons. Companies can establish software intake processes, working with teams to either technically track or socially consider issues related to open source intake. Organization impact can also include working downstream with projects and companies that rely on your organizational products. This can include working to gain a clearer picture of  the open source that is in your shipped products. Organizations can work in securing and regulating their own internal open source processes in an effort to improve product development activities.
+Em um esforço para garantir a eficiência e a durabilidade de qualquer ecossistema de open source, as empresas devem não apenas monitorar a viabilidade a longo prazo do ecossistema, mas também se envolver com ele quando problemas são identificados e a estabilização é necessária.
 
-**Questions**
+**Questões**
 
-* What characteristics does an organization inspect related to inbound OSS?
-* What product-level software and infrastructure contains OSS dependencies?
-* How is OSPO strategy aligned with organizational strategy and departmental objectives?
-* How often is OPSO strategy used to guide business decision making processes?
-* How does the use of open source influence organizational value?
+- Qual a porcentagem de nossos fornecedores que fornecem listas de materiais OSS?
+- Qual é a viabilidade a longo prazo dos projetos open source dos quais dependemos?
+- Qual é o risco para o ecossistema se um projeto open source se tornar inviável?
 
-**Metrics**
+**Métricas**
 
-Consider what data is available to you to be able to answer these questions, and what other information you would need to feel confident in what it would mean to your goals if the number goes up or down.
+Pense em quais dados estão disponíveis para você responder a essas perguntas e quais outras informações você precisaria para ter certeza do que isso significaria para seus objetivos se o número aumentasse ou diminuísse.
 
-## If You Manage Open Source Projects
+### 4: Impacto Organizacional
 
-For organizations that create and manage their own open source projects, or are closely involved in managing them, there is a series of metric-related CHAOSS Practitioner Guides [^1]  to guide you through identifying the right metrics for a selection of use cases.
+**Meta**
 
-## If You Use Open Source Projects
+Alinhe o envolvimento do open source com a governança interna, a segurança e o desenvolvimento de produtos para maximizar o valor do open source na estratégia e nas operações organizacionais.
 
-For organizations that use open source projects and want to understand the health of these projects, the following information can help them consider what's right for them.
+**Comentário**
 
-### How OSPOs Can Navigate the Complexities of Open Source Project Health
+O engajamento com comunidades open source inclui trabalhar no upstream para usar o OSS de forma eficaz em produtos organizacionais. Nesse sentido, é necessário monitorar a entrada de OSS por motivos de segurança da informação, legais e de engenharia. As empresas podem estabelecer processos de entrada de software, trabalhando com equipes para rastrear tecnicamente ou considerar socialmente questões relacionadas à entrada de código aberto.
 
-Understanding the health of an open source project is not a simple task. Open source health includes many different concerns—both technical and social—that can appear at the project level or across the broader ecosystem. A review of existing research identified 107 such concerns [^2]. To help make sense of this complexity, researchers worked with 17 experts from industry and the open source community to organize these concerns into a framework of 21 health aspects.
+O impacto organizacional também pode incluir trabalhar no downstream com projetos e empresas que dependem dos produtos da sua organização. Isso pode incluir trabalhar para obter uma visão mais clara do open source presente nos produtos entregues.
 
-These health aspects focus on important areas such as:
+As organizações podem trabalhar para proteger e regulamentar seus próprios processos internos de open source em um esforço para aprimorar as atividades de desenvolvimento de produtos.
 
-* Community productivity and stability.
-* Project orchestration and leadership.
-* Production processes and outputs.
+**Questões**
 
-Each health aspect is further described using attributes—smaller, more detailed elements—that help organizations examine project health in a structured way.
+- Quais características uma organização inspeciona relacionadas ao OSS de entrada?
+- Qual software e infraestrutura de nível de produto contém dependências de OSS?
+- Como a estratégia da OSPO está alinhada com a estratégia organizacional e os objetivos departamentais?
+- Com que frequência a estratégia OSPO é usada para orientar os processos de tomada de decisões empresariais?
+- Como o uso de open source influencia o valor organizacional?
 
-#### Matching the Framework to the Right Context
+**Métricas**
 
-The experts interviewed emphasized that organizations must consider the type and characteristics of each open source project they're analyzing. Not all projects are the same, and different traits may influence how to assess their health. Important factors to look at include:
+Pense em quais dados estão disponíveis para você responder a essas perguntas e quais outras informações você precisaria para ter certeza do que isso significaria para seus objetivos se o número aumentasse ou diminuísse.
 
-* The life cycle stage of the project (for example early stage vs. mature).
-* Its complexity (how big and technically demanding it is).
-* The governance model (how decisions are made and who makes them).
+## Se você gerencia projetos open source
 
-The strategic value the project holds for the organization
+Para organizações que criam e gerenciam seus próprios projetos open source, ou estão intimamente envolvidas em seu gerenciamento, há uma série de Guias de Práticas CHAOSS relacionados a métricas¹ para orientá-lo na identificação das métricas corretas para uma seleção de casos de uso.
 
-When comparing open source projects, OSPOs should group and assess projects with similar characteristics. Comparing very different types of projects can lead to misleading results [^3].
+## Se você usa projetos open source
 
-#### Making Smart Choices About What to Measure
+Para organizações que usam projetos open source e querem entender a saúde desses projetos, as informações a seguir podem ajudá-las a considerar o que é certo para elas.
 
-Every organization has a different context—different markets, technologies, and risks. Because of this, there is no "one size fits all" approach to assessing open source health. OSPOs should:
+### Como os OSPOs podem navegar pelas complexidades da saúde de projetos open source
 
-* Decide which health aspects and attributes matter most based on their organization’s needs.
-* Prioritize efforts — it's too time-consuming and expensive to measure everything.
-* Focus on the data that provides the most useful insights for risk management and decision-making.
+Compreender a saúde de um projeto open source não é uma tarefa simples. A saúde do open source envolve muitas preocupações diferentes — tanto técnicas quanto sociais — que podem surgir no nível do projeto ou em todo o ecossistema. Uma revisão de pesquisas existentes identificou 107 dessas preocupações.² Para ajudar a entender essa complexidade, os pesquisadores trabalharam com 17 especialistas da indústria e da comunidade open source para organizar essas preocupações em uma estrutura de 21 aspectos de saúde.
 
-Instead of trying to measure everything at once, OSPOs should start small, learn from early efforts, and refine their approach over time. Health assessments work best when they're part of a practical and scalable process that evolves with experience.
+Esses aspectos de saúde se concentram em áreas importantes como:
 
-### Case Study: How a Global Automotive Company Measures Open Source Project Health
+- Produtividade e estabilidade da comunidade.
+- Orquestração e liderança de projetos.
+- Processos de produção e resultados.
 
-#### A Practical Approach to Evaluating and Managing OSS Dependencies
+Cada aspecto de saúde é descrito com mais detalhes usando atributos — elementos menores e mais detalhados — que ajudam as organizações a examinar a saúde do projeto de forma estruturada.
 
-In 2024, Linåker and colleagues worked with a large international automotive company to create a simple and effective way to assess the health of open source software (OSS) projects [^4]. Their case study shows how organizations can customize health checks to fit their needs and workflows.
+### Adaptando a estrutura ao contexto certo
 
-#### Building a Health Assessment Process
+Os especialistas entrevistados enfatizaram que as organizações devem considerar o tipo e as características de cada projeto open source que estão analisando. Nem todos os projetos são iguais, e diferentes características podem influenciar a forma como avaliam sua saúde.
 
-The team started by talking to employees through interviews and focus groups. Based on these insights, they developed a short questionnaire and a process tailored to the company’s environment.
+Fatores importantes a serem considerados incluem:
 
-**Key features of the process:**
+- O estágio do ciclo de vida do projeto (por exemplo, estágio inicial vs. maduro).
+- Sua complexidade (enorme e tecnicamente exigente).
+- O modelo de governança (como as decisões são tomadas e quem as toma).
+- O valor estratégico que o projeto tem para a organização.
 
-* Manual inspections at the intake stage using standardized checklists.
-* Automated tool support used when helpful.
-* Simple documentation to track findings for future reviews, follow-ups, and training.
+Ao comparar projetos open source, as OSPOs devem agrupar e avaliar projetos com características semelhantes. Comparar tipos muito diferentes de projetos pode levar a resultados enganosos.³
 
-The goal was to keep the process lightweight and efficient, while still capturing important health risks in open source projects.
+### Fazendo escolhas inteligentes sobre o que medir
 
-#### Monitoring Projects Already in Use
+Cada organização tem um contexto diferente — diferentes mercados, tecnologias e riscos. Por isso, não existe uma abordagem única para avaliar a saúde do open source.
 
-The company also needed a way to track OSS projects already integrated into their systems. Because these projects often have many dependencies, manual checks weren't practical.
+As OSPOs devem:
 
-Their proposed solution:
+- Decidir quais aspectos e atributos de saúde são mais importantes com base nas necessidades da sua organização.
+- Priorizar os esforços — é muito demorado e caro medir tudo.
+- Concentrar-se nos dados que fornecem os insights mais úteis para o gerenciamento de riscos e a tomada de decisões.
 
-* Use automated tools to run regular health checks.
-* Customize tools based on the ecosystem and type of dependencies.
-* Flag risky projects so developers or analysts can do deeper inspections when needed.
+Em vez de tentar mensurar tudo de uma vez, as OSPOs devem começar aos poucos, aprender com os esforços iniciais e refinar sua abordagem ao longo do tempo. As avaliações de saúde funcionam melhor quando fazem parte de um processo prático e escalável que evolui com a experiência.
 
-Tools from the CHAOSS community, such as GrimoireLab and Augur, provide a good starting point. The company can adapt them to match its internal needs.
+### Estudo de caso: como uma empresa automotiva global mede a saúde de projetos open source
 
-#### Making Health Assessments Part of Daily Work
+#### Uma abordagem prática para avaliar e gerenciar dependências de OSS
 
-To make the new process successful, the recommendations from the team focused on training and team involvement:
+Em 2024, Linåker e colegas trabalharam com uma grande empresa automotiva internacional para criar uma maneira simples e eficaz de avaliar a saúde de projetos open source (OSS).⁴ O estudo de caso mostra como as organizações podem personalizar verificações de integridade para atender às suas necessidades e fluxos de trabalho.
 
-* Hold workshops to introduce the checklists and tools.
-* Schedule regular feedback sessions to review real OSS projects.
-* Encourage discussion and knowledge-sharing across teams.
+#### Construindo um Processo de Avaliação de Saúde
 
-Over time, the company can make OSS health checks a normal part of its software development and quality assurance workflows.
+A equipe começou a conversar com os funcionários por meio de entrevistas e grupos focais. Com base nessas informações, eles desenvolveram um breve questionário que é um processo adaptado ao ambiente da empresa.
 
-#### What OSPOs Can Learn
+Principais características do processo:
 
-This case offers useful lessons for OSPOs that want to reduce risk and improve long-term OSS reliability.
+- Inspeções manuais na fase de admissão usando listas de verificação padronizadas.
+- Suporte de ferramenta automatizada usado quando útil.
+- Documentação simples para rastrear descobertas para futuras revisões, acompanhamentos e treinamentos.
 
-**Key takeaways:**
+O objetivo era manter o processo leve e eficiente, ao mesmo tempo em que capturava riscos importantes à saúde em projetos open source.
 
-* Start simple with manual checklists and a clear intake process.
-* Use automation for ongoing monitoring of large numbers of dependencies.
-* Integrate health checks into existing workflows.
-* Support the process with training, tools, and regular team discussions.
+#### Projetos de monitoramento já em uso
 
-By identifying problems early and responding quickly, organizations can reduce risks and make sure their open source software stays secure, stable, and sustainable.
+A empresa também precisava de uma maneira de rastrear projetos open source (OSS) já integrados aos seus sistemas. Como esses projetos costumam ter muitas dependências, verificações manuais não eram práticas.
 
-Resources like the CHAOSS Project and the OpenSSF Scorecard can help OSPOs get started or strengthen their approach.
+A solução proposta por eles:
 
-## Resources and Footnotes
+- Use ferramentas automatizadas para executar verificações regulares de saúde.
+- Personalize ferramentas com base no ecossistema e no tipo de dependências.
+- Sinalize projetos arriscados para que desenvolvedores e analistas possam fazer inspeções mais profundas quando necessário.
 
-### Resources
+Ferramentas da comunidade CHAOSS, como GrimoireLab e Augur, oferecem um bom ponto de partida. A empresa pode adaptá-las às suas necessidades internas.
 
-- CHAOSS Project: https://chaoss.community/
-- OpenSSF Scorecard: https://github.com/ossf/scorecard
-- CHAOSS OSPO Metrics Working Group: https://github.com/chaoss/wg-ospo
+#### Tornando as avaliações de saúde parte do trabalho diário
 
-### Footnotes
+Para tornar o novo processo bem-sucedido, as recomendações da equipe se concentraram no treinamento e no envolvimento da equipe:
 
-[^1]: CHAOSS Practitioner Guides: https://chaoss.community/about-chaoss-practitioner-guides/
+- Realize workshops para apresentar as listas de verificação e ferramentas.
+- Agende sessões regulares de feedback para revisar projetos OSS reais.
+- Incentive a discussão e o compartilhamento de conhecimento entre as equipes.
 
-[^2]: Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In the 18th International Symposium on Open Collaboration. DOI. https://doi.org/10.1145/3555051.3555067
+Com o tempo, a empresa pode tornar as verificações de integridade do OSS uma parte normal de seus fluxos de trabalho de desenvolvimento de software e garantia de qualidade.
 
-[^3]: Lumbard, K., Germonprez, M., and Goggins, S. (2023). An Empirical Investigation of Social Comparison and Open Source Community Health, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
+#### O que as OSPOs podem aprender
 
-[^4]: Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of Open Source Software dependencies in an Organization’s Intake Process: Insights from an Interview-survey and Case Study.
-https://opensym.org/wp-content/uploads/2023/03/os22-paper-A11-linaker.pdf
+Este caso oferece lições úteis para OSPOs que desejam reduzir riscos e melhorar a confiabilidade do OSS a longo prazo.
+
+Principais conclusões:
+
+- Comece de forma simples, com listas de verificação manuais e um processo de admissão claro.
+- Use a automação para monitoramento contínuo de um grande número de dependências.
+- Integre verificações de integridade aos fluxos de trabalho existentes.
+- Dê suporte ao processo com treinamento, ferramentas e discussões regulares em equipe.
+
+Ao identificar problemas precocemente e responder rapidamente, as organizações podem reduzir riscos e garantir que seu software open source permaneça seguro, estável e sustentável. Recursos como o Projeto CHAOSS e o OpenSSF Scorecard podem ajudar OSPOs a começar ou fortalecer sua abordagem.
+
+
+## Recursos e notas de rodapé
+
+### Recursos
+
+- [Projeto CHAOSS](https://chaoss.community/)
+- [Scorecard do OpenSSF](https://github.com/ossf/scorecard)
+- [Grupo de Trabalho de Métricas CHAOSS OSPO](https://github.com/chaoss/wg-ospo)
+
+### Notas de rodapé
+
+1. Guias para praticantes do CHAOSS: https://chaoss.community/sobre-guias-praticantes-do-chaoss
+
+2. Linåker, J., Papatheocharous, E., & Olsson, T. (2022). Como caracterizar a saúde de um projeto de software de código aberto? Uma revisão bibliográfica em formato bola de neve de uma prática emergente. No 18º Simpósio Internacional sobre Colaboração Aberta. DOI. https://doi.org/10.1145/3555051.3555067
+
+3. Lumbard, K., Germonprez, M., & Goggins, S. (2023). Uma investigação empírica sobre comparação social e saúde comunitária de código aberto, Information Systems Journal, 34(2), 499-532. https://onlinelibrary.wiley.com/doi/abs/10.1111/isj.12485
+
+4. Linåker, J., Olsson, T., & Papatheocharous, E. (2024). Como avaliar a saúde das dependências de software de código aberto no processo de admissão de uma organização: insights de uma entrevista-pesquisa e estudo de caso. https://www.linaker.se/assets/slides/OSS_Health_Interview_Survey.pdf
