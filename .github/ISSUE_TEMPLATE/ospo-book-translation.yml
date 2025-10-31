@@ -25,23 +25,23 @@ body:
     attributes:
       label: Target language
       options:
-        - Spanish (es-ES)
-        - English (en)
-        - Japanese (ja-JP)
-        - French (fr-FR)
-        - German (de-DE)
-        - Italian (it-IT)
-        - Portuguese (pt-BR)
-        - Portuguese (pt-PT)
+        - Arabic (ar)
         - Chinese (zh-CN)
         - Chinese (zh-TW)
-        - Korean (ko-KR)
-        - Hindi (hi-IN)
-        - Arabic (ar)
-        - Russian (ru-RU)
         - Dutch (nl-NL)
-        - Turkish (tr-TR)
+        - English (en)
+        - French (fr-FR)
+        - German (de-DE)
+        - Hindi (hi-IN)
+        - Italian (it-IT)
+        - Japanese (ja-JP)
+        - Korean (ko-KR)
         - Polish (pl-PL)
+        - Portuguese (pt-BR)
+        - Portuguese (pt-PT)
+        - Russian (ru-RU)
+        - Spanish (es-ES)
+        - Turkish (tr-TR)
         - Other
     validations:
       required: true
