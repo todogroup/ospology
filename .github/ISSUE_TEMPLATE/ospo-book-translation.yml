@@ -1,0 +1,80 @@
+name: "OSPO Book: Translation"
+description: "Track translation tasks for the OSPO Book."
+title: "[OSPO Book] Translation: "
+labels:
+  - "ospo-book"
+  - "ospo-book-translation"
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Before you start:** Please check if a translation issue for this language already exists to avoid duplicates
+
+  - type: checkboxes
+    id: dupcheck
+    attributes:
+      label: Duplicate check
+      options:
+        - label: I searched existing issues for this language and no suitable issue exists.
+          required: true
+
+  - type: dropdown
+    id: target_lang
+    attributes:
+      label: Target language
+      options:
+        - Arabic (ar)
+        - Chinese (zh-CN)
+        - Chinese (zh-TW)
+        - Dutch (nl-NL)
+        - English (en)
+        - French (fr-FR)
+        - German (de-DE)
+        - Hindi (hi-IN)
+        - Italian (it-IT)
+        - Japanese (ja-JP)
+        - Korean (ko-KR)
+        - Polish (pl-PL)
+        - Portuguese (pt-BR)
+        - Portuguese (pt-PT)
+        - Russian (ru-RU)
+        - Spanish (es-ES)
+        - Turkish (tr-TR)
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: target_lang_other
+    attributes:
+      label: If "Other", specify target language/locale
+      placeholder: e.g., Catalan (ca-ES)
+
+  - type: textarea
+    id: translators
+    attributes:
+      label: Translator(s) & reviewer(s)
+      description: GitHub handles for the people doing the work.
+      placeholder: "@alice, @bob (review)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: glossary
+    attributes:
+      label: Terminology & style
+      description: Links to glossary/style guide for this effort (if any).
+      placeholder: e.g., https://www.cncf.io/blog/2018/09/04/the-cloud-native-computing-foundation-cncf-style-guide/
+
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasks
+      options:
+        - label: Assign translator(s)
+        - label: First pass translation
+        - label: Peer review
+        - label: Open PR
+        - label: Merge & publish
