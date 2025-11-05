@@ -10,13 +10,15 @@ We will describe the main ways open source can act as a driver of business and t
 
 ## Drivers
 
-This section describes how open source can function as a driver of a business models. They are elements. Real-world business models will often use a combination of these drivers or vary how they are used.
+This section describes how open source can function as a driver of business models. Real-world business models will often use a combination of these drivers or vary how they are used.
 
 ### Wide adoption
 
-Open source is a powerful way to achieve adoption for software. The absence of licensing costs and the inherent freedom to use it for any purpose without restrictions makes it an attractive offering for many people.
+Open source is a powerful way to achieve adoption for software. The absence of licensing costs and the inherent freedom to use it for any purpose without restrictions makes it an attractive offering for many people. It is easy to integrate for users compared to other licensing models where engineers need to involved other department like procurement, legal, management before having access to the technology.
 
-Combined with the fact that software developed in the public is often of high quality, and that it benefits from diverse groups of contributors driving up its utility and quality, and that it is fueled by the amplification of communication through the open source community, open source can be an a very effective way of increasing adoption with relatively little effort.
+Open source adoption is often accelerated by network effects, where happy users become promoters, even in other domains or markets, that are not addressed by the original go-to-market strategy. Communication through the community is an effective way to reach a very wide range of potential users.
+
+It also helps adoption that software developed in the public is often of high quality. In a healthy project it benefits from diverse groups of contributors driving up its utility and quality, and is less susceptible to negative impacts of short-term decisions by a controlling company.
 
 Wide adoption opens business opportunities because there is a user base which cares about the software, and it has already proven its relevance and value.
 
@@ -24,7 +26,11 @@ Wide adoption opens business opportunities because there is a user base which ca
 
 ### Shaping a project through contributions
 
-Most open source projects welcome contributions with open arms. This gives everyone the opportunity to take a part in shaping the project by putting in work, by contributing. This way a project can be adapted to serve the business interests of particular users, especially when these needs are also appealing to others.
+Most open source projects welcome contributions with open arms. This gives everyone the opportunity to take a part in shaping the project by putting in work. This way a project can be adapted to serve the business interests of particular users, especially when these needs are also appealing to others.
+
+It is more effective to spend 20% effort on adapting an existing solution to your use case instead of spending 100% effort on building your completely own solutions.
+
+Open source allows customers to directly implement and add their requirements to the solutions. If done and managed well this avoids over-specialization of the technology and allows to keep using the technology in different contexts.
 
 Even when the original authors are reluctant to contributions, open source licenses always allow to fork the project as a last resort. Then you can develop it independently of the original authors yourself. While this is not a desirable situation it gives a guarantee that changes can not be completely blocked. It also gives the original project an incentive to look for ways how to accommodate contributions.
 
@@ -34,7 +40,7 @@ Even when the original authors are reluctant to contributions, open source licen
 
 Open source licenses grant free use of the software at zero costs. This is part of the definition of open source. This lowers expenses wherever licensing fees would otherwise add up. It is particularly relevant in models that scale, such as running large numbers of instances where usage-based pricing could otherwise become prohibitive.
 
-Zero license costs also reduce the costs of a software stack on used as the base for building further solutions. The value creation shifts upward, while the base layers become a commodity. In these commodity cases, open source often evolves as the predominant solution because it provides the most cost-effective model, especially in highly collaborative development situations.
+Zero license costs also reduce the costs of a software stack used as the base for building further solutions. The value creation shifts upward, while the base layers become a commodity. In these commodity cases, open source often evolves as the predominant solution because it provides the most cost-effective model, especially in highly collaborative development situations.
 
 **In short, zero license costs make scaling economical and move value creation up the stack.**
 
@@ -43,6 +49,8 @@ Zero license costs also reduce the costs of a software stack on used as the base
 Open source provides full transparency to a piece of software, because the source code is available to all users and in almost all cases to the general public as well. This is the prerequisite to be able to analyze how the software works and perform an independent assessment of quality of the code, security, and other aspects.
 
 Transparency is crucial in situations where trust in a vendor's statements is not enough. It for example gives everyone the ability to make sure their requirements are met, or it can be used to lay open used algorithms for the scrutiny of a community to ensure fairness and correctness.
+
+This is especially relevant for security. Only if the implementation is open we can verify that the component actually does what it is supposed to do and does not rely on "security by obscurity".
 
 **In short, transparency replaces vendor claims with verifiable trust.**
 
@@ -60,11 +68,13 @@ A lot of open source software is developed by volunteers. They do that to scratc
 
 Contributing voluntarily also gives a lot of freedom to follow your own interests and work in your own pace, because it doesn't come with the obligations of a paid assignment. This can open the room for experiments which would not be commercially viable.
 
-Many volunteers will even contribute to projects which serve as the base of a business of somebody else. They do so if they have the feeling that they get something in return, for example that the software they contribute to is well maintained and their efforts are multiplied.
+Many volunteers will even contribute to projects which serve as the base of a business of somebody else. They do so if they have the feeling that they get something in return, for example that the software they contribute to is well maintained and their efforts are multiplied, or that they can address their own needs by contributing corresponding features.
 
 Volunteer contributions can be a delicate element of a business model. Volunteers owe nothing to a business exploiting their volunteer work, and unfair treatment of volunteers might not only harm a community but also seriously affect the reputation of a business. If done right, they can be a powerful multiplier of good will and a source of valuable contributions.
 
 While volunteers are the backbone of many open source projects, it's important to acknowledge the challenges of sustaining engagement. This can be especially taxing when a project is in high use with corresponding load and demands towards maintainers from commercial entities without compensating them adequately.
+
+An example are commercial entities trying to outsource their requirements to volunteer contributors without providing the necessary assistance. We have seen cases, where maintainers have closed their projects or get frustrated when they get asked by downstream users to adapt their security protocols to fit into the processes of the companies. We can only advise companies to not do this.
 
 **In short, respectful engagement with volunteers adds value beyond payroll.**
 
@@ -74,7 +84,9 @@ In this section we look at concrete business models which use open source in som
 
 ### Support and maintenance
 
-Selling commercial support and maintenance for open source projects. This includes guarantees for security updates and other services required for business to operate open source within an environment with service levels and similar requirements.
+Selling commercial support and maintenance for open source projects. This includes guarantees for security updates and other services, like a support hotline, required for business to operate open source within an environment with service levels and similar requirements.
+
+Open source opens the market for other competitors to provide support which makes it more attractive for customers compared to offerings where they are bound to a single vendor when choosing a specific solution and technology.
 
 Drivers:
 
@@ -96,9 +108,13 @@ Drivers:
 
 * Income directly scales with *adoption*
 
+Examples:
+
+* Chainguard, Bitnami, Anaconda
+
 ### Professional services, custom development
 
-Adapt and extend open source software to meet specific requirements.
+Adapt and extend open source software to meet specific individual requirements.
 
 Drivers:
 
@@ -107,7 +123,7 @@ Drivers:
 
 ### Hosting, Software as a Service
 
-Running software as a service is associated with constant work and attention and incurs running costs. It requires expertise with the software as well as with hosting software. Many people and organizations don't have the time or expertise or are willing to manage the risks associated with this. Providing this as a service for a subscription fee is a valid and popular business.
+Running software as a service is associated with constant work and attention and incurs running costs. It requires expertise with the specific software as well as with hosting software in general. Many people and organizations don't have the time or expertise or are willing to manage the risks associated with this. Providing this as a service for a subscription fee is a valid and popular business that often scales better if one entity handles the hosting for multiple customer instead of each customer building up the environment and knowledge to run it by themselves.
 
 Drivers:
 
@@ -156,7 +172,7 @@ Examples:
 
 Offer the same software under two licenses, an open source version, which can be used for free, but restricts users in non-open scenarios, and a proprietary version, which doesn't have these restrictions, but needs to be paid.
 
-Usually a strong copyleft version is used in this model. This can be seen as an abuse of the free software idea, because it's not meant to pass on freedoms, but to play into concerns about detrimental effects of strong copyleft to proprietary business.
+Usually a strong copyleft version is used as open source license in this model. This can be seen as going against the free software idea, because it's not meant to pass on freedoms, but to play into concerns about detrimental effects of strong copyleft to proprietary business.
 
 This model only works, if the vendor of the commercial version has all rights on the open source code as well. This can be challenging in terms of community engagement.
 
@@ -257,13 +273,13 @@ Examples:
 
 ## Shaping open source projects to drive the business
 
-To use open source effectively as a business driver, the corresponding open source projects need to align with how they are supposed to work as drivers. Projects need certain traits that support this, for example in terms of licensing, governance model, technical architecture, etc. This linkage matters because business models such as support, SaaS, or open core rely on projects being shaped in a way that actually enables the drivers they depend on.
+To use open source effectively as a business driver, the corresponding open source projects need to align with how they are supposed to work as drivers. Projects need certain traits that support this, for example in terms of licensing, governance model, technical architecture, characteristics of the community members etc. This linkage matters because business models such as support, SaaS, or open core rely on projects being shaped in a way that actually enables the drivers they depend on.
 
 Mozilla has published ["A Framework For Purposeful Open Source"](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf), which defines a set of open source archetypes. These archetypes describe how a project is shaped to achieve certain goals. This is a useful perspective when deciding how to shape a project when starting it from scratch or which existing ones to engage with to achieve business goals.
 
 The Mozilla paper defines a list of benefits of open source, which are then reflected in the archetypes, although there is no clear-cut direct mapping. There will always be a combination of benefits, archetypes, and business drivers.
 
-The table below links the business drivers introduced above with the archetypes benefits identified by Mozilla and indicates which archetypes are most likely to realize them. This table is some guidance, not a formula.
+The table below links the business drivers introduced above with the archetypes benefits identified by Mozilla and indicates which archetypes are most likely to realize them. This table is some guidance, not a formula. Even the original authors of the Mozilla paper emphasize that most projects in practice will display a mix of the phenomenologically described archetypes.
 
 | Business driver | Related archetypes benefits | Archetypes most aligned |
 |-----------------|-----------------------------|-------------------------|
@@ -280,9 +296,9 @@ Software is not a business model. It is an object of business. You can sell it, 
 
 In the same sense open source software is not a business model either.
 
-But open source is more than just the artifact of software under an open source license. It's also a development model, an approach for collaboration. It is a culture of how people can interact to produce software effectively and with great fun and purpose
+But open source is more than just the artifact of software under an open source license. It's also a development model, an approach for collaboration. It is a culture of how people can interact to produce software effectively, how they develop a common understanding of process, working and governance models, and how they do this with great fun and purpose.
 
-This culture of open source can be an invaluable asset to many business models, because it is of significant effect, it aligns with what makes many businesses strong, and it has a positive effect on the humans involved with its production
+This culture of open source can be an invaluable asset to many business models, because it is of significant effect, it aligns with what makes many businesses strong, and it has a positive effect on the humans involved with its production.
 
 But also this aspect is not a business model in itself. While collaboration is at the core of many business models, it still depends on what the collaboration creates, how it interacts with the market and how the subject of collaboration plays with the intricacies of the market to provide a sustainable way to make money.
 
