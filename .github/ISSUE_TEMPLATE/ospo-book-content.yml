@@ -1,0 +1,75 @@
+name: "OSPO Book — Content"
+description: "Propose new content or updates to the OSPO Book."
+title: "[OSPO Book] <short summary>"
+labels:
+  - ospo-book
+  - ospo-book-content
+assignees: []
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "1–2 lines describing the request."
+      placeholder: "e.g., Add a section on InnerSource."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: change_type
+    attributes:
+      label: Type
+      options:
+        - label: New chapter/section
+        - label: Update existing content
+        - label: Copy edit/grammar
+        - label: Figures/diagrams
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: "What should be added/changed? Provide outline, key points, and rationale."
+      placeholder: "Outline, bullet points, learning objectives, sources to reference…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope of change
+      description: "Chapters/files/pages impacted."
+      placeholder: "e.g., /content/chapters/02-governance.md; /images/figures/ospo_lifecycle.svg"
+    validations:
+      required: false
+
+  - type: textarea
+    id: related_work
+    attributes:
+      label: Related work
+      description: "Link issues/PRs/docs."
+      placeholder: "e.g., #123, #456, design doc, prior PR link"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: definition_of_done
+    attributes:
+      label: Definition of Done
+      options:
+        - label: Outline agreed
+        - label: Draft completed
+        - label: Reviewers assigned
+        - label: Revisions applied
+        - label: PR merged & site updated
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional context
+      description: "Anything else reviewers should know."
+      placeholder: "Audience, examples, glossary terms, dependencies, timeline…"
+    validations:
+      required: false
