@@ -248,6 +248,6 @@ Executives require a particular type of communication. They need to have a clear
 
 [^6]: OpenSSF Scorecard: https://scorecard.dev/
 
-[^7]: Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
+[^7]: Redis changed its license type twice : https://openuk.uk/wp-content/uploads/2025/05/Redis-reverts-to-open-source.pdf
 
 [^8]: AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/
