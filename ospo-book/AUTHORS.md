@@ -10,6 +10,7 @@ This list is updated every time a new release is published, but you can open a P
 
 - Ana Jiménez Santamaría
 - Chris Aniszczyk
+- Alice Sowerby
 
 ## Core Contributors
 
