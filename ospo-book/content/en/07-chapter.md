@@ -25,6 +25,7 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Jiri Marek
 * Jonas van den Bogaard
 * Kate Stewart
+* Nikita Peters
 * Masae Shida
 * Masayuki Kuwata
 * Maurice Hendriks
