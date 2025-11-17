@@ -10,6 +10,7 @@ This list is updated every time a new release is published, but you can open a P
 
 - Ana Jiménez Santamaría
 - Chris Aniszczyk
+- Alice Sowerby
 
 ## Core Contributors
 
@@ -27,6 +28,7 @@ This list is updated every time a new release is published, but you can open a P
 - Jiri Marek
 - Jonas van den Bogaard
 - Kate Stewart
+- Nikita Peters 
 - Masae Shida
 - Masayuki Kuwata
 - Maurice Hendriks
