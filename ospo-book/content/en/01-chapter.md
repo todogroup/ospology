@@ -28,7 +28,7 @@ An OSPO is designed to do the following:
 2. Place a strategy and set of policies on top of an organization's open source efforts. This can include setting code use, distribution, selection, auditing, and other policies; training developers; ensuring legal compliance; and promoting and building community engagement
 to benefit the organization strategically.
 
-OSPOs can vary across organizations. For example, OSPOs may be situated in the R&D department, in the office of the CTO, in the Engineering department, or be "virtual" meaning that it's made up of people from across the business. An OSPO can be large and multi-layered for example, a corporate OSPO with division-level OSPOs or it can be much smaller. It can even be an informal, self-organized group.
+OSPOs can vary across organizations. For example, OSPOs may be situated in the R&D department, in the office of the CTO, in the Engineering department, in the Legal department, or be "virtual" meaning that it's made up of people from across the business. An OSPO can be large and multi-layered for example, a corporate OSPO with division-level OSPOs or it can be much smaller. It can even be an informal, self-organized group.
 
 >NOTE: For a more in-depth explanation of OSPOs see the TODO Group's official definition of an OSPO, linked to in the *Resources and Footnotes* section of this chapter.
 
