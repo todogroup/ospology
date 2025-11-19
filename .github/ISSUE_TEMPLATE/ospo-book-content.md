@@ -1,37 +1,69 @@
----
-name: "Content"
-description: "Propose new content or updates to the OSPO Book."
+name: "OSPO Book: Content"
+description: "Propose new content or updates to the OSPO Book"
 title: "[OSPO Book] "
 labels:
   - "ospo-book"
   - "ospo-book-content"
 assignees: []
----
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Summary"
+      description: "1–2 lines describing the request."
+      placeholder: "Short summary of the proposed content or update."
+    validations:
+      required: true
 
-## Summary
-<!-- 1–2 lines describing the request -->
+  - type: checkboxes
+    id: type
+    attributes:
+      label: "Type"
+      description: "What kind of change is this?"
+      options:
+        - label: "New chapter/section"
+        - label: "Update existing content"
+        - label: "Copy edit/grammar"
+        - label: "Figures/diagrams"
 
-## Type
-- [ ] New chapter/section
-- [ ] Update existing content
-- [ ] Copy edit/grammar
-- [ ] Figures/diagrams
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details"
+      description: "What should be added or changed? Provide outline, key points, and rationale."
+      placeholder: "Outline, key points, rationale…"
+    validations:
+      required: true
 
-## Details
-<!-- What should be added/changed? Provide outline, key points, and rationale. -->
+  - type: textarea
+    id: scope_of_change
+    attributes:
+      label: "Scope of change"
+      description: "List chapters/files/pages impacted."
+      placeholder: "E.g. Chapter 2, section 2.3; /docs/ospo-book/intro.md"
 
-## Scope of change
-<!-- Chapters/files/pages impacted. -->
+  - type: textarea
+    id: related_work
+    attributes:
+      label: "Related work"
+      description: "Link any related issues, PRs, or documents."
+      placeholder: "#123, #456, design doc link, etc."
 
-## Related work
-<!-- Link issues/PRs/docs -->
+  - type: checkboxes
+    id: definition_of_done
+    attributes:
+      label: "Definition of Done"
+      description: "Mark items as they are completed."
+      options:
+        - label: "Outline agreed"
+        - label: "Draft completed"
+        - label: "Reviewers assigned"
+        - label: "Revisions applied"
+        - label: "PR merged & site updated"
 
-## Definition of Done
-- [ ] Outline agreed
-- [ ] Draft completed
-- [ ] Reviewers assigned
-- [ ] Revisions applied
-- [ ] PR merged & site updated
-
-## Additional context
-<!-- Anything else reviewers should know -->
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional context"
+      description: "Anything else reviewers should know."
+      placeholder: "Background, constraints, target audience, etc."
