@@ -14,7 +14,7 @@ weight: 5
 
 - Glossary of terms 
 
-## [Glossary and Background - Existing frameworks and models]({{< relref "glossary" >}})
+## [Background - Existing frameworks and models]({{< relref "glossary" >}})
 
 - Guide's purpose and audience
 - Open source in modern software engineering
@@ -41,11 +41,10 @@ weight: 5
     - Cyber Resilience Act (CRA) when publishing software
 - How to properly budget or allocate resources for OSPOs?
 
-## [Communicating Engineering Benefits to Business Value]({{< relref "communication_of_benefits_to_business_value" >}})
+## [Communicating open source's value with business stakeholders]({{< relref "communication_of_benefits_to_business_value" >}})
 
-- How to communicate open source benefits to business managers
-- Simplifying complex concepts for managerial understanding
-- resources for managers to engage with open source effectively
+- Understand who you are talking to; different business personas have different priorities
+- Focus on the 2 or 3 primary benefits you think this particular project will have; all projects are different 
 
 ## [Case Studies and Success Stories]({{< relref "case_studies_and_stories" >}})
 
