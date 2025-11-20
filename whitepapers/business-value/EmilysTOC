@@ -17,22 +17,28 @@ weight: 5
 ## [Glossary and Background - Existing frameworks and models]({{< relref "glossary" >}})
 
 - Guide's purpose and audience
-- Open source in modern business
+- Open source in modern software engineering
+- Open source in modern businesses 
+- Engagement levels in open source 
+    - Using open source software
+    - Contributing to open source software
+    - Publishing and maintaining open source software
 - Carl-Eric Mols' "Principles for Industrial Open Source"
 - Magnus presentation at FOSSNorth
 - Mozilla archetypes and Heather Meeker's frameworks
 
-## [Engineering Driven vs. Business Driven Open Source]({{< relref "engineering-vs-business-driven" >}})
+## Business benefits of open source software
+- Engineering benefits
+- Marketing + sales benefits
+- Other business benefits (recruiting, retention, reputation) 
+- Difference in business benefits depending on the engagement level (user, contributor, editor) 
 
-- Definitions
-- Implementation strategies for business-driven
-- Connecting the two perspectives for a holistic approach
+## [Open source has downsides, too]({{< relref "misconceptions_challenges" >}})
 
-## [Misconceptions and Challenges]({{< relref "misconceptions_challenges" >}})
-
-- Misconceptions managers have about open source
-- Addressing security concerns and support availability
-- Cyber Resilience Act (CRA) when publishing software
+- Risks and challenges from using open source software
+- Risks and challenges from contributing to open source software
+- Risks and challenges from publishing and maintaining open source software
+    - Cyber Resilience Act (CRA) when publishing software
 - How to properly budget or allocate resources for OSPOs?
 
 ## [Communicating Engineering Benefits to Business Value]({{< relref "communication_of_benefits_to_business_value" >}})
