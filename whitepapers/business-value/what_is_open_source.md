@@ -2,7 +2,12 @@
 
 When it comes to open source, there are a lot of misconceptions – even among software engineers. So what exactly is open source? 
 
-Open source software is software that can be freely used, shared and modified. The philosophy behind open source software has its roots in the free software movement, which started 
+Open source software is software that can be freely used, shared and modified. The philosophy behind open source software has its roots in the free software movement and hacker culture of the 1970s; the free software movement believes that software should be freely available to users. The 'free' in free software refers to freedom, and the movement is based on the four freedoms of software. They are: 
+
+0. Run the software whereever you want, for whatever purpose
+1. The ability to study and modify the source code
+2. The abilty to give away or sell the software
+3. The ability to give away or sell modified version of the software
 
 
 The organization in charge of translating the philosophy of open source software into concrete legal terms is the [Open Source Initiative](https://opensource.org), also known as OSI. All software is released under a software license, and the OSI determines which licenses are open source licenses. You can see the list of OSI-approved licences [here](https://opensource.org/licenses). 
