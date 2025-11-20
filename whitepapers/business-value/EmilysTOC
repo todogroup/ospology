@@ -10,6 +10,10 @@ weight: 5
 - Desciption of common practices in open source development
 - Misconceptions about open source 
 
+## Open source glossary
+
+- Glossary of terms 
+
 ## [Glossary and Background - Existing frameworks and models]({{< relref "glossary" >}})
 
 - Guide's purpose and audience
