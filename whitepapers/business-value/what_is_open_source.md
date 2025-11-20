@@ -9,8 +9,7 @@ Open source software is software that can be freely used, shared and modified. T
 2. The abilty to give away or sell the software
 3. The ability to give away or sell modified version of the software
 
-
-The organization in charge of translating the philosophy of open source software into concrete legal terms is the [Open Source Initiative](https://opensource.org), also known as OSI. All software is released under a software license, and the OSI determines which licenses are open source licenses. You can see the list of OSI-approved licences [here](https://opensource.org/licenses). 
+Open source software has its roots in the free software movement, but it is a less extreme, less 'free' version. The organization in charge of translating the philosophy of open source software into concrete legal terms is the [Open Source Initiative](https://opensource.org), also known as OSI. All software is released under a software license, and the OSI determines which licenses are open source licenses. You can see the list of OSI-approved licences [here](https://opensource.org/licenses). 
 
 Open source software is simply software that is released under an OSI-approved license. 
 
