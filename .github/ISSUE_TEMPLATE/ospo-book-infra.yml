@@ -1,0 +1,72 @@
+name: "OSPO Book — Website & Infra"
+description: "Tasks for the OSPO Book website and the repo that maintains its infrastructure/automation."
+title: "[OSPO Book] <short summary>"
+labels:
+  - ospo-book
+  - ospo-book-infra
+assignees: []
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Select the primary area this issue covers.
+      options:
+        - Website (build/theme/layout/assets)
+        - Infra repo (automation, CI/CD, tooling)
+        - Both
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem_goal
+    attributes:
+      label: Problem / Goal
+      description: What are we fixing or improving and why?
+      placeholder: "Describe the user problem, failure mode, or outcome you want."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_change
+    attributes:
+      label: Proposed change
+      description: High-level approach; include diagrams or snippets if useful.
+      placeholder: "Outline your approach. Add pseudocode, config diffs, or sketches."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: areas_to_cover
+    attributes:
+      label: Areas to cover
+      options:
+        - label: Build config update
+        - label: PR preview environments
+        - label: Linters / link-check / spell-check
+        - label: i18n build pipeline
+        - label: Netlify
+        - label: Redirect
+        - label: Sitemap
+        - label: Image/font optimization
+        - label: Dependabot
+        - label: CODEOWNERS / branch protection
+        - label: Licensing
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance criteria
+      description: Objective checks to consider this done.
+      placeholder: "e.g., CI green on PRs; preview deploy works; redirects validated; lighthouse score ≥ X; docs updated."
+    validations:
+      required: false
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Related issues, PRs, or docs.
+      placeholder: "e.g., #123, https://example.com/design, prior PR"
+    validations:
+      required: false
