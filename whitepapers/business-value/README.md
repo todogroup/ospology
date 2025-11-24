@@ -22,24 +22,9 @@ Apporved proposal and rationale can be found [here](https://github.com/todogroup
 2.	Help non-software-native companies (e.g., hardware or manufacturing) understand how open source can play a role in their business models.
 3.	Educate business managers on the long-term investments required for successful open source strategies (e.g., building and nurturing open source communities).
 
-> To learn more about outline updates please visit the dedicated GH Discussions repo [here](https://github.com/todogroup/ospology/discussions/481)
-
 ## How can people contribute to date?
 
-We are using TODO Touchpoints to allow people to share 5-minute presentations on potential content to include. If you’d like to participate, please consider joining the upcoming touchpoint call on the last Thursday of November 28th
-
-### Action Items for Next Call - Nov 28th
-
-- Define working repo Process / Roadmap / File issues by the community (Harmony)
-- Open an Issue to include a new chapter title: "Transparent manageable risks in Open Source vs. Closed Source"  (Ana)
-- Review new PRs or Issues (All)
-
-## Where to find more info
-
-If you would like to catch up on motivation, interested participants involved, past discussions, and presentations shared, please read this GH Discussion thread. The Last comment is the most updated version to date
-
-- Define workstreams/cluster of tasks and give them an order/priority. Make sure there are “owners” for each workstream
-- Discuss if further follow-ups should be done in these meetings or need to allocate specific catch up calls/official working group under TODO
+We are meeting bi-weekly on Fridays. You can check our next meeting in our [calendar](https://todogroup.org/community/meetings/#calendar). Async communication happens in our TODO Slack within the #wg-oss-in-business channel
 
 ## Displaying the Guide as Website
 
