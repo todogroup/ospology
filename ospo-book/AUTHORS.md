@@ -10,6 +10,7 @@ This list is updated every time a new release is published, but you can open a P
 
 - Ana Jiménez Santamaría
 - Chris Aniszczyk
+- Alice Sowerby
 
 ## Core Contributors
 
@@ -27,6 +28,7 @@ This list is updated every time a new release is published, but you can open a P
 - Jiri Marek
 - Jonas van den Bogaard
 - Kate Stewart
+- Nikita Peters 
 - Masae Shida
 - Masayuki Kuwata
 - Maurice Hendriks
@@ -41,6 +43,37 @@ This list is updated every time a new release is published, but you can open a P
 - Ulises Gascón
 - Victor Lu
 
+## Translators
+
+### Chinese
+
+- Chris Yang
+- Zhou Li
+- ChenYong
+- Ben TENG
+- ZhuWanyi
+- Chaojun ZENG
+- Mingkang LI
+- LiJiansheng
+- Ian (Liqiu) ZHANG
+
+### Japanese
+
+- Shinzan Takata
+- Shu Muto
+
+### Portuguese (Brazilian)
+
+- Fernando Eugenio Correa
+- Juliana Conde
+- Marco Carvalho
+- Rafael Paiva
+
+### Spanish
+
+- Bruno Ingani
+- Esteban Miguel De Bonis Viar
+- Fernando Eugenio Correa
 
 > Co-author list will evolve as new contributions from more open source experts arise
 > If you would like to be added to the list, please open a new issue and ping @anajsana for awareness
