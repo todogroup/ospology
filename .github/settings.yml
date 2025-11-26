@@ -22,9 +22,6 @@ collaborators:
 
   - username: anajsana
     permission: admin
-
-  - username: amye
-    permission: admin
     
   - username: souravcipher
     permission: admin
