@@ -5,6 +5,7 @@ updates:
     schedule:
       interval: "monthly"
   - package-ecosystem: "github-actions" # See documentation for possible values
+    directory: "/"
     schedule:
       interval: "monthly"
   - package-ecosystem: "devcontainers" # See documentation for possible values
