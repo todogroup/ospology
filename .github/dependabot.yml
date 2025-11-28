@@ -4,11 +4,17 @@ updates:
     directory: "/ospo-book" # Location of package manifests
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
   - package-ecosystem: "github-actions" # See documentation for possible values
     directory: "/"
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
   - package-ecosystem: "devcontainers" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "monthly"
+    cooldown:
+      default-days: 7
