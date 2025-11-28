@@ -37,7 +37,7 @@ More specifically, it will be useful for:
 
 In the second edition of this book, we aim to also make it useful for: 
 
-* **Leaders and practitioners** who are establishing or refining open-source-related  processes, aligning them with existing management, compliance, and risk frameworks, or evaluating how an OSPO contributes to broader organizational objectives.
+* **Leaders and practitioners** who are establishing or refining open-source-related processes, aligning them with existing management, compliance, and risk frameworks, or evaluating how an OSPO contributes to broader organizational objectives.
 
 * **Educators and trainers** who need “pre-101” to intermediate material for students and professionals across fields such as computer science, business, law, and engineering, including those designing modular curricula or standalone teaching units.
 
