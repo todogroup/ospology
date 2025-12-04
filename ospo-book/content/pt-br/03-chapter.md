@@ -8,12 +8,12 @@ weight: 50
 ## Índice
 
 - [Introdução](#introdução)
-- [Começando com estratégia](#começando-com-estratégia)
-- [Projetando seu OSPO](#projetando-seu-ospo)
-- [Usando modelos de maturidade para OSPOs](#usando-modelos-de-maturidade-para-ospos)
-- [Aplicando isso à sua organização](#aplicando-isso-à-sua-organização)
-- [Possíveis problemas e como superá-los](#possíveis-problemas-e-como-superá-los)
-- [Recursos e notas de rodapé](#recursos-e-notas-de-rodapé)
+- [Começando com Estratégia](#começando-com-estratégia)
+- [Projetando Seu OSPO](#projetando-seu-ospo)
+- [Usando Modelos De Maturidade Para OSPOs](#usando-modelos-de-maturidade-para-ospos)
+- [Aplicando Isso À Sua Organização](#aplicando-isso-à-sua-organização)
+- [Possíveis Problemas E Como Superá-los](#possíveis-problemas-e-como-superá-los)
+- [Recursos E Notas De Rodapé](#recursos-e-notas-de-rodapé)
 
 
 ## Introdução
@@ -21,11 +21,11 @@ weight: 50
 Os OSPOs podem ser realmente diversos, portanto, é importante dedicar um tempo para projetar um OSPO que atenda às metas da sua organização. Este capítulo ajudará você a identificar sua estratégia para que você tenha uma base para planejar o trabalho que sua organização deve fazer e como o OSPO deve ser estruturado. Em seguida, ele analisará como projetar e construir um OSPO estável e forte, capaz de cobrir as tarefas e responsabilidades relacionadas ao open source necessárias para sua organização. Por fim, este capítulo apresentará o modelo de maturidade como uma forma de entender o que é apropriado para seu OSPO agora e no futuro, conforme as necessidades mudam.
 
 
-## Começando com estratégia
+## Começando Com Estratégia
 
-### Como desenvolver uma estratégia
+### Como Desenvolver Uma Estratégia
 
-Para profissionais em Escritórios de Programas de open source, comunicar eficazmente a estratégia de open source aos executivos C-levels exige um profundo conhecimento do cenário do setor e alinhamento com as principais considerações de CEOs e CFOs. Esse alinhamento exige uma compreensão clara da estratégia corporativa abrangente e a identificação de tecnologias no âmbito do open source que possam impulsionar a organização em direção aos seus objetivos estratégicos.
+Para profissionais em OSPOs - Open Source Program Offices, comunicar de forma eficaz a estratégia de open source aos executivos C-levels exige um profundo conhecimento do cenário do setor e alinhamento com as principais considerações de CEOs e CFOs. Esse alinhamento exige uma compreensão clara da estratégia corporativa abrangente e a identificação de tecnologias no âmbito do open source que possam impulsionar a organização em direção aos seus objetivos estratégicos.
 
 [Apresentação de Victor Lu e Rob Moffat - Estratégia - Fim do Jogo para o Modelo de Maturidade FINOS](https://ospobook.todogroup.org/03-chapter/#fn:1 "Apresentação de Victor Lu e Rob Moffat - Estratégia - Fim do Jogo para o Modelo de Maturidade FINOS")
 
@@ -46,7 +46,7 @@ Coisas a considerar ao criar sua estratégia:
 **4. Revise um exemplo da estrutura do OSPO:** Para obter uma visão geral das atividades potenciais de um OSPO, você pode revisar o Mapa Mental do OSPO⁴. Isso descreve as principais responsabilidades, funções, comportamentos e tamanhos de equipe dentro do ecossistema de um OSPO.
 
 
-## Projetando seu OSPO
+## Projetando Seu OSPO
 
 ### Identificando o que seu OSPO deve gerenciar
 
@@ -103,9 +103,9 @@ Reguladores externos não estão incluídos no diagrama de flores, pois este é 
 Para que o open source seja bem-sucedido e sustentável dentro de uma organização, é crucial colaborar não apenas com a comunidade de open source, mas também com reguladores externos. Essa colaboração garante uma compreensão clara dos princípios do open source ao criar políticas que afetam o ecossistema. O objetivo principal é trabalhar em conjunto e tomar decisões informadas, compreendendo plenamente as implicações do open source e de sua comunidade. Portanto, recomenda-se que o OSPO considere maneiras de desenvolver um plano de abordagem e comunicação com os reguladores, definindo claramente os papéis que eles desempenharão no processo de formulação de políticas.
 
 
-## Usando modelos de maturidade para OSPOs
+## Usando Modelos De Maturidade Para OSPOs
 
-### Uma introdução aos modelos de maturidade
+### Uma introdução aos Modelos de Maturidade
 
 O engajamento de uma organização com o open source normalmente varia de tático a estratégico. Modelos de maturidade ajudam a entender onde as diferentes partes da organização se encontram nessa escala e a discutir se ela está no lugar certo. Existem diversos modelos de maturidade de open source. Alguns são gerais, outros são especializados. Há modelos de maturidade para governos, ONGs, empresas e muito mais, com versões e subversões para atender a qualquer organização.
 
@@ -115,7 +115,7 @@ O engajamento de uma organização com o open source normalmente varia de tátic
 
 Cada um desses modelos de maturidade é ligeiramente diferente, mas todos eles classificam o engajamento de open source de tático e menos intencional a estratégico e mais intencional.
 
-**Modelo de Maturidade 1 - Adoção de Engajamento de open source pelo Dr. Ibrahim H⁵:**
+**Modelo de Maturidade 1 - Adoção de Engajamento de Open Source pelo Dr. Ibrahim H⁵:**
 
 - **Negação** - Uso inexistente ou inconsciente de open source
 
@@ -127,7 +127,7 @@ Cada um desses modelos de maturidade é ligeiramente diferente, mas todos eles c
 
 - **Liderança** - Envolvimento estratégico com open source para gerar valor comercial
 
-**Modelo de Maturidade 2 - Cinco Estágios da Adoção Corporativa de open source - Palestra de Carl-Eric⁶:**
+**Modelo de Maturidade 2 - Cinco Estágios da Adoção Corporativa de Open Source - Palestra de Carl-Eric⁶:**
 
 - **Acidental** - o open source é usado pela organização sem que ela saiba que está sendo usado
 
@@ -152,7 +152,7 @@ Cada um desses modelos de maturidade é ligeiramente diferente, mas todos eles c
 - **Etapa 4:** Tornando-se um parceiro na tomada de decisões estratégicas
 
 
-## Aplicando isso à sua organização
+## Aplicando Isso À Sua Organização
 
 Aqui estão algumas sugestões de como você pode usar as ideias e conselhos acima para configurar seu OSPO. Elas se baseiam no Modelo de Maturidade 3 — o Modelo de Maturidade OSPO do TODO Group.
 
@@ -175,7 +175,7 @@ Use os insights dessas conversas para definir os motivadores específicos da org
 Mapeie esses motivadores com diferentes tipos de atividades em toda a organização, utilizando o Modelo de Maturidade OSPO e criando uma segunda divisão que categorize cada um desses motivadores específicos de acordo com os diferentes estágios. Use isso como referência ao interagir e se comunicar com seus stakeholders.
 
 
-## Possíveis problemas e como superá-los
+## Possíveis Problemas E Como Superá-los
 
 ### Problema
 
@@ -186,7 +186,7 @@ Ao criar o OSPO, você recebe muitas perguntas e precisa adaptar seu plano para 
 Certifique-se de dedicar tempo para identificar todos os seus Stakeholders e entender suas motivações. Crie manifestos, princípios e websites de open source publicamente disponíveis como uma forma eficaz de promover um entendimento comum de valores, princípios e objetivos entre todas as equipes e subsidiárias. Reservar um tempo para estabelecer e implementar um entendimento consistente de open source em toda a organização garantirá uma base estável e sólida para o OSPO.
 
 
-## Recursos e notas de rodapé
+## Recursos e Notas de Rodapé
 
 ### Recursos
 
