@@ -4,10 +4,10 @@ When it comes to open source, there are a lot of misconceptions – even among s
 
 Open source software has its roots in the free software movement, which started in the 1970s. Software was the first ‘digital product.’ Long before there were digital music or digital books, you could create a copy of a software program for free, without any impact on the original program. This gave rise to a political philosophy that holds that programmers shouldn’t charge for software, and that software should be a source of empowerment for users. The ‘free’ in the free software movement is a reference to freedom, not to something that costs $0. There are four basic freedoms of the free software movement: 
 
-Freedom to run the program as you wish, for any purpose
-The freedom to study how the program works, and change it to make it do what you wish
-The freedom to redistribute copies so you can help others
-The freedom to distribute copies of your modified versions to others
+- Freedom to run the program as you wish, for any purpose
+- The freedom to study how the program works, and change it to make it do what you wish
+- The freedom to redistribute copies so you can help others
+- The freedom to distribute copies of your modified versions to others
 
 The open source software movement takes the philosophy of the free software movement and codifies it, creating a legal framework around free software to make it more palatable to businesses – particularly their legal departments. 
 
@@ -25,10 +25,10 @@ You can see the full description of the [criteria OSI uses](https://opensource.o
 
 
 1. Free redistribution. 
-Availability of source code.
-Freedom to create derivative works 
-No discrimination against people or groups 
-No discrimination against use cases 
+2. Availability of source code.
+3. Freedom to create derivative works 
+4. No discrimination against people or groups 
+5. No discrimination against use cases 
 
 
 Some of these clauses seem straightforward at first glance but in fact are not. For example, open source software can’t be restricted to use cases that the program author considers ‘good.’ An open source software can be used as part of a spyware or cyberwarfare stack for an enemy state; it can be used in weapons technology. Open source software can be used by the software author’s commercial competitors. It’s possible to limit who contributes to the software because contributions require approval from a maintainer, but it is not possible to limit who uses and benefits from the software. 
