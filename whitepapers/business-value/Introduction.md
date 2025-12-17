@@ -35,11 +35,11 @@ Some of these clauses seem straightforward at first glance but in fact are not. 
 
 
 
-Legally open source versus culturally open source 
+## Legally open source versus culturally open source 
 
 Much of the confusion around what is and is not open source comes down to the fact that while open source has a legal definition, there is a larger philosophy and culture around open source. There are also a set of common practices related to open source software that are described below. It’s important to note that while these practices are strongly associated with open source, they do not define a piece of software as open source. For example, just because code is available publicly on GitHub does not mean that it is open source code; there are many non-open-source licenses in which the code is public but published under a license that does not meet the OSI’s criteria for an open source licence. Conversely, not all open source software is available on GitHub. It could be available on GitLab, but also for download directly from a website or, if you want to travel back in time, on a floppy disk. 
 
-Public repositories on GitHub or GitLab
+### Collaboration
 
 In most cases, open source software is published in a public repository on GitHub or on GitLab. This is a way to both make the code publicly available, and to facilitate collaboration. 
 
@@ -58,14 +58,15 @@ On the other hand, collaboration is not always easy and there are downsides. Ope
 
 Collaboration is considered part of the ‘spirit’ of open source. But the idea that all open source projects are the product of collaboration among otherwise unconnected developers is largely a myth. There are many open source projects that are created, developed and maintained by a single individual; there are many open source projects that are created and maintained by multiple people who work at the same organization, so that the effect is no more ‘collaborative’ than any other piece of software that is developed internally. 
 
-Transparency 
+### Transparency 
 
 A second pillar of open source culture is transparency. In an ‘ideal’ open source world, this means that everything about the project is done in the open: Issues are raised publicly, there is public discussion about the roadmap, and the code is developed incrementally, in the open. Technical decisions can and should be made transparently. 
 
 Clearly at least a minimal amount of transparency is necessary for open source software to be open source, given that the code must be publicly available. However, it’s entirely possible to publish an open source project under an OSI-approved license without being transparent about the process. In the open source world this is called a code dump; when the code is written entirely internally and then the finished product is published under an open source license. A code dump is a pejorative term; it is considered not at all in the spirit of open source. 
 
 Transparency can be uncomfortable, particularly for companies. Many companies hesitate to publish open source software precisely because they are worried about airing their dirty laundry, or about the world seeing their less-than-perfect engineering practices. True transparency also goes along with collaboration – if you are transparent about how decisions are being made, you are also opening yourself up to input from users. 
-Community
+
+### Community
 
 The expectation in open source projects is not just that individuals are going to collaborate, it is that they are also going to bond with each other and become a community. 
 
@@ -82,38 +83,37 @@ Just like with collaboration and community, however, you do not need to build a 
 
 In fact, communities do not make sense for all projects. So while community building is a core value in open source, not all open source projects will have a community and not all open source projects would even benefit from a community. 
 
-### start pull box
+## Pull box: Different levels of engagement inside a community
 
-Different levels of engagement inside a community
 
 In an open source project, there are a variety of levels of engagement in the community (as with in any community).
 
-Users
+### Users
 
 In any open source community, the vast majority of people are simply anonymous users. One of the challenges for the maintainers of open source projects is that there is so little information about these people – other than statistics about downloads, it’s often hard to know what’s going on. 
 
 It’s also hard to know if people who download the project even use it. This lack of information about 95% of the users of the open source project is a source of frustration for creators and maintainers; and while it’s possible to get some metrics, for the most part you have to accept that you won’t have much visibility into this part of the community. 
 
-People who ask questions and report bugs
+### People who ask questions and report bugs
 
 It’s generally less than 5% of the anonymous users who end up interacting with the community in any way. But someone who logs in to the Slack or Discord group just to ask questions is participating in the community; he or she is giving clues to potential problems with the user experience or the documentation as well as identifying themselves and giving you information about how they use the software. 
 
 These active community members are often overlooked when talking about open source communities, because there is so much focus on contributors, especially code contributors. It’s also why there is no shorthand term for project users who are active in the community but not contributors. 
 
-People who answer questions
+### People who answer questions
 
 In healthy open source communities, there is a type of community member who is incredibly valuable but often overlooked: people who are out there giving free support to others. In other words, those who are active in discussions and who answer others’ questions. 
 
 These people may or may not contribute to the project in the sense of contributing code or documentation, but they are providing an incredible service to the project and the community. There’s no short-hand term for these people, but these are the people who build a community around a project – even more so than those who are contributing code or documentation. 
 
-Contributors 
+### Contributors 
 
 Contributors are people who contribute concretely to the project’s development. In the open source ecosystem, people tend to talk primarily about code contributors, but there are many ways that individuals can contribute to an open source project. It can be by writing documentation, by translating documentation (or translating the UX), writing website copy, by doing a conference talk about the project… or many other things. 
 
-Maintainers
+### Maintainers
 
 Maintainers are the individuals who hold the keys to the project. They are the ones who decide what direction to take the project in, what contributions to accept and which ones to reject, which features to prioritize. 
 
 At first, the maintainers are the project creator(s), but in order to ensure project continuity it’s important to recruit additional maintainers. Large projects have multiple maintainers, and having more than one maintainer is an important sign of project health. 
 
-### end pull box
+End pull box
