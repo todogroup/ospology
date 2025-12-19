@@ -1,6 +1,12 @@
 # The Glossary for you!
 This file will serve as a reference guide to assist non-technical managers to understand key terms, concepts, and acronyms related to open source in business environments.
 
+# Terms
+
+- Open Source (OS): Software that is published under a license approved by the Open Source Initiative (OSI).
+- Open Source Program Office (OSPO): A dedicated team inside an organization that is responsible for setting policies and strategy to govern the organization's relationship with open source.
+- Pull request (PR): A request to change or add a file to a repository in a code collaboration platform, usually GitHub or GitLab. 
+
 # The Acronyms
 - OS - Open Source.
 - OSPO(s) - Open Source Program Office(s).
