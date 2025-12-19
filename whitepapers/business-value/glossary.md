@@ -1,4 +1,4 @@
-# The Glossary for you!
+# Glossary of Open Source Terms
 This file is meant to both define terms that are commonly used in the open source world, as well as a brief description of how they relate to the business world. In some cases, you'll frequently encounter acronyms instead of the full term -- in those cases, the acronym is provided as well. 
 
 # Terms
