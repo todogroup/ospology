@@ -19,9 +19,13 @@ This file is meant to both define terms that are commonly used in the open sourc
 - Permissive license: A type of open source license that gives users broad rights to use, change, distribute and even create competing software products with the code. The most common permissive open source licenses are MIT and BSD licenses. 
 - Contributor agreement: A legal agreement that contributors, particularly code contributors, sign before their contributions are accepted. Contributor agreements often cover things like copyright assignment and licensing; they can become extremely important if the project's license is ever changed. Contributor agreements are also critical if there is a plan for monetizing the project. It's a good practice to put in place a contributor agreement before accepting contributions from anyone. 
 - Documentation: The "user manual" for software. Documentation is the text, illustrations and even videos that enable users to successfully install and use the open source software. Not all projects have documentation! But including documentation with open source projects is a best practice. 
-- Roadmap:
+- Roadmap: The plan for the future of the project. This can be as basic as a list of new features and functionality to add in the future, it can be as complex as a strategic document outlining the project's vision for the future, target user community, value proposition and more. Regardless, the roadmap should guide the direction that the project takes in the future. 
 - Issue:
-- Community: 
+- Community:
+- Open core:
+- Commercial open source:
+- License change:
+- Business source license / fair source: 
 
 # The Acronyms
 - OS - Open Source.
