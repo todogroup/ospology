@@ -20,8 +20,9 @@ This file is meant to both define terms that are commonly used in the open sourc
 - Contributor agreement: A legal agreement that contributors, particularly code contributors, sign before their contributions are accepted. Contributor agreements often cover things like copyright assignment and licensing; they can become extremely important if the project's license is ever changed. Contributor agreements are also critical if there is a plan for monetizing the project. It's a good practice to put in place a contributor agreement before accepting contributions from anyone. 
 - Documentation: The "user manual" for software. Documentation is the text, illustrations and even videos that enable users to successfully install and use the open source software. Not all projects have documentation! But including documentation with open source projects is a best practice. 
 - Roadmap: The plan for the future of the project. This can be as basic as a list of new features and functionality to add in the future, it can be as complex as a strategic document outlining the project's vision for the future, target user community, value proposition and more. Regardless, the roadmap should guide the direction that the project takes in the future. 
-- Issue:
-- Community:
+- Issue: An issue on GitHub is a way to make comments, report bugs, make suggestions and otherwise discuss with other users of an open source project on GitHub. 
+- Community: The people who use and are engaged with an open source project. In the open source world, the word community is thrown around a lot, often in a way that is not very specific. In the romaticized vision of open source software, every open source project has an engaged group of volunteers and an a large number of people who are personally invested in the project's success. In reality, not every open source project will have an engaged community.
+- Community edition: In open core companies, the 'community edition' generally refers to the open source project. 
 - Open core:
 - Commercial open source:
 - License change:
