@@ -23,7 +23,7 @@ This file is meant to both define terms that are commonly used in the open sourc
 - Issue: An issue on GitHub is a way to make comments, report bugs, make suggestions and otherwise discuss with other users of an open source project on GitHub. 
 - Community: The people who use and are engaged with an open source project. In the open source world, the word community is thrown around a lot, often in a way that is not very specific. In the romaticized vision of open source software, every open source project has an engaged group of volunteers and an a large number of people who are personally invested in the project's success. In reality, not every open source project will have an engaged community.
 - Community edition: In open core companies, the 'community edition' generally refers to the open source project. 
-- Open core:
+- Open core: A model for monetizing an open source project in which there is a paid software product based on the open source project that is released under a commercial license. The 'core' of the software is open source, but there is additional functionality that isn't. 
 - Commercial open source:
 - License change:
 - Business source license / fair source: 
