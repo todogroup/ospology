@@ -59,3 +59,5 @@ Even if your internal software isn’t particularly cutting edge, or if your eng
 ### Trust
 ### New opportunities
 
+## Strategies for maximizing the business benefits of open source
+
