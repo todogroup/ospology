@@ -77,3 +77,12 @@ That's why it's important to be intentional about the organization's involvement
 
 If your organization currently develops software, it almost certainly has some sort of involvement in open source already. So the first step to maximizing the business benefits you get from open source is figuring out what that involvement looks like. In surveys of open source usage, both business and engineering leaders dramatically underestimate open source usage in their organization, often because engineers consider open source so critical to their work that they take it for granted and don't discuss it with their leadership. 
 
+Of course, there are other reasons to audit your involvement in open source! First of all, simply understanding which projects you use is important for security reasons; it's an important element of your software bill of materials (SBOM). But when it comes to open source projects, there's also the risk of a project being abandoned. When you audit your involvement in open source, you should try to evaluate the following: 
+
+- Which projects do you have intregrated into your software stack?
+- Which projects does your team use regularly?
+- How critical is each project? If it were to go down, what would the impact on your organization be? How likely is it that you would be able to fix the problem internally? If the project goes down, would your customers be impacted at as well? 
+- Which projects are your employees involved in, above and beyond using the project anonymously, if any?
+- If there are projects your employees are involved in, what does that involvement look like? What pushed them to get involved?
+- 
+
