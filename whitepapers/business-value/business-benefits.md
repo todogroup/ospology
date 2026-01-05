@@ -55,6 +55,13 @@ Generally speaking, engineers want the ability to contribute to open source proj
 Even if your internal software isn’t particularly cutting edge, or if your engineers aren’t particularly challenged by their day-to-day, your team can continue to develop their skills 
 
 ### Visibility 
+
+Being involved in open source is an additional "marketing" channel that will increase your organization's visibility. When it comes to recruiting developers, this can be particularly important, as mentioned above. But recruiting is not the only reason your organization might want to increase its visibility; being involved in open source projects will help. 
+
+The advantages of increased visibility are most obvious for companies that create and sell software. For this type of company, being involved in open source can directly lead to new customers, since their target customers are likely to be involved with open source projects and aware of which organization are involved as well. But even for non-software companies, for whom the software engineers are not necessarily the target market, a presence in open source will increase the organization's overall visibility. 
+
+In addition, not all open source projects are primarily used by software engineers! Some open source projects are truly deep-tech, used only by programmers. But many others are industry-specific, with end users who are not technical. While getting involved with deep tech projects will increase an organization's visibility with programmers, getting invovled in industry-specific open source projects will increase the organization's profile in the specific industry they work in, among potential customers and potential partners. 
+
 ### Reputation
 ### Trust
 ### New opportunities
