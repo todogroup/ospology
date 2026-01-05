@@ -63,8 +63,17 @@ The advantages of increased visibility are most obvious for companies that creat
 In addition, not all open source projects are primarily used by software engineers! Some open source projects are truly deep-tech, used only by programmers. But many others are industry-specific, with end users who are not technical. While getting involved with deep tech projects will increase an organization's visibility with programmers, getting invovled in industry-specific open source projects will increase the organization's profile in the specific industry they work in, among potential customers and potential partners. 
 
 ### Reputation
+
 ### Trust
 ### New opportunities
 
 ## Strategies for maximizing the business benefits of open source
+
+While there are many potential benefits from getting involved in open source, they will not necessarily happen just because you've published a project on GitHub or because you've submitted a pull request to a project you depend on. An even more insidious problem is when an organization does in fact get benefits from its involvement in open source, but no one is really aware of what those benefits are or how much they are worth to the company. When that happens, it puts the organization's involvement in open source at risk, because business leaders are likely to cut it when budgets get tight. Then the business suffers, and no one really understands why. 
+
+That's why it's important to be intentional about the organization's involvement in open source, and to communicate how the organization works with open source and what it expects to get out of that involvement. Organizations get the most out of open source when both engineering and business leaders understand why open source is important, and those strategic goals from open source are translated into concrete policies to guide individual employees' interactions with open source, from the policy on using open source anonymously to how and when to contribute to and/or publish and maintain your own open source project. 
+
+### Audit your current open source involvement
+
+If your organization currently develops software, it almost certainly has some sort of involvement in open source already. So the first step to maximizing the business benefits you get from open source is figuring out what that involvement looks like. In surveys of open source usage, both business and engineering leaders dramatically underestimate open source usage in their organization, often because engineers consider open source so critical to their work that they take it for granted and don't discuss it with their leadership. 
 
