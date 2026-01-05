@@ -86,3 +86,14 @@ Of course, there are other reasons to audit your involvement in open source! Fir
 - If there are projects your employees are involved in, what does that involvement look like? What pushed them to get involved?
 - 
 
+### Evaluate what you're getting out of open source right now
+
+### Establish a maximum of three strategic goals you want from open source
+
+### Create a written open source policy
+
+### Measure your success (or lack thereof) 
+
+### Get involved in the projects that are strategically important  
+
+### Publish projects strategically 
