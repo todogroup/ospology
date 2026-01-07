@@ -84,9 +84,17 @@ Of course, there are other reasons to audit your involvement in open source! Fir
 - How critical is each project? If it were to go down, what would the impact on your organization be? How likely is it that you would be able to fix the problem internally? If the project goes down, would your customers be impacted at as well? 
 - Which projects are your employees involved in, above and beyond using the project anonymously, if any?
 - If there are projects your employees are involved in, what does that involvement look like? What pushed them to get involved?
-- 
+- Are there any projects that your company has published as open source projects? Who published them? Are they being maintained? Who owns the projects?
+
+In most organizations that have an established engineering department but little or no official open source governance, it's likely that even engineering leaders only see the tip of the iceberg when it comes to involvement in open source. So taking the time to fully evaluate what that involvement 
 
 ### Evaluate what you're getting out of open source right now
+
+For open source champions, one of the biggest sources of frustration when talking with their colleagues, particularly those outside the engineering department, is that they often have a hard time articulating exactly what the company gets out of open source. This happens because while there are typical ways that an organization can benefit from involvement in open source, each organization is unique. It's important for open source champions to be able to make a clear case to business stakeholders about what the organization gets out of open source right now before they can argue for deeper involvement in open source projects. 
+
+The challenge is that benefits from open source are often -- but not always -- indirect. But the larger risk is that companies who don't recognize the benefits they are already getting from open source will cut back on their involvement in open source, thinking that there's no ROI, but then notice a decline in reputation, visibility or ability to recruit that they can't explain. 
+
+Once you've done a complete audit of what the organization's current involvement in open source looks like, you can start evaluating what that involvement is doing for the organization. It might not be immediately clear what you're getting from open source! In that case, the best course of action is to establish hypothesis for how open source is benefiting the business, and test those hypothesis. 
 
 ### Establish a maximum of three strategic goals you want from open source
 
