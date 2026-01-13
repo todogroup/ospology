@@ -57,6 +57,7 @@ The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual represe
 [Case Studies](https://todogroup.org/resources/case-studies/) from OSPOlogy highlight examples of organizations across various sectors who have achieved success with some aspect of open source program management. We collect them to share concrete examples of best practices in specific organizational and industry contexts.
 
 ### Newsletter  
+[Archetype](https://docs.divio.com/documentation-system/): (N/A; not documentation)
 The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/).  
 
 Contribute to the newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).  
