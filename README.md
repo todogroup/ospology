@@ -29,7 +29,8 @@ OSPOlogy contributors create resources with the support of the [TODO Community](
 > By using OSPOlogy resources and attributing them to the community, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication.
 
 ### Glossary 
-The [Glossary](https://todogroup.org/resources/glossary/) is a catalog of key terms relevant to the open source program management profession. While it is a reference volume, it doesn't provide definitive or general definitions. Instead, it clarifies what members of the OSPOlogy community mean when using these terms in the context of an OSPO framework (stratey, governance, compliance, and community) in their organizations.
+[Archetype](https://docs.divio.com/documentation-system/): Reference guide
+The [Glossary](https://todogroup.org/resources/glossary/) is a catalog of key terms relevant to the open source program management profession. While it is a reference volume, it doesn't provide definitive or general definitions. Instead, it clarifies what members of the OSPOlogy community mean when using these terms in the context of an OSPO framework (strategy, governance, compliance, and community) in their organizations.
 
 ### OSPO Book
 The [OSPO Book](https://ospobook.todogroup.org/) provides an introduction to open source program offices, open source program management practices, and key considerations for open source program management professionals. It is an explanatory text intended for both novice and seasoned practitioners developing strategies for using, contributing to, or creating open source projects to achieve organizational goals.
