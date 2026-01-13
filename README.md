@@ -52,7 +52,8 @@ The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual represe
 [Guides](https://todogroup.org/resources/guides/) outline best practices from leading companies engaged in open source development, and aim to help organizations successfully implement and run an open source program office. Guides don't simply explain concepts; they prescribe best practices for achieving specific goals.
 
 ### Case Studies
-[Case Studies](https://todogroup.org/resources/case-studies/) from OSPOlogy highlight exmaples of organizations across various sectors who have achieved success with some aspect of open source program management. We collect them to share concrete examples of best practices in specific organizational and industry contexts.
+[Archetype](https://docs.divio.com/documentation-system/): Explanatory
+[Case Studies](https://todogroup.org/resources/case-studies/) from OSPOlogy highlight examples of organizations across various sectors who have achieved success with some aspect of open source program management. We collect them to share concrete examples of best practices in specific organizational and industry contexts.
 
 ### Newsletter  
 The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/).  
