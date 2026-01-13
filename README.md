@@ -49,6 +49,7 @@ The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual represe
 [Training Modules](https://todogroup.org/resources/training/) are our community's educational materials. Each features explicit learning objectives aimed at helping train and empower new OSPO professionals on their [career paths](https://github.com/todogroup/ospo-career-path). We've designed them to be modular, remixable, and suitable for educational contexts. Taken together, they constitute our learning curriculum.
 
 ### Guides
+[Archetype](https://docs.divio.com/documentation-system/): Tutorials
 [Guides](https://todogroup.org/resources/guides/) outline best practices from leading companies engaged in open source development, and aim to help organizations successfully implement and run an open source program office. Guides don't simply explain concepts; they prescribe best practices for achieving specific goals.
 
 ### Case Studies
