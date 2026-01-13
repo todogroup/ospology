@@ -5,7 +5,7 @@
 
 # 📖 OSPOlogy: The Study of Open Source Program Management
 
-✨ **`OSPOlogy` is a platform for the study and open community dialogue about the state of open source program management within organizations across various sectors.**
+✨ **`OSPOlogy` is a platform for the study and open community dialog about the state of open source program management within organizations across various sectors.**
 
 - 💚 [What is OSPOlogy?](#what-is-ospology)
 - 🗣️ [Forum](#forum)
@@ -23,7 +23,7 @@ OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our commu
 The [official forum](https://github.com/todogroup/ospology/discussions) facilitates discussions on open source program management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.
 
 ## Resources
-OSPOlogy contributors create resources with the support of the [TODO Community](https://github.com/todogroup/todogroup.org). Our resources are for anyone seeking knowledge of open source program management and best practices for managing open source programs in a number of institutional contexts. To that end, we create and share materials with [different aims and scopes](https://docs.divio.com/documentation-system/), from the purely explanatory to the tutorial.
+OSPOlogy contributors create resources with the support of the [TODO Community](https://github.com/todogroup/todogroup.org). Our resources are for anyone seeking knowledge of open source program management. They provide guidance on common best practices for managing open source programs in a range of institutional contexts. The materials we create are provided in a range of forms that support the different goals that readers have, from learning concepts to checking the meaning of an industry term. These goals are supported by providing content in in four documentation archetypes, _tutorials_, _how-to guides_, _technical reference_ and _explanation_. [Read more about the documentation archetype model at Divio.com.](https://docs.divio.com/documentation-system/)
 
 > [!note]
 > By using OSPOlogy resources and attributing them to the community, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication.
