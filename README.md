@@ -37,6 +37,7 @@ The [Glossary](https://todogroup.org/resources/glossary/) is a catalog of key te
 The [OSPO Book](https://ospobook.todogroup.org/) provides an introduction to open source program offices, open source program management practices, and key considerations for open source program management professionals. It is an explanatory text intended for both novice and seasoned practitioners developing strategies for using, contributing to, or creating open source projects to achieve organizational goals.
 
 ### Studies
+[Archetype](https://docs.divio.com/documentation-system/): Explanation
 Our [Studies](https://todogroup.org/resources/studies/) highlight open source management best practices through in-depth study and research papers. They are useful for achieving a deeper understanding of what an OSPO is and why it is important for organizations.
 
 ### MindMap
