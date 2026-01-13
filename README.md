@@ -41,7 +41,8 @@ The [OSPO Book](https://ospobook.todogroup.org/) provides an introduction to ope
 Our [Studies](https://todogroup.org/resources/studies/) highlight open source management best practices through in-depth study and research papers. They are useful for achieving a deeper understanding of what an OSPO is and why it is important for organizations.
 
 ### MindMap
-The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual representation of an OSPO's responsibilities, roles, behaviors, and team size within the ecosystem. This resource charts the ever-shifting landscape in which open source program offices operate, and is designed to be updated regularly as that terrain shifts and evolves.
+[Archetype](https://docs.divio.com/documentation-system/): Explanation
+The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual representation of an open source program office's responsibilities, roles, behaviors, and team size within the ecosystem. This resource charts the ever-shifting landscape in which OSPOs operate, and is designed to be updated regularly as that terrain shifts and evolves.
 
 ### Training Modules
 [Training Modules](https://todogroup.org/resources/training/) are our community's educational materials. Each features explicit learning objectives aimed at helping train and empower new OSPO professionals on their [career paths](https://github.com/todogroup/ospo-career-path). We've designed them to be modular, remixable, and suitable for educational contexts. Taken together, they constitute our learning curriculum.
