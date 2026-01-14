@@ -15,11 +15,9 @@
 ---
 
 ## What is OSPOlogy?
-
 OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our community's collective resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.
 
 ## Forum
-
 The [official forum](https://github.com/todogroup/ospology/discussions) facilitates discussions on open source program management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.
 
 ## Resources
@@ -29,38 +27,36 @@ OSPOlogy contributors create resources with the support of the [TODO Community](
 > By using OSPOlogy resources and attributing them to the community, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication.
 
 ### Glossary 
-[Archetype](https://docs.divio.com/documentation-system/): Reference guide
+*[Archetype](https://docs.divio.com/documentation-system/): Reference guide*  
 The [Glossary](https://todogroup.org/resources/glossary/) is a catalog of key terms relevant to the open source program management profession. While it is a reference volume, it doesn't provide definitive or general definitions. Instead, it clarifies what members of the OSPOlogy community mean when using these terms in the context of an OSPO framework (strategy, governance, compliance, and community) in their organizations.
 
 ### OSPO Book
-[Archetype](https://docs.divio.com/documentation-system/): Explanation
+*[Archetype](https://docs.divio.com/documentation-system/): Explanation*  
 The [OSPO Book](https://ospobook.todogroup.org/) provides an introduction to open source program offices, open source program management practices, and key considerations for open source program management professionals. It is an explanatory text intended for both novice and seasoned practitioners developing strategies for using, contributing to, or creating open source projects to achieve organizational goals.
 
 ### Studies
-[Archetype](https://docs.divio.com/documentation-system/): Explanation
+*[Archetype](https://docs.divio.com/documentation-system/): Explanation*  
 Our [Studies](https://todogroup.org/resources/studies/) highlight open source management best practices through in-depth study and research papers. They are useful for achieving a deeper understanding of what an OSPO is and why it is important for organizations.
 
 ### MindMap
-[Archetype](https://docs.divio.com/documentation-system/): Explanation
+*[Archetype](https://docs.divio.com/documentation-system/): Explanation*  
 The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual representation of an open source program office's responsibilities, roles, behaviors, and team size within the ecosystem. This resource charts the ever-shifting landscape in which OSPOs operate, and is designed to be updated regularly as that terrain shifts and evolves.
 
 ### Training Modules
-[Archetype](https://docs.divio.com/documentation-system/): How-to guides
+*[Archetype](https://docs.divio.com/documentation-system/): How-to guides*  
 [Training Modules](https://todogroup.org/resources/training/) are our community's educational materials. Each features explicit learning objectives aimed at helping train and empower new OSPO professionals on their [career paths](https://github.com/todogroup/ospo-career-path). We've designed them to be modular, remixable, and suitable for educational contexts. Taken together, they constitute our learning curriculum.
 
 ### Guides
-[Archetype](https://docs.divio.com/documentation-system/): Tutorials
+*[Archetype](https://docs.divio.com/documentation-system/): Tutorials*  
 [Guides](https://todogroup.org/resources/guides/) outline best practices from leading companies engaged in open source development, and aim to help organizations successfully implement and run an open source program office. Guides don't simply explain concepts; they prescribe best practices for achieving specific goals.
 
 ### Case Studies
-[Archetype](https://docs.divio.com/documentation-system/): Explanatory
+*[Archetype](https://docs.divio.com/documentation-system/): Explanatory*  
 [Case Studies](https://todogroup.org/resources/case-studies/) from OSPOlogy highlight examples of organizations across various sectors who have achieved success with some aspect of open source program management. We collect them to share concrete examples of best practices in specific organizational and industry contexts.
 
 ### Newsletter  
-[Archetype](https://docs.divio.com/documentation-system/): (N/A; not documentation)
-The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/).  
-
-Contribute to the newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).  
+*[Archetype](https://docs.divio.com/documentation-system/): (N/A; not documentation)*  
+The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/). Contribute to the newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).  
 
 ## Activities
 
