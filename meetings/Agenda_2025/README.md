@@ -1,4 +1,4 @@
-## TODO Touchpoint Agenda Overview (January - June 2025)
+## TODO Touchpoint Agenda Overview (2025)
 
 Below is the schedule of upcoming Touchpoint sessions. The agenda will be updated as new speakers, topics, and tags are confirmed.
 
@@ -13,8 +13,4 @@ Below is the schedule of upcoming Touchpoint sessions. The agenda will be update
 | Monday, May 12        | AMER & EMEA      | 5:00 PM        | Brittany Istenes | [Leverage InnerSource practices to drive open source ](./May-12.md)  | `Strategy`  | The video is cooking up!🧑‍🍳 |
 | Thursday, May 29      | EMEA & APAC      | 12:00 PM       | Andrew Wafaa, Arm and Ibrahim Haddad | [The OSPO Has a New Sibling: AI Office (AIO)](./May-29.md)       | `Emerging-Trends` | The video is cooking up!🧑‍🍳 |
 | Tuesday, May 27       | AMER & EMEA      | 5:00 PM        | Emma Irwin and Ana Jiménez | [Open Group Discussion on open source in AI and the role of OSPOs](./May-27.md)| `Emerging-Trends`  | No recording 😵 Discussion held under Chatham House|
-| Thursday, July 3     | EMEA & APAC      | 11:00 AM       | Gergely Csatári, Nokia   | [The OpenChain telco SBOM Schema](.Jul-03.md)        | `Compliance` | |
-
-### Notes:
-- TBA: To Be Announced. This table will be updated as speakers, topics, and tags are confirmed.
-- RSVP is required before the meeting starts. To RSVP for a session, go to the link that shows in the topic session.
+| Thursday, July 3     | EMEA & APAC      | 11:00 AM       | Gergely Csatári, Nokia   | [The OpenChain telco SBOM Schema](.Jul-03.md)        | `Compliance` |  No recording 😵 |

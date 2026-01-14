@@ -1,46 +1,6 @@
 
 <a href="https://ospobook.todogroup.org/"><img src="https://img.shields.io/badge/OSPO%20Book-Website-dark green?labelColor=3E9492&style=flat" alt="OSPO Book"/></a>
 
-# 📚 Open Source (Program) Office Book
-
-## ✅  What has been done
-
-### Initial Collaboration Phase
-
-- Consolidate the team of authors and define roles and keep the [contributors' list](AUTHORS.md) updated
-
-### Partial Release (Draft Version)
-- **Desired Mid-Release Date:**  
-  - **September 2023** ✅  
-  - Draft version for initial reviews and community feedback
-
-### Mid-Publication Digital Release
-- **Desired Mid-Publication Date:**  
-  - **December 2023** ✅  
-  - Digital publication available in OSPOlogy repo for public review
- 
-### Full Digital Release (v1.0)
-- **Desired Full Release Date:**  
-  - **December 2024** ✅  
-  - Official version 1.0, ready for digital distribution
- 
-## 🙋‍♀️ What’s next? - 2025 Roadmap
- 
-### Printed Version
-- **Desired Full Printed Version Date:**  
-  - **June 2025** ⏳  
-  - PDF online and printed version available
- 
-### Exploration for v2.0
-- **Start Planning and Editing:**  
-  - **September 2025** ⏳  
-  - Identify areas of improvement based on feedback and emerging open source trends
-  
-
-
-> 🐣 If you are new to the project, please scroll down to `Newcommers - START HERE` and read [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
 ## 🧩 Project Description
 
 Open source software is increasingly being adopted by organizations of all sizes and industries, making it essential for organizations to have a clear and well-defined open source strategy and operations. This guide aims to help organizations understand the value of having an Open Source Program Office (OSPO) within their organization and provide a step-by-step guide on how to create and implement an OSPO.
