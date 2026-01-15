@@ -95,10 +95,6 @@ Our programs bring people together to share share knowledge, exchange best pract
 | In-person | OSPOlogy Birds of a Feather (BoF) | Semi-informal discussion sessions held at conferences, bringing together participants with shared interests to discuss open source management, OSPO challenges, and strategic value across industries and technologies. | Active. See [the framework](https://github.com/todogroup/ospology/tree/main/BoF) for details. |
 | In-person | OSPOlogy *Live* and OSPOlogy Local Meetups | Mini-summits and local meetups organized by OSPO Regional Ambassadors to share knowledge and experience on applying open source management across industries, technologies, and regions. | Active. Explore [OSPOlogy Local Meetups](https://github.com/todogroup/ospology/tree/main/local-meetups) and [OSPOlogy Live](https://github.com/todogroup/ospology/tree/main/ospology-live) to learn more. |
 
-## Forum
-
-The official forum (OSPOlogy GH Discussions) facilitates discussions on open source management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.
-
 ## License  
 
 This [repository](https://github.com/todogroup/ospology) is provided by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
