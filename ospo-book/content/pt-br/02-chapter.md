@@ -113,7 +113,7 @@ O Open Source é uma necessidade crítica silenciosa, e o impacto cultural de um
 
 **Atua como um Ambientalista:** Os OSPOs podem ajudar organizações a apoiar e sustentar projetos Open Source a longo prazo, abordando questões como segurança, manutenção e integridade do projeto. Isso pode ajudar a garantir que os projetos Open Source permaneçam saudáveis a longo prazo e continuem a beneficiar a comunidade em geral.
 
-**Atua como um Guardião:** Os OSPOs podem ajudar a aplicar políticas Open Source e fortalecer a governança do Open Source. Isso pode ajudar as organizações a garantir a conformidade e mitigar os riscos de segurança do Open Source.
+**Atua como um Guardião:** Os OSPOs podem ajudar a aplicar políticas open source e fortalecer a governança do open source. Isso pode ajudar as organizações a garantir a conformidade e mitigar os riscos de segurança do open source.
 
 ### Como um passo intermediário para um modelo de gerenciamento Open Source descentralizado
 
