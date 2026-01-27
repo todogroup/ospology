@@ -6,6 +6,7 @@ weight: 40
 - [序文](#序文)
 - [OSPO はどのように価値をもたらすか？](#ospo-はどのように価値をもたらすか)
 - [組織への OSPO の適用](#組織への-ospo-の適用)
+- [OSPO の価値の例](#OSPO-の価値の例)
 - [起こりうる問題とその克服方法](#起こりうる問題とその克服方法)
 - [リソースと脚注](#リソースと脚注)
 
@@ -250,6 +251,6 @@ OSPO は経営陣の支持と賛同を得ることが困難です。
 
 [^6]: OpenSSF Scorecard: https://scorecard.dev/
 
-[^7]: Redis changes their terms: https://www.theregister.com/2024/03/22/redis_changes_license/
+[^7]: Redis changed its license type twice: https://www.theregister.com/2024/03/22/redis_changes_license/
 
 [^8]: AlmaLinux OS Foundation: https://thenewstack.io/jack-aboutboul-how-almalinux-came-to-be-and-why-it-was-needed/

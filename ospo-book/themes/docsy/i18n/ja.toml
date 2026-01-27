@@ -18,6 +18,10 @@ other = "サイトを検索..."
 [ui_in]
 other = "in"
 
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "すべての"
+
 # Footer text
 [footer_all_rights_reserved]
 other = "All Rights Reserved"
@@ -44,9 +48,9 @@ other = "プロジェクトのissueを作成"
 [post_posts_in]
 other = "記事一覧"
 [post_reading_time]
-other = "minute read"
+other = "分で読めます"
 [post_less_than_a_minute_read]
-other = "less than a minute"
+other = "分以下で読めます"
 
 # Print support
 [print_printable_section]
