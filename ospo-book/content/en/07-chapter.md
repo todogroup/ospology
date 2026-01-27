@@ -35,6 +35,7 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Seo Yeon Lee
 * Shane Coughlan
 * Shilla Saebi
+* Shu Muto
 * Stephanie Lieggi
 * Supriya Ashish Chitale
 * Swastik Baranwal
@@ -45,4 +46,3 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
 
 > Contributor list will evolve as new contributions arise. If you would like to be added to the list or be removed from the list, please open a new issue.
-
