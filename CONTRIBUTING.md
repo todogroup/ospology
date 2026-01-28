@@ -19,9 +19,9 @@ This repository hosts multiple projects and event frameworks under the TODO Grou
 
 | Event | Guide | Description |
 |-------|-------|-------------|
-| 🌍 OSPOlogy Workshops | [ospology-live/README.md](ospology-live/README.md) | Workshops and in-person gatherings |
+| 🌍 OSPOlogy Workshops | [ospology-live/README.md](ospology-live/framework.md) | Workshops and in-person gatherings |
 | 🤝 OSPOlogy Virtual Meetings | [meetings/README.md](meetings/README.md) | Community meeting notes and recordings |
-| 🌍 OSPOlogy Local Meetups | [local-meetups/README.md](local-meetups/README.md) | Regional OSPO meetups |
+| 🌍 OSPOlogy Local Meetups | [local-meetups/README.md](local-meetups/framework.md) | Regional OSPO meetups |
 | 💬 OSPOlogy BoF | [BoF/README.md](BoF/README.md) | Birds of a Feather sessions |
 
 
