@@ -8,10 +8,13 @@ Open source software is increasingly being adopted by organizations of all sizes
 The guide will be aimed at organizations of all sizes and industries, including those just starting their open source journey as well as those looking to streamline and improve their existing open source operations. It will provide practical, actionable advice and real-world examples to help organizations streamline their open source operations and achieve their goals.
 ## 🙋‍♀️ Project Teams
 
-|      | LF Project Manager   | Infra Team       | Content Team         | Review Team                 | Translation Team |
-|-----------|-----------|------------------|------------------|-----------------------------| -----------------------------|
-| **Co-Chairs** | @anajsana     | @cjyabraham  @anajsana, @koozz, @CsatariGergely  |    @CsatariGergely      @jimjag      @jerpelea   @victorjunlu    | @alice-sowerby  | @fer-correa @zhiqiang-yu | 
-| **Description** | Co-ordinates all LF project services e.g. distribution, promotion, marketing. | Team involved in project infrastructure and website development | Team involved in content creation | Team involved in reviewing existing content and references | Team involved in translating the book to other languages. |
+|             | LF Project Manager | Infra Team | Content Team | Review Team | Translation Team |
+|-------------|-------------------|------------|--------------|-------------|------------------|
+| **Co-Chairs** | @anajsana | @cjyabraham @anajsana @koozz @CsatariGergely | @CsatariGergely @jimjag @jerpelea @victorjunlu | @alice-sowerby | @fer-correa @zhiqiang-yu |
+| **Description** | Co-ordinates all LF project services e.g. distribution, promotion, marketing | Team involved in project infrastructure and website development | Team involved in content creation | Team involved in reviewing existing content and references | Team involved in translating the book to other languages |
+| **GH Team** | — | [@ospology-book-infra](https://github.com/orgs/todogroup/teams/ospology-book-infra) | [@ospology-contributors](https://github.com/orgs/todogroup/teams/ospology-contributors) | [@ospology-book-reviewers](https://github.com/orgs/todogroup/teams/ospology-book-reviewers) | [@ospology-book-translators](https://github.com/orgs/todogroup/teams/ospology-book-translators) |
+
+
 
 ## 🎯 Goals
 
