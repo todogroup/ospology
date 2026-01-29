@@ -3,7 +3,7 @@
 [![Newsletter](https://badgen.net/badge/OSPONews/Newsletter/green)](https://todogroup.org/community/osponews/)
 [![OSPOlogy](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
 
-# OSPOlogy: The Study of Open Source Program Management
+# OSPOlogy: The Study of Open Source Management
 
 **`OSPOlogy` is a platform for the study and open community dialog about the state of open source program management within organizations across various sectors.**
 
@@ -45,10 +45,10 @@ The [OSPO Book](https://ospobook.todogroup.org/) provides an introduction to ope
 ### OSS in Business Guide
 
 | Version | Status | Archetype | Working Group Formed? |
-| ------ | ------ | --------- | --------------------- |
+| ------- | ------ | --------- | --------------------- |
 | Draft | Active development | Tutorials | Yes |
 
-The OSS in Business Guide focuses on articulating the business value of open source, helping organizations understand how open source contributes to strategic outcomes such as innovation, risk management, cost efficiency, and long-term sustainability. The guide is being developed collaboratively and is intended for decision-makers, OSPO practitioners, and stakeholders looking to better connect open source activities with business objectives. Contributions and ongoing development are tracked in the [dedicated repository](https://github.com/todogroup/ospology/tree/business_guide_dev/whitepapers/business-value/content).
+The OSS in Business Guide focuses on articulating the business value of open source, helping organizations understand how open source contributes to strategic outcomes such as innovation, risk management, cost efficiency, and long-term sustainability. The guide is being developed collaboratively and is intended for decision-makers, OSPO practitioners, and stakeholders looking to better connect open source activities with business objectives. Contributions and ongoing development are tracked in a [dedicated folder](https://github.com/todogroup/ospology/tree/business_guide_dev/whitepapers/business-value/content/en).
 
 ### MindMap
 
