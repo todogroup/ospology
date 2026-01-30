@@ -21,7 +21,7 @@ OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our commu
 The [official forum](https://github.com/todogroup/ospology/discussions) facilitates discussions on open source program management, exploring its role across specializations (e.g., security, AI infrastructure, business strategy), addressing shared challenges (e.g., measuring the value of open source management and OSPOs), and fostering community-driven proposals.
 
 ## Resources
-OSPOlogy contributors create resources with the support of the [TODO Community](https://github.com/todogroup/todogroup.org). Our resources are for anyone seeking knowledge of open source program management. They provide guidance on common best practices for managing open source programs in a range of institutional contexts. The materials we create are provided in a range of forms that support the different goals that readers have, from learning concepts to checking the meaning of an industry term. These goals are supported by providing content in in four documentation archetypes, *tutorials*, *how-to guides*, *technical reference*, and *explanation*. [Read more about the documentation archetype model at Divio.com.](https://docs.divio.com/documentation-system/)
+OSPOlogy contributors create resources with the support of the [TODO Community](https://github.com/todogroup/todogroup.org). Our resources are for anyone seeking knowledge of open source program management. They provide guidance on common best practices for managing open source programs in a range of institutional contexts. The materials we create are provided in a range of forms that support the different goals that readers have, from learning concepts to checking the meaning of an industry term. These goals are supported by providing content in in four documentation archetypes: *tutorials*, *how-to guides*, *technical reference*, and *explanation*. [Read more about the documentation archetype model at Divio.com.](https://docs.divio.com/documentation-system/)
 
 > [!note]
 > By using OSPOlogy resources and attributing them to the community, your organization is helping unify efforts and enhancing the visibility of the strategic value of open source management talent across diverse industries and business areas to key stakeholders, reducing resource fragmentation and duplication.
@@ -61,19 +61,19 @@ The [OSPO MindMap](https://ospomindmap.todogroup.org/) provides a visual represe
 Contributors can propose updates for future versions in the [dedicated repository](https://github.com/todogroup/ospology/tree/main/ospo-mindmap).  
 
 ### Studies
-*[Archetype](https://docs.divio.com/documentation-system/): Explanation*  
+*[Archetype](https://docs.divio.com/documentation-system/explanation/): Explanation*  
 Our [Studies](https://todogroup.org/resources/studies/) highlight open source management best practices through in-depth study and research papers. They are useful for achieving a deeper understanding of what an OSPO is and why it is important for organizations.
 
 ### Training Modules
-*[Archetype](https://docs.divio.com/documentation-system/): How-to guides*  
+*[Archetype](https://docs.divio.com/documentation-system/how-to-guides/): How-to guides*  
 [Training Modules](https://todogroup.org/resources/training/) are our community's educational materials. Each features explicit learning objectives aimed at helping train and empower new OSPO professionals on their [career paths](https://github.com/todogroup/ospo-career-path). We've designed them to be modular, remixable, and suitable for educational contexts. Taken together, they constitute our learning curriculum.
 
 ### Guides
-*[Archetype](https://docs.divio.com/documentation-system/): Tutorials*  
+*[Archetype](https://docs.divio.com/documentation-system/tutorials/): Tutorials*  
 [Guides](https://todogroup.org/resources/guides/) outline best practices from leading companies engaged in open source development, and aim to help organizations successfully implement and run an open source program office. Guides don't simply explain concepts; they prescribe best practices for achieving specific goals.
 
 ### Case Studies
-*[Archetype](https://docs.divio.com/documentation-system/): Explanatory*  
+*[Archetype](https://docs.divio.com/documentation-system/explanation/): Explanation*  
 [Case Studies](https://todogroup.org/resources/case-studies/) from OSPOlogy highlight examples of organizations across various sectors who have achieved success with some aspect of open source program management. We collect them to share concrete examples of best practices in specific organizational and industry contexts.
 
 ### Newsletter
@@ -91,7 +91,7 @@ Our programs bring people together to share share knowledge, exchange best pract
 | Format | Program / Framework | Description | Status |
 | ------ | ------------------- | ----------- | ------ |
 | Virtual | OSPOlogy Webinars (Archived) | Webinars covering OSPO-related topics with special guests and community discussions. | Archived since 2024. Replaced by OSPOlogy TODO Touchpoints. All sessions are recorded, edited, and available on [the OSPOlogy YouTube channel](https://www.youtube.com/channel/UCrYzZ6zZ6zZ6zZ6zZ6zZ6zZ) |
-| Virtual | OSPOlogy TODO Touchpoints | Regional meetings (AMER, EMEA, APAC) providing open agendas and office hours for collaboration. | Active. See the [community calendar](https://todogroup.org/community/meetings/) for details). |
+| Virtual | OSPOlogy TODO Touchpoints | Regional meetings (AMER, EMEA, APAC) providing open agendas and office hours for collaboration. | Active. See the [community calendar](https://todogroup.org/community/meetings/) for details. |
 | In-person | OSPOlogy Birds of a Feather (BoF) | Semi-informal discussion sessions held at conferences, bringing together participants with shared interests to discuss open source management, OSPO challenges, and strategic value across industries and technologies. | Active. See [the framework](https://github.com/todogroup/ospology/tree/main/BoF) for details. |
 | In-person | OSPOlogy *Live* and OSPOlogy Local Meetups | Mini-summits and local meetups organized by OSPO Regional Ambassadors to share knowledge and experience on applying open source management across industries, technologies, and regions. | Active. Explore [OSPOlogy Local Meetups](https://github.com/todogroup/ospology/tree/main/local-meetups) and [OSPOlogy Live](https://github.com/todogroup/ospology/tree/main/ospology-live) to learn more. |
 
