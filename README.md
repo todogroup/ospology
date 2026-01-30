@@ -12,7 +12,7 @@
 - 💚 [What is OSPOlogy?](#what-is-ospology)
 - 🗣️ [Forum](#forum)
 - 🛟 [Resources](#resources)
-- 🌐 [Programs](#programs)
+- 🌐 [Programs Framework](#programs-framework)
 
 ## What is OSPOlogy?
 OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our community's collective resources, including frameworks and templates, are freely available for any organization to use, providing proper attribution to the repository and brand.
@@ -84,7 +84,7 @@ Our [Studies](https://todogroup.org/resources/studies/) highlight open source ma
 
 The OSPO newsletter is published monthly on the last Tuesday. [Subscribe here](https://todogroup.org/community/osponews/). Contribute to the newsletter by submitting a [pull request](https://github.com/todogroup/ospology/compare). Review the [contribution guide](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews).  
 
-## Programs
+## Programs Framework
 
 Our programs bring people together to share share knowledge, exchange best practices, and advance the state of the art in open source program management globally.
 
