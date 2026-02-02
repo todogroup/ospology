@@ -66,11 +66,10 @@ This list is updated every time a new release is published, but you can open a P
 
 - Fernando Eugenio Correa
 - Juliana Conde
-- Marco Carvalho
-- Rafael Paiva
 
 ### Spanish
 
+- Jesus Aguirre
 - Bruno Ingani
 - Esteban Miguel De Bonis Viar
 - Fernando Eugenio Correa
