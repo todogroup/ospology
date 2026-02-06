@@ -117,6 +117,12 @@ Once you've done a complete audit of what the organization's current involvement
 
 ### Establish a maximum of three strategic goals you want from open source
 
+As illustrated above, there are many different potential strategic reasons to get involved in open source. However, if you try to get everything from open source, you'll end up diluting your efforts and getting less out of your involvement with open source than otherwise. Instead, it's a good idea to choose a maximum of three strategic goals you have for your organization's involvement with open source, particularly in smaller organizations. 
+
+In large organizations, there will likely be different strategic goals for different open source projects. In that case, it's a good practice to ensure that there are definied strategic goals each time a team either releases an internal software project as an open source project, or even starts to get involved as a serious contributor in an existing project. There shouldn't be more than 2 or 3 strategic goals from any specific project. 
+
+Whether we're talking about the strategic goals from the company's overall involvement in open source or the strategic goals from involvement in a single project, the goals aren't set in stone. They can change, and in fact should be evaluated on a regular basis (quarterly or bi-annually) to ensure that the goals in mind are still in alignement with the company's overall priorities as well as to evaluate whether or not the involvement in open source is in fact meeting the goals you've set. 
+
 ### Create a written open source policy
 
 ### Measure your success (or lack thereof) 
