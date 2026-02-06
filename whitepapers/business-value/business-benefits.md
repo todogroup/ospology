@@ -72,7 +72,11 @@ There is, of course, a reputational risk from open source: It is always better t
 
 ### Trust
 
+An element of your organization's reputation is trust. Contributing to open source projects, and creating and maintaining open source projects, will help your organization build trust throughout the ecosystem, with different types of stakeholders -- potential employees, current employees, investors, partners, customers. Assuming, of course, that you do it well. 
 
+Being involved in open source builds trust in a couple different ways. First of all, there is transperancy. The more of your codebase that is available for partners, employees and customers to see for themselves, the more they can verify that your software does exactly what it says it does -- and nothing else. The fact that you are not asking people to trust you at all, but are giving them the possibility to check it out for themselves, builds trust over time as they see that you are not hiding anything. 
+
+The second kind of trust you can build has to do with the way the company behaves in the open source ecosystems it is part of. Is it a productive member of the community? Does the company invest over the long term, or show up suddenly to make demands without investing in building a relationship with others in the project? Do people who work for your organization treat others in the open source ecosystem with respect? If your organization behaves well in open source communities, partners, employees and customers are more likely to trust that your organization will behave well in other situations as well. 
 
 ### New opportunities
 
