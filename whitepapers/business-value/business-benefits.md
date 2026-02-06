@@ -64,7 +64,16 @@ In addition, not all open source projects are primarily used by software enginee
 
 ### Reputation
 
+Participating in open source communities, even if it's your engineering team who is participating, can build the organization's reputation and brand. An organization that contributes to and/or maintains open source projects is able to showcase the quality of the engineering, which can help both with recruitment but also, for companies that sell software of any kind, in building trust among customers. 
+
+The reputation benefits of being involved in open source go beyond just showcasing your in-house engineering skills, particularly if the organization is involved not just at the level of contributing code, but also is part of a project's maintainer team and a visible project supporter. Imagine your organization supports a security-related project, both by employing engineers who work on the project and also by providing financing and/or other support for the project. The fact that you are involved in the project will improve your organization's repuation as a company that cares about security and has the internal expertise to ensure the security of their software. If your customers and collaborators care about security, this improved reputation can directly help your company land deals and seal partnerships. 
+
+There is, of course, a reputational risk from open source: It is always better to not do something at all than to do it poorly, and that is especially true when it comes to something as public as an open source project. If your code is sloppy, or if your team members behave badly towards others in the open source communities you're involved in, your organization will take a reputational hit. That is one of the reasons it is a good idea to have organizational policies related to open source -- if your engineering team is treating open source communities like the wild west, it could hurt the organization's reputation. 
+
 ### Trust
+
+
+
 ### New opportunities
 
 ## Strategies for maximizing the business benefits of open source
