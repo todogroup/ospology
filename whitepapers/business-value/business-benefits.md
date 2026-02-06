@@ -82,7 +82,9 @@ The second kind of trust you can build has to do with the way the company behave
 
 Being involved in open source communities, whether by creating and maintaining a project or by becoming active contributors and community members in an existing project, can create additional business opportunities and potentially new revenue streams. 
 
-The best example of this dynamic is Backstage, the project developped originally by Spotify and donated to the CNCF in 2020. 
+The best example of this dynamic is [Backstage](https://backstage.io), the project developed originally by Spotify and donated to the CNCF in 2020. Spotify's primary business has nothing to do with developer portals or developer tools at all, but since Backstage's success Spotify has explored monetizing the open source project they originally developed internally to fix the pain points related to a fast-growing engineering team. [Spotify now offers enterprise support, a Backstage portal and several paid Backstage plugins.](https://backstage.spotify.com/partners/spotify/bundle/spotify-plugins-bundle/) Not every open source project is going to end up as a revenue stream, but software projects that start as internal tools, are open sourced and then eventually spun off into new divisions or new companies are not that rare. 
+
+But 
 
 ## Strategies for maximizing the business benefits of open source
 
