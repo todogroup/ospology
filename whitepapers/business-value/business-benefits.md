@@ -125,6 +125,8 @@ Whether we're talking about the strategic goals from the company's overall invol
 
 ### Create a written open source policy
 
+One of the common impediments to getting value out of involvement in open source is the lack of an organization-wide policy. 
+
 ### Measure your success (or lack thereof) 
 
 ### Get involved in the projects that are strategically important  
