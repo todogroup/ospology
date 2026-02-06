@@ -80,6 +80,10 @@ The second kind of trust you can build has to do with the way the company behave
 
 ### New opportunities
 
+Being involved in open source communities, whether by creating and maintaining a project or by becoming active contributors and community members in an existing project, can create additional business opportunities and potentially new revenue streams. 
+
+The best example of this dynamic is Backstage, the project developped originally by Spotify and donated to the CNCF in 2020. 
+
 ## Strategies for maximizing the business benefits of open source
 
 While there are many potential benefits from getting involved in open source, they will not necessarily happen just because you've published a project on GitHub or because you've submitted a pull request to a project you depend on. An even more insidious problem is when an organization does in fact get benefits from its involvement in open source, but no one is really aware of what those benefits are or how much they are worth to the company. When that happens, it puts the organization's involvement in open source at risk, because business leaders are likely to cut it when budgets get tight. Then the business suffers, and no one really understands why. 
