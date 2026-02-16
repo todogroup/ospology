@@ -1,0 +1,37 @@
+name: "📖 OSS in Business Guide Contribution"
+description: "Propose new content, chapters, or refinements for the guide."
+title: "[OSS Business Guide] "
+labels: ["oss-in-business-guide"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us build the OSS in Business Guide! Please fill out the details below.
+  - type: dropdown
+    id: contribution-type
+    attributes:
+      label: Contribution Type
+      options:
+        - New Chapter/Section
+        - Refinement/Fix
+        - Resource Aggregation (Links, Case Studies)
+        - Glossary Addition
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What is the goal of this contribution?
+      placeholder: "e.g., Explain ROI of Open Source to CFOs"
+    validations:
+      required: true
+  - type: textarea
+    id: content-outline
+    attributes:
+      label: Content Outline / Proposed Text
+      placeholder: "Briefly describe what should be written or provide a draft."
+  - type: input
+    id: resources
+    attributes:
+      label: External Resources
+      placeholder: "Links to existing frameworks, articles, or data."
