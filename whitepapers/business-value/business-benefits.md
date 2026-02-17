@@ -131,4 +131,8 @@ One of the common impediments to getting value out of involvement in open source
 
 ### Get involved in the projects that are strategically important  
 
+It's worth stating the obvious here: Your organization is not going to get involved with all the open source projects that it uses. You won't even get involved with all of the projects that are important to you; in most software stacks there is so much open source software that it's impossible to make even small meaningful contributions to all of them. However, you can identify open source projects that are particularly strategically important to your organization and become involved in them. There are many levels of involvedment in open source projects. If you fix a bug in a project, even if it's not particularly strategically important, there's no downside to your organization (or to the software engineer individually) to contributing the fix back to the project. Doing so allows others who use that project -- and the project maintainers -- to work on other things, which ultimately will benefit all project users, including you. If you have to write the fix anyway, contribute it back to the community. 
+
+One-off bugs 
+
 ### Publish projects strategically 
