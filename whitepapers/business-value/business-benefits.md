@@ -141,6 +141,12 @@ It takes time to become a trusted member of an open source community. If an indi
 
 If there's a project that's strategically important enough that your organization might need to influence the roadmap, or get a new feature integrated into the project -- even if you're organization is going to write the new feature itself -- it's a good idea to get involved in the community before you need something. 
 
+The number of project you'll be able to get involved with at a strategic level depends on the size of your organization. But if you want to have the ability to influence the roadmap, or even just to get your PRs accepted in a timely manner, you should invest in becoming a member of the community before you need something urgently. 
+
+**Neglected projects**
+
+Some projects are important, even critical, but don't necessarily have strategic importance for the organization. But when there's a project that's important to the organization and is at risk of abandonment, or simply isn't healthy, it can be a good idea for the organization to get involved. 
+
 
 
 ### Publish projects strategically 
