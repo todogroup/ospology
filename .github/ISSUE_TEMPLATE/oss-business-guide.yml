@@ -1,6 +1,6 @@
 name: "📖 OSS in Business Guide Contribution"
 description: "Propose new content, chapters, or refinements for the guide."
-title: "[OSS Business Guide] "
+title: "[OSS Business Guide]"
 labels: ["oss-in-business-guide"]
 body:
   - type: markdown
