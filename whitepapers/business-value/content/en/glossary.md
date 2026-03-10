@@ -1,6 +1,11 @@
 ---
-title: Glossary and Intro
-weight: 10
+title: Glossary
+weight: 110
+---
+# Glossary
+
+- Glossary of terms (don't duplicate https://glossary.todogroup.org)
+
 ---
 
 # Preamble

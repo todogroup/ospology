@@ -1,6 +1,14 @@
 ---
-title: Case Studies and Stories
-weight: 50
+title: Case Studies and Success Stories
+weight: 90
+---
+# Case Studies and Success Stories
+
+- Neutral collaboration: Stories from organizations like LF Energy's OpenSTEF or from Open Telemetry
+- Case study from open source 'user' organizations
+- Case study from organizations who are engaged contributors
+- Case study from publishers of open source software
+
 ---
 
 # Success Stories
