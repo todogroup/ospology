@@ -1,10 +1,10 @@
 ---
-title: "Acknowledgements to Contributors"
+title: "Agradecimientos a los Contribuidores"
 status: Completed
 weight: 90
 ---
 
-Each contributor has brought a unique perspective, making the OSPO Book Project possible. The contributor list below is updated with every new release and does not include organization affiliation. However, individuals can open a Pull Request (PR) at any time to add their names to the list if they have made meaningful contributions to the project. A maintainer will review your submission later.
+Cada contribuidor ha aportado una perspectiva única, haciendo posible el Proyecto del Libro OSPO. La lista de contribuidores a continuación se actualiza con cada nuevo lanzamiento y no incluye la afiliación organizacional. Sin embargo, las personas pueden abrir una Solicitud de Extracción (PR) en cualquier momento para añadir sus nombres a la lista si han realizado contribuciones significativas al proyecto. Un mantenedor revisará tu envío posteriormente.
 
 * Alin Jerpelea
 * Ana Jiménez Santamaría
@@ -25,6 +25,7 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Jiri Marek
 * Jonas van den Bogaard
 * Kate Stewart
+* Nikita Peters
 * Masae Shida
 * Masayuki Kuwata
 * Maurice Hendriks
@@ -34,13 +35,14 @@ Each contributor has brought a unique perspective, making the OSPO Book Project 
 * Seo Yeon Lee
 * Shane Coughlan
 * Shilla Saebi
+* Shu Muto
 * Stephanie Lieggi
 * Supriya Ashish Chitale
+* Swastik Baranwal
 * Takanori Suzuki
 * Ulises Gascon
 * Victor Lu
 
-If you would like to start making your first contributions, we recommend [subscribing to the mailing list](https://lists.todogroup.org/g/WG-ospo-book-project), read past meeting summaries in the message archive, and introduce yourself to the group. 
+Si deseas comenzar a hacer tus primeras contribuciones, te recomendamos [suscribirte a la lista de correo](https://lists.todogroup.org/g/WG-ospo-book-project), leer los resúmenes de reuniones anteriores en el archivo de mensajes y presentarte al grupo.
 
-> Contributor list will evolve as new contributions arise. If you would like to be added to the list or be removed from the list, please open a new issue.
-
+> La lista de contribuidores evolucionará a medida que surjan nuevas contribuciones. Si deseas ser añadido a la lista o ser eliminado de la misma, por favor abre un nuevo issue.
