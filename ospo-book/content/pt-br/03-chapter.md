@@ -1,211 +1,224 @@
 ---
-title: "Chapter 3: Creating Your OSPO"
+title: "Capítulo 3: Criando seu OSPO"
 status: Completed
 weight: 50
 ---
+# Capítulo 3: Criando seu OSPO
 
-- [Introduction](#introduction)
-- [Starting with Strategy](#starting-with-strategy)
-- [Designing your OSPO](#designing-your-ospo)
-- [Using Maturity Models for OSPOs](#using-maturity-models-for-ospos)
-- [Applying This to Your Organization](#applying-this-to-your-organization)
-- [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
-- [Resources and Footnotes](#resources-and-footnotes)
+## Índice
 
-## Introduction
+- [Introdução](#introdução)
+- [Começando com Estratégia](#começando-com-estratégia)
+- [Projetando Seu OSPO](#projetando-seu-ospo)
+- [Usando Modelos De Maturidade Para OSPOs](#usando-modelos-de-maturidade-para-ospos)
+- [Aplicando Isso À Sua Organização](#aplicando-isso-à-sua-organização)
+- [Possíveis Problemas E Como Superá-los](#possíveis-problemas-e-como-superá-los)
+- [Recursos E Notas De Rodapé](#recursos-e-notas-de-rodapé)
 
-OSPOs can be really diverse, so taking the time to design an OSPO that will deliver on your organization's goals is important.
 
-This chapter will first help you to idenify your strategy so you can have a basis for planning the work your organization should do, and how the OSPO should be structured.
+## Introdução
 
-It will then look at designing and building a stable and strong OSPO that's capable of covering the open source-related tasks and responsibilities needed by your organization.
+Os OSPOs podem ser realmente diversos, portanto, é importante dedicar um tempo para projetar um OSPO que atenda às metas da sua organização. Este capítulo ajudará você a identificar sua estratégia para que você tenha uma base para planejar o trabalho que sua organização deve fazer e como o OSPO deve ser estruturado. Em seguida, ele analisará como projetar e construir um OSPO estável e forte, capaz de cobrir as tarefas e responsabilidades relacionadas ao open source necessárias para sua organização. Por fim, este capítulo apresentará o modelo de maturidade como uma forma de entender o que é apropriado para seu OSPO agora e no futuro, conforme as necessidades mudam.
 
-Lastly, this chapter will introduce maturity model as a way of understanding what's appropriate for your OSPO now and in the future as needs change.
 
-## Starting With Strategy
+## Começando Com Estratégia
 
-### How To Develop Strategy
+### Como Desenvolver Uma Estratégia
 
-> For individuals in Open Source Program Offices, effectively communicating the open source strategy to C-level executives demands a keen understanding of the industry landscape and alignment with the key considerations of CEOs and CFOs. This alignment necessitates a clear comprehension of the overarching corporate strategy and identifying technologies within the open source realm that can propel the organization toward its strategic objectives.
->
-> Victor Lu and Rob Moffat Presentation - Strategy - End Game for FINOS Maturity Model [^1]
+Para profissionais em OSPOs - Open Source Program Offices, comunicar de forma eficaz a estratégia de open source aos executivos C-levels exige um profundo conhecimento do cenário do setor e alinhamento com as principais considerações de CEOs e CFOs. Esse alinhamento exige uma compreensão clara da estratégia corporativa abrangente e a identificação de tecnologias no âmbito do open source que possam impulsionar a organização em direção aos seus objetivos estratégicos.
 
-An OSPO achieves this by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source use, contributions and compliance activities to its overall organization objectives across its projects, products, services, and internal infrastructure.
+[Apresentação de Victor Lu e Rob Moffat - Estratégia - Fim do Jogo para o Modelo de Maturidade FINOS](https://ospobook.todogroup.org/03-chapter/#fn:1 "Apresentação de Victor Lu e Rob Moffat - Estratégia - Fim do Jogo para o Modelo de Maturidade FINOS")
 
-A strategy creates a high-level consensus on concrete topics and their impact on your organization and the people within it.
+Um OSPO alcança isso criando e mantendo uma estrutura que abrange os seguintes aspectos: estratégia, governança, conformidade e engajamento da comunidade.
 
-Things to consider when creating your strategy:
+A estratégia do OSPO concentra-se em alinhar o uso, as contribuições e as atividades de conformidade do open source da organização aos seus objetivos gerais em seus projetos, produtos, serviços e infraestrutura interna.
 
-1. **Create a strategy document:** A good practice is to document this strategy in an open source strategy document [^2]. This guide takes you through the process step-by-step.
-2. **Understand your Organization's Goals:** As mentioned in the previous chapter, you will need to understand your organization's goals, and its current engagement with open source.
-3. **Consider the Context:** When developing your OSPO's strategy and design, you have a few different ways to approach its structure and position in the org chart before you think about personnel, technology, and budget. There is an excellent guide produced by the TODO group, called *A deep dive into OSPOs* [^3] explains all essential information on OSPO structures and operations.
-4. **Review an example OSPO's structure:** To get an overview of the potential activities of an OSPO you can review the OSPO Mind Map [^4]. This outlines the main responsibilities, roles, behaviors, and team sizes within the ecosystem of an OSPO.
+Uma estratégia cria um consenso de alto nível sobre tópicos concretos e seu impacto na sua organização e nas pessoas que trabalham nela.
 
-## Designing Your OSPO
+Coisas a considerar ao criar sua estratégia:
 
-### Identifying What Your OSPO Should Manage
+**1. Crie um documento de estratégia:** Uma boa prática é documentar essa estratégia em um documento de estratégia de open source². Este guia explica o processo passo a passo.
 
-Effectively executed OSPO work takes into account the elements of an organization's architecture, as understanding the organization's goals is fundamental for making informed open source-forward decisions. For instance, in a corporate field, an OSPO might look into the following areas and identify the role that open source plays on each situation:
+**2. Entenda os objetivos da sua organização:** Conforme mencionado no capítulo anterior, você precisará entender os objetivos da sua organização e seu envolvimento atual com o open source.
 
-![organization-architecture](/images/organization-architecture.png)
+**3. Considere o contexto:** Ao desenvolver a estratégia e o design de seu OSPO, você tem algumas maneiras diferentes de abordar sua estrutura e posição no organograma antes de pensar em pessoal, tecnologia e orçamento. Há um excelente guia produzido pelo grupo TODO, chamado Um mergulho profundo nos OSPOs³ que explica todas as informações essenciais sobre as estruturas e operações do OSPO.
 
-Since every organization is unique in its values, business drivers, and culture, it's challenging to provide specific content. However, addressing the following questions can help structure the document effectively:
+**4. Revise um exemplo da estrutura do OSPO:** Para obter uma visão geral das atividades potenciais de um OSPO, você pode revisar o Mapa Mental do OSPO⁴. Isso descreve as principais responsabilidades, funções, comportamentos e tamanhos de equipe dentro do ecossistema de um OSPO.
 
-* Which open source technology is and which will be important for your organization's goals and product roadmap?
-* Which open source projects directly and indirectly develop or influence these technologies and your organization's goals?
-* Which specific practices can best foster a sustainable open source ecosystem?
-* Which organization's processes have areas for improvement?
-* How can open source support those improvements?
-* How can you make workers champions for open source?
-* How can the message be effectively transmitted to management for their understanding?
 
-Taking the time to understand where the OSPO can add value will then help you to recognize who your stakeholders are.
+## Projetando Seu OSPO
 
-### Identifying Your OSPO's Stakeholders
+### Identificando o que seu OSPO deve gerenciar
 
-There are some common parts of the business where an OSPO may find its stakeholders. Stakeholders are all the people who will be affected by the work you will do. The OSPO flower diagram helps to visualize the different stakeholder groups. Each petal represents a certain group of stakeholders with specific activities associated with this group. The *OSPO Flower Diagram* can also be used to help you map the specific communication channels, documentation and other material used with each group of stakeholders.
+Para fazer um bom trabalho, um OSPO precisa entender como a organização funciona. Conhecer os objetivos da empresa ajuda o OSPO a tomar decisões informadas sobre o uso de open source. Por exemplo, em um ambiente empresarial, um OSPO pode analisar estas áreas para ver como o open source se encaixa:
 
-Depending on the complexity of your organization and the resources available to your OSPO, these petals can become more granular and include additional petals with different names.
+Como cada organização é única em seus valores, motivadores de negócios e cultura, é desafiador fornecer conteúdo específico. No entanto, responder às seguintes perguntas pode ajudar a estruturar o documento de forma eficaz:
 
-![ospoflower](/images/ospo-flower.png)
-[ospoflower.pdf](/pdfs/ospoflower-seconddraft-1.pdf)
+- Qual tecnologia de open source é e qual será importante para as metas e o roteiro de produtos da sua organização?
 
-* **Individual Contributors:** This petal represents the people who the OSPO will work within the organization, focusing on the intrinsic and extrinsic motivators of contributing to open source from an individual point of view. It requires a cultural change effort and may involve activities such as establishing mentoring programs.
+- Quais projetos de open source desenvolvem ou influenciam direta e indiretamente essas tecnologias e os objetivos da sua organização?
 
-* **Management:** In this petal, the OSPO focuses on strategy and finding alignment between open source and the overall business/organization strategy. Managers face unique challenges, and using the strengths of open source helps them overcome these challenges effectively.
+- Quais práticas específicas podem promover melhor um ecossistema de open source sustentável?
 
-* **Legal:** This petal represents the legal aspects of open source. It deals with understanding and managing legal requirements and obligations related to open source initiatives within the organization. This ensures compliance and reduces legal risks.
+- Quais processos da organização têm áreas para melhorias?
 
-* **Business:** This petal focuses on how the OSPO ensures all the pieces of the organization structure fit together. It involves sharing best practices across different business/team units and fostering collaboration and knowledge transfer.
+- Como o open source pode dar suporte a essas melhorias?
 
-* **Open Source Ecosystem:** This petal represents the broader open source community and project ecosystem outside the organization. The OSPO engages with this ecosystem, which includes other organizations, projects, and individuals, to exchange ideas, collaborate, and contribute to the larger open source community.
+- Como você pode transformar os trabalhadores em defensores do open source?
 
-* **OSPO:** This represents the inner workings of the OSPO itself. The people within the OSPO collaborate and coordinate all the open source initiatives within the organization. They oversee the activities, ensure smooth operations, and provide guidance and support to other stakeholders involved in open source.
+- Como a mensagem pode ser transmitida de forma eficaz à gerência para que ela entenda?
 
-### Collaborating With External Regulators
+Reservar um tempo para entender onde o OSPO pode agregar valor ajudará você a reconhecer quem são seus stakeholders.
 
-External regulators aren't included in the flower diagram, as this is a specialist case.
+### Identificando os Stakeholders do seu OSPO
 
-Organizations are subject to various external regulators that influence and shape their policies and processes. These regulators ensure compliance with legal requirements, ethical standards, and industry-specific guidelines. Some external regulators include:
+Existem algumas partes comuns do negócio onde um OSPO pode encontrar seus stakeholders. Stakeholders são todas as pessoas que serão afetadas pelo trabalho que você realizará. O diagrama de flor do OSPO ajuda a visualizar os diferentes grupos de stakeholders. Cada pétala representa um determinado grupo de stakeholders com atividades específicas associadas a esse grupo. O Diagrama de flores OSPO também pode ser usado para ajudar a mapear os canais de comunicação específicos, documentação e outros materiais usados ​​com cada grupo de stakeholders.
 
-* Government Agencies: Government bodies establish and enforce laws and regulations that impact organizations.
-* Industry Regulators: Many industries have their own regulatory bodies or professional associations that set guidelines and standards for organizations to follow.
-* Consumer Protection Agencies: Consumer protection agencies ensure that organizations provide fair and safe products or services to consumers.
+Dependendo da complexidade da sua organização e dos recursos disponíveis para seu OSPO, essas pétalas podem se tornar mais granulares e incluir pétalas adicionais com nomes diferentes.
 
-For open source to be successful and sustainable within an organization, it's crucial to collaborate not only with the open source community but also with external regulators. This collaboration ensures a clear understanding of open source principles when creating policies that affect the ecosystem. The primary objective is to work together and make informed decisions by fully grasping the implications of open source and its community. Thus, it's recommended that the OSPO consider ways to develop a plan for approaching and communicating with regulators, clearly defining the roles they will play in the policymaking process.
+[Diagrama de Flores OSPO](https://ospobook.todogroup.org/pdfs/ospoflower-seconddraft-1.pdf "Diagrama de Flores OSPO")
 
-## Using Maturity Models for OSPOs
+**- Colaboradores individuais:** Esta pétala representa as pessoas com quem o OSPO trabalhará dentro da organização, com foco nos motivadores intrínsecos e extrínsecos de contribuir para o open source de um ponto de vista individual. Exige um esforço de mudança cultural e pode envolver atividades como o estabelecimento de programas de mentoria.
 
-### An Introduction to Maturity Models
+- **Gerenciamento:** Nesta página, o OSPO se concentra na estratégia e na busca pelo alinhamento entre o open source e a estratégia geral de negócios/organização. Os gestores enfrentam desafios únicos, e usar os pontos fortes do open source os ajuda a superá-los de forma efetiva.
 
-An organization's engagement with open source typically sits along a scale from tactical to strategic. Maturity models help you to understand where on this scale different parts of the organization sit, and to have conversations about whether it's in the right place.
+- **Jurídico:** Esta pétala representa os aspectos legais do open source. Ela trata da compreensão e do gerenciamento dos requisitos e obrigações legais relacionados às iniciativas de open source dentro da organização. Isso garante a conformidade e reduz os riscos legais.
 
-There are many different open source maturity models. Some are general, some are specialised. There are maturity models for governments, NGOs, Enterprises and more, with versions and sub-versions to fit any organization.
+- **Negócios:** Esta pétala foca em como o OSPO garante que todas as peças da estrutura organizacional se encaixem. Envolve o compartilhamento de melhores práticas entre diferentes unidades de negócios/equipes e o fomento da colaboração e da transferência de conhecimento.
 
-> NOTE: Maturity Models can be seen as a prescription for how OSPOs or open source engagement should develop. It can be tempting to think that it's always better to increase maturity. But, remember that you should consider what *level* of maturity is appropriate for your OSPO, or each function of your OSPO. Not every part needs to be highly developed. It may already deliver the value that's needed wihtout further development. If maturity models don't fit for your OSPO, consider using a capability model or something else that you prefer.
+- **Ecossistema de open source:** Esta pétala representa a comunidade de open source mais ampla e o ecossistema de projetos fora da organização. O OSPO interage com esse ecossistema, que inclui outras organizações, projetos e indivíduos, para trocar ideias, colaborar e contribuir para a comunidade de open source em geral.
 
-### Example Maturity Models
+- **OSPO:** Isso representa o funcionamento interno do próprio OSPO. As pessoas dentro do OSPO colaboram e coordenam todas as iniciativas de open source dentro da organização. Elas supervisionam as atividades, garantem o bom funcionamento e fornecem orientação e suporte a outras partes interessadas envolvidas no open source.
 
-Each of these maturity models is slightly different, but they all classify open source engagement from tactical and less intentional, to strategic and more intentional.
+### Colaboração com reguladores externos
 
-#### Maturity Model 1 - Open Source Engagement Adoption by Dr. Ibrahim H [^5]:
+Reguladores externos não estão incluídos no diagrama de flores, pois este é um caso especial. Organizações estão sujeitas a diversos reguladores externos que influenciam e moldam suas políticas e processos. Esses reguladores garantem a conformidade com os requisitos legais, os padrões éticos e as diretrizes específicas do setor. Alguns reguladores externos incluem:
 
-* Denial - No or unconscious use of open source
-* Consumption / Usage - Passive use of OSS
-* Participation - Engagement with open source communities
-* Contribution - Pragmatic contributions to open source projects
-* Leadership - Strategic involvement with open source to drive business value
+- **Agências governamentais:** órgãos governamentais estabelecem e aplicam leis e regulamentos que impactam organizações.
 
-![opensourceinvolvementmodel](/images/opensourceinvolvementmodel.png)
+- **Reguladores do setor:** muitos setores têm seus próprios órgãos reguladores ou associações profissionais que definem diretrizes e padrões a serem seguidos pelas organizações.
 
-#### Maturity Model 2 - Five Stages or Corporate Open Source Adoption Talk by Carl-Eric [^6]:
+- **Agências de proteção ao consumidor:** as agências de proteção ao consumidor garantem que as organizações forneçam produtos ou serviços justos e seguros aos consumidores.
 
-* Accidental - open source is used by the organisation without knowing that it's used
-* Repetitive - there are processes set up for both consumption and contribution, but contributions are sporadic
-* Directed - active participation incritical open source projects
-* Collaborate - open source collaboration is used as a tool to create business value
-* Prevail - open source is used to influence strategic areas of the business and technology
+Para que o open source seja bem-sucedido e sustentável dentro de uma organização, é crucial colaborar não apenas com a comunidade de open source, mas também com reguladores externos. Essa colaboração garante uma compreensão clara dos princípios do open source ao criar políticas que afetam o ecossistema. O objetivo principal é trabalhar em conjunto e tomar decisões informadas, compreendendo plenamente as implicações do open source e de sua comunidade. Portanto, recomenda-se que o OSPO considere maneiras de desenvolver um plano de abordagem e comunicação com os reguladores, definindo claramente os papéis que eles desempenharão no processo de formulação de políticas.
 
-![osmm-carl](/images/osmm-carl.png)
 
-#### Maturity Model 3 - The OSPO Maturity Model by The TODO Group [^7]
+## Usando Modelos De Maturidade Para OSPOs
 
-* Stage 0: Adopting Open Source Ad Hoc
-* Stage 1: Providing OSS Compliance, Inventory, and Developer Education
-* Stage 2: Evangelizing OSS Use and Ecosystem Participation
-* Stage 3: Hosting OSS Projects and Growing Communities
-* Stage 4: Becoming a Strategic Decision-Making Partner
+### Uma introdução aos Modelos de Maturidade
 
-![OSPO Maturity Model](/images/ospo-maturity-model.jpg)
+O engajamento de uma organização com o open source normalmente varia de tático a estratégico. Modelos de maturidade ajudam a entender onde as diferentes partes da organização se encontram nessa escala e a discutir se ela está no lugar certo. Existem diversos modelos de maturidade de open source. Alguns são gerais, outros são especializados. Há modelos de maturidade para governos, ONGs, empresas e muito mais, com versões e subversões para atender a qualquer organização.
 
-## Applying This to Your Organization
+**NOTA:** Os Modelos de Maturidade podem ser vistos como uma prescrição de como os OSPOs ou o engajamento de open source devem se desenvolver. Pode ser tentador pensar que é sempre melhor aumentar a maturidade. Mas lembre-se de que você deve considerar qual nível de maturidade é apropriado para o seu OSPO ou para cada função do seu OSPO. Nem todas as partes precisam ser altamente desenvolvidas. Elas podem já entregar o valor necessário sem desenvolvimento adicional. Se os modelos de maturidade não forem adequados para o seu OSPO, considere usar um modelo de capacidade ou algo de sua preferência.
 
-Here are some suggestions of how you could use the ideas and advice above to set up your OSPO. These are based on Maturity Model 3 - the OSPO Maturity Model by the TODO Group.
+### Exemplos de modelos de maturidade
 
-### Using a Simple Checklist
+Cada um desses modelos de maturidade é ligeiramente diferente, mas todos eles classificam o engajamento de open source de tático e menos intencional a estratégico e mais intencional.
 
-The TODO OSPO checklist [^8] offers a simplified set of common milestones to both early-stage and seasoned OSPOs in navigating each stage of the previously mentioned OSPO maturity model. Please note that an OSPO might remove, add, or edit some content of this checklist to adapt it to their organization's needs.
+**Modelo de Maturidade 1 - Adoção de Engajamento de Open Source pelo Dr. Ibrahim H⁵:**
 
-### Using Maturity Models
+- **Negação** - Uso inexistente ou inconsciente de open source
 
-Once you have a certain familiarity with open source maturity models, you can start to use one to build your strategy and create your plan.
+- **Consumo/Uso** - Uso passivo do OSS
 
-The OSPO Japan Local Meetup Working Group, supported by the TODO Group and OpenChain, has been developing a simple frequently asked questions (FAQ) guide about OSPOs. This guide aims to answer questions at each step of the OSPO maturity model, which categorizes different open source activities from stage 0 to 4, and outlines the role of the OSPO at each level.
+- **Participação** - Engajamento com comunidades de open source
 
-Here are some highlights from their work to inspire you:
+- **Contribuição** - Contribuições pragmáticas para projetos de open source
 
-![ospo-role](/images/ospo-role.png)
-![benefits-of-oss](/images/benefits-of-oss.png)
+- **Liderança** - Envolvimento estratégico com open source para gerar valor comercial
 
-> NOTE: You can find a summary of their work in both Japanese and English in a Qiita article written by one of its members [^9]
+**Modelo de Maturidade 2 - Cinco Estágios da Adoção Corporativa de Open Source - Palestra de Carl-Eric⁶:**
 
-While planning the OSPO it's very helpful have 1:1 conversations with managers, high-level executives, and workers/contractors from different teams that use open source in their day-to-day operations, or whose strategy involves dealing with open source projects (in terms of licenses, security vulnerabilities). Use the insights from these conversations to define the organization's unique motivators and map them to areas within the organization where open source brings value.
+- **Acidental** - o open source é usado pela organização sem que ela saiba que está sendo usado
 
-This will also help to build support for your work across the business even before the OSPO is officially created and launched.
+- **Repetitivo** - existem processos estabelecidos tanto para consumo quanto para contribuição, mas as contribuições são esporádicas
 
-Map these motivators with different activity types across the organization, by using the OSPO Maturity Model and creating a second division that categorizes each of these unique motivators according to the different stages. Use this as a reference when you are engaging and communicating with your stakeholders.
+- **Dirigido** - participação ativa em projetos críticos de open source
 
-For example:
+- **Colaborar** - a colaboração de open source é usada como uma ferramenta para criar valor comercial
 
-<img width="942" alt="activityparticipationcategorization" src="/images/activityparticipationcategorization.png">
+- **Predominar** - o open source é usado para influenciar áreas estratégicas do negócio e da tecnologia
 
-## Possible Problems and How To Overcome Them
+**Modelo de Maturidade 3 - O Modelo de Maturidade OSPO do TODO Group⁷**
 
-### Problem
+- **Estágio 0:** Adoção de open source Ad Hoc
 
-While creating the OSPO you are getting lots of questions and having to adapt your plan to take into account new information. It seems there is a lack of consistency in how open source understanding and value is perceived across the organization, leading to confusion and potential risks.
+- **Etapa 1:** Fornecendo conformidade de OSS, inventário e educação para desenvolvedores
 
-### Recommendation
+- **Etapa 2:** Evangelização do uso do OSS e da participação no ecossistema
 
-Ensure that you take the time to identify all your stakeholders and understand their motivations. Create publicly available  open source manifestos, principles, and websites as an effective way to foster a common understanding of values, principles, and goals among all teams and subsidiaries. Taking time to establish and enforce a consistent understanding of open source throughout the organization will ensure a stable and strong foundation for the OSPO.
+- **Etapa 3:** Hospedagem de Projetos OSS e Crescimento de Comunidades
 
-## Resources and Footnotes
+- **Etapa 4:** Tornando-se um parceiro na tomada de decisões estratégicas
 
-### Resources
 
-- TODO guide to outbound OSS: https://todogroup.org/resources/guides/a-guide-to-outbound-open-source-software/
-- TODO guide to participating in open source communities: https://todogroup.org/resources/guides/participating-in-open-source-communities/
-- DevOps uses Capability, not Maturity: https://octopus.com/blog/devops-uses-capability-not-maturity
-- Porsche Open Source Website https://opensource.porsche.com/
-- The Evolution of the OSPO https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/
-- OSPO 101 training module - OSPO and your organization: https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3
+## Aplicando Isso À Sua Organização
 
-### Footnotes
+Aqui estão algumas sugestões de como você pode usar as ideias e conselhos acima para configurar seu OSPO. Elas se baseiam no Modelo de Maturidade 3 — o Modelo de Maturidade OSPO do TODO Group.
 
-[^1]: Strategy - End Game for FINOS Maturity Model: https://osr.finos.org/docs/presentations/strategy
+### Usando um Checklist simples
 
-[^2]: Creating an open source strategy document: https://todogroup.org/resources/guides/setting-an-open-source-strategy/
+O checklist TODO OSPO⁸ oferece um conjunto simplificado de marcos comuns para OSPOs iniciantes e experientes na navegação em cada estágio do modelo de maturidade OSPO mencionado anteriormente. Observe que um OSPO pode remover, adicionar ou editar parte deste checklist para adaptá-lo às necessidades de sua organização.
 
-[^3]: A deep dive into OSPOs: https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices
+### Usando Modelos de Maturidade
 
-[^4]: OSPO Mind Map: https://todogroup.org/resources/mindmap/
+Depois de ter uma certa familiaridade com modelos de maturidade de open source, você pode começar a usar um para construir sua estratégia e criar seu plano.
 
-[^5]: Dr. Ibrahim H, Guide to Enterprise Open Source: https://www.linuxfoundation.org/research/guide-to-enterprise-open-source
+O Grupo de Trabalho de Encontros Locais da OSPO Japão, com o apoio do TODO Group e da OpenChain, vem desenvolvendo um guia simples de Perguntas Frequentes (FAQ) sobre OSPOs. Este guia visa responder a perguntas em cada etapa do modelo de maturidade do OSPO, que categoriza diferentes atividades de open source do estágio 0 ao 4 e descreve o papel do OSPO em cada nível.
 
-[^6]: Carl-Eric: https://web.archive.org/web/20240419100823/https://debricked.com/blog/what-is-open-source-maturity-model/
+**NOTA:** Você pode encontrar um resumo do trabalho deles em japonês e inglês em um artigo da Qiita escrito por um de seus membros⁹
 
-[^7]: The TODO Group Maturity Model: https://github.com/todogroup/ospology/blob/main/ospo-model/en/five-stage-OSPO-maturity-model.md
+Ao planejar o OSPO, é muito útil ter conversas individuais com gerentes, executivos de alto escalão e trabalhadores/contratados de diferentes equipes que utilizam open source em suas operações diárias ou cuja estratégia envolve lidar com projetos de open source (em termos de licenças e vulnerabilidades de segurança).
 
-[^8]: The TODO OSPO checklist: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md
+Use os insights dessas conversas para definir os motivadores específicos da organização e mapeá-los para áreas dentro da organização onde o open source agrega valor. Isso também ajudará a gerar apoio para seu trabalho em toda a empresa, mesmo antes do OSPO ser oficialmente criado e lançado.
 
-[^9]: Summary of the work of The OSPO Japan Local Meetup Working Group in both Japanese and English in a  Qiita article written by one of its members: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+Mapeie esses motivadores com diferentes tipos de atividades em toda a organização, utilizando o Modelo de Maturidade OSPO e criando uma segunda divisão que categorize cada um desses motivadores específicos de acordo com os diferentes estágios. Use isso como referência ao interagir e se comunicar com seus stakeholders.
+
+
+## Possíveis Problemas E Como Superá-los
+
+### Problema
+
+Ao criar o OSPO, você recebe muitas perguntas e precisa adaptar seu plano para levar em conta novas informações. Parece haver uma falta de consistência na forma como a compreensão e o valor do open source são percebidos em toda a organização, gerando confusão e potenciais riscos.
+
+### Recomendação
+
+Certifique-se de dedicar tempo para identificar todos os seus Stakeholders e entender suas motivações. Crie manifestos, princípios e websites de open source publicamente disponíveis como uma forma eficaz de promover um entendimento comum de valores, princípios e objetivos entre todas as equipes e subsidiárias. Reservar um tempo para estabelecer e implementar um entendimento consistente de open source em toda a organização garantirá uma base estável e sólida para o OSPO.
+
+
+## Recursos e Notas de Rodapé
+
+### Recursos
+
+- [Guia de tarefas para OSS de saída](https://todogroup.org/resources/guides/um-guia-para-software-de-código-aberto-de-saída/)
+
+- [Guia TODO para participar de comunidades de open source](https://todogroup.org/resources/guides/participando-em-comunidades-de-código-aberto/)
+
+- [DevOps usa capacidade, não maturidade](https://octopus.com/blog/devops-usa-capacidade-não-maturidade)
+
+- [Site de open source da Porsche](https://opensource.porsche.com/)
+
+- [A evolução do OSPO](https://linuxfoundation.org/tools/a-evolucao-do-programa-de-codigo-aberto-office-ospo/)
+
+- [Módulo de treinamento OSPO 101 - OSPO e sua organização](https://github.com/todogroup/ospo-career-path/tree/main/OSPO-101/module3)
+
+### Notas de rodapé
+
+1. Estratégia - Fim de Jogo para o Modelo de Maturidade FINOS: https://osr.finos.org/docs/presentations/strategy
+
+2. Criando um documento de estratégia de open source: https://todogroup.org/resources/guides/setting-an-open-source-strategy/
+
+3. Uma análise aprofundada dos OSPOs: https://www.linuxfoundation.org/research/um-mergulho-profundo-nos-escritórios-de-programas-de-código-aberto
+
+4. Mapa Mental OSPO: https://todogroup.org/resources/mindmap/
+
+5. Dr. Ibrahim H, Guia para Empresas de open source: https://www.linuxfoundation.org/research/guide-to-enterprise-open-source
+
+6. Carl-Eric: https://web.archive.org/web/20240419100823/https://debricked.com/blog/o-que-e-modelo-de-maturidade-de-cdigo-aberto/
+
+7. O Modelo de Maturidade do Grupo TODO: https://github.com/todogroup/ospology/blob/main/ospo-model/en/five-stage-OSPO-maturity-model.md
+
+8. Lista de verificação TODO OSPO: https://github.com/todogroup/ospology/blob/main/ospo-model/en/ospo-checklist.md
+
+9. Resumo do trabalho do Grupo de Trabalho do OSPO Japan Local Meetup em japonês e inglês em um artigo da Qiita escrito por um de seus membros: https://qiita.com/owada-k/items/017d1b98d0e437766bd0
+
