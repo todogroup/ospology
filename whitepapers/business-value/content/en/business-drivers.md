@@ -1,6 +1,6 @@
 ---
-title: Business Drivers
-weight: 15
+title: The mechanics of Open Source in business
+weight: 50
 ---
 # The mechanics of open source in business
 

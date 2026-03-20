@@ -2,6 +2,7 @@
 title: Table of Contents
 weight: 5
 ---
+# Table of Contents
 
 ## [Introduction]({{< relref "introduction" >}})
 
@@ -12,7 +13,7 @@ weight: 5
 - The legal definition, plus background on the open source movement
 - The difference between 'legally' open source and the open source philosophy
 - Misconceptions about open source
-(- Description of common practices in open source development)
+- Description of common practices in open source development
 
 ## [Adoption of Open Source Principles]({{< relref "adoption" >}})
 
@@ -37,9 +38,9 @@ weight: 5
 
 ## [The mechanics of Open Source in business]({{< relref "business-drivers" >}})
 
-- drivers
-- archetypes
-- business models
+- Drivers
+- Archetypes
+- Business models
 - Framework for deciding whether your organization should release an internal project as an open source project
 - Open Source is not a business model
 
@@ -47,35 +48,35 @@ weight: 5
 
 - Open Source in purchasing
 
-## [Addressing Open source downsides]({{< relref "misconceptions_challenges" >}})
+## [Addressing Open source downsides]({{< relref "downsides" >}})
 
 - Risks and challenges from using open source software
 - Addressing security concerns and support availability
 - Risks and challenges from contributing to open source software
 - Risks and challenges from publishing and maintaining open source software
-    - Cyber Resilience Act (CRA) when publishing software
+  - Cyber Resilience Act (CRA) when publishing software
 - Legislative risks related to open source software
 - How to properly budget or allocate resources for OSPOs?
 - Strategies for minimizing the risks and downsides from open source
-  - general business risk management and Open Source
+  - General business risk management and Open Source
 
-## [Communicating open source's value with business stakeholders]({{< relref "communication_of_benefits_to_business_value" >}})
+## [Communicating open source's value with business stakeholders]({{< relref "communication" >}})
 
 - Adjusting your message according to your audience - not all business stakeholders are the same
 - Focus on the 2 or 3 primary benefits you think this particular project will have; all projects are different
 - Don't hide the drawbacks of open source; be frank about the potential risks and downsides
 
-## [Case Studies and Success Stories]({{< relref "case_studies_and_stories" >}})
+## [Case Studies and Success Stories]({{< relref "case-studies" >}})
 
 - Neutral collaboration: Stories from organizations like LF Energy's OpenSTEF or from Open Telemetry
 - Case study from open source 'user' organizations
 - Case study from organizations who are engaged contributors
 - Case study from publishers of open source software
 
-## [Conclusion]({{< relref "living_guide_for_business" >}})
+## [Conclusion]({{< relref "conclusion" >}})
 
 - Recap of the guide's key points  
 
 ## [Glossary]({{< relref "glossary" >}})
 
-- Glossary of terms (don't duplicate https://glossary.todogroup.org)
+- Glossary of terms
