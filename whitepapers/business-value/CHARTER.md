@@ -27,7 +27,7 @@ The group may later support the creation of an **Enterprise Edition** derived fr
 
 ### Clarification on the Community Edition and Enterprise Edition
 
-The Community Edition is the foundational deliverable of this working group and the main space for collaborative development, review, and knowledge sharing.The Enterprise Edition will build on the Community Edition as phase 2 of the workflow.
+The Community Edition is the foundational deliverable of this working group and the main space for collaborative development, review, and knowledge sharing. The Enterprise Edition will build on the Community Edition as phase 2 of the workflow.
 
 ## Roles and Responsibilities
 
