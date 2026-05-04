@@ -12,9 +12,9 @@
 - 👋 [Forum](#forum)
 - 📝 [License](#license)
 
-## Resources
+## 📚 Available Resources
 
-Resources hosted under the OSPOlogy brand and supported by the TODO Community.
+The following resources are part of the OSPOlogy initiative and are supported by the TODO Community.
 
 ### 📖 OSPO Book
 
