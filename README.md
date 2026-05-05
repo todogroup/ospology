@@ -75,3 +75,15 @@ The official forum (OSPOlogy GH Discussions) facilitates discussions on open sou
 ## License  
 
 This [repository](https://github.com/todogroup/ospology) is provided by the [TODO Group](https://todogroup.org) under the [Creative Commons Attribution 4.0 International License](./LICENSE).
+
+## 🚀 Contribution Path
+
+New to OSPOlogy? Follow a structured path to get started:
+
+1. Explore key resources like the OSPO Book, OSS in Business Guide, and OSPO MindMap  
+2. Understand how organizations manage open source  
+3. Review discussions, issues, and pull requests  
+4. Start contributing with small improvements (docs, formatting, clarity)  
+5. Gradually move to more meaningful contributions  
+
+For a detailed step-by-step guide, see: [Contribution Path Guide](./ContributionPath.md)
