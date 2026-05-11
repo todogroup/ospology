@@ -1,0 +1,38 @@
+###Open Source in Business: Spotify and Backstage
+
+
+A successful open source project can position a company as a thought leader, help recruit top talent and build the company’s brand. In some cases, though, it can also become a new revenue stream. Backstage by Spotify is a good example of just that. 
+
+Even before the creation of Backstage, Spotify had had a history of creating cutting edge technology in-house that would then eventually be replaced by new external technology that would become an industry standard. For example, Spotify had its own container technology before Docker came along, but it was eventually abandoned as Docker became ubiquitous. 
+
+When Backstage was first developed, the team wanted to avoid having to migrate to another solution – instead, they wanted the world to migrate to Backstage. Releasing Backstage as an open source project was the only way to make that even a possibility. 
+
+Making Backstage the industry standard seemed far-fetched at the beginning, but the more concrete goal was to amortize the investment in development and to get external contributions, both in terms of innovative ideas and feedback as well as concrete development that would help maintain the project. “We thought, if we’re lucky, this becomes the next ubiquity,” said Helen Greul, engineering manager at Spotify at the time. “Which is sort of what happened. We’ve created a new product niche.”
+
+## Getting Ready for Launch
+
+The main sponsor behind open sourcing Backstage was Tyson Singer, the VP of Platform. But the project had widespread support within the company, ranging from the board to to product managers and individual developers. The main goal at the beginning was attracting contributions, but the original Backstage, which was seven years old at the time, had a lot of Spotify-specific semantics and was written in Java. The team decided to re-write the entire project in TypeScript to increase the chances that it would attract contributions. 
+
+Even after launch, the team continued to make an effort to attract contributions. First of all, Backstage was promoted by Spotify; on the company blog and social media. Spotify already had a strong engineering brand, and many people were genuinely excited to see how the sausage was made. But there was also an effort to follow best practices by marking good first issues, by engaging the community in conversation and by merging pull requests quickly – sometimes there would be a hundred pull requests merged in a day. 
+
+
+## The role of business stakeholders
+
+
+At the beginning, business stakeholders at Spotify weren’t particularly interested in Backstage – their attitude was more that it couldn’t hurt, and the main advantage business stakeholders saw from creating the project was centered around building Spotify’s brand as an employer and thought leader in cutting-edge engineering practices. “They didn’t expect much,” Greul said. “I think they were pleasantly surprised.” 
+
+There was no pushback from the executive stakeholders at the beginning, largely because they didn’t know much about open source. The Backstage team had to educate the executive team about software engineering, open source in general and then commercializing open source. 
+
+As the project started to get traction in the wider community, it got more visibility internally as well. Within the first year, the team was starting to evaluate the size of the opportunity and thinking about Backstage as a real internal startup. They started talking about donating the project to the Cloud Native Computing Foundation (CNCF), for example. It became increasingly clear that there was a business opportunity and that Backstage was solving a pain point that no one else had solved. Backstage’s success as an open source project also coincided with a push at the executive level to think about diversifying Spotify’s revenue streams away from the core music streaming business. So the executive team gave it the green light to go ahead to experiment with monetization; as the monetization project matured, the team started reporting directly to the C-suite and tracking business metrics as well as typical open source metrics like GitHub stars. 
+
+*Insert info about Backstage as a revenue stream here… from Spotify annual report.* 
+
+## Relationship building
+
+Unexpectedly, releasing Backstage as an open source project also changed Spotify’s relationship with many of its software vendors. On the one hand, Spotify remained their customer; on the other hand Spotify would be promoting their vendor’s software as a plugin on Backstage. This changed the vendor relationship and gave Spotify a very different kind of leverage in negotiations with software vendors. 
+
+## Lessons for other companies
+
+When you’re creating an open source project, there should be a clear rationale for doing so. “At any point in time, there shouldn’t be any question in the company about why this thing exists,” Greul said. This doesn’t mean that it is fixed in stone – the company’s goals in creating the open source project can and should change as the project matures and as there are surprises, both positive and negative. However, there should always be a strategy in place that the company is aligned around. 
+
+Communication around the strategy is also critical and often overlooked – and communication means both internal and external communication. The initial team working on Backstage was only around 10 people, and there should have been more work done to solicit internal contributions, Greul said. 
