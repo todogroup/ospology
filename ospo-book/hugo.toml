@@ -55,31 +55,31 @@ anchor = "smart"
 [languages.en]
 title = "OSPO Book"
 description = "This book serves as a source of knowledge for Open Source Program Office (OSPOs) teams, aiding them in gaining a better understanding of their role within organizations and providing resources built in the open across different organizations for effectively managing an OSPO."
-languageName ="English"
+label ="English"
 # Weight used for sorting.
 weight = 1
 
 [languages.zh]
 title = "OSPO 手册"
-languageName ="中文(Chinese)"
+label ="中文(Chinese)"
 contentDir = "content/zh"
 weight = 2
 
 [languages.es]
 title = "OSPO Book"
-languageName ="Español"
+label ="Español"
 contentDir = "content/es"
 weight = 3
 
 [languages.pt-br]
 title = "OSPO Book"
-languageName ="Português (Brasil)"
+label ="Português (Brasil)"
 contentDir = "content/pt-br"
 weight = 4
 
 [languages.ja]
 title = "OSPO ブック"
-languageName ="日本語"
+label ="日本語"
 contentDir = "content/ja"
 weight = 5
 
@@ -110,13 +110,13 @@ images = ["images/ospo-book-social.jpg"]
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a 
+# Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the 
+# Used in the "version-banner" partial to display a version number for the
 # current doc set.
 version = "0.0"
 
@@ -172,7 +172,7 @@ yes = 'Thank you! Please <a href="https://github.com/todogroup/glossary/issues/n
 no = 'Thanks for your feedback. Please <a href="https://github.com/todogroup/glossary/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
@@ -180,3 +180,8 @@ enable = false
 [taxonomies]
 tag = "tags"
 category = "categories"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.161.1'
