@@ -3,7 +3,7 @@ serve:
 		--disableFastRender \
 		--buildDrafts \
 		--buildFuture \
-		--ignoreCache
+		--ignoreCache \
 		--printI18nWarnings \
 		--printMemoryUsage \
 		--printPathWarnings \
@@ -11,6 +11,10 @@ serve:
 		--templateMetrics \
 		--templateMetricsHints \
 		--gc
+
+serve-with-pagefind:
+	hugo --baseURL=/ && npx -y pagefind --site public --output-subdir ../static/pagefind
+	$(MAKE) serve
 
 production-build:
 	git submodule update --init --recursive

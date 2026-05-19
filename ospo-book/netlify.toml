@@ -4,13 +4,14 @@ command = "make production-build"
 ignore = "exit 1"
 
 [build.environment]
-NODE_VERSION = "18.16.1"
-HUGO_VERSION = "0.115.2"
+HUGO_VERSION = "0.161.1"
 
 [context.production.environment]
+HUGO_VERSION = "0.161.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
+HUGO_VERSION = "0.161.1"
 HUGO_ENV = "preview"
 
 [context.deploy-preview]
