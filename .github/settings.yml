@@ -19,9 +19,10 @@ repository:
 collaborators:
   - username: caniszczyk
     permission: admin
-
   - username: anajsana
     permission: admin
-    
-  - username: souravcipher
-    permission: admin
+
+teams:
+  - name: chairs-ossinbusiness-wg
+    permission: push
+  
