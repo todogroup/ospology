@@ -24,7 +24,7 @@ Este capítulo ajudará você a entender as possíveis áreas em que o gerenciam
 
 O trabalho de um OSPO é entender onde o Open Source pode agregar valor à sua organização e gerenciar ou supervisionar ativamente todas as atividades relacionadas.
 
-Cada organização terá seus próprios motivos para querer iniciar um OSPO, alguns motivos comuns fornecidos no [Valor Comercial Do relatório OSPO](https://www.linuxfoundation.org/research/business-value-of-ospo) são os seguintes:
+Cada organização terá seus próprios motivos para querer iniciar um OSPO, alguns motivos comuns fornecidos no [Valor comercial do relatório OSPO](https://www.linuxfoundation.org/research/business-value-of-ospo) são os seguintes:
 
 - Construindo processos padronizados em torno do Open Source
 - Aprendendo como abordar a comunidade Open Source
