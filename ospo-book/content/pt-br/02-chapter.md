@@ -3,7 +3,6 @@ title: "Capítulo 2: O Valor dos Open Source Program Offices"
 status: Completed
 weight: 40
 ---
-
 # Capítulo 2: O Valor dos Open Source Program Offices
 
 ## Índice
