@@ -30,8 +30,6 @@ Business leaders, on the other hand, often don’t think about open source becau
 
 But a real engagement with open source, one that goes beyond downloading and using it anonymously, can help organizations build a competitive advantage compared to competitors. It requires convincing engineering and business leaders that open source just isn’t something to be consumed, but rather an ecosystem to engage in and an opportunity to build reputation, partnerships and even new revenue streams. This guide is about how to make that happen. 
 
-Introduction
-
 ## What is open source? 
 
 When it comes to open source, there are a lot of misconceptions – even among software engineers. So what exactly is open source? 
