@@ -1,3 +1,8 @@
+---
+title: Open source in modern software engineering
+weight: 21
+---
+
 # Open source in modern software engineering
 
 Nearly all software engineers use open source software, and most use open source software on a daily basis.

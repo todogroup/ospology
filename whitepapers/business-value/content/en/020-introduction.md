@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Background
 weight: 10
 ---
 # Background
@@ -32,7 +32,7 @@ But a real engagement with open source, one that goes beyond downloading and usi
 
 Introduction
 
-# What is open source? 
+## What is open source? 
 
 When it comes to open source, there are a lot of misconceptions – even among software engineers. So what exactly is open source? 
 

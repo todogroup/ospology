@@ -13,7 +13,7 @@ Open source software is ubiquitous in modern software engineering. Most programm
 
 The fact that using open source software makes engineering teams more productive is not controversial – it amounts to downloading software components and using them for free. But engineering departments can also become more involved in open source communities by contributing back to projects they use regularly and/or publishing their own open source projects. In most engineering departments, using open source software is simply the water that everyone is swimming in. Engineers don't think much about downloading and using open source software because it is so integrated into their workflow.
 
-While the productivity gains from using open source software are obvious, there are risks to open source software, particularly to an approach to using open source by the rest of the business that either doesn't acknowledge that open source is used or treats it as purely an engineering issue. Without external guidance, many engineers don't know or don't think to verify the software bill of materials (SBOM) for open source components they use. Engineers are not lawyers, and not all open source licenses are identical. Absent a clearly defined open source policy, companies can find themselves in violation of open source licences simply because their engineers don't know which licenses are acceptable.
+While the productivity gains from using open source software are obvious, there are risks to open source software, particularly to an approach to using open source by the rest of the business that either doesn't acknowledge that open source is used or treats it as purely an engineering issue. Without external guidance, many engineers don't know or don't think to verify the software bill of materials (SBOM) for open source components they use. Engineers are not lawyers, and not all open source licenses are identical. Absent a clearly defined open source policy, companies can find themselves in violation of open source licenses simply because their engineers don't know which licenses are acceptable.
 
 As individual engineers and engineering departments in general become more involved in open source, however, there can be additional questions that arise. An engineer who fixes a bug or writes a custom extension for a project he or she uses, for example, has to decide whether or not to contribute that work back to the project. There are obvious reasons for contributing that work back to the project; among other things is that doing so means that others can use the bug fix / custom extension or other functionality themselves, and then use the additional time they save to develop some other extension or fix some other bug. In other words, the entire ecosystem benefits.
 
@@ -55,7 +55,7 @@ This is the type of relationship with the open source community that most busine
 
 Not all software you develop internally is a good fit for being published as an open source project, but some of it is. If a project doesn't directly give your company a competitive advantage, it might be a good fit for publishing as an open source project.
 
-### Engineering Driven vs. Business Driven Open Source
+## Engineering Driven vs. Business Driven Open Source
 
 *(Existing placeholder from main - to be developed)*
 
