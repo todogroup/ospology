@@ -1,4 +1,9 @@
-### Open Source in Business: Spotify and Backstage
+---
+title: Spotify Case Study
+weight: 101
+---
+
+## Open Source in Business: Spotify and Backstage
 
 > Note: This use case is based on information gathered through a direct interview with the organization and was reviewed with the interviewee before publication.
 

@@ -1,5 +1,5 @@
 ---
-title: Business benefits of open source software
+title: Business benefits
 weight: 40
 ---
 
@@ -206,7 +206,7 @@ Even large organizations won’t necessarily publish huge numbers of open source
 
 
 
-#### Pull box: Should you donate to a foundation? 
+## Pull box: Should you donate to a foundation? 
 
 If you create an open source project, you can also decide whether or not to donate the project to an open source foundation to ensure neutral governance. There are pros and cons to working with a foundation, but donating a project to a foundation does not mean that the foundation becomes responsible for the maintenance of the project and ensures security and bug fixes for eternity. Companies often think they are offloading their project to a foundation so that it will survive, but become someone else’s problem. That is not how it works. 
 

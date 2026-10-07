@@ -1,5 +1,5 @@
 ---
-title: Addressing Open source downsides
+title: Risks and challenges
 weight: 70
 ---
 
@@ -127,7 +127,7 @@ Avoid reputational risks from doing open source poorly by following the spirit o
 
 The best way to do all three of those is with a written open source policy that is proactively disseminated throughout the organization. It is not a technology problem, it is an internal communication problem. 
 
-When not to open source your software 
+## When not to open source your software 
 Inevitably, there are times when open source is not appropriate. Just as you shouldn’t avoid open source categorically, you shouldn’t assume that open source is always the right answer, either for using or contributing. 
 
 When it comes to using open source software, many organizations have a ‘default to open’ policy, in which they will always use open source unless there is a compelling reason not to. However, crucially they also take the time to put in place frameworks to help decide whether or not there is a compelling reason – and they evaluate projects case by case. 

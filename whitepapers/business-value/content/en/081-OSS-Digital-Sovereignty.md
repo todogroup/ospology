@@ -1,3 +1,8 @@
+---
+title: Open source and digital sovereignty
+weight: 81
+---
+
 # Open source and digital sovereignty
 
 The International Criminal Court decided to switch from relying on Microsoft Office for its internal work environment to OpenDesk in the wake of an episode in which Microsoft appeared to cancel the email account of the chief prosecutor, Karim Khan. Microsoft denies the claims, but given the repeated threats from President Donald Trump against Khan, the ICC felt uncomfortable continuing to rely on an American technology company (https://www.euractiv.com/news/international-criminal-court-to-ditch-microsoft-office-for-european-open-source-alternative/). 
