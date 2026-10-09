@@ -1,5 +1,7 @@
 # Usage Notice for Visual Assets
 
+[台灣正體中文](README.zh-tw.md)
+
 These figures are based on concepts from the original report: *Ibrahim Haddad, “The Lifecycle of an Open Source Program Office: From Inception to Strategic Pivoting”, Foreword by the TODO Group Steering Committee, May 2025*
 
 Visual Assets are licensed under the Creative Commons Attribution 4.0 International License (`CC BY 4.0`). You are free to use, share, and adapt these visuals under the following conditions:

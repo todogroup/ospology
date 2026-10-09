@@ -10,10 +10,14 @@ title = "Open Source in Business Guide"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-disableLanguages = ["en"]
 
 [languages]
   [languages.en]
     contentDir = "content/en"
     weight = 1
     languageName = "English"
+  [languages.zh-tw]
+    contentDir = "content/zh-tw"
+    weight = 2
+    languageName = "台灣正體中文"
+    languageCode = "zh-TW"
