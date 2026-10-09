@@ -59,29 +59,41 @@ label ="English"
 # Weight used for sorting.
 weight = 1
 
+[languages.zh-tw]
+title = "OSPO Book 手冊"
+description = "本手冊提供 Open Source Program Office（OSPO）團隊所需的知識，協助理解其在組織中的角色，並彙整由不同組織共同公開建立的資源，以有效管理 OSPO。"
+label = "繁體中文（台灣）"
+locale = "zh-TW"
+contentDir = "content/zh-tw"
+weight = 2
+
+[languages.zh-tw.params]
+time_format_default = "2006 年 1 月 2 日"
+time_format_blog = "2006 年 1 月 2 日"
+
 [languages.zh]
 title = "OSPO 手册"
 label ="中文(Chinese)"
 contentDir = "content/zh"
-weight = 2
+weight = 3
 
 [languages.es]
 title = "OSPO Book"
 label ="Español"
 contentDir = "content/es"
-weight = 3
+weight = 4
 
 [languages.pt-br]
 title = "OSPO Book"
 label ="Português (Brasil)"
 contentDir = "content/pt-br"
-weight = 4
+weight = 5
 
 [languages.ja]
 title = "OSPO ブック"
 label ="日本語"
 contentDir = "content/ja"
-weight = 5
+weight = 6
 
 [markup]
   [markup.goldmark]
