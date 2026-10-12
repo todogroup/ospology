@@ -12,7 +12,7 @@ This work will first focus on developing a first edition for open source manager
 
 We envision a future where business leaders across all industries, including non-software-native sectors such as hardware or manufacturing, treat open source as a strategic tool rather than a fringe engineering practice. Organisations will understand how to integrate open source into their core strategies, how to evaluate it alongside proprietary alternatives, and when it is or is not the right tool. The working group aims to increase the demand for open source initiatives as a business enabler.
 
-This vision applies across both the Community Edition and any future C-level Edition, while recognising that each edition may serve different audiences and levels of depth.
+This vision applies across both the edition for open source managers and leaders and any future C-level Edition, while recognising that each edition may serve different audiences and levels of depth.
 
 ## Scope and Objectives
 
@@ -23,9 +23,9 @@ The working group will first focus on producing a collaborative whitepaper from 
 - **Case studies and success stories:** Compile case studies, success stories, and blueprints showing how open source strategies drive innovation and financial value.
 - **Community outreach and partnerships:** Identify and engage partners beyond the open source community to co-publish or endorse the guide.
 
-The group may later support the creation of a **C-level Edition** derived from the Community Edition. This edition is expected to present selected concepts in a business-manager-friendly format for business leaders and executives. The exact structure and format of the C-level Edition will be determined separately once the Community Edition has reached a first stable version.
+The group may later support the creation of a **C-level Edition** derived from the open source managers and leaders edition. This edition is expected to present selected concepts in a business-manager-friendly format for business leaders and executives. The exact structure and format of the C-level Edition will be determined separately once the open source managers and leaders edition has reached a first stable version.
 
-### Clarification on the Community Edition and C-level Edition
+### Clarification on the open source managers and leaders edition and C-level Edition
 
 The Community Edition is the foundational deliverable of this working group and the main space for collaborative development, review, and knowledge sharing. The Enterprise Edition will build on the Community Edition as phase 2 of the workflow.
 
@@ -53,7 +53,7 @@ The working group must have chairs who set agendas, coordinate meetings, and fac
 
 ### Phase 2: C-level Edition
 
-1. Once the Community Edition is sufficiently mature, the working group begins a second phase focused on producing a C-level Edition.
+1. Once the open source managers and leaders edition is sufficiently mature, the working group begins a second phase focused on producing a C-level Edition.
 2. The C-level Edition will build on the Community Edition by adapting selected material for business managers and executives.
 3. Final content is converted into PDF. This task is assigned to LF staff for proofreading and design.
 
