@@ -6,13 +6,13 @@ The Open Source in Business Working Group (OSS-in-Business WG) exists to fill a 
 
 The mission of the working group is to create a community-built reference that describes when and how open source should be incorporated into corporate strategies and business models, and to outline best practices for building sustainable open source ecosystems for business leaders.
 
-This work will first focus on developing a Community Edition, which serves as the primary collaborative knowledge base produced by the working group. A future Enterprise Edition may be developed later as a derivative resource based on the Community Edition.
+This work will first focus on developing a Community Edition, which serves as the primary collaborative knowledge base produced by the working group. A future C-level Edition may be developed later as a derivative resource based on the Community Edition.
 
 ## Vision
 
 We envision a future where business leaders across all industries, including non-software-native sectors such as hardware or manufacturing, treat open source as a strategic tool rather than a fringe engineering practice. Organisations will understand how to integrate open source into their core strategies, how to evaluate it alongside proprietary alternatives, and when it is or is not the right tool. The working group aims to increase the demand for open source initiatives as a business enabler.
 
-This vision applies across both the Community Edition and any future Enterprise Edition, while recognising that each edition may serve different audiences and levels of depth.
+This vision applies across both the Community Edition and any future C-level Edition, while recognising that each edition may serve different audiences and levels of depth.
 
 ## Scope and Objectives
 
@@ -23,9 +23,9 @@ The working group will first focus on producing a collaborative whitepaper from 
 - **Case studies and success stories:** Compile case studies, success stories, and blueprints showing how open source strategies drive innovation and financial value.
 - **Community outreach and partnerships:** Identify and engage partners beyond the open source community to co-publish or endorse the guide.
 
-The group may later support the creation of an **Enterprise Edition** derived from the Community Edition. This edition is expected to present selected concepts in a business-manager-friendly format for business leaders and executives. The exact structure and format of the Enterprise Edition will be determined separately once the Community Edition has reached a first stable version.
+The group may later support the creation of a **C-level Edition** derived from the Community Edition. This edition is expected to present selected concepts in a business-manager-friendly format for business leaders and executives. The exact structure and format of the C-level Edition will be determined separately once the Community Edition has reached a first stable version.
 
-### Clarification on the Community Edition and Enterprise Edition
+### Clarification on the Community Edition and C-level Edition
 
 The Community Edition is the foundational deliverable of this working group and the main space for collaborative development, review, and knowledge sharing. The Enterprise Edition will build on the Community Edition as phase 2 of the workflow.
 
@@ -51,17 +51,17 @@ The working group must have chairs who set agendas, coordinate meetings, and fac
 4. When the Community Edition reaches sufficient maturity, the guide is published on the TODO website.
 5. Content from the TODO website is converted into PDF. This task is assigned to LF staff for proofreading and design.
 
-### Phase 2: Enterprise Edition
+### Phase 2: C-level Edition
 
-1. Once the Community Edition is sufficiently mature, the working group begins a second phase focused on producing an Enterprise Edition.
-2. The Enterprise Edition will build on the Community Edition by adapting selected material for business managers and executives.
+1. Once the Community Edition is sufficiently mature, the working group begins a second phase focused on producing a C-level Edition.
+2. The C-level Edition will build on the Community Edition by adapting selected material for business managers and executives.
 3. Final content is converted into PDF. This task is assigned to LF staff for proofreading and design.
 
 ## Meetings and Communication
 
 ### Bi-weekly meetings
 
-The working group meets every two weeks on Fridays. A calendar entry listing upcoming meetings is maintained on the TODO Group website, and chairs send reminders via Slack and email.
+The [working group meets](https://zoom-lfx.platform.linuxfoundation.org/meeting/91842061361?password=7543327e-f121-45bf-980f-50fb55e03cdb) every two weeks on Monday at 4 pm CEST. A calendar entry listing upcoming meetings is maintained on the TODO Group website, and chairs send reminders via Slack and email.
 
 ### Agenda management
 
