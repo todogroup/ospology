@@ -1,1 +1,1 @@
-Font files copied from the TODO Group website theme (cncf/dot-org-hugo-theme, revision 57c1fc627edcc358d083274593919074623e38ec). Nunito and Oswald are distributed under the SIL Open Font License; see the accompanying license files.
+Font files from the TODO Group website theme: https://todogroup.org/resources/guidebook/
