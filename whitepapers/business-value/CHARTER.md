@@ -6,7 +6,7 @@ The Open Source in Business Working Group (OSS-in-Business WG) exists to fill a 
 
 The mission of the working group is to create a community-built reference that describes when and how open source should be incorporated into corporate strategies and business models, and to outline best practices for building sustainable open source ecosystems for business leaders.
 
-This work will first focus on developing a Community Edition, which serves as the primary collaborative knowledge base produced by the working group. A future C-level Edition may be developed later as a derivative resource based on the Community Edition.
+This work will first focus on developing a first edition for open source managers and leaders, which serves as the primary collaborative knowledge base produced by the working group. A future C-level Edition may be developed later as a derivative resource based on the Community Edition.
 
 ## Vision
 
