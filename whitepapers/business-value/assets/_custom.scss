@@ -79,6 +79,13 @@ body {
   color: var(--todo-green);
   overflow: visible;
 }
+// The theme shows the homepage title in its mobile header on all screens.
+// Keep that title, but show navigation toggles only at the mobile breakpoint.
+@media screen and (min-width: $mobile-breakpoint + 0.01rem) {
+  .book-kind-home .book-header label[for="menu-control"],
+  .book-kind-home .book-header label[for="toc-control"] { display: none; }
+  .book-kind-home .book-header h3 { margin-inline: 0; }
+}
 .markdown a { font-weight: 700; text-decoration: underline; text-underline-offset: .15em; }
 .markdown a:hover { color: var(--todo-teal-dark); }
 .markdown blockquote { border-inline-start-color: var(--todo-green); }
