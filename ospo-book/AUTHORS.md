@@ -57,6 +57,10 @@ This list is updated every time a new release is published, but you can open a P
 - LiJiansheng
 - Ian (Liqiu) ZHANG
 
+### Chinese (Traditional, Taiwan)
+
+- PeterDaveHello
+
 ### Japanese
 
 - Shinzan Takata
