@@ -7,6 +7,17 @@
 
 ✨ **`OSPOlogy` is a platform for the study and open community about the state of open source management within organizations.**  OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our collective resources, including frameworks and resources on open source management best practices, are freely available for any organization to use, providing proper attribution to the repository and brand.
 
+## 🚀 Getting Started
+
+If you are new to OSPOlogy, here are a few ways to begin:
+
+- Explore the **OSPO Book** to understand open source program offices (OSPOs)
+- Review the **OSS in Business Guide** for real-world use cases
+- Check out the **OSPO MindMap** to visualize roles and responsibilities
+- Join discussions through the community forum
+
+This will help you quickly understand how to navigate and use the resources in this repository.
+
 - 🕵️‍♀️ [Resources](#resources)
 - 🦺 [Programs Framework](#programs-framework)  
 - 👋 [Forum](#forum)
