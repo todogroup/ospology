@@ -56,3 +56,11 @@ What about taking software that you've developed internally, and publishing that
 This is the type of relationship with the open source community that most business leaders find hard to understand. Instead of taking something for free, your company is spending money in the form of engineering resources and then providing the result to others for free. Even your competitors can use the end result! Why would anyone do this?
 
 Not all software you develop internally is a good fit for being published as an open source project, but some of it is. If a project doesn't directly give your company a competitive advantage, it might be a good fit for publishing as an open source project.
+
+## Engineering Driven vs. Business Driven Open Source
+
+*(Existing placeholder from main - to be developed)*
+
+- Definitions
+- Implementation strategies for business-driven
+- Connecting the two perspectives for a holistic approach
