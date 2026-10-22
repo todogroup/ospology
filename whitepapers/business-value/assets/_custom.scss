@@ -1,0 +1,100 @@
+// Brand tokens and font assets from todogroup/todogroup.org.
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/nunito-v25-latin-regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/nunito-v25-latin-700.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/nunito-v25-latin-italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/nunito-v25-latin-700italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/oswald-v49-latin-700.woff2") format("woff2");
+}
+
+:root {
+  --todo-green: #5aa100;
+  --todo-teal: #03856f;
+  --todo-teal-dark: #016554;
+  --todo-teal-deep: #003c32;
+  --color-link: var(--todo-teal);
+  --color-visited-link: var(--todo-teal-dark);
+  --gray-200: #eaecf0;
+}
+
+body {
+  font-family: "Nunito", "Segoe UI", Helvetica, Arial, sans-serif;
+  border-top: 5px solid var(--todo-green);
+}
+.todo-brand { padding-bottom: 1rem; border-bottom: 1px solid var(--gray-200); margin-bottom: 1.25rem; }
+.todo-brand > a { display: inline-block; margin-bottom: 1rem; }
+.todo-brand > a img { display: block; width: 180px; max-width: 100%; height: auto; }
+.book-brand { font-size: 1.25rem; line-height: 1.35; font-weight: 700; margin-bottom: 0; }
+.book-brand a { color: var(--todo-teal-deep); }
+.book-menu-content { border-inline-end: 1px solid var(--gray-200); }
+.book-menu a.active { color: var(--todo-teal-dark); font-weight: 700; border-inline-start: 3px solid var(--todo-green); padding-inline-start: .6rem; }
+.book-menu a:hover, .book-toc a:hover { opacity: 1; color: var(--todo-teal-dark); text-decoration: underline; }
+.book-search input { font: inherit; border: 1px solid var(--gray-200); border-radius: 4px; padding: .7rem; }
+.markdown { line-height: 1.7; }
+.markdown h1, .markdown h2 {
+  font-family: "Oswald", Impact, "Arial Narrow", sans-serif;
+  font-weight: 700;
+  color: var(--todo-green);
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.markdown h1 { font-size: clamp(2rem, 4vw, 3rem); }
+.markdown h2 { font-size: clamp(1.75rem, 3vw, 2.25rem); }
+.markdown h3, .markdown h4, .markdown h5, .markdown h6 { font-weight: 700; line-height: 1.4; }
+.markdown h3 { font-size: 1.5rem; }
+.book-kind-home .book-header h3 {
+  font-family: "Oswald", Impact, "Arial Narrow", sans-serif;
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--todo-green);
+  overflow: visible;
+}
+// The theme shows the homepage title in its mobile header on all screens.
+// Keep that title, but show navigation toggles only at the mobile breakpoint.
+@media screen and (min-width: $mobile-breakpoint + 0.01rem) {
+  .book-kind-home .book-header label[for="menu-control"],
+  .book-kind-home .book-header label[for="toc-control"] { display: none; }
+  .book-kind-home .book-header h3 { margin-inline: 0; }
+}
+.markdown a { font-weight: 700; text-decoration: underline; text-underline-offset: .15em; }
+.markdown a:hover { color: var(--todo-teal-dark); }
+.markdown blockquote { border-inline-start-color: var(--todo-green); }
+.book-footer { margin-top: 2rem; border-top: 1px solid var(--gray-200); }
+a:focus-visible, input:focus-visible, button:focus-visible, label:focus-visible {
+  outline: 3px solid var(--todo-teal);
+  outline-offset: 3px;
+}
+@media print {
+  body { border-top: 0; }
+  .markdown h1, .markdown h2, .book-kind-home .book-header h3 { color: #000; }
+}
