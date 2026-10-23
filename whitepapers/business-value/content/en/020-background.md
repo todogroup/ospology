@@ -1,6 +1,6 @@
 ---
 title: Background
-weight: 10
+weight: 20
 ---
 # Background
 
@@ -29,8 +29,6 @@ The fact that using open source software makes engineering teams more productive
 Business leaders, on the other hand, often don’t think about open source because it is so far from their universe. When they do think about open source, it’s often in the context of risk management – ensuring that their organization’s open source usage isn’t leaving them vulnerable to security or compliance problems. 
 
 But a real engagement with open source, one that goes beyond downloading and using it anonymously, can help organizations build a competitive advantage compared to competitors. It requires convincing engineering and business leaders that open source just isn’t something to be consumed, but rather an ecosystem to engage in and an opportunity to build reputation, partnerships and even new revenue streams. This guide is about how to make that happen. 
-
-Introduction
 
 ## What is open source? 
 

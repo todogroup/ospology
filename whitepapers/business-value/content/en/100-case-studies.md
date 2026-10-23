@@ -1,6 +1,6 @@
 ---
 title: Case studies and success stories
-weight: 90
+weight: 100
 ---
 # Case studies and success stories
 

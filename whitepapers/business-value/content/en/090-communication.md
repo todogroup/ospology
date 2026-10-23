@@ -1,6 +1,6 @@
 ---
 title: Communicating open source's value with business stakeholders
-weight: 80
+weight: 90
 ---
 # Communicating open source's value with business stakeholders
 

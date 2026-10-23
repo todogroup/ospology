@@ -1,6 +1,6 @@
 ---
 title: Open source and digital sovereignty
-weight: 81
+weight: 80
 ---
 
 # Open source and digital sovereignty
