@@ -9,7 +9,7 @@ When organizations evaluate software, purchasing decisions are often influenced 
 
 Choosing open source does not necessarily mean that an organization must manage everything internally or rely entirely on community support. Businesses can purchase professional services, managed solutions, and commercial support while continuing to benefit from open source software.
 
-The important question is not whether a solution is free or paid, but whether it meets the organization's requirements and provides sustainable value over time.
+The important question is whether the solution meets the organization's requirements and provides sustainable value over time. Open source and proprietary solutions should be assessed for their respective strengths, cost structures, and risks.
 
 The value of open source in purchasing is not limited to the absence of a license fee. An open source license grants the purchaser specific rights: to use the software for any purpose, to study how it works, to modify it within the terms of the license, and to redistribute it. These rights can change the purchasing calculation. An organization may adapt the software to its own requirements, contribute improvements upstream to influence the project's direction, and, where a healthy ecosystem exists, choose among multiple providers and support arrangements. Exercising these options requires capability and engagement. Not every project has healthy governance, multiple providers, or an active contributor community, so purchasing decisions should assess the specific ecosystem around the project rather than assume these benefits.
 
@@ -46,9 +46,14 @@ Before purchasing these services, organizations should clarify:
 - Are response times and service availability defined in a service-level agreement (SLA)?
 - How are security vulnerabilities and critical updates handled?
 - Can the organization move to another provider if requirements change?
-- Does the provider have experience with the specific upstream project?
+- Does the provider actively work with the specific upstream project?
+- Can the provider demonstrate relevant upstream contributions, code reviews, issue discussions, or security fixes?
+- Are the people maintaining the software employed by the provider, the upstream project, or another organization?
+- Does the provider explain how it reports defects and submits fixes upstream?
 
 A clear understanding of these responsibilities helps avoid unexpected operational costs and dependencies.
+
+Certifications, partner relationships, and service-level agreements can help assess a provider, but they do not show the full picture of its relationship with the software. Open source projects offer publicly visible evidence that purchasers can examine, such as contribution history, issue and pull-request activity, code reviews, security work, and release participation. This evidence can help distinguish a provider that actively helps maintain the upstream project from one that only packages or resells the software. It should complement, not replace, an assessment of service quality and contractual commitments.
 
 ## Purchasing Decisions and Open Source Sustainability
 
@@ -62,7 +67,8 @@ However, this relationship should not be assumed. A company selling a service ba
 
 Organizations interested in supporting sustainability can look for evidence such as:
 
-- Contributions to upstream repositories.
+- Contributions to upstream repositories, including accepted fixes, feature work, documentation, and code reviews.
+- Participation in issue discussions, security response, release preparation, and other maintenance activities.
 - Employment or financial support for project maintainers.
 - Participation in project governance and community activities.
 - Public commitments to security and long-term maintenance.
@@ -96,13 +102,13 @@ For open source software, procurement teams should also understand how responsib
 
 A solution with no initial licensing fee may still require considerable investment in internal expertise and infrastructure. On the other hand, a commercial offering may have recurring fees but reduce the operational responsibilities of the organization.
 
-Open source development can distribute development and maintenance costs across multiple consumers and contributors, since different organizations may fund staff, contribute code and documentation, or pay for support without each bearing the full cost alone. This is an important economic characteristic of open source, but it does not mean the software has zero cost. Shared costs can also create a collective-action problem: if no participant funds upstream maintenance, the shared asset may degrade over time. Organizations may choose to invest in internal expertise or upstream development as an alternative to paying recurring proprietary licensing fees, but this is a strategic trade-off rather than a guaranteed saving. Open source is not always cheaper, and TCO comparisons should apply the same assumptions and evaluation period to all options under consideration.
+Open source development can distribute development and maintenance costs across multiple consumers and contributors, since different organizations may fund staff, contribute code and documentation, or pay for support without each bearing the full cost alone. This collaborative economic model is sometimes described as "coopetition" (cooperative competition) or "gaining by sharing", where organizations compete in the market but collaborate on shared foundational technology. This is an important economic characteristic of open source, but it does not mean the software has zero cost. Shared costs can also create a collective-action problem: if no participant funds upstream maintenance, the shared asset may degrade over time. Organizations may choose to invest in internal expertise or upstream development as an alternative to paying recurring proprietary licensing fees, but this is a strategic trade-off rather than a guaranteed saving. Open source is not always cheaper, and TCO comparisons should apply the same assumptions and evaluation period to all options under consideration.
 
 ### Example: Choosing a Database
 
-Consider an organization deciding how to operate a database. It could evaluate three approaches.
+Consider an organization deciding how to operate a database. It could evaluate several approaches.
 
-The options below differ along two independent dimensions. The **licensing model** describes whether the software is open source or proprietary. The **deployment model** describes whether the organization operates the software itself or relies on a vendor-managed service. These dimensions are independent: a proprietary database can also be self-managed or offered as a managed service, and an open source database can be self-managed or provided as a managed service by a third party. The three options below illustrate common combinations, not mutually exclusive licensing categories.
+The options below differ along two independent dimensions. The **licensing model** describes whether the software is open source or proprietary. The **deployment model** describes whether the organization operates the software itself or relies on a vendor-managed service. These dimensions are independent: a proprietary database can also be self-managed or offered as a managed service, and an open source database can be self-managed or provided as a managed service by a third party. Options A–C illustrate common licensing and deployment combinations. Option D describes a support or staffing arrangement that may complement one of the open source options.
 
 **Option A: Self-managed open source database**
 
@@ -157,15 +163,37 @@ Costs and responsibilities:
 - Potential difficulty migrating data or applications to another platform.
 - Reliance on the vendor to continue maintaining the features and services on which the organization depends.
 
+**Option D: Employ or contract an upstream maintainer**
+
+The organization hires or contracts a maintainer, or a consultancy that includes upstream maintainers, to support and develop the open source database. This option may complement Option A or Option B rather than replacing them.
+
+Potential advantages:
+
+- Greater insight into, and potential influence over, the project's roadmap and technical direction.
+- Access to deep expertise and potentially faster issue resolution.
+- Contributions can benefit the upstream project and the wider user community.
+
+Costs and responsibilities:
+
+- Salary, benefits, or contracting fees, which may be significant for specialized expertise.
+- Management overhead of employing technical staff or managing a contract.
+- The responsibility to ensure the maintainer has the resources and time to balance upstream community work with the organization's specific needs.
+
+Risks:
+
+- If a single organization employs most of the core maintainers of a project, it can concentrate control and create a perception (or reality) of vendor lock-in, even if the software is open source. This dynamic can discourage contributions from other organizations and centralize decision-making. Organizations should evaluate whether the project has a diverse maintainer base or if this arrangement introduces single points of failure.
+
 No option is automatically the least expensive or most suitable. Performance and integration advantages depend on the specific product and workload and should be validated rather than assumed.
 
-The organization should compare all three approaches over the same period, taking into account expected usage, staffing requirements, service commitments, licensing, infrastructure, and future migration costs.
+The organization should compare these approaches over the same period, taking into account expected usage, staffing requirements, service commitments, licensing, infrastructure, and future migration costs.
 
 ## Understanding Vendor Lock-in
 
 Open source licensing can give organizations more freedom to use, modify, and redistribute software, but it does not automatically remove every form of vendor dependency.
 
-Dependency is not inherently undesirable. Organizations depend on software providers, maintainers, infrastructure, and operational expertise in both open source and proprietary environments, and some degree of dependency is unavoidable. The relevant question is whether the organization can manage these dependencies and retain meaningful control over where and how its software is operated, including the ability to change providers, operate the software independently, or migrate data on reasonable terms. Open governance and an ecosystem with multiple service providers can offer choice and competition, but an open source license does not by itself guarantee those conditions.
+Dependency is not inherently undesirable. Organizations depend on software providers, maintainers, infrastructure, and operational expertise in both open source and proprietary environments, and some degree of dependency is unavoidable. The criticality of the dependency matters: a replaceable utility library presents a different risk profile than a core database expected to operate for decades.
+
+The relevant question is whether the organization can manage these dependencies and retain meaningful control over where and how its software is operated, including the ability to change providers, operate the software independently, or migrate data on reasonable terms. Open governance and an ecosystem with multiple service providers can offer choice and competition, but an open source license does not by itself guarantee those conditions.
 
 A managed service may rely on proprietary management tools, provider-specific APIs, or data formats that make migration difficult. Custom integrations and operational processes can also create dependencies, even when the underlying software is open source.
 
@@ -179,17 +207,33 @@ Before choosing a provider, organizations should consider:
 
 These questions help organizations understand the difference between having access to source code and having a practical ability to change providers.
 
+Exit planning may include the possibility of forking the software. While forking a complex project is a significant undertaking, having a credible exit option—such as the internal capability to operate and maintain a fork, or contractual terms that preserve access to source code, data, and configuration needed to continue independently—can actually reduce the likelihood of needing to fork. Credible exit options encourage providers and upstream projects to resolve problems collaboratively, as they know the organization has viable alternatives.
+
 ## Governance and Project Structure
 
-Licensing and governance are separate considerations. An open source license does not by itself determine how a project is governed or how decisions about its direction are made. Purchasers should examine the governance arrangement separately from the license.
+Licensing and governance are separate considerations. An open source license does not by itself determine how a project is governed, who controls its development, or how downstream users can influence its direction. The project's business model can shape its governance, and governance in turn affects the relationship between the project and the organizations that depend on it.
+
+Purchasers should investigate questions such as:
+
+- What business model, if any, supports the project's development and maintenance, and does it appear sustainable over the organization's expected period of use?
+- Who has commit rights and decision-making authority?
+- Are maintainers and committers primarily employed by one vendor, or can people from different organizations participate?
+- Is the roadmap developed publicly, and can downstream users influence priorities?
+- Are design decisions supported by a documented standards or technical decision-making process?
+- Can users participate in technical discussions, working groups, or governance bodies?
+- Who owns the project's trademarks, and what does that indicate about control of the project's name and identity?
+
+A project's trademark ownership can provide a useful clue about who controls its identity and how the project is organized. Missing or unclear information about trademark ownership may also be worth investigating. These signals should be considered alongside the project's documented governance and actual decision-making practices.
 
 Common arrangements include:
 
-- **Single-vendor-controlled projects.** One company employs most of the maintainers, controls the roadmap, and may offer commercial editions or hosted services. The license may still be open source, but decision-making is concentrated. Purchasers should understand the company's incentives and how much influence other contributors have.
+- **Single-vendor-controlled projects.** One company employs most of the maintainers, controls the roadmap, and may offer commercial editions or hosted services. The license may still be open source, but decision-making can be concentrated. Purchasers should understand the company's incentives and how much influence other contributors have.
 - **Foundation-governed projects.** Some foundations provide governance structures intended to support neutrality and allow multiple organizations to participate in decision-making. The degree of neutrality and the influence of member companies vary between foundations, and membership alone does not guarantee independence.
 - **Other arrangements.** Some projects use a technical steering committee, a community-elected leadership model, or informal governance with concentrated funding.
 
-An open source license does not automatically guarantee neutral governance, a vendor-independent business model, or multiple competing providers. Some companies operate commercial businesses around open source software while retaining significant control over project direction. This is not inherently a problem, but purchasers should understand the arrangement and its risks. They should examine who makes decisions, how contributors can influence the project, and whether control is concentrated in a single organization rather than relying on the license alone.
+Governance is not simply a question of whether a project is controlled by a company or a foundation. The practical level of openness, participation, and influence matters. The InnerSource Commons Governance Levels pattern provides one useful way to think about different degrees of project governance and participation. The Mozilla report on open source software archetypes also discusses how different business and organizational models can affect project sustainability.
+
+An open source license does not automatically guarantee neutral governance, a vendor-independent business model, or multiple competing providers. Some companies operate commercial businesses around open source software while retaining significant control over project direction. This is not inherently a problem, but purchasers should understand the arrangement, the project's decision-making process, and the risks of concentrated control.
 
 ## Understanding CAPEX and OPEX
 
@@ -254,6 +298,10 @@ These considerations help procurement teams assess both immediate business requi
 - [Public Procurement of Open Source Software — European Commission, Open Source Observatory](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/public-procurement-open-source-software)
 - [OSI Approved Licenses — Open Source Initiative](https://opensource.org/licenses)
 - [FinOps Framework — FinOps Foundation](https://www.finops.org/framework/)
+- [InnerSource Commons Governance Levels pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/governance-levels.md)
+- [Mozilla open source software archetypes report](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)
+- [Coopetition — Wikipedia](https://en.wikipedia.org/wiki/Coopetition)
+- [Forking and exit strategies (video discussion)](https://www.youtube.com/watch?v=1I3_ruFIteI)
 
 ## Conclusion
 
