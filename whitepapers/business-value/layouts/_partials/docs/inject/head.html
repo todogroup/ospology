@@ -1,0 +1,27 @@
+<style>
+  .todo-stats-row { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.25rem 0; align-items: stretch; }
+  .todo-stat { flex: 1 1 220px; min-width: 220px; max-width: 320px; padding: 1.25rem 1.5rem; border-radius: 14px; text-align: center; box-sizing: border-box; border: 2px solid; }
+  .todo-stat-green { border-color: #5aa100; background: #f6faf0; }
+  .todo-stat-green .todo-stat-value { color: #5aa100; }
+  .todo-stat-teal { border-color: #03856f; background: #ecf6f3; }
+  .todo-stat-teal .todo-stat-value { color: #03856f; }
+  .todo-stat-value { font-family: "Oswald", Impact, "Arial Narrow", sans-serif; font-weight: 700; font-size: 2.75rem; line-height: 1; letter-spacing: -0.01em; }
+  .todo-stat-label { margin-top: 0.5rem; font-family: "Nunito", "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 0.95rem; color: #003c32; }
+  @media (max-width: 600px) { .todo-stat { max-width: none; } }
+
+  .todo-timeline { list-style: none; padding: 0; margin: 1.5rem 0 2rem; display: flex; justify-content: space-between; align-items: flex-start; position: relative; counter-reset: milestone; gap: 1rem; }
+  .todo-timeline::before { content: ""; position: absolute; left: 1rem; right: 1rem; top: 1.4rem; height: 3px; background: #5aa100; border-radius: 2px; z-index: 0; }
+  .todo-milestone { flex: 1 1 0; text-align: center; position: relative; padding-top: 2.6rem; z-index: 1; min-width: 0; }
+  .todo-milestone::before { content: ""; position: absolute; top: 0.65rem; left: 50%; transform: translateX(-50%); width: 1.5rem; height: 1.5rem; background: #ffffff; border: 3px solid #5aa100; border-radius: 50%; box-sizing: border-box; }
+  .todo-milestone-year { font-family: "Oswald", Impact, "Arial Narrow", sans-serif; font-weight: 700; font-size: 1.4rem; color: #5aa100; letter-spacing: 0.01em; line-height: 1.1; }
+  .todo-milestone-event { margin-top: 0.4rem; font-family: "Nunito", "Segoe UI", Helvetica, Arial, sans-serif; font-weight: 600; font-size: 0.9rem; color: #003c32; line-height: 1.35; padding: 0 0.25rem; }
+  @media (max-width: 600px) {
+    .todo-timeline { flex-direction: column; gap: 0.75rem; }
+    .todo-timeline::before { left: 1rem; right: auto; top: 1rem; bottom: 1rem; width: 3px; height: auto; }
+    .todo-milestone { text-align: left; padding: 0 0 0 2.5rem; min-height: 2rem; }
+    .todo-milestone::before { top: 0.2rem; left: 0.25rem; transform: none; }
+  }
+
+  .todo-cycle-figure { margin: 1.5rem auto; max-width: 500px; }
+  .todo-cycle { width: 100%; height: auto; display: block; }
+</style>

@@ -82,6 +82,22 @@ An example are commercial entities trying to outsource their requirements to vol
 
 In this section we look at concrete business models which use open source in some way to drive the business. We will use the drivers defined in the section above to explain how this is achieved.
 
+```mermaid
+mindmap
+  root((Open source business models))
+    Services
+      Support and maintenance
+      Professional services
+    Products
+      Packaging
+      Hosting and SaaS
+      Open core
+      Dual licensing
+    Strategic
+      Development shortcut
+      Market standardization
+```
+
 ### Support and maintenance
 
 Selling commercial support and maintenance for open source projects. This includes guarantees for security updates and other services, like a support hotline, required for business to operate open source within an environment with service levels and similar requirements.

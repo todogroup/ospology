@@ -119,6 +119,27 @@ In fact, communities do not make sense for all projects. So while community buil
 
 In an open source project, there are a variety of levels of engagement in the community (as with in any community).
 
+```mermaid
+mindmap
+  root((Community engagement))
+    Anonymous user
+      Downloads only
+      No account or presence
+    Named user
+      Asks questions
+      Reports bugs
+    Contributor
+      Pull requests
+      Answers questions
+      Writes docs
+    Maintainer
+      Reviews code
+      Shapes the roadmap
+    Project leader
+      Governance
+      Public face of the project
+```
+
 ### Users
 
 In any open source community, the vast majority of people are simply anonymous users. One of the challenges for the maintainers of open source projects is that there is so little information about these people – other than statistics about downloads, it’s often hard to know what’s going on. 

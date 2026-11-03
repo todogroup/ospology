@@ -5,7 +5,26 @@ weight: 40
 
 # Business Benefits 
 
-There has been plenty of research about the economic benefit that organizations get from being passive users of open source – engineering teams are able to move faster and be more productive because they don’t have to write their own libraries or their own programming languages. However, when organizations start engaging more actively in open source projects and communities, they can get much more business benefits than a faster engineering team. This section is about the business benefits organizations can get that go above and beyond engineering speed; generally speaking, organizations will only get the following benefits if they actively engage with open source by contributing to projects and publishing their own open source projects. 
+There has been plenty of research about the economic benefit that organizations get from being passive users of open source – engineering teams are able to move faster and be more productive because they don’t have to write their own libraries or their own programming languages. However, when organizations start engaging more actively in open source projects and communities, they can get much more business benefits than a faster engineering team. This section is about the business benefits organizations can get that go above and beyond engineering speed; generally speaking, organizations will only get the following benefits if they actively engage with open source by contributing to projects and publishing their own open source projects.
+
+```mermaid
+mindmap
+  root((Business benefits of open source))
+    Engineering
+      Innovation
+      Engineering quality
+      Engineering velocity
+    People
+      Recruitment
+      Retention
+    Brand
+      Visibility
+      Reputation
+      Trust
+    Growth
+      Relationships with others
+      New opportunities
+``` 
 
 
 ### Innovation
@@ -102,7 +121,9 @@ But ultimately getting involved in open source can lead to additional business o
 
 While there are many potential benefits from getting involved in open source, they will not necessarily happen just because you've published a project on GitHub or because you've submitted a pull request to a project you depend on. An even more insidious problem is when an organization does in fact get benefits from its involvement in open source, but no one is really aware of what those benefits are or how much they are worth to the company. When that happens, it puts the organization's involvement in open source at risk, because business leaders are likely to cut it when budgets get tight. Then the business suffers, and no one really understands why. 
 
-That's why it's important to be intentional about the organization's involvement in open source, and to communicate how the organization works with open source and what it expects to get out of that involvement. Organizations get the most out of open source when both engineering and business leaders understand why open source is important, and those strategic goals from open source are translated into concrete policies to guide individual employees' interactions with open source, from the policy on using open source anonymously to how and when to contribute to projects and/or publish and maintain your own open source project. 
+That's why it's important to be intentional about the organization's involvement in open source, and to communicate how the organization works with open source and what it expects to get out of that involvement. Organizations get the most out of open source when both engineering and business leaders understand why open source is important, and those strategic goals from open source are translated into concrete policies to guide individual employees' interactions with open source, from the policy on using open source anonymously to how and when to contribute to projects and/or publish and maintain your own open source project.
+
+{{< cycle s1="1. Audit" s2="2. Evaluate" s3="3. Set 3 goals" s4="4. Write a policy" s5="5. Measure" >}} 
 
 ### Audit your current open source involvement
 
@@ -159,6 +180,21 @@ No one gets fired for not contributing to open source; if you want to get the be
 ### Measure your success (or lack thereof) 
 
 The CHAOSS Business Value and Risk Matrix provides a portfolio-level framework for translating open source health and business metrics into decisions. It evaluates projects based on business value and risk, identifying four categories: Strategic Investment (high value/low risk), Strategic Risk Mitigation (high value/high risk), Monitor (low value/low risk), and Reduce or Replace (low value/high risk). CHAOSS community metrics, security and compliance information, and business metrics can provide the evidence for these assessments, helping organizations determine where to invest, mitigate risk, or reduce dependency. This extends existing guidance to identify strategically important projects and supports evidence-based open source portfolio management.
+
+```mermaid
+quadrantChart
+    title Project portfolio by value and risk
+    x-axis Low risk --> High risk
+    y-axis Low value --> High value
+    quadrant-1 Strategic risk mitigation
+    quadrant-2 Strategic investment
+    quadrant-3 Monitor
+    quadrant-4 Reduce or replace
+    Core framework: [0.2, 0.85]
+    Critical dependency: [0.75, 0.8]
+    Niche library: [0.2, 0.3]
+    Legacy fork: [0.8, 0.25]
+```
 
 If you can’t measure success, you won’t know if you’ve achieved it. If you can’t measure success, you also won’t know if you’re not succeeding, and that your strategy needs to change. 
 

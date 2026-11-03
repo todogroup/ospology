@@ -132,7 +132,18 @@ Inevitably, there are times when open source is not appropriate. Just as you sho
 
 When it comes to using open source software, many organizations have a ‘default to open’ policy, in which they will always use open source unless there is a compelling reason not to. However, crucially they also take the time to put in place frameworks to help decide whether or not there is a compelling reason – and they evaluate projects case by case. 
 
-When it comes to publishing your own internal software projects as open source projects, here are a couple situations when internal projects should remain internal projects. 
+When it comes to publishing your own internal software projects as open source projects, here are a couple situations when internal projects should remain internal projects.
+
+```mermaid
+flowchart LR
+    S([Project]) --> Q1{"Core<br/>advantage?"}
+    Q1 -- No --> Q2{"Invest in<br/>community?"}
+    Q2 -- Yes --> Q3{"Show up well<br/>in public?"}
+    Q3 -- Yes --> R(["Release as OSS"])
+    Q1 -- Yes --> K1(["Keep closed"])
+    Q2 -- No --> K2(["Keep closed"])
+    Q3 -- No --> K3(["Keep closed"])
+``` 
 
 ### It is your secret sauce
 
