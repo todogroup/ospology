@@ -1,0 +1,32 @@
+{{ if .Page.Store.Get "hasMermaid" }}
+<style>
+  pre.mermaid { background: transparent; padding: 1rem 0; text-align: center; }
+  pre.mermaid svg { max-width: 100%; height: auto; }
+</style>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      fontFamily: '"Nunito", "Segoe UI", Helvetica, Arial, sans-serif',
+      fontSize: '15px',
+      primaryColor: '#f6faf0',
+      primaryTextColor: '#003c32',
+      primaryBorderColor: '#5aa100',
+      lineColor: '#5aa100',
+      secondaryColor: '#eaecf0',
+      tertiaryColor: '#ffffff',
+      edgeLabelBackground: '#ffffff'
+    },
+    themeCSS: '.node rect, .node polygon, .node circle, .node ellipse, .node path { stroke-width: 2px; } .node rect { rx: 10; ry: 10; } .edgePaths path { stroke-width: 1.75px; } .edgeLabel { background-color: #ffffff; color: #003c32; }',
+    flowchart: {
+      htmlLabels: true,
+      padding: 16,
+      nodeSpacing: 55,
+      rankSpacing: 65,
+      curve: 'basis'
+    }
+  });
+</script>
+{{ end }}

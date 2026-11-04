@@ -1,0 +1,7 @@
+{{- $value := .Get "value" | default "" -}}
+{{- $label := .Get "label" | default "" -}}
+{{- $variant := .Get "variant" | default "green" -}}
+<div class="todo-stat todo-stat-{{ $variant }}">
+  <div class="todo-stat-value">{{ $value }}</div>
+  {{- with $label }}<div class="todo-stat-label">{{ . }}</div>{{ end }}
+</div>
