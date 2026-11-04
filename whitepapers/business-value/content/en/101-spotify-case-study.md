@@ -11,7 +11,7 @@ A successful open source project can position a company as a thought leader, hel
 
 {{< timeline >}}
 {{< milestone year="2013 to 2019" event="Built and used only inside Spotify" >}}
-{{< milestone year="2020" event="Rewritten in TypeScript and open-sourced to the CNCF" >}}
+{{< milestone year="2020" event="Rewritten in TypeScript, open-sourced and donated to the CNCF" >}}
 {{< milestone year="Today" event="Spotify Portal, paid plugins and enterprise support" >}}
 {{< /timeline >}} 
 
