@@ -185,7 +185,7 @@ Risks:
 
 No option is automatically the least expensive or most suitable. Performance and integration advantages depend on the specific product and workload and should be validated rather than assumed.
 
-The organization should compare these approaches over the same period, taking into account expected usage, staffing requirements, service commitments, licensing, infrastructure, and future migration costs.
+The organization should compare these approaches over the same period, taking into account expected usage, staffing requirements, service commitments, licensing, infrastructure, and future migration costs. For concrete organizational scenarios and a broader discussion of the business drivers involved, see [Business benefits of open source software]({{< relref "040-benefits" >}}) and [Case studies and success stories]({{< relref "100-case-studies" >}}).
 
 ## Understanding Vendor Lock-in
 
