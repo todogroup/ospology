@@ -123,7 +123,7 @@ While there are many potential benefits from getting involved in open source, th
 
 That's why it's important to be intentional about the organization's involvement in open source, and to communicate how the organization works with open source and what it expects to get out of that involvement. Organizations get the most out of open source when both engineering and business leaders understand why open source is important, and those strategic goals from open source are translated into concrete policies to guide individual employees' interactions with open source, from the policy on using open source anonymously to how and when to contribute to projects and/or publish and maintain your own open source project.
 
-{{< cycle s1="1. Audit" s2="2. Evaluate" s3="3. Set 3 goals" s4="4. Write a policy" s5="5. Measure" >}} 
+{{< cycle s1="1. Audit" s2="2. Evaluate" s3="3. Set three goals" s4="4. Write a policy" s5="5. Measure" >}}
 
 ### Audit your current open source involvement
 

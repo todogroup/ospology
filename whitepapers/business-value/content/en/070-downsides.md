@@ -136,13 +136,13 @@ When it comes to publishing your own internal software projects as open source p
 
 ```mermaid
 flowchart LR
-    S([Project]) --> Q1{"Core<br/>advantage?"}
+    S([Project]) --> Q1{"Is it your<br/>secret sauce?"}
     Q1 -- No --> Q2{"Invest in<br/>community?"}
     Q2 -- Yes --> Q3{"Show up well<br/>in public?"}
     Q3 -- Yes --> R(["Release as OSS"])
-    Q1 -- Yes --> K1(["Keep closed"])
-    Q2 -- No --> K2(["Keep closed"])
-    Q3 -- No --> K3(["Keep closed"])
+    Q1 -- Yes --> K1(["Keep it closed"])
+    Q2 -- No --> K2(["Keep it closed"])
+    Q3 -- No --> K3(["Keep it closed"])
 ``` 
 
 ### It is your secret sauce
