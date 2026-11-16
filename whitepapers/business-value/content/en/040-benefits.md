@@ -144,11 +144,11 @@ One of the common impediments to getting value out of involvement in open source
 
 Assuming your organization has more than a handful of developers, you need to empower them to use open source strategically while also making sure they aren’t making risky decisions. To do so, your open source policy should include: 
 
-	– What the company’s strategic goals are from the involvement in open source
-	– Instructions from your legal team regarding which licenses are acceptable given the way you use the software
-	– Instructions from your security team regarding the security requirements for open source software you use
-	– Instructions from your legal team regarding licensing for software that you publish yourself
-	– A framework for deciding which projects to contribute fixes and/or new features to. This framework should include licensing information, considerations concerning whether the software is used internally or as part of a software product you sell, how critical the open source project is, and whether or not the extension to the product is something you would consider a key competitive advantage. 
+– What the company’s strategic goals are from the involvement in open source
+– Instructions from your legal team regarding which licenses are acceptable given the way you use the software
+– Instructions from your security team regarding the security requirements for open source software you use
+– Instructions from your legal team regarding licensing for software that you publish yourself
+– A framework for deciding which projects to contribute fixes and/or new features to. This framework should include licensing information, considerations concerning whether the software is used internally or as part of a software product you sell, how critical the open source project is, and whether or not the extension to the product is something you would consider a key competitive advantage. 
 
 One common mistake in organizations is to create an open source policy, but fail to distribute it throughout the organization. The goal is to empower individual contributors to make the right decision about their involvement in open source on their own, and that can only happen if they know what the policy is. So just writing it down is not enough, as an organization the open source policy should be part of the onboarding process for all new engineers and anyone else likely to come into contact with open source software. 
 
@@ -166,21 +166,21 @@ When you’re defining your open source strategy, it should include specific met
 
 These metrics might include: 
 
-– Number of merged pull requests on existing projects
-– Number of published open source projects
-– Number of partnerships formed as a result of the involvement in open source
-– Number of job candidates who cite the company’s involvement in open source as a reason for their interest in the job
-– Number of patents
-– Improvements in code quality
-– Number of leadership positions employees hold in open source projects
+- Number of merged pull requests on existing projects
+- Number of published open source projects
+- Number of partnerships formed as a result of the involvement in open source
+- Number of job candidates who cite the company’s involvement in open source as a reason for their interest in the job
+- Number of patents
+- Improvements in code quality
+- Number of leadership positions employees hold in open source projects
 
 This isn’t an exhaustive list, and obviously the metrics you should track depend on your goals from open source. The important thing is to establish the key performance indicators you want to track, and revisit them periodically. When you evaluate your metrics, it's important to ask yourself not just whether or not the organization is meeting its goals, but also if there are metrics that should be added or removed from the metrics you track. 
 
-### Get involved in the projects that are strategically important  
+### Get involved in the strategically important projects  
 
 It's worth stating the obvious here: Your organization is not going to get involved with all the open source projects that it uses. You won't even get involved with all of the projects that are important to you; in most software stacks there is so much open source software that it's impossible to make even small meaningful contributions to all of them. However, you can identify open source projects that are particularly strategically important to your organization and become involved in them. There are many levels of involvement in open source projects. If you fix a bug in a project, even if it's not particularly strategically important, there's no downside to your organization (or to the software engineer individually) contributing the fix back to the project. Doing so allows others who use that project -- and the project maintainers -- to work on other things, which ultimately will benefit all project users, including you. If you have to write the fix anyway, contribute it back to the community. 
 
-Aside from one-off bug fixes, the decision to get involved in a project should be made intentionally and strategically. In general, there are two categories of projects that organizations should prioritize for long-term involvement: Those that are particularly strategically important for the organization, and those that are reasonably important for the organization that have project health risks. For more detailed information about how to evaluate how high of a priority a project should be for your organization, refer to the [CHAOSS guide on the topic.] (https://www.chaoss.community/practitioner-guide-demonstrating-org-value/)
+Aside from one-off bug fixes, the decision to get involved in a project should be made intentionally and strategically. In general, there are two categories of projects that organizations should prioritize for long-term involvement: Those that are particularly strategically important for the organization, and those that are reasonably important for the organization that have project health risks. For more detailed information about how to evaluate how high of a priority a project should be for your organization, refer to the [CHAOSS guide on the topic.](https://www.chaoss.community/practitioner-guide-demonstrating-org-value/)
 
 **Strategically Important Projects**
 
@@ -188,7 +188,7 @@ It takes time to become a trusted member of an open source community. If an indi
 
 If there's a project that's strategically important enough that your organization might need to influence the roadmap, or get a new feature integrated into the project -- even if your organization is going to write the new feature itself -- it's a good idea to get involved in the community before you need something. 
 
-The number of projects you'll be able to get involved with at a strategic level depends on the size of your organization. But if you want to have the ability to influence the roadmap, or even just to get your PRs accepted in a timely manner, you should invest in becoming a member of the community before you need something urgently. 
+The number of projects you'll be able to get involved with at a strategic level depends on the size of your organization. But if you want to have the ability to influence the roadmap, or even just to get your PRs accepted on time, you should invest in becoming a member of the community before you need something urgently. 
 
 **Neglected projects**
 
@@ -202,15 +202,15 @@ Publishing internal software as open source projects can dramatically improve th
 
 The biggest fear for business stakeholders is that they will end up open sourcing an internal software project that gives them a strategic advantage over their competitors. It is obviously possible for this to happen, which is why no open source leader would recommend open sourcing every single piece of software that you develop internally. However, for companies who do not directly sell software, there are almost certainly a number of projects that do not provide a specific competitive advantage that could be open sourced. 
 
-Even large organizations won’t necessarily publish huge numbers of open source projects. For example, Michelin, a large enterprise with an “open-source first” culture and over 4,000 software engineers worldwide, has created 9 open source projects as of the [writing of this guide] (https://blogit.michelin.io/state-of-open-source-report-2025/). While it might not seem like a huge number of projects, in releasing open source projects quality is more important than quantity. When done right, releasing an internal project as an open source project is a commitment to long-term maintenance and to at least some community engagement, and it shouldn’t be done haphazardly. It’s important to think carefully about whether releasing a particular software project as open source will advance the organization’s strategic goals without risking too much intellectual property exposure. 
+Even large organizations won’t necessarily publish huge numbers of open source projects. For example, Michelin, a large enterprise with an “open-source first” culture and over 4,000 software engineers worldwide, has created 9 open source projects as of the [writing of this guide](https://blogit.michelin.io/state-of-open-source-report-2025/). While it might not seem like a huge number of projects, in releasing open source projects quality is more important than quantity. When done right, releasing an internal project as an open source project is a commitment to long-term maintenance and to at least some community engagement, and it shouldn’t be done haphazardly. It’s important to think carefully about whether releasing a particular software project as open source will advance the organization’s strategic goals without risking too much intellectual property exposure. 
 
 
 
 ## Pull box: Should you donate to a foundation? 
 
-If you create an open source project, you can also decide whether or not to donate the project to an open source foundation to ensure neutral governance. There are pros and cons to working with a foundation, but donating a project to a foundation does not mean that the foundation becomes responsible for the maintenance of the project and ensures security and bug fixes for eternity. Companies often think they are offloading their project to a foundation so that it will survive, but become someone else’s problem. That is not how it works. 
+If you create an open source project, you can also decide whether or not to donate the project to an open source foundation to ensure neutral governance. There are pros and cons to working with a foundation, but donating a project to a foundation does not mean that the foundation becomes responsible for the maintenance of the project and ensures security and bug fixes for eternity. Companies often think they are offloading their project to a foundation so that it will survive, but it becomes someone else’s problem. That is not how it works. 
 
-Foundations help projects establish neutral governance and follow best practices. They do not directly provide engineering resources, nor are they a magic community pill. A foundation won’t create a community around the project and they won’t maintain your project. You still have to do that. 
+Foundations help projects establish neutral governance and follow best practices. They do not directly provide engineering resources, nor are they a magic community pill. A foundation won’t create a community around the project, and they won’t maintain your project. You still have to do that. 
 
 Donating a project to a foundation does mean a certain loss of control, because you will give the foundation the trademark for the project and have to respect their restrictions on how the trademark can be used. It’s also important to understand that for the foundation, the priority is the project’s long-term health, not your company’s financial health. 
 
