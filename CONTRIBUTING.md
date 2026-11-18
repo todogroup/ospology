@@ -13,23 +13,21 @@ This repository hosts multiple projects and event frameworks under the TODO Grou
 | 📄 OSPO Lifecycle Whitepaper | [whitepapers/ospo-lifecycle/README.md](whitepapers/ospo-lifecycle/README.md) | Whitepaper on the OSPO lifecycle |
 | 📰 Newsletter | [newsletter/README.md](newsletter/README.md) | Monthly OSPO community newsletter |
 | 🗺️ OSPO Mind Map | [ospo-mindmap/README.md](ospo-mindmap/README.md) | Visual representation of OSPO responsibilities |
-| 📊 OSPO Model | [ospo-model/README.md](ospo-model/README.md) | OSPO Maturity Model |
+| 📊 OSPO Model | [OSPO Model](ospo-model/en/five-stage-OSPO-maturity-model.md) | OSPO Maturity Model |
 
 ## Events Framework
 
 | Event | Guide | Description |
 |-------|-------|-------------|
-| 🌍 OSPOlogy Workshops | [ospology-live/framework.md](ospology-live/framework.md) | Workshops and in-person gatherings |
+| 🌍 OSPOlogy events | [events/README.md](events/README.md) | Shared framework, organizer resources, and event proposals |
 | 🤝 OSPOlogy Virtual Meetings | [meetings/README.md](meetings/README.md) | Community meeting notes and recordings |
-| 🌍 OSPOlogy Local Meetups | [local-meetups/framework.md](local-meetups/framework.md) | Regional OSPO meetups |
+| 🌍 Community-led OSPOlogy meetups | [local-meetups/local-ambassadors-guidelines.md](local-meetups/local-ambassadors-guidelines.md) | Local organizer guidance |
 | 💬 OSPOlogy BoF | [BoF/README.md](BoF/README.md) | Birds of a Feather sessions |
-
 
 ## General Guidelines
 
 - **Issues**: Use the [issue templates](.github/ISSUE_TEMPLATE/) to report bugs, suggest content, propose translations, and more
 - **Pull Requests**: Create a branch and submit a PR
-
 
 ## Code of Conduct
 

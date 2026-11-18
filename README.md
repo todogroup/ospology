@@ -1,13 +1,13 @@
+# 📖 OSPOlogy - The Study of Open Source Management
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
 [![Newsletter](https://badgen.net/badge/OSPONews/Newsletter/green)](https://todogroup.org/community/osponews/)
 [![OSPOlogy](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
 
-# 📖 OSPOlogy - The Study of Open Source Management  
-
 ✨ **`OSPOlogy` is a platform for the study and open community about the state of open source management within organizations.**  OSPOlogy is an initiative by the [TODO Group](https://todogroup.org/). Our collective resources, including frameworks and resources on open source management best practices, are freely available for any organization to use, providing proper attribution to the repository and brand.
 
-- 🕵️‍♀️ [Resources](#resources)
+- 🕵️‍♀️ [Resources](#-available-resources)
 - 🦺 [Programs Framework](#programs-framework)  
 - 👋 [Forum](#forum)
 - 📝 [License](#license)
@@ -64,9 +64,11 @@ By using OSPOlogy frameworks and attributing the brand, your organization is hel
 | --- | --- | --- | --- |
 | Virtual | ⏸️ OSPOlogy Webinars (Archived) | Webinars covering OSPO-related topics with special guests and community discussions. All sessions are recorded, edited, and available on the OSPOlogy YouTube channel. | **Status:** Archived (since 2024). Replaced by OSPOlogy TODO Touchpoints.<br><br>[YouTube Channel](https://www.youtube.com/channel/UCi-ELHAwzoYZvAs4FH-ShaA)<br>[Event page & past sessions](https://github.com/todogroup/ospology/tree/main/meetings#event-page-and-past-sessions) |
 | Virtual | ⭐️ OSPOlogy TODO Touchpoints | Regional meetings (AMER, EMEA, APAC) providing open agendas and office hours for collaboration. | [Community calendar](https://todogroup.org/community/meetings/) |
-| In-person | ⭐️ OSPOlogy Birds of a Feather (BoF) | Semi-informal discussion sessions held at conferences, bringing together participants with shared interests to discuss open source management, OSPO challenges, and strategic value across industries and technologies. | **Framework:** https://github.com/todogroup/ospology/tree/main/BoF |
-| In-person | ⭐️ OSPOlogy *Live* and OSPOlogy Local Meetups | Mini-summits and local meetups organized by OSPO Regional Ambassadors to share knowledge and experience on applying open source management across industries, technologies, and regions. | **Frameworks:**<br>[OSPOlogy Local Meetups](https://github.com/todogroup/ospology/tree/main/local-meetups)<br>[OSPOlogy Live](https://github.com/todogroup/ospology/tree/main/ospology-live) |
+| In-person or hybrid | OSPOlogy events at organizations' venues | Official events organized or co-organized by TODO Group, with workshops, panels, and roundtables. | [Shared framework](events/framework.md) · [Organizer resources](events/README.md) |
+| Co-located | OSPOlogy gatherings alongside Linux Foundation events | Official gatherings connecting OSPO practitioners with the wider ecosystem; BoF is one available session format. | [Programme](events/framework.md#programme) · [BoF template](BoF/template.md) |
+| In-person, hybrid, or online | Community-led OSPOlogy meetups | Local organizers and TODO ambassadors shape activities around their community's interests and languages. | [Meetup guide](local-meetups/local-ambassadors-guidelines.md) · [Groups on OCG](https://ocgroups.dev/todo) |
 
+Find current events on the [TODO events page](https://todogroup.org/community/events/). The [V2.0 framework proposal](events/framework.md) consolidates the former OSPOlogy Live and local meetup guidance; previous editions are listed in the [OSPOlogy Events archive](events/records/README.md).
 
 ## Forum
 

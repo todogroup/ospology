@@ -1,7 +1,11 @@
+# OSPOlogy attribution and brand use
+
 > [!NOTE]  
 > By using this framework, you contribute to the adoption and visibility of open source management best practices across diverse industries and technologies while preserving a cohesive and holistic approach to open source management practices and strategic value across business units and/ or teams
 
 ## Attribution
+
+Content reuse under CC BY 4.0 is separate from trademark permission and official event status. Follow the [shared framework](../events/framework.md#events-and-meetups) and coordinate brand use with TODO before announcing an event.
 
 OSPOlogy BoF series is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0). Please provide proper attribution to the framework by:
 

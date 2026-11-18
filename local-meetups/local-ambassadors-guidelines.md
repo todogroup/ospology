@@ -1,43 +1,32 @@
-# OSPO Local Ambassadors Guidelines
+# Community OSPOlogy meetup organizer guide
 
-OSPO Local Meetups are great ways to learn about new OSPO trends, open source strategy and open source management tooling. If there's not one in your area, it's easy to start one.
+This guide supports official TODO ambassadors and Linux Foundation project ambassadors co-organizing joint community meetups using the shared [OSPOlogy framework](../events/framework.md). Joint events connect OSPO practices with project community experience and shared learning. Meetups can be in person, hybrid, or online and can use the community's preferred language.
 
-This document serves as a guide for a OSPO Local Ambassador when setting up an OSPO Meetup within their region.
+## Planning a meetup
 
-## Planning the OSPO Meetup
+1. Check [OCG](https://ocgroups.dev/todo) for an existing group you can join or support.
+2. Identify TODO and Linux Foundation project ambassador co-organizers. Agree on the audience, shared goals, topics, and division of responsibilities.
+3. If proposing a new group, use [GitHub Discussions](https://github.com/todogroup/ospology/discussions) to explain its location or language, audience, community benefit, format, prospective co-organizers, and participating projects.
+4. Retain TODO Steering Committee review of new group proposals. Coordinate OCG group setup and organizer permissions with the TODO contact before announcing the group as supported by TODO. Confirm any project-specific approvals with the relevant project contacts before presenting the event as project-supported.
+5. Publish an accurate listing, registration route, timezone, language, accessibility information, and any costs. Identify the co-organizers and participating communities. If mirrored elsewhere, link back to the primary listing and keep details consistent.
+6. Promote through relevant local and project community channels and coordinate any requested TODO or project promotion. Start with a manageable schedule that co-organizers can sustain.
 
-* Check if there's already an OSPO Meetup in your area
-* Open a new [GH Discussion under OSPOlogy repo](https://github.com/todogroup/ospology/discussions), indicating the desired location and how the creation of this meetup can benefit the OSPO Community
-* Wait for the TODO Program Manager to (1) open the new OSPO Local Meetup via LF Online Community Platform and (2) give you organizer permissions. If needed, you can also mirror these meetups on a third party platform, such as meetup.com
-* Start promoting your event via [Linux Foundation’s Online Community platform](https://community.linuxfoundation.org/), as well as on Twitter, LinkedIn, and other local outlets.
-* You can also promote on TODO Slack / Community mailing list. If needed, you can also request a groups.io mailing list for that specific local community.
+## Requirements and responsibilities
 
+This guide is intended for joint events co-organized by official TODO ambassadors and Linux Foundation project ambassadors. Local volunteers may support delivery; organizing or supporting a meetup does not automatically confer ambassador status. See the [TODO ambassadors page](https://todogroup.org/community/ambassadors/) for the TODO program, and consult the relevant Linux Foundation project's ambassador program for its requirements.
+
+Co-organizers are responsible for:
+
+- Keeping the meetup vendor-neutral and focused on shared learning across OSPO and project communities.
+- Agreeing on roles, decision-making, and points of contact across the participating communities.
+- Managing event descriptions, registration, venue or online access, and local logistics.
+- Confirming permission for any TODO or project branding and accurately describing each community's involvement.
+- Identifying code-of-conduct contacts and explaining the framework's participation and recording rules.
+- Preparing topics and facilitators that connect OSPO practices with project community experience; newcomers may benefit from guided discussion.
+- Publishing reviewed, anonymized recaps through [OSPOlogy Discussions](https://github.com/todogroup/ospology/discussions/categories/announcements), with an English summary to help other communities learn from them. Coordinate any sharing through participating project channels.
+- Continuing quarterly updates to the TODO Program Manager and Steering Committee on activity, topics, and support needs, and agreeing on any updates needed by participating projects.
+- Agreeing a backup organizer or handover if they can no longer maintain the group.
 
 ## Commitment
 
-Being promoted as OSPO Local ambassador means:
-
-* You understand OSPO Local meetups supported by the TODO Group are committed to vendor neutrality and aim to become a forum for like-minded professionals to share knowledge and experiences on OSPO.
-* You do not use an OSPO Meetup with the main goal of having discussions designed to generate sales for a vendor.
-* You meet OSPO Local Ambassador's [requirements](#local-host-requirements-and-responsibilities)
-* You take care of OSPO Local Ambassador's [responsibilities](#local-host-requirements-and-responsibilities)
-
-## Requirements and Responsibilities
-
-An individual may be qualified to become a OSPO Local Ambassador if:
-
-OPTION 1 (representative from an organization):
-
-* You are a TODO Member representative or OSPO Associate representative [OR]
-
-OPTION 2 (individual maintainer):
-
-* You are an [OSPOlogy Maintainer](https://github.com/todogroup/ospology/blob/main/meetings/GOVERNANCE.md) or are a maintainer on any of the repos from the TODO Group's GitHub Organization (OSPO Landscape, todogroup.org, etc).
-
-OSPO Local Ambassador shall be responsible for:
-
-* Managing registration and meetup description via [Linux Foundation’s online community platform](https://community.linuxfoundation.org/todo-group-europe/).
-* Providing meetup location and logistics
-* Ensuring the meetup follows LF's code of conduct.
-* Reporting to TODO Program Manager and Steering Committee each quarter to track meetup evolution and new topics.
-* Posting a recap to [OSPO Forum](https://github.com/todogroup/ospology/discussions/categories/announcements) in English.
+Choose a frequency the co-organizing team can deliver and confirm each community's responsibilities before announcing an event. Request specific help early and confirm its availability. Reuse the [event brief](../events/toolkit/01-Planning/OSPOlogy-Event-Brief-Template.md) at a scale appropriate to the meetup; no international speaker roster or multi-day program is required.
