@@ -1,14 +1,19 @@
+# OSPOlogy Birds of a Feather session template
+
+This is a 60-minute discussion template within the [OSPOlogy framework](../events/framework.md). Confirm the conference slot, audience, facilitators, registration, and participation rules before using it. Explain the Chatham House Rule and applicable policies at the opening; do not record protected discussions, and anonymize public outputs.
+
 ## Objectives
 
-1.	Identify the role of open source management in driving security, innovation, and collaboration within `{industry/technology}` ecosystems
-2.	Explore solutions and best practices for leveraging open source management to optimize `{industry/technology}` infrastructures
-3.	Facilitate knowledge sharing among participants to address challenges and uncover opportunities for growth
+1. Identify the role of open source management in driving security, innovation, and collaboration within `{industry/technology}` ecosystems
+2. Explore solutions and best practices for leveraging open source management to optimize `{industry/technology}` infrastructures
+3. Facilitate knowledge sharing among participants to address challenges and uncover opportunities for growth
 
 ## Structure
 
 ### Part 1: Opening and Context (10 Minutes)
-   
+
 A project manager introduces the session objectives, emphasizing the role of open source management in the `{industry/technology}` ecosystem. Key themes include:
+
 - Security: How open source management ensures and sustains secure practices in `{industry/technology}`
 - Innovation: Open source management’s role in fostering innovation and accelerating technology adoption in `{industry/technology}`
 - Collaboration: Bridging diverse teams (e.g, security, development, operations) through open source practices within `{industry/technology}`
@@ -29,15 +34,18 @@ Participants generate “How Might We” questions to identify key challenges an
 Each participant writes 1–3 ideas on sticky notes (one idea per note)
 
 ### Part 4: Affinity Mapping (10 Minutes)
+
 - Participants group similar ideas and form clusters. Label clusters to reflect common themes (e.g how open source management contributes to {key themes such as security practices, collaborative frameworks, governance in `{industry/technology}`}).
 - Participants vote on the top two clusters for further exploration.
 
 ### Part 5: Final Remarks (10 Minutes)
+
 Assigned Facilitators summarize findings and key insights with participants
 
-
 ### Part 6: Virtual Follow-Up (Asynchronous)
+
 A project manager compiles and publishes final results, including:
+
 - A report capturing session insights and recommendations.
 - Outcomes added to relevant open source documentation (e.g [OSPO Book Chapter](https://ospobook.todogroup.org/)).
-- Publish results within the agreed timeline (e.g `{timeline, such as Q2 2025}`).
+- Publish results within the agreed timeline (e.g `{timeline, such as two weeks after the event}`).
