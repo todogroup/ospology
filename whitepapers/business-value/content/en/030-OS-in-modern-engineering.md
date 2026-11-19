@@ -9,6 +9,11 @@ Nearly all software engineers use open source software, and most use open source
 
 Research from [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=65230) shows that the value of open source software in the global market is around $8.8 trillion – that is, businesses would have to spend nearly $9 trillion to create and maintain software internally if open source software did not exist. Businesses would have to spend 3.5 times more on engineering if it were not for open source software.
 
+{{< stats >}}
+{{< stat value="$8.8T" label="Global value of open source software" >}}
+{{< stat value="3.5x" label="More engineering spend if open source did not exist" variant="teal" >}}
+{{< /stats >}}
+
 Open source software is ubiquitous in modern software engineering. Most programming languages are open source, and there are certain parts of the technical stack – libraries, for example – that are nearly always open source. If you think your organization doesn't use open source, you're almost certainly wrong. If you use Docker containers, you're using open source; if you use Go or Java or Python, you use open source.
 
 The fact that using open source software makes engineering teams more productive is not controversial – it amounts to downloading software components and using them for free. But engineering departments can also become more involved in open source communities by contributing back to projects they use regularly and/or publishing their own open source projects. In most engineering departments, using open source software is simply the water that everyone is swimming in. Engineers don't think much about downloading and using open source software because it is so integrated into their workflow.
@@ -21,6 +26,15 @@ In addition, if bug fixes aren’t contributed back, it becomes technical debt. 
 
 However, not all organizations allow engineers to contribute their bug fixes or other work back to open source projects. In fact, in most cases it isn't clear to engineers whether or not they are allowed, which in some ways is even worse. The lack of a clear policy as to when an engineer can and can not contribute their work back to the community can have a chilling effect on the organization's ability to interact with the open source ecosystem.
 
+```mermaid
+flowchart LR
+    Q1{"Rely on it<br/>long term?"} -- No --> K(["Keep internal"])
+    Q1 -- Yes --> Q2{"Licence<br/>allows?"} -- No --> K
+    Q2 -- Yes --> Q3{"Secret<br/>sauce?"} -- Yes --> K
+    Q3 -- No --> Q4{"Upstream<br/>welcomes?"} -- No --> K
+    Q4 -- Yes --> C(["Contribute upstream"])
+```
+
 ## Open source in modern businesses
 
 The relatively low percentage of companies that have a formal open source strategy shows that the majority of businesses, particularly those who are outside of the software industry, fail to see how open source impacts not just the engineering department, but the rest of the business as well.
@@ -32,6 +46,11 @@ Whether or not open source plays an active role in the larger business, outside 
 ## Engagement levels in open source
 
 There are multiple ways that companies can engage with open source. The most basic way is by using open source; nearly all companies that develop software are users of open source software. In some categories, like software libraries and even programming languages, it's nearly impossible to avoid open source. But a company can also become actively involved in open source projects, and can also publish and maintain projects as well. The business benefits from each type of engagement are different, as are the roles that open source will end up playing in the business.
+
+```mermaid
+flowchart LR
+    A(["User"]) --> B(["Contributor"]) --> C(["Maintainer / Publisher"])
+```
 
 ### Using open source software
 

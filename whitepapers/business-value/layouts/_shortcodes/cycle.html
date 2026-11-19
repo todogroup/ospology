@@ -1,0 +1,34 @@
+{{- $s1 := .Get "s1" | default "" -}}
+{{- $s2 := .Get "s2" | default "" -}}
+{{- $s3 := .Get "s3" | default "" -}}
+{{- $s4 := .Get "s4" | default "" -}}
+{{- $s5 := .Get "s5" | default "" -}}
+<figure class="todo-cycle-figure">
+<svg class="todo-cycle" viewBox="0 0 500 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cycle diagram">
+  <path d="M 250 70 Q 351 82 393 174" fill="none" stroke="#5aa100" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M 393 174 Q 415 251 338 310" fill="none" stroke="#5aa100" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M 338 310 Q 250 360 162 310" fill="none" stroke="#5aa100" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M 162 310 Q 85 251 107 174" fill="none" stroke="#5aa100" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M 107 174 Q 149 82 250 70" fill="none" stroke="#5aa100" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <g>
+    <rect x="175" y="48" width="150" height="44" rx="22" ry="22" fill="#f6faf0" stroke="#5aa100" stroke-width="2"/>
+    <text x="250" y="70" fill="#003c32" font-family="Nunito, sans-serif" font-weight="700" font-size="14" text-anchor="middle" dominant-baseline="central">{{ $s1 }}</text>
+  </g>
+  <g>
+    <rect x="318" y="152" width="150" height="44" rx="22" ry="22" fill="#f6faf0" stroke="#5aa100" stroke-width="2"/>
+    <text x="393" y="174" fill="#003c32" font-family="Nunito, sans-serif" font-weight="700" font-size="14" text-anchor="middle" dominant-baseline="central">{{ $s2 }}</text>
+  </g>
+  <g>
+    <rect x="263" y="288" width="150" height="44" rx="22" ry="22" fill="#f6faf0" stroke="#5aa100" stroke-width="2"/>
+    <text x="338" y="310" fill="#003c32" font-family="Nunito, sans-serif" font-weight="700" font-size="14" text-anchor="middle" dominant-baseline="central">{{ $s3 }}</text>
+  </g>
+  <g>
+    <rect x="87" y="288" width="150" height="44" rx="22" ry="22" fill="#f6faf0" stroke="#5aa100" stroke-width="2"/>
+    <text x="162" y="310" fill="#003c32" font-family="Nunito, sans-serif" font-weight="700" font-size="14" text-anchor="middle" dominant-baseline="central">{{ $s4 }}</text>
+  </g>
+  <g>
+    <rect x="32" y="152" width="150" height="44" rx="22" ry="22" fill="#f6faf0" stroke="#5aa100" stroke-width="2"/>
+    <text x="107" y="174" fill="#003c32" font-family="Nunito, sans-serif" font-weight="700" font-size="14" text-anchor="middle" dominant-baseline="central">{{ $s5 }}</text>
+  </g>
+</svg>
+</figure>

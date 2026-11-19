@@ -1,0 +1,6 @@
+{{- $year := .Get "year" | default "" -}}
+{{- $event := .Get "event" | default "" -}}
+<li class="todo-milestone">
+  <div class="todo-milestone-year">{{ $year }}</div>
+  <div class="todo-milestone-event">{{ $event }}</div>
+</li>
