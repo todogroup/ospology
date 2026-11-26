@@ -95,11 +95,111 @@ In addition, you should open source projects that are going to continue to be im
 
 ### The Cyber Resilience Act (CRA) when publishing software
 
+The EU Cyber Resilience Act (CRA) is the first EU-wide legislation to impose cybersecurity requirements across the entire lifecycle of "products with digital elements." It entered into force on 10 December 2024 and will apply in full from 11 December 2027. If your organisation publishes or commercially distributes software in the EU market, the CRA changes what "publishing" means in practice — it is no longer enough to ship code; you need a documented approach to security and vulnerability handling.
 
+This section is awareness-focused. It explains who the CRA affects, what changes when you publish software, and how to prepare. It is not legal advice, and it deliberately does not attempt to be a "how to solve CRA" guide. Deeper technical and compliance resources are signposted at the end of this chapter.
+
+#### Who Is in Scope — and Who Is Not
+
+The CRA takes a deliberately differentiated approach to open source. The regulation only applies to free and open source software that is **made available on the market** in the course of a commercial activity. Software that is published but not monetised by its publisher is generally outside the scope of the manufacturer regime. Contributors who submit code to projects they do not control are also not brought into scope merely by contributing.
+
+Three practical outcomes follow for any given project or release:
+
+- **Manufacturer.** A legal person publishes the software under its name or trademark and places it on the market commercially. The ordinary manufacturer conformity and reporting duties apply.
+- **Open-source software steward.** A legal person does not place the software on the market but provides sustained, systematic support for a project intended for commercial activities, and plays a main role in ensuring its viability. A lighter, tailor-made regime applies under Article 24.
+- **No CRA duties for that project.** For example, an individual contributor without project control, or a natural person publishing non-monetised software outside commercial activity.
+
+A single organisation can occupy different roles for different editions. A company may be the manufacturer of a paid enterprise edition while acting as the steward of a non-monetised community edition. The licence label alone is not decisive; the Commission's guidance looks at control, commercial activity, and the realities of supply.
+
+#### What Changes for Manufacturers
+
+Where a manufacturer places a product with digital elements on the market — including a commercial open source distribution — the full manufacturer obligations apply. This includes conformity with the essential cybersecurity requirements in Annex I, technical documentation, vulnerability handling, and reporting.
+
+A critical point for business leaders: **a manufacturer cannot transfer its CRA obligations to an open source project by supporting it financially or otherwise**. When a manufacturer integrates open source components into its product, it remains responsible for the compliance of the product as a whole, including exercising due diligence on those components. Poorly maintained open source dependencies do not excuse the manufacturer from its own due diligence requirements.
+
+This is a supply-chain governance issue, not merely a legal one. Engineering and procurement teams need a shared view of which components are critical, how they are maintained, and what happens if an upstream project changes direction.
+
+#### What Changes for Open Source Stewards
+
+Article 24 introduces a light-touch regime for stewards. The core obligations are threefold:
+
+1. **A documented cybersecurity policy.** The steward must put in place and document, in a verifiable manner, a policy to foster secure development and effective vulnerability handling by the project's developers.
+2. **Cooperation with market surveillance authorities.** Stewards must cooperate with authorities responsible for enforcing the CRA.
+3. **Reporting.** Stewards must report actively exploited vulnerabilities and severe incidents that have an impact on the security of products with digital elements.
+
+The cybersecurity policy requirement applies to the project's own development practices, not to how downstream integrators use the code. Stewards are also explicitly exempt from administrative fines under Article 64(10), which reinforces the proportionate, enabling intent of the regime.
+
+The steward category matters for businesses because it creates a recognised, stable legal identity for the organisations that keep critical open source projects viable. If you publish open source and want others to depend on it, understanding whether you are a manufacturer, a steward, or neither is part of publishing responsibly.
+
+#### The Timeline: What Happens When
+
+The CRA does not arrive all at once. Key dates are:
+
+| Date | What applies |
+|---|---|
+| **10 December 2024** | CRA enters into force |
+| **11 June 2026** | Articles 35–51 apply; Member States must designate notifying authorities |
+| **11 September 2026** | Article 14 reporting obligations apply; manufacturers must notify actively exploited vulnerabilities and severe incidents via the single reporting platform |
+| **11 December 2027** | Full application: essential requirements, market surveillance, and all remaining provisions |
+
+For publishers, **September 2026** is the first operationally significant deadline for incident reporting. The full conformity regime follows in December 2027. Planning should not wait for the final deadline.
+
+#### Practical Readiness Checklist for Publishers
+
+This checklist is deliberately high-level. It is intended to help business and engineering stakeholders ask the right questions, not to serve as a compliance certification.
+
+- **Map your exposure.** Identify which products, editions, and commercial offerings fall within scope, and whether your organisation acts as manufacturer, steward, or both for each.
+- **Clarify the commercial-activity boundary.** For each project you publish, document whether it is monetised, how, and by whom. Treat community and paid editions separately.
+- **Assess upstream dependency health.** For critical components, evaluate maintenance activity, vulnerability history, release cadence, and governance. The CRA makes due diligence on open source components a publisher responsibility, so this is no longer optional good practice.
+- **Prepare for vulnerability reporting.** Establish internal processes to identify, assess, and report actively exploited vulnerabilities and severe incidents in line with the Article 14 timeline.
+- **Document your cybersecurity policy.** If you are a steward, ensure the project has a documented, verifiable policy covering secure development and vulnerability handling. If you rely on a steward, ask to see it.
+- **Record your decisions.** The CRA rewards verifiable, documented processes. Record how you assessed scope, roles, and due diligence. This evidence will matter in market surveillance and in internal governance.
 
 ## Legislative risks related to open source software
 
+The CRA is not an isolated regulation. It sits within a broader trend of EU legislation that is reshaping expectations for software supply chains, transparency, and security. For business leaders, the question is not whether to engage with this trend, but how to do so proportionately and early enough to avoid reactive, costly compliance.
 
+### The Risk of Doing Nothing
+
+The most visible risk is non-compliance: products that do not meet the essential requirements cannot be placed on the EU market once the full regime applies in December 2027. But the less visible risks are often more expensive.
+
+- **Supply-chain fragility.** The CRA makes publishers responsible for the compliance of their products as a whole, including open source components. If a critical dependency is unmaintained or its stewardship is unclear, that becomes a publisher risk. Teams that have not mapped this exposure will discover it under pressure.
+- **Contractual and procurement friction.** As CRA expectations diffuse through the market, buyers will increasingly ask suppliers about their compliance posture. Suppliers who cannot answer clearly will face longer sales cycles, additional contractual conditions, or exclusion from procurements.
+- **Reputational and regulatory attention.** The reporting obligations that begin in September 2026 create a visible trail of incident handling. Organisations that are seen to handle vulnerabilities poorly, or that cannot demonstrate a documented approach, invite scrutiny.
+- **Late, expensive remediation.** Waiting until 2027 compresses remediation into a short window. The organisations that start now can spread the work across normal engineering and procurement cycles.
+
+### The Business Case for Early Engagement
+
+Engaging with the CRA early is not only defensive. It creates genuine business advantages.
+
+**It strengthens procurement decisions.** The CRA gives procurement teams a structured vocabulary for evaluating open source risk: manufacturer vs. steward, commercial activity vs. non-monetised publication, documented cybersecurity policy, vulnerability handling. Embedding these questions into supplier evaluation improves the quality of procurement decisions beyond CRA compliance alone.
+
+**It clarifies the value of commercial open source support.** Purchasing support, maintenance, or managed services from a provider that has clarity on its CRA role is a way to transfer operational responsibility and reduce uncertainty. The CRA makes the distinction between "free code" and "supported product" more legible, which is useful for budget owners.
+
+**It aligns with existing open source governance.** Organisations that already run an OSPO, maintain an SBOM programme, or participate in OpenChain or OpenSSF activities are closer to CRA readiness than they may realise. SPDX, OpenSSF Scorecard, and OpenChain frameworks are directly relevant to the due diligence and documentation the CRA expects. The CRA is a reason to consolidate and formalise practices that many mature organisations already have.
+
+**It supports long-term sustainability.** The steward category recognises the organisations that keep critical projects viable. Businesses that understand this landscape can make more intentional decisions about which projects and providers to support, and how, so that the open source they depend on remains healthy.
+
+### How to Engage Proportionately
+
+The CRA does not require every organisation to become a compliance specialist. A proportionate approach looks like this:
+
+1. **Assign ownership.** Someone in the organisation — often in OSPO, procurement, legal, or product security — should own the CRA question and maintain a view of scope and roles.
+2. **Use existing frameworks.** Lean on OpenChain, OpenSSF, SPDX, and the ORC Working Group's resources rather than building a bespoke compliance programme from scratch.
+3. **Start with the highest-risk products and dependencies.** Not everything needs to be addressed at once. Prioritise commercial offerings and critical upstream components.
+4. **Engage upstream.** If you depend on a project, participate in its security and governance discussions. If you are a steward, document your policy. If you are a manufacturer, exercise due diligence visibly.
+5. **Revisit as the timeline advances.** The September 2026 reporting milestone is the first operational test. Use it to validate processes before the full regime applies in December 2027.
+
+### Further Reading
+
+This chapter is an awareness-level introduction. The following resources provide deeper guidance. They are maintained by the open source community and by public authorities; they are listed for information and do not constitute legal advice.
+
+- **European Commission — Cyber Resilience Act and Open Source**: The official EU page explaining how the CRA treats free and open source software, including the steward category and the main obligations. [https://digital-strategy.ec.europa.eu/en/policies/cra-open-source](https://digital-strategy.ec.europa.eu/en/policies/cra-open-source)
+- **Open Regulatory Compliance (ORC) Working Group**: A community of manufacturers, foundations, and maintainers producing free, actionable CRA resources, including FAQs and compliance guidance. [https://orcwg.org/](https://orcwg.org/)
+- **ORC CRA FAQ**: Practical answers on timelines, steward obligations, manufacturer due diligence, and scope questions. [https://cra.orcwg.org/faq/](https://cra.orcwg.org/faq/)
+- **OpenSSF — CRA resources**: Guidance and tooling from the Open Source Security Foundation, including how SPDX 3.0, OpenSSF Scorecard, and OpenChain support CRA readiness. [https://openssf.org/](https://openssf.org/)
+- **OpenChain**: ISO/IEC 18974-aligned open source compliance and security frameworks relevant to CRA due diligence and SBOM practices. [https://www.openchainproject.org/](https://www.openchainproject.org/)
+- **SPDX**: The ISO/IEC 5962 standard for software bill of materials, widely used for CRA-recognised SBOM formats. [https://spdx.dev/](https://spdx.dev/)
 
 ## How to properly budget or allocate resources for OSPOs?
 
