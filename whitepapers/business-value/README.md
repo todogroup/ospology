@@ -30,4 +30,4 @@ We are meeting bi-weekly on Fridays. You can check our next meeting in our [cale
 
 A hosted version of the rendered guide is available in [https://ossbusinessguide.todogroup.org](https://ossbusinessguide.todogroup.org).
 
-The content of the guide is maintained in the `content` subdirectory as Markdown files. You can use [Hugo](https://gohugo.io) to render it as website. Run the command `hugo server` inside the `business_value` directory to start a web server locally and follow the instructions to view the site in your web browser. The default address is then `http://localhost:1313`.
+The content of the guide is maintained in the `content` subdirectory as Markdown files. You can use [Hugo](https://gohugo.io) to render it as website. Run the command `hugo server` inside the `business-value` directory to start a web server locally and follow the instructions to view the site in your web browser. The default address is then `http://localhost:1313`.
