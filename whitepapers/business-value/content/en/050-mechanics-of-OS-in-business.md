@@ -283,12 +283,12 @@ The table below links the business drivers introduced above with the archetypes 
 
 | Business driver | Related archetypes benefits | Archetypes most aligned |
 |-----------------|-----------------------------|-------------------------|
-| Wide adoption | - Lead a standardization effort  <br> - Establish product reputation  <br> - Establish brand & credibility  <br> - Stop competitors from early dominance  <br> - Improve market acceptance by reducing proprietary risk | B2B Open Source, Mass Market, Multi-Vendor Infrastructure |
-| Shaping a project through contributions | - Amplify/expand developer base  <br> - Improve product quality (“quality ratchet”)  <br> - Provide a framework for collaborating with partners | Wide Open, Controlled Ecosystem, Multi-Vendor Infrastructure |
-| Zero license costs | - Reduce vendor risk / independence  <br> - Improve market acceptance (insurance against lock-in)  <br> - Public benefit (commoditization of base layers) | Trusted Vendor, Upstream Dependency |
-| Transparency | - Provide transparency to customers & partners  <br> - Increase insight into competitors’ or partners’ strategy  <br> - Establish product reputation (trust through openness) | Multi-Vendor Infrastructure, Trusted Vendor, Wide Open |
-| Public benefit | - Public benefit (commons)  <br> - Strengthen organizational brand & credibility | Specialty Library, Trusted Vendor |
-| Volunteers | - Amplify/expand developer base  <br> - Increase developer hiring pool  <br> - Improve developer morale & retention  <br> - Engage with users | Wide Open, Mass Market, Controlled Ecosystem |
+| Wide adoption | Lead a standardization effort, Establish product reputation, Establish brand & credibility, Stop competitors from early dominance, Improve market acceptance by reducing proprietary risk | B2B Open Source, Mass Market, Multi-Vendor Infrastructure |
+| Shaping a project through contributions | Amplify/expand developer base, Improve product quality (“quality ratchet”), Provide a framework for collaborating with partners | Wide Open, Controlled Ecosystem, Multi-Vendor Infrastructure |
+| Zero license costs | Reduce vendor risk / independence, Improve market acceptance (insurance against lock-in), Public benefit (commoditization of base layers) | Trusted Vendor, Upstream Dependency |
+| Transparency | Provide transparency to customers & partners, Increase insight into competitors’ or partners’ strategy, Establish product reputation (trust through openness) | Multi-Vendor Infrastructure, Trusted Vendor, Wide Open |
+| Public benefit | Public benefit (commons), Strengthen organizational brand & credibility | Specialty Library, Trusted Vendor |
+| Volunteers | Amplify/expand developer base, Increase developer hiring pool, Improve developer morale & retention, Engage with users | Wide Open, Mass Market, Controlled Ecosystem |
 
 ## Addendum: Why open source is not a business model
 
