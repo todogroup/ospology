@@ -31,10 +31,10 @@ The [OSPO Book](https://ospobook.todogroup.org/) includes resources developed co
 | --- | --- | --- |
 |   Draft   |   Active development | Yes |
 
-The OSS in Business Guide focuses on articulating the business value of open source, helping organizations understand how open source contributes to strategic outcomes such as innovation, risk management, cost efficiency, and long-term sustainability.
+The [OSS in Business Guide](https://ossbusinessguide.todogroup.org) focuses on articulating the business value and mechanics of open source, helping organizations understand how open source contributes to strategic outcomes such as innovation, risk management, cost efficiency, and long-term sustainability.
 The guide is being developed collaboratively and is intended for decision-makers, OSPO practitioners, and stakeholders looking to better connect open source activities with business objectives.
 
-Contributions and ongoing development are tracked in this [dedicated folder](https://github.com/todogroup/ospology/tree/main/whitepapers/business-value)
+Contributions and ongoing development are managed in this [dedicated folder](https://github.com/todogroup/ospology/tree/main/whitepapers/business-value)
 
 ### 📭 Newsletter  
 
