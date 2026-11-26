@@ -110,7 +110,7 @@ Consider an organization deciding how to operate a database. It could evaluate s
 
 The options below differ along two independent dimensions. The **licensing model** describes whether the software is open source or proprietary. The **deployment model** describes whether the organization operates the software itself or relies on a vendor-managed service. These dimensions are independent: a proprietary database can also be self-managed or offered as a managed service, and an open source database can be self-managed or provided as a managed service by a third party. Options A–C illustrate common licensing and deployment combinations. Option D describes a support or staffing arrangement that may complement one of the open source options.
 
-**Option A: Self-managed open source database**
+#### Option A: Self-managed open source database
 
 The organization installs and operates an open source database using its own infrastructure and engineering team.
 
@@ -127,7 +127,7 @@ Costs and responsibilities:
 - Backups, monitoring, and security updates.
 - Troubleshooting and availability management.
 
-**Option B: Managed open source database service**
+#### Option B: Managed open source database service
 
 The organization purchases a managed service from a provider offering the open source database.
 
@@ -146,7 +146,7 @@ Costs and responsibilities:
 - The service may rely on a proprietary control plane, provider-specific APIs, or extensions that are not part of the upstream project, which can affect portability.
 - Data migration and exit considerations.
 
-**Option C: Proprietary database**
+#### Option C: Proprietary database
 
 The organization purchases a proprietary database product or service under a commercial license.
 
@@ -163,7 +163,7 @@ Costs and responsibilities:
 - Potential difficulty migrating data or applications to another platform.
 - Reliance on the vendor to continue maintaining the features and services on which the organization depends.
 
-**Option D: Employ or contract an upstream maintainer**
+#### Option D: Employ or contract an upstream maintainer
 
 The organization hires or contracts a maintainer, or a consultancy that includes upstream maintainers, to support and develop the open source database. This option may complement Option A or Option B rather than replacing them.
 
@@ -259,35 +259,35 @@ Considering CAPEX and OPEX alongside TCO helps decision-makers understand both t
 
 Before selecting an open source solution or service provider, organizations should consider the following areas.
 
-**1. Licensing and usage rights**
+### 1. Licensing and usage rights
 
 Understand the software license, including the permissions and obligations associated with using, modifying, and distributing the software. Seek legal review where necessary.
 
-**2. Project health**
+### 2. Project health
 
 Review the project's recent release history, maintainer and contributor activity, issue and security-report handling, documentation, governance, and published maintenance plans. Look for a clear security policy and evidence that important fixes are addressed. A large number of contributors alone does not guarantee project health; the organization should also understand whether maintenance depends heavily on a small number of people.
 
-**3. Security and compliance**
+### 3. Security and compliance
 
 Evaluate vulnerability reporting, security updates, dependency management, and compliance requirements. Public source code provides an opportunity for inspection, but does not automatically guarantee security.
 
-**4. Support and service commitments**
+### 4. Support and service commitments
 
 Check the provider's expertise, support availability, escalation process, and service-level agreements. Make sure responsibilities are clearly defined.
 
-**5. Vendor independence and portability**
+### 5. Vendor independence and portability
 
 Understand whether the organization can change providers, operate the software independently, and migrate its data without unreasonable disruption or cost. Check for proprietary extensions, provider-specific APIs, undocumented data formats, and contractual restrictions that could make an exit difficult.
 
-**6. Total Cost of Ownership**
+### 6. Total Cost of Ownership
 
 Compare acquisition, implementation, infrastructure, support, staffing, and exit costs over a defined period. Apply the same evaluation period and assumptions when comparing alternatives.
 
-**7. Ecosystem sustainability**
+### 7. Ecosystem sustainability
 
 Where relevant, consider whether the selected provider contributes to the upstream project or supports the people responsible for maintaining it. Look for verifiable evidence rather than relying only on marketing claims.
 
-**8. Switching and exit planning**
+### 8. Switching and exit planning
 
 Plan for how the organization could leave the arrangement before committing to it. Consider switching costs, data migration effort and usable export formats, the effort of implementing a replacement, loss of provider-specific features and integrations, re-training requirements, contract termination terms, data extraction or egress fees, and how operations would continue during a migration. This complements the TCO analysis by focusing on the cost and feasibility of ending the arrangement rather than operating it.
 
