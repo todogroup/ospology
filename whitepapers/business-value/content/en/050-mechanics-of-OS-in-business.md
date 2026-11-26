@@ -14,7 +14,7 @@ This section describes how open source can function as a driver of business mode
 
 ### Wide adoption
 
-Open source is a powerful way to achieve adoption for software. The absence of licensing costs and the inherent freedom to use it for any purpose without restrictions makes it an attractive offering for many people. It is easy to integrate for users compared to other licensing models where engineers need to involved other department like procurement, legal, management before having access to the technology.
+Open source is a powerful way to achieve adoption for software. The absence of licensing costs and the inherent freedom to use it for any purpose without restrictions makes it an attractive offering for many people. It is easy to integrate for users compared to other licensing models where engineers need to involve other departments like procurement, legal, management before having access to the technology.
 
 Open source adoption is often accelerated by network effects, where happy users become promoters, even in other domains or markets, that are not addressed by the original go-to-market strategy. Communication through the community is an effective way to reach a very wide range of potential users.
 
@@ -96,7 +96,7 @@ Drivers:
 
 Examples:
 
-* Linux Distributions: RedHat, SUSE, Canonical
+* Linux Distributions: Red Hat, SUSE, Canonical
 
 ### Packaging
 
@@ -132,7 +132,7 @@ Drivers:
 
 Examples:
 
-* Wordpress
+* WordPress
 * Aiven offering managed data services
 * Instructure with Canvas
 * Cloud providers offering managed open source based services
@@ -166,7 +166,7 @@ Drivers:
 Examples:
 
 * GitLab
-* Hashicorp was a good example, before it abandoned their open source licensing
+* HashiCorp was a good example, before it abandoned their open source licensing
 
 ### Dual Licensing
 
@@ -219,7 +219,7 @@ Drivers:
 
 Examples:
 
-* Automattic with the Wordpress platform
+* Automattic with the WordPress platform
 * Public cloud platforms. Open source software dominates the offered services. Even on Microsoft's cloud platform Linux is the dominating operating system.
 
 ### Donations
@@ -253,7 +253,7 @@ Drivers:
 
 Examples:
 
-* Linux Foundations's Alpha-Omega project
+* Linux Foundation's Alpha-Omega project
 * Sovereign Tech Agency
 * Git maintainers employed by Google
 * curl maintainer employed by wolfSSL

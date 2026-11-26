@@ -4,7 +4,7 @@
 >
 > Slack channel #wg-oss-in-business
 >
-> Follow-up happening during Thursday TODO Europe Touchpoint CallS
+> Follow-up happening during Thursday TODO Europe Touchpoint Calls
 
 ## Motivation
 

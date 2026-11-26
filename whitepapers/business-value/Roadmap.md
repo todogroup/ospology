@@ -35,7 +35,7 @@ To populate content on each markdown file, you can use this suggested format:
 
 - Overview
 - Engineering Driven Projects
-- Business Drvien Projects
+- Business Driven Projects
 - Comparisons
 - Conclusions
 
