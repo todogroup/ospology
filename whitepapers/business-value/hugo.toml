@@ -16,4 +16,4 @@ disableLanguages = ["en"]
   [languages.en]
     contentDir = "content/en"
     weight = 1
-    languageName = "English"
+    label = "English"
