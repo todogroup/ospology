@@ -1,0 +1,129 @@
+# Site mainpage.
+
+[site_mainpage_glossary]
+other = "手冊"
+
+[navbar_book_pdf]
+other = "手冊（PDF，英文版）"
+
+[navbar_glossary]
+other = "詞彙表"
+
+[error_404_title]
+other = "找不到頁面"
+
+[error_404_message]
+other = "糟糕！這個頁面不存在"
+
+[error_404_home_prefix]
+other = "。"
+
+[error_404_home]
+other = "回到首頁"
+
+[error_404_home_suffix]
+other = "。"
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "上一頁"
+
+[ui_pager_next]
+other = "下一頁"
+
+[ui_read_more]
+other = "閱讀更多"
+
+[ui_search]
+other = "搜尋這個網站…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "於"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "全部"
+
+# Phrases for tags
+[ui_see_all_tags]
+other = "檢視所有標籤"
+[ui_tag]
+other = "標籤"
+[ui_tags]
+other = "標籤"
+[ui_search_by_tags]
+other = "依標籤瀏覽"
+[ui_tags_intro]
+other = "詞彙已依標籤分類，請使用篩選器依標籤瀏覽條目。"
+[ui_or_search_by_tags]
+other = "…或依標籤瀏覽"
+[ui_select_all]
+other = "全選"
+[ui_deselect_all]
+other = "取消全選"
+
+[ui_toggle_section_navigation]
+other = "切換章節導覽"
+
+# Footer text
+[footer_repository]
+other = "OSPOlogy 儲存庫"
+
+[footer_contributors]
+other = "OSPO Book 貢獻者"
+
+[footer_documentation_license]
+other = "文件依 CC BY 4.0 授權條款發布"
+
+[footer_all_rights_reserved]
+other = "保留所有權利"
+
+[footer_privacy_policy]
+other = "隱私權政策"
+
+[footer_hub_button_text]
+other = "所有 CNCF 網站"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "作者"
+[post_created]
+other = "建立日期"
+[post_last_mod]
+other = "最後修改日期"
+[post_edit_this]
+other = "編輯此頁面"
+[post_create_child_page]
+other = "建立子頁面"
+[post_create_issue]
+other = "回報問題"
+[post_create_project_issue]
+other = "建立專案問題"
+[post_posts_in]
+other = "收錄於"
+[post_reading_time]
+other = "分鐘閱讀"
+[post_less_than_a_minute_read]
+other = "少於 1 分鐘閱讀"
+
+# Print support
+[print_printable_section]
+other = "這是本節的多頁列印檢視。"
+[print_click_to_print]
+other = "按一下這裡列印"
+[print_show_regular]
+other = "回到此頁面的一般檢視"
+[print_entire_section]
+other = "列印整個章節"
+
+# Feedback section
+[feedback_title]
+other = "意見回饋"
+[feedback_question]
+other = "這個頁面是否有幫助？"
+[feedback_answer_yes]
+other = "有"
+[feedback_answer_no]
+other = "沒有"
