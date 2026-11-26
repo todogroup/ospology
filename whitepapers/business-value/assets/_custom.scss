@@ -45,9 +45,19 @@
   --gray-200: #eaecf0;
 }
 
+html, body { overscroll-behavior-y: none; }
 body {
   font-family: "Nunito", "Segoe UI", Helvetica, Arial, sans-serif;
-  border-top: 5px solid var(--todo-green);
+  padding-top: 5px;
+}
+// Brand bar pinned to the viewport so it never scrolls into the sticky sidebars.
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 5px;
+  background: var(--todo-green);
+  z-index: 10;
 }
 .todo-brand { padding-bottom: 1rem; border-bottom: 1px solid var(--gray-200); margin-bottom: 1.25rem; }
 .todo-brand > a { display: inline-block; margin-bottom: 1rem; }
@@ -95,6 +105,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, label:focus-visible 
   outline-offset: 3px;
 }
 @media print {
-  body { border-top: 0; }
+  body { padding-top: 0; }
+  body::before { display: none; }
   .markdown h1, .markdown h2, .book-kind-home .book-header h3 { color: #000; }
 }
