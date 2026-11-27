@@ -1,4 +1,4 @@
-## OSS for Business Whitepaper Roadmap
+# OSS for Business Whitepaper Roadmap
 
 Contributors working on the OSS in Business Whitepaper can use this roadmap that establishes an estimated timeline and track milestones achieved overtime. This roadmap is linked to the readme.md file.
 The roadmap file entails the following details in a structured format with the tag of the group leads responsible for specific sections.
@@ -32,14 +32,13 @@ File Location  `ospology / whitepapers / business-value /`
 To populate content on each markdown file, you can use this suggested format:
 
 <summary><h2> Engineering Driven vs Business Driven in Open Source </h2></summary>
- 
+
 - Overview
 - Engineering Driven Projects
-- Business Drvien Projects
+- Business Driven Projects
 - Comparisons
 - Conclusions
 
 > Started: 12th January || To be Completed: 20th January || Lead by: @harmonyelendu.
-
 
 With this structure, the group aims to establish a clear direction for participants, including group chairs and working group participants.

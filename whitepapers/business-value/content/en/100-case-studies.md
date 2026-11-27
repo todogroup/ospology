@@ -2,6 +2,8 @@
 title: Case studies and success stories
 weight: 100
 ---
+
+<!-- markdownlint-configure-file {"MD024": {"siblings_only": true}} -->
 # Case studies and success stories
 
 - Neutral collaboration: Stories from organizations like LF Energy's OpenSTEF or from Open Telemetry
@@ -15,78 +17,98 @@ weight: 100
 
 ## Microsoft and Kubernetes
 
-### Synopsis:
+### Synopsis
+
 ...
 
-### Open Source Archetype:
+### Open Source Archetype
+
 ...
 
-### Initial Situation:
+### Initial Situation
+
 ...
 
-### Journey:
+### Journey
+
 ...
 
-### Business Model Canvas:
-(base on https://github.com/GeorgLink/Business-Model-Canvas-MD-template)
+### Business Model Canvas
+
+(based on the [Business Model Canvas Markdown template](https://github.com/GeorgLink/Business-Model-Canvas-MD-template))
 ...
 
-### Result:
+### Result
+
 ...
 
-Links:
-https://linearb.io/dev-interrupted/blog/how-open-source-enabled-kubernetes-success
-https://www.youtube.com/watch?v=jf2dm2xGEF0
+### Links
+
+- <https://linearb.io/dev-interrupted/blog/how-open-source-enabled-kubernetes-success>
+- <https://www.youtube.com/watch?v=jf2dm2xGEF0>
 
 ## PIONIX and Everest
 
-### Synopsis:
+### Synopsis
+
 ...
 
-### Open Source Archetype:
+### Open Source Archetype
+
 ...
 
-### Initial Situation:
+### Initial Situation
+
 ...
 
-### Journey:
+### Journey
+
 ...
 
-### Business Model Canvas:
-(base on https://github.com/GeorgLink/Business-Model-Canvas-MD-template)
+### Business Model Canvas
+
+(based on the [Business Model Canvas Markdown template](https://github.com/GeorgLink/Business-Model-Canvas-MD-template))
 ...
 
-### Result:
+### Result
+
 ...
 
-### Links:
-https://www.youtube.com/watch?v=fGc47gpXrio&list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n&index=1
-https://www.youtube.com/playlist?list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n
+### Links
 
+- <https://www.youtube.com/watch?v=fGc47gpXrio&list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n&index=1>
+- <https://www.youtube.com/playlist?list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n>
 
 ## LINUX Zephyr
 
-### Synopsis:
+### Synopsis
+
 - ready to use, maintained and community driven
 - potential benefit: consolidation effect: instead of the need to maintain several (proprietary/closed source) solutions, only one solution needs to be maintained
 - idea: make a simplified example total cost of ownership (TCoO) calculation (e.g. based on maintenance costs)
 
-### Open Source Archetype:
+### Open Source Archetype
+
 ...
 
-### Initial Situation:
+### Initial Situation
+
 ...
 
-### Journey:
+### Journey
+
 ...
 
-### Business Model Canvas:
-(base on https://github.com/GeorgLink/Business-Model-Canvas-MD-template)
+### Business Model Canvas
+
+(based on the [Business Model Canvas Markdown template](https://github.com/GeorgLink/Business-Model-Canvas-MD-template))
 ...
 
-### Result:
+### Result
+
 ...
 
-Links:
-https://www.youtube.com/watch?v=fGc47gpXrio&list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n&index=1
-https://www.youtube.com/playlist?list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n
+### Links
+
+- <https://www.youtube.com/watch?v=fGc47gpXrio&list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n&index=1>
+- <https://www.youtube.com/playlist?list=PLpRf2wSz2zu1Jl4uQvrbY0awUIzkdpf7n>
